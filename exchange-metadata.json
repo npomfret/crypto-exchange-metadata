@@ -1,6 +1,6 @@
 {
   "anxpro": {
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "HKD": {
         "options": [
           {
@@ -233,7 +233,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://www.binance.com/fees.html",
       "BNB": 0.18,
       "BTC": 0.0005,
@@ -2224,7 +2224,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "BTC": 0.00045,
       "LTC": 0.005,
       "ETH": 0.00126,
@@ -2429,7 +2429,7 @@
       "USD": "0.1%",
       "EUR": "0.1%"
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "get from api"
     },
     "markets": {
@@ -3383,7 +3383,7 @@
         "Transfer INT (BEN)": 5
       }
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://www.bitmarket.net/docs.php?file=pricing.html",
       "PLN": {
         "Regular transfer": 4,
@@ -3433,7 +3433,7 @@
         "INTERNATIONAL WIRE": "0.05%"
       }
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://www.bitstamp.net/fee_schedule/",
       "EUR": {
         "SEPA": 0.9,
@@ -3518,7 +3518,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {},
+    "withdrawal-fees": {},
     "markets": {
       "BTC-2GIVE": {
         "price-precision": 7,
@@ -4721,7 +4721,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "BTC": 0.0001,
       "LTC": 0.001,
       "ETH": 0.001,
@@ -4816,7 +4816,7 @@
         "Crypto Capital": 0
       }
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "USD": {
         "VISA": 3.8,
         "MasterCard": {
@@ -4995,7 +4995,7 @@
       "EUR": 1.5,
       "USD": 10
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "XBT": 0.0005,
       "BCH": 0.0005,
       "GBP": 60,
@@ -5032,7 +5032,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "default": 0,
       "EUR": {
         "BANK TRANSFER (SWIFT)": 30,
@@ -5151,7 +5151,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees",
       "USD": 10,
       "EUR": 0.15
@@ -5218,7 +5218,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://gemini.com/transfer-fee-schedule/",
       "BTC": 0.002,
       "ETH": 0.001,
@@ -5266,7 +5266,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://support.kraken.com/hc/en-us/articles/201893608-Digital-assets-cryptocurrency-withdrawal-fees, https://support.kraken.com/hc/en-us/articles/360000423043-Fiat-currency-withdrawal-fees",
       "EUR": {
         "SEPA bank transfer": 0.09,
@@ -5550,7 +5550,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "available from the api: https://poloniex.com/support/api/",
       "1CR": 0.01,
       "ABY": 0.01,
@@ -6226,7 +6226,7 @@
         "QCX Voucher": 0
       }
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "default": 0,
       "CAD": {
         "Express Bank Transfer": "3%",
@@ -6348,7 +6348,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://quoine.zendesk.com/hc/en-us/articles/360001677811-Withdrawal-fees",
       "default": 0,
       "USD": 5,
@@ -6640,7 +6640,7 @@
     "deposit-fees": {
       "default": 0
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "__notes": "https://www.therocktrading.com/en/pages/fees",
       "EUR": {
         "SEPA Transfers (less than 1000 €)": 1.5,
@@ -6768,7 +6768,7 @@
         "Payeer": "5%"
       }
     },
-    "withdrawl-fees": {
+    "withdrawal-fees": {
       "BTC": 0.0003,
       "LTC": 0.001,
       "NMC": 0.1,
