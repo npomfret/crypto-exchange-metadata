@@ -89,13 +89,14 @@ _Minium and maximum order sizes_: can be expressed in the base or counter curren
 
 _Order types_: market / limit / hidden / stop loss etc
 
-_Tick size_: exchanges have very specific tick sizes 
+_Tick size_: some exchanges have certain markets where only specific price increments (known as a tick size or lot size) are valid
 
-_Fee discounts_: these are relative to the exchange account. They can usually be got via the API, or calculated programmatically.
+_Fee discounts_: these are relative to the user's exchange account. They can usually be got via the an API call, or calculated programmatically.
 
 _Symbol translations_: each exchange uses its own symbols for both currencies and markets. Mapping between these is not the goal of this project.
 
 _Lending_: only spot markets are supported (for now)
 
+# Finally...
 
 PRs welcome!
