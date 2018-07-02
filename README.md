@@ -6,7 +6,7 @@ A machine readable [json document](exchange-metadata.json) containing metadata f
 
 Where possible efforts are made to keep thing readable by humans.  For example, maps are kept in alphabetical order, percentages are expressed as percentages (not decimals).
 
-Fields starting with a double underscore (eg `__notes: "....`) are not machine readable.  Regard them as comments.
+Fields starting with a double underscore (eg `__notes: "....`) are not machine readable and should be regarded as comments.
 
 #### Exchange name
 
@@ -18,6 +18,14 @@ The market symbols are specific to the exchanges, there is no common language fo
 
 _price-precision_: the number of digits that can come after the decimal point in the market price
 _quantity-precision_: the number of digits that can come after the decimal point in the order quantity for a market
+
+```json
+    "markets": {
+      "BCHEUR": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+```
 
 #### Fees
 
