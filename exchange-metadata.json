@@ -1,0 +1,6509 @@
+{
+  "anxpro": {
+    "withdrawl-fees": {
+      "HKD": {
+        "options": [
+          {
+            "Bank Wire": {
+              "fixed": 250,
+              "rate": "1.00%"
+            },
+            "HK Local Bank Transfer": {
+              "fixed": 55,
+              "rate": "1.00%"
+            }
+          }
+        ]
+      },
+      "ANX": 0.1,
+      "ATENC": 0.1,
+      "BTC": 0.002,
+      "DOGE": 0.1,
+      "ETH": 0.005,
+      "GNT": 0.001,
+      "LTC": 0.02,
+      "OAX": 0.001,
+      "START": 0.1,
+      "STR": 1,
+      "XRP": 1
+    },
+    "trading-fees": {
+      "__notes": "https://anxpro.com/pages/fees",
+      "default": {
+        "taker": "0.2%",
+        "maker": "0.1%"
+      }
+    },
+    "markets": {
+      "ATENCAUD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCCAD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCEUR": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCGBP": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCHKD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCJPY": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCNZD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCSGD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "ATENCUSD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
+      },
+      "BTCAUD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCCAD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCEUR": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCGBP": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCHKD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCJPY": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCNZD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCSGD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "BTCUSD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.01",
+        "price-precision": 5
+      },
+      "DOGEBTC": {
+        "quantity-precision": 8,
+        "minimum-order-size": "DOGE 5000",
+        "price-precision": 8
+      },
+      "ETHBTC": {
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001",
+        "price-precision": 8
+      },
+      "ETHHKD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001",
+        "price-precision": 5
+      },
+      "ETHUSD": {
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001",
+        "price-precision": 5
+      },
+      "GNTETH": {
+        "quantity-precision": 8,
+        "minimum-order-size": "GNT 1",
+        "price-precision": 8
+      },
+      "LTCBTC": {
+        "quantity-precision": 8,
+        "minimum-order-size": "LTC 0.1",
+        "price-precision": 5
+      },
+      "OAXETH": {
+        "quantity-precision": 7,
+        "minimum-order-size": "OAX 0.01",
+        "price-precision": 8
+      },
+      "STARTAUD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTBTC": {
+        "quantity-precision": 8,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTCAD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTEUR": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTGBP": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTHKD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTJPY": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTNZD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTSGD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STARTUSD": {
+        "quantity-precision": 0,
+        "minimum-order-size": "START 0.01",
+        "price-precision": 8
+      },
+      "STRBTC": {
+        "quantity-precision": 0,
+        "minimum-order-size": "STR 500",
+        "price-precision": 8
+      },
+      "XRPBTC": {
+        "quantity-precision": 8,
+        "minimum-order-size": "XRP 100",
+        "price-precision": 8
+      }
+    }
+  },
+  "binance": {
+    "trading-fees": {
+      "__notes": "https://www.binance.com/fees.html",
+      "default": {
+        "taker": "0.1%",
+        "maker": "0.1%"
+      }
+    },
+    "markets": {
+      "ADABNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "ADABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ADAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ADAUSDT": {
+        "price-precision": 5,
+        "quantity-precision": 1
+      },
+      "ADXBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "ADXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ADXETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "AEBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "AEBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "AEETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "AGIBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "AGIBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "AGIETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "AIONBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "AIONBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "AIONETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "AMBBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "AMBBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "AMBETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "APPCBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "APPCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "APPCETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "ARKBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "ARKETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ARNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ARNETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ASTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ASTETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "BATBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "BATBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BATETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BCCBNB": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "BCCBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "BCCETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "BCCUSDT": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "BCDBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "BCDETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "BCNBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "BCNBTC": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "BCNETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BCPTBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "BCPTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BCPTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BLZBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "BLZBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BLZETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BNBBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "BNBETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "BNBUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "BNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BNTETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "BQXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BQXETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "BRDBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "BRDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BRDETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "BTCUSDT": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      },
+      "BTGBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "BTGETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "BTSBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "BTSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "BTSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CDTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CDTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CHATBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CHATETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CLOAKBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "CLOAKETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "CMTBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "CMTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CMTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CNDBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "CNDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CNDETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CVCBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "CVCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "CVCETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DASHBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "DASHETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "DATABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DATAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DGDBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "DGDETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "DLTBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "DLTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DLTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "DNTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "EDOBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "EDOETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ELFBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ELFETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ENGBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ENGETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "ENJBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "ENJBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ENJETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "EOSBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "EOSBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "EOSETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "EOSUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "ETCBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "ETCBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ETCETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ETCUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "ETHBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "ETHUSDT": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "EVXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "EVXETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "FUELBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "FUELETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "FUNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "FUNETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GASBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "GNTBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "GNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GNTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GRSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GRSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GTOBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "GTOBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GTOETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "GVTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "GVTETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "GXSBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "GXSETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "HSRBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "HSRETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ICNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ICNETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "ICXBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "ICXBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "ICXETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ICXUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "INSBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "INSETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "IOSTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "IOSTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "IOTABNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "IOTABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "IOTAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "IOTAUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "IOTXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "IOTXETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "KEYBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "KEYETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "KMDBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "KMDETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "KNCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "KNCETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "LENDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LENDETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LINKBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LINKETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LOOMBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "LOOMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LOOMETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LRCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LRCETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "LSKBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "LSKBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "LSKETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "LTCBNB": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "LTCBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "LTCETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "LTCUSDT": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "LUNBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "LUNETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "MANABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "MANAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "MCOBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "MCOBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "MCOETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "MDABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "MDAETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "MODBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "MODETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "MTHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "MTHETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "MTLBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "MTLETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NANOBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "NANOBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "NANOETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NASBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "NASBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "NASETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NAVBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "NAVBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "NAVETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NCASHBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "NCASHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "NCASHETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "NEBLBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "NEBLBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "NEBLETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NEOBNB": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "NEOBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NEOETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "NEOUSDT": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "NPXSBTC": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "NPXSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "NULSBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "NULSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "NULSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "NXSBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "NXSBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "NXSETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "OAXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "OAXETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "OMGBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "OMGETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ONTBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "ONTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "ONTETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "ONTUSDT": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "OSTBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "OSTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "OSTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "PIVXBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "PIVXBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "PIVXETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "POABNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "POABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "POAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "POEBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "POEETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "POWRBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "POWRBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "POWRETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "PPTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "PPTETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "QKCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QKCETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QLCBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "QLCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QLCETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QSPBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "QSPBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QSPETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "QTUMBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "QTUMBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "QTUMETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "QTUMUSDT": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "RCNBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "RCNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "RCNETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "RDNBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "RDNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "RDNETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "REPBNB": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "REPBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "REPETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "REQBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "REQETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "RLCBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "RLCBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "RLCETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "RPXBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "RPXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "RPXETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SALTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "SALTETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "SCBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "SCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SCETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SKYBNB": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "SKYBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "SKYETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "SNGLSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SNGLSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SNMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SNMETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SNTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "STEEMBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "STEEMBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "STEEMETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "STORJBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "STORJETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "STORMBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "STORMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "STORMETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "STRATBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "STRATETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "SUBBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SUBETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SYSBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "SYSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "SYSETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "THETABNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "THETABTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "THETAETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TNBBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TNBETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TNTETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TRIGBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "TRIGBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "TRIGETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "TRXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TRXETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TRXUSDT": {
+        "price-precision": 5,
+        "quantity-precision": 1
+      },
+      "TUSDBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "TUSDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TUSDETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "TUSDUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "VENBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "VENBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "VENETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "VENUSDT": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "VIABNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "VIABTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "VIAETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "VIBBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "VIBEBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "VIBEETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "VIBETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WABIBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "WABIBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WABIETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WANBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "WANBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "WANETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "WAVESBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "WAVESBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "WAVESETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "WINGSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WINGSETH": {
+        "price-precision": 7,
+        "quantity-precision": 0
+      },
+      "WPRBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WPRETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "WTCBNB": {
+        "price-precision": 4,
+        "quantity-precision": 2
+      },
+      "WTCBTC": {
+        "price-precision": 7,
+        "quantity-precision": 2
+      },
+      "WTCETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "XEMBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "XEMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XEMETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XLMBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "XLMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XLMETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XLMUSDT": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "XMRBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XMRETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XRPBNB": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "XRPBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XRPETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XRPUSDT": {
+        "price-precision": 5,
+        "quantity-precision": 1
+      },
+      "XVGBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XVGETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "XZCBNB": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XZCBTC": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "XZCETH": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "YOYOBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "YOYOBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "YOYOETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ZECBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "ZECETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "ZENBNB": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "ZENBTC": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "ZENETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "ZILBNB": {
+        "price-precision": 6,
+        "quantity-precision": 0
+      },
+      "ZILBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ZILETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ZRXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      },
+      "ZRXETH": {
+        "price-precision": 8,
+        "quantity-precision": 0
+      }
+    }
+  },
+  "bitbay": {
+    "trading-fees": {
+      "__notes": "https://www.bitbay.net/en/fees",
+      "default": {
+        "taker": "0.43%",
+        "maker": "0.30%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "BTC": 0.00045,
+      "LTC": 0.005,
+      "ETH": 0.00126,
+      "LSK": 0.2,
+      "BCC": 0.0006,
+      "GAME": 0.005,
+      "DASH": 0.001,
+      "BTG": 0.0008,
+      "KZC": 0.0005,
+      "XIN": 2,
+      "XRP": 0.1,
+      "PLN": {
+        "Wire bank transfer": 4,
+        "ATM withdrawal (100 - 1000 PLN)": 10,
+        "ATM withdrawal (2000 PLN)": 20
+      },
+      "EUR": 4,
+      "USD": "0.25%"
+    },
+    "markets": {
+      "BCC-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BCC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCC-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTG-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTG-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTG-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTG-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DASH-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GAME-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "GAME-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GAME-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GAME-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "KZC-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "KZC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "KZC-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "KZC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LSK-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LSK-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LSK-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LSK-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTC-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LTC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTC-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XIN-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XIN-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XIN-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XIN-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XRP-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XRP-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XRP-PLN": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XRP-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "bitfinex": {
+    "trading-fees": {
+      "__notes": "get from api"
+    },
+    "deposit-fees": {
+      "__notes": "https://www.bitfinex.com/fees",
+      "default": 0,
+      "USD": "0.1%",
+      "EUR": "0.1%"
+    },
+    "withdrawl-fees": {
+      "__notes": "get from api"
+    },
+    "markets": {
+      "AGIBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AGIETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "AGIUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AIDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AIDETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AIDUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AIOBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "AIOETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "AIOUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "ANTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ANTETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ANTUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "AUCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AUCETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AUCUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AVTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "AVTETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "AVTUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BATBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BATETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BATUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BCHBTC": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BCHETH": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "BCHUSD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BCIBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BCIUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "BFTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BFTETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BFTUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCEUR": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "BTCGBP": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "BTCJPY": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "BTCUSD": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "BTGBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "BTGUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "CBTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CBTETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CBTUSD": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "CFIBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CFIETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CFIUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "CNDBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CNDETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CNDUSD": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "CTXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 5
+      },
+      "CTXETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CTXUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DADBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DADETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "DADUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "DAIBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "DAIETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "DAIUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "DATBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DATETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "DATUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DSHBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DSHUSD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "DTHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DTHETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DTHUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "EDOBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "EDOETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "EDOUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "ELFBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ELFETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ELFUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "EOSBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "EOSETH": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "EOSEUR": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "EOSGBP": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "EOSJPY": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "EOSUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ETCBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ETCUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETHBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHEUR": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ETHGBP": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ETHJPY": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "ETHUSD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ETPBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETPETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ETPUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "FSNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FSNETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "FSNUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "FUNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FUNETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FUNUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "GNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "GNTETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "GNTUSD": {
+        "price-precision": 4,
+        "quantity-precision": 5
+      },
+      "IOSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "IOSETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "IOSUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "IOTBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "IOTETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "IOTEUR": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "IOTGBP": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "IOTJPY": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "IOTUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "KNCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "KNCETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "KNCUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "LRCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LRCETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "LRCUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "LTCBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "LTCUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LYMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LYMETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LYMUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MITBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MITETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MITUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "MKRBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MKRETH": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "MKRUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "MNABTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MNAETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "MNAUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MTNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MTNETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MTNUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "NCABTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "NCAETH": {
+        "price-precision": 8,
+        "quantity-precision": 6
+      },
+      "NCAUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "NEOBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "NEOETH": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "NEOEUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "NEOGBP": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "NEOJPY": {
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "NEOUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ODEBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ODEETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ODEUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "OMGBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "OMGETH": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "OMGUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ORSBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ORSETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ORSUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "POABTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POAETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "POAUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "POYBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POYETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "POYUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "QSHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "QSHETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "QSHUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "QTMBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "QTMETH": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "QTMUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "RCNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RCNETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "RCNUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "RDNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RDNETH": {
+        "price-precision": 6,
+        "quantity-precision": 5
+      },
+      "RDNUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "REPBTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "REPETH": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "REPUSD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "REQBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "REQETH": {
+        "price-precision": 7,
+        "quantity-precision": 4
+      },
+      "REQUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "RLCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RLCETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "RLCUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "RRTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RRTUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SANBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SANETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "SANUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "SENBTC": {
+        "price-precision": 8,
+        "quantity-precision": 2
+      },
+      "SENETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SENUSD": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "SNGBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNGETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNGUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SNTBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNTETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SNTUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SPKBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SPKETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SPKUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "STJBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "STJETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "STJUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "TNBBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TNBETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TNBUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "TRXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TRXETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TRXUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "UTKBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "UTKETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "UTKUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "VEEBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "VEEETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "VEEUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "VENBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "VENETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "VENUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "WAXBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "WAXETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "WAXUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "XLMBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XLMETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "XLMEUR": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "XLMGBP": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "XLMJPY": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "XLMUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "XMRBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "XMRUSD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "XRPBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XRPUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "XVGBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XVGETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XVGEUR": {
+        "price-precision": 5,
+        "quantity-precision": 7
+      },
+      "XVGGBP": {
+        "price-precision": 5,
+        "quantity-precision": 7
+      },
+      "XVGJPY": {
+        "price-precision": 3,
+        "quantity-precision": 7
+      },
+      "XVGUSD": {
+        "price-precision": 5,
+        "quantity-precision": 7
+      },
+      "YYWBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "YYWETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "YYWUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ZCNBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ZCNETH": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ZCNUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "ZECBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ZECUSD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ZRXBTC": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ZRXETH": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ZRXUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "bitmarket": {
+    "trading-fees": {
+      "__notes": "get from api"
+    },
+    "deposit-fees": {
+      "default": 0,
+      "EUR": {
+        "Transfer SEPA (SHA)": 2,
+        "Transfer INT (SHA)": 5,
+        "Transfer INT (BEN)": 5
+      }
+    },
+    "withdrawl-fees": {
+      "__notes": "https://www.bitmarket.net/docs.php?file=pricing.html",
+      "PLN": {
+        "Regular transfer": 4,
+        "Withdrawal at an ATM (50 - 1000 PLN)": 10,
+        "Withdrawal at an ATM (1050 - 2 000 PLN)": 20
+      },
+      "BTC": 0.0002,
+      "LTC": 0.005,
+      "BCC": 0.0008,
+      "BTG": 0.0008,
+      "XRP": 0.08,
+      "DOGE": 1
+    },
+    "markets": {
+      "BTCEUR": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BTCPLN": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "LTCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LTCPLN": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "LiteMineXBTC": {
+        "price-precision": 4,
+        "quantity-precision": 4
+      }
+    }
+  },
+  "bitstamp": {
+    "trading-fees": {
+      "__notes": "get from api"
+    },
+    "deposit-fees": {
+      "default": 0,
+      "EUR": {
+        "INTERNATIONAL WIRE": "0.05%"
+      },
+      "USD": {
+        "INTERNATIONAL WIRE": "0.05%"
+      }
+    },
+    "withdrawl-fees": {
+      "__notes": "https://www.bitstamp.net/fee_schedule/",
+      "EUR": {
+        "SEPA": 0.9,
+        "INTERNATIONAL WIRE": "0.09%"
+      },
+      "USD": {
+        "INTERNATIONAL WIRE": "0.09%"
+      }
+    },
+    "markets": {
+      "__notes": "min trade size is either 0.001 BTC or 5 ($5 £5 5€) things of that market",
+      "bchbtc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "bcheur": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "bchusd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "btceur": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "btcusd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ethbtc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "etheur": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ethusd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "eurusd": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "ltcbtc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ltceur": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ltcusd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "xrpbtc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "xrpeur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "xrpusd": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "bittrex": {
+    "trading-fees": {
+      "__notes": "https://bittrex.com/fees, https://support.bittrex.com/hc/en-us/articles/115000199651-What-fees-does-Bittrex-charge-",
+      "default": {
+        "taker": "0.25%",
+        "maker": "0.25%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {},
+    "markets": {
+      "BTC-2GIVE": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-ABY": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-ADA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ADT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ADX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-AEON": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-AID": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-AMP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ANT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ARDR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ARK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-AUR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BAT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BAY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BCPT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BCY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BITB": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-BITS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BLK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BLOCK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BLT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BRK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BSD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BTG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BURST": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-BYC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CANN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CBC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CFI": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CLAM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CLOAK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CMCT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-COVAL": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-CRB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CRW": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CURE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-CVC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DCR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DCT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DGB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DMD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DMT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DOGE": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-DOPE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DTB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-DYN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EBST": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EDG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EFL": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EGC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EMC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EMC2": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ENG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ENRG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ERC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EXCL": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-EXP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-FCT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-FLDC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-FLO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-FTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GAM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GAME": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GBG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GBYTE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GEO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GLD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GNO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GOLOS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GRC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GRS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GTO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-GUP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-HMQ": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-IGNIS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-INCNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-IOC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ION": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-IOP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-KMD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-KORE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LBC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LMC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LRC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LSK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-LUN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MANA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MCO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MEME": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MER": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MLN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MONA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MORE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MUE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MUSIC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NAV": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NBT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NEO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NEOS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NGC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NLC2": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NLG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NXC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NXS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-NXT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-OCN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-OK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-OMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-OMNI": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PART": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PAY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PINK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PIVX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-POLY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-POT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-POWR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PPC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PRO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-PTOY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-QRL": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-QTUM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-QWARK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RADS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RBY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RCN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RDD": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-REP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RLC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-RVR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SALT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SBD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SEQ": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SHIFT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SIB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SLR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SLS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SPHR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SPR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SRN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-STEEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-STORJ": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-STORM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-STRAT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SWT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SYNX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-SYS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-THC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TIX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TKS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TRUST": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TUBE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TUSD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-TX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-UBQ": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-UKG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-UNB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-UP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VEE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VIA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VIB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VRC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VRM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-VTR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-WAVES": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-WAX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-WINGS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XCP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XDN": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-XEL": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XLM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XMY": {
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "BTC-XRP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XST": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XVG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XWC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-XZC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ZCL": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ZEN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-ZRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ADA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ADT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ADX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-AID": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ANT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BAT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BCPT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BLT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-BTG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-CFI": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-CVC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-DGB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-DMT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-DNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ENG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-FCT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-GNO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-GNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-GTO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-GUP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-HMQ": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-LRC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-LUN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-MANA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-MCO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-MORE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-NEO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-NGC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-NMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-OCN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-OMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-PAY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-POLY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-POWR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-PRO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-QTUM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-RCN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-REP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-RLC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-SALT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-SC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-SNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-SRN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-STORM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-STRAT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-TIX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-TRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-TUSD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-UKG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-UP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-VEE": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-VIB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-WAVES": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-WAX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-WINGS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-XEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-XLM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-XMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-XRP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH-ZRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USD-BTC": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "USD-ETH": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "USD-TUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "USD-USDT": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "USDT-ADA": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-BTG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-DCR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-ETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-NEO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-NXT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-OMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-SC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-TRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-TUSD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-XMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-XRP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-XVG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT-ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "btcmarkets": {
+    "trading-fees": {
+      "__notes": "can get from api (but it's quite slow)",
+      "LTC/BTC": {
+        "taker": "0.22%",
+        "maker": "0.22%"
+      },
+      "ETH/BTC": {
+        "taker": "0.22%",
+        "maker": "0.22%"
+      },
+      "ETC/BTC": {
+        "taker": "0.22%",
+        "maker": "0.22%"
+      },
+      "XRP/BTC": {
+        "taker": "0.22%",
+        "maker": "0.22%"
+      },
+      "BCH/BTC": {
+        "taker": "0.22%",
+        "maker": "0.22%"
+      },
+      "BTC/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      },
+      "LTC/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      },
+      "ETH/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      },
+      "ETC/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      },
+      "XRP/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      },
+      "BCH/AUD": {
+        "taker": "0.85%",
+        "maker": "0.85%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "BTC": 0.0001,
+      "LTC": 0.001,
+      "ETH": 0.001,
+      "ETC": 0.001,
+      "XRP": 0.15,
+      "BCH": 0.0001,
+      "AUD": 0
+    },
+    "markets": {
+      "BCH/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCH/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETC/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETC/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LTC/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 7
+      },
+      "LTC/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XRP/AUD": {
+        "price-precision": 2,
+        "quantity-precision": 7
+      },
+      "XRP/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 6
+      }
+    }
+  },
+  "cex": {
+    "trading-fees": {
+      "__notes": "get from api",
+      "default": {
+        "taker": "0.25%",
+        "maker": "0.16%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0,
+      "USD": {
+        "VISA": "3.5%",
+        "MasterCard": "3.5%",
+        "Bank transfer": 0,
+        "Crypto Capital": 0
+      },
+      "EUR": {
+        "VISA": "3.5%",
+        "MasterCard": "3.5%",
+        "Bank transfer": 0,
+        "Crypto Capital": 0
+      },
+      "RUB": {
+        "VISA": {
+          "rate": "5%",
+          "fixed": 15.57
+        },
+        "MasterCard": {
+          "rate": "5%",
+          "fixed": 15.57
+        }
+      },
+      "GBP": {
+        "VISA": "3.5%",
+        "MasterCard": "3.5%",
+        "Bank transfer": 0,
+        "Crypto Capital": 0
+      }
+    },
+    "withdrawl-fees": {
+      "USD": {
+        "VISA": 3.80,
+        "MasterCard": {
+          "rate": "1.2%",
+          "fixed": 3.80
+        },
+        "Crypto Capital": "1%"
+      },
+      "EUR": {
+        "VISA": 3.50,
+        "MasterCard": {
+          "rate": "1.2%",
+          "fixed": 3.80
+        },
+        "Bank transfer": 25,
+        "Crypto Capital": "1%",
+        "SEPA": 1
+      },
+      "RUB": {
+        "VISA": {
+          "rate": "2.5%",
+          "fixed": 30
+        },
+        "MasterCard": {
+          "rate": "2.5%",
+          "fixed": 30
+        }
+      },
+      "GBP": {
+        "VISA": 2.9,
+        "MasterCard": {
+          "rate": "1.2%",
+          "fixed": 2.9
+        },
+        "Bank transfer": 30,
+        "Crypto Capital": "1%"
+      }
+    },
+    "markets": {
+      "BCH/BTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "BCH/EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCH/GBP": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCH/USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC/EUR": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BTC/GBP": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BTC/RUB": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BTC/USD": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BTG/BTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "BTG/EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTG/USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH/BTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "DASH/EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH/GBP": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "DASH/USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH/BTC": {
+        "price-precision": 6,
+        "quantity-precision": 6
+      },
+      "ETH/EUR": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      },
+      "ETH/GBP": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      },
+      "ETH/USD": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      },
+      "GHS/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XLM/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 7
+      },
+      "XLM/EUR": {
+        "price-precision": 4,
+        "quantity-precision": 7
+      },
+      "XLM/USD": {
+        "price-precision": 4,
+        "quantity-precision": 7
+      },
+      "XRP/BTC": {
+        "price-precision": 8,
+        "quantity-precision": 6
+      },
+      "XRP/EUR": {
+        "price-precision": 4,
+        "quantity-precision": 6
+      },
+      "XRP/USD": {
+        "price-precision": 4,
+        "quantity-precision": 6
+      },
+      "ZEC/BTC": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ZEC/EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ZEC/GBP": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ZEC/USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "coinbase": {
+    "markets": {}
+  },
+  "coinfloor": {
+    "trading-fees": {
+      "__notes": "https://www.coinfloor.co.uk/fees - it's variable but not available on the API",
+      "default": {
+        "taker": "0.30%",
+        "maker": "0.30%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0,
+      "GBP": 5,
+      "EUR": 1.5,
+      "USD": 10
+    },
+    "withdrawl-fees": {
+      "XBT": 0.0005,
+      "BCH": 0.0005,
+      "GBP": 60,
+      "EUR": 1.5,
+      "USD": 75
+    },
+    "markets": {
+      "BCH/GBP": {
+        "price-precision": 0,
+        "quantity-precision": 4
+      },
+      "XBT/EUR": {
+        "price-precision": 0,
+        "quantity-precision": 4
+      },
+      "XBT/GBP": {
+        "price-precision": 0,
+        "quantity-precision": 4
+      },
+      "XBT/USD": {
+        "price-precision": 0,
+        "quantity-precision": 4
+      }
+    }
+  },
+  "dsx": {
+    "trading-fees": {
+      "__notes": "https://dsx.uk/schedule/",
+      "default": {
+        "taker": "0.35%",
+        "maker": "0.20%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "default": 0,
+      "EUR": {
+        "BANK TRANSFER (SWIFT)": 30,
+        "EPAYMENTS WALLET": 0
+      },
+      "RUB": "0.8%",
+      "BTC": 0.0005,
+      "LTC": 0.001,
+      "ETH": 0.001,
+      "BCH": 0.0005,
+      "USDT": 1
+    },
+    "markets": {
+      "bccbtc": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "bcceur": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "bccgbp": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "bccusd": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "btceur": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "btcgbp": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "btcrub": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "btcusd": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "btgbtc": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "btgeur": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "btggbp": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "btgusd": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "ethbtc": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "etheur": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "ethgbp": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "ethusd": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "eurusd": {
+        "price-precision": 6,
+        "quantity-precision": 2
+      },
+      "gbpusd": {
+        "price-precision": 6,
+        "quantity-precision": 1
+      },
+      "ltcbtc": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "ltceur": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "ltcgbp": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "ltcusd": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "usdrub": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      }
+    }
+  },
+  "gdax": {
+    "trading-fees": {
+      "__notes": "https://pro.coinbase.com/fees",
+      "default": {
+        "taker": "0.30%",
+        "maker": "0%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees",
+      "USD": 10,
+      "EUR": 0.15
+    },
+    "markets": {
+      "BCH-BTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BCH-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BCH-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-GBP": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH-BTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETH-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ETH-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTC-BTC": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "LTC-EUR": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTC-USD": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "gemini": {
+    "trading-fees": {
+      "__notes": "https://gemini.com/trading-fee-schedule/",
+      "default": {
+        "taker": "1.00%",
+        "maker": "1.00%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://gemini.com/transfer-fee-schedule/",
+      "BTC": 0.002,
+      "ETH": 0.001,
+      "ZEC": 0.002
+    },
+    "markets": {
+      "btcusd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ethbtc": {
+        "price-precision": 5,
+        "quantity-precision": 6
+      },
+      "ethusd": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      },
+      "zecbtc": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "zeceth": {
+        "price-precision": 4,
+        "quantity-precision": 6
+      },
+      "zecusd": {
+        "price-precision": 2,
+        "quantity-precision": 6
+      }
+    }
+  },
+  "kraken": {
+    "trading-fees": {
+      "__notes": "https://www.kraken.com/help/fees",
+      "default": {
+        "taker": "0.26%",
+        "maker": "0.16%"
+      },
+      "USDTUSD": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://support.kraken.com/hc/en-us/articles/201893608-Digital-assets-cryptocurrency-withdrawal-fees, https://support.kraken.com/hc/en-us/articles/360000423043-Fiat-currency-withdrawal-fees",
+      "EUR": {
+        "SEPA bank transfer": 0.09,
+        "SWIFT international wire transfer": 60
+      },
+      "USD": {
+        "US domestic wire transfer": 5,
+        "SWIFT international wire transfer": 60
+      },
+      "JPY": 300,
+      "CAD": 10,
+      "XBT": 0.0005,
+      "LTC": 0.001,
+      "XDG": 2.00,
+      "XRP": 0.02,
+      "XLM": 0.00002,
+      "ETH": 0.005,
+      "ETC": 0.005,
+      "MLN": 0.003,
+      "XMR": 0.05,
+      "REP": 0.01,
+      "ICN": 0.2,
+      "ZEC": 0.00010,
+      "DASH": 0.005,
+      "GNO": 0.01,
+      "USDT": 5.0000,
+      "EOS": 0.05000,
+      "BCH": 0.0001
+    },
+    "markets": {
+      "__notes": "https://support.kraken.com/hc/en-us/articles/205893708-What-is-the-minimum-order-size-",
+      "BCHEUR": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "BCHUSD": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "BCHXBT": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "DASHEUR": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "DASHUSD": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "DASHXBT": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "EOSETH": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "EOSEUR": {
+        "price-precision": 4,
+        "quantity-precision": 3
+      },
+      "EOSUSD": {
+        "price-precision": 4,
+        "quantity-precision": 3
+      },
+      "EOSXBT": {
+        "price-precision": 7,
+        "quantity-precision": 3
+      },
+      "GNOETH": {
+        "price-precision": 4,
+        "quantity-precision": 3
+      },
+      "GNOEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "GNOUSD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "GNOXBT": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "USDTZUSD": {
+        "price-precision": 4,
+        "quantity-precision": 3
+      },
+      "XETCXETH": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XETCXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XETCZEUR": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XETCZUSD": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XETHXXBT": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XETHXXBT.d": {},
+      "XETHZCAD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XETHZCAD.d": {},
+      "XETHZEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XETHZEUR.d": {},
+      "XETHZGBP": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XETHZGBP.d": {},
+      "XETHZJPY": {
+        "price-precision": 0,
+        "quantity-precision": 3
+      },
+      "XETHZJPY.d": {},
+      "XETHZUSD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XETHZUSD.d": {},
+      "XICNXETH": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XICNXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XLTCXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XLTCZEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XLTCZUSD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XMLNXETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XMLNXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XREPXETH": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XREPXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XREPZEUR": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XREPZUSD": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XXBTZCAD": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "XXBTZCAD.d": {},
+      "XXBTZEUR": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "XXBTZEUR.d": {},
+      "XXBTZGBP": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "XXBTZGBP.d": {},
+      "XXBTZJPY": {
+        "price-precision": 0,
+        "quantity-precision": 3
+      },
+      "XXBTZJPY.d": {},
+      "XXBTZUSD": {
+        "price-precision": 1,
+        "quantity-precision": 3
+      },
+      "XXBTZUSD.d": {},
+      "XXDGXXBT": {
+        "price-precision": 7,
+        "quantity-precision": 3
+      },
+      "XXLMXXBT": {
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "XXLMZEUR": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XXLMZUSD": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XXMRXXBT": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "XXMRZEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XXMRZUSD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "XXRPXXBT": {
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "XXRPZCAD": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XXRPZEUR": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XXRPZJPY": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XXRPZUSD": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XZECXXBT": {
+        "price-precision": 5,
+        "quantity-precision": 3
+      },
+      "XZECZEUR": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XZECZJPY": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "XZECZUSD": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      }
+    }
+  },
+  "poloniex": {
+    "trading-fees": {
+      "__notes": "https://poloniex.com/fees/",
+      "default": {
+        "taker": "0.2%",
+        "maker": "0.1%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "available from the api: https://poloniex.com/support/api/",
+      "1CR": 0.01,
+      "ABY": 0.01,
+      "AC": 0.01,
+      "ACH": 0,
+      "ADN": 0.01,
+      "AEON": 0.01,
+      "AERO": 0.01,
+      "AIR": 0.01,
+      "AMP": 5,
+      "APH": 0.01,
+      "ARCH": 0.01,
+      "ARDR": 2,
+      "AUR": 0.01,
+      "AXIS": 0.01,
+      "BALLS": 6.4,
+      "BANK": 0.01,
+      "BBL": 0.01,
+      "BBR": 0.005,
+      "BCC": 0.01,
+      "BCH": 0.0001,
+      "BCN": 1,
+      "BCY": 4,
+      "BDC": 0.01,
+      "BDG": 0.01,
+      "BELA": 0.01,
+      "BITCNY": 1,
+      "BITS": 0.01,
+      "BITUSD": 0.15,
+      "BLK": 0.01,
+      "BLOCK": 0.01,
+      "BLU": 0.01,
+      "BNS": 0.01,
+      "BONES": 0.01,
+      "BOST": 0.01,
+      "BTC": 0.0005,
+      "BTCD": 0.01,
+      "BTCS": 0.01,
+      "BTM": 0.01,
+      "BTS": 5,
+      "BURN": 0.01,
+      "BURST": 1,
+      "C2": 0.01,
+      "CACH": 0.01,
+      "CAI": 0.01,
+      "CC": 0.01,
+      "CCN": 0.01,
+      "CGA": 0.001,
+      "CHA": 0.01,
+      "CINNI": 0.01,
+      "CLAM": 0.001,
+      "CNL": 0.01,
+      "CNMT": 0,
+      "CNOTE": 0.01,
+      "COMM": 0.01,
+      "CON": 0.1,
+      "CORG": 0.01,
+      "CRYPT": 0.01,
+      "CURE": 0.01,
+      "CVC": 1,
+      "CYC": 0.01,
+      "DAO": 0.01,
+      "DASH": 0.01,
+      "DCR": 0.1,
+      "DGB": 0.1,
+      "DICE": 0,
+      "DIEM": 0.01,
+      "DIME": 0.01,
+      "DIS": 0.01,
+      "DNS": 0.5,
+      "DOGE": 5,
+      "DRKC": 0.01,
+      "DRM": 0.01,
+      "DSH": 1,
+      "DVK": 0.01,
+      "EAC": 0.01,
+      "EBT": 0.01,
+      "ECC": 0.01,
+      "EFL": 0.01,
+      "EMC2": 0.01,
+      "EMO": 0.01,
+      "ENC": 0.01,
+      "ETC": 0.01,
+      "ETH": 0.01,
+      "eTOK": 0.001,
+      "EXE": 0.01,
+      "EXP": 0.01,
+      "FAC": 0.01,
+      "FCN": 0.01,
+      "FCT": 0.01,
+      "FIBRE": 0.01,
+      "FLAP": 0.01,
+      "FLDC": 750,
+      "FLO": 0.01,
+      "FLT": 0.01,
+      "FOX": 0.01,
+      "FRAC": 0.01,
+      "FRK": 0.01,
+      "FRQ": 0.01,
+      "FVZ": 0.01,
+      "FZ": 0,
+      "FZN": 0,
+      "GAME": 0.01,
+      "GAP": 0.01,
+      "GAS": 0,
+      "GDN": 0.01,
+      "GEMZ": 500,
+      "GEO": 0.01,
+      "GIAR": 0.01,
+      "GLB": 0.01,
+      "GML": 0.01,
+      "GNO": 0.015,
+      "GNS": 0.01,
+      "GNT": 1,
+      "GOLD": 0.01,
+      "GPC": 0.01,
+      "GPUC": 0.01,
+      "GRC": 0.01,
+      "GRCX": 0.01,
+      "GRS": 0.01,
+      "GUE": 0.01,
+      "H2O": 0.01,
+      "HIRO": 0.01,
+      "HOT": 0.01,
+      "HUC": 0.01,
+      "HUGE": 0.01,
+      "HVC": 0.01,
+      "HYP": 0.01,
+      "HZ": 1,
+      "IFC": 2000,
+      "INDEX": 0,
+      "IOC": 0.01,
+      "ITC": 0.01,
+      "IXC": 0.01,
+      "JLH": 0,
+      "JPC": 0.01,
+      "JUG": 0.01,
+      "KDC": 0.01,
+      "KEY": 0.01,
+      "LBC": 0.05,
+      "LC": 0.01,
+      "LCL": 0.01,
+      "LEAF": 0.1,
+      "LGC": 0.01,
+      "LOL": 0.01,
+      "LOVE": 0.01,
+      "LQD": 0,
+      "LSK": 0.1,
+      "LTBC": 15000,
+      "LTC": 0.001,
+      "LTCX": 0.01,
+      "MAID": 10,
+      "MAST": 0.01,
+      "MAX": 0.01,
+      "MCN": 1,
+      "MEC": 0.01,
+      "METH": 0.01,
+      "MIL": 0.01,
+      "MIN": 0.01,
+      "MINT": 0.1,
+      "MMC": 0.01,
+      "MMNXT": 0,
+      "MMXIV": 0.001,
+      "MNTA": 0.01,
+      "MON": 0.01,
+      "MRC": 0.01,
+      "MRS": 0.01,
+      "MTS": 0.01,
+      "MUN": 0.01,
+      "MYR": 0.01,
+      "MZC": 0.01,
+      "N5X": 0.01,
+      "NAS": 1,
+      "NAUT": 0,
+      "NAV": 0.01,
+      "NBT": 0.01,
+      "NEOS": 0.0001,
+      "NL": 0.01,
+      "NMC": 0.01,
+      "NOBL": 0.01,
+      "NOTE": 0.01,
+      "NOXT": 0,
+      "NRS": 0.01,
+      "NSR": 2,
+      "NTX": 1,
+      "NXC": 10,
+      "NXT": 1,
+      "NXTI": 0,
+      "OMG": 0.3,
+      "OMNI": 0.1,
+      "OPAL": 0.01,
+      "PAND": 0.01,
+      "PASC": 0.01,
+      "PAWN": 0.01,
+      "PIGGY": 0.01,
+      "PINK": 0.01,
+      "PLX": 0.01,
+      "PMC": 0.01,
+      "POT": 0.01,
+      "PPC": 0.01,
+      "PRC": 0.01,
+      "PRT": 0.01,
+      "PTS": 25,
+      "Q2C": 0.01,
+      "QBK": 0.01,
+      "QCN": 0.01,
+      "QORA": 1,
+      "QTL": 0.01,
+      "RADS": 0.01,
+      "RBY": 0.01,
+      "RDD": 0.01,
+      "REP": 0.1,
+      "RIC": 0.01,
+      "RZR": 0.01,
+      "SBD": 0.01,
+      "SC": 10,
+      "SDC": 0.01,
+      "SHIBE": 0.01,
+      "SHOPX": 0.01,
+      "SILK": 0.01,
+      "SJCX": 3,
+      "SLR": 0.01,
+      "SMC": 0.01,
+      "SOC": 0.01,
+      "SPA": 0.01,
+      "SQL": 0.01,
+      "SRCC": 0.01,
+      "SRG": 0.01,
+      "SSD": 0.01,
+      "STEEM": 0.01,
+      "STORJ": 1,
+      "STR": 0.00001,
+      "STRAT": 0.01,
+      "SUM": 0.01,
+      "SUN": 0.01,
+      "SWARM": 1000,
+      "SXC": 0.01,
+      "SYNC": 0.0001,
+      "SYS": 0.01,
+      "TAC": 0.01,
+      "TOR": 0.01,
+      "TRUST": 0.01,
+      "TWE": 0.01,
+      "UIS": 0.01,
+      "ULTC": 0.01,
+      "UNITY": 0,
+      "URO": 0.001,
+      "USDE": 0.01,
+      "USDT": 25,
+      "UTC": 0.01,
+      "UTIL": 0.01,
+      "UVC": 0.01,
+      "VIA": 0.01,
+      "VOOT": 0.01,
+      "VOX": 0.01,
+      "VRC": 0.01,
+      "VTC": 0.001,
+      "WC": 0.01,
+      "WDC": 0.01,
+      "WIKI": 0.1,
+      "WOLF": 0.02,
+      "X13": 0.01,
+      "XAI": 0.01,
+      "XAP": 100,
+      "XBC": 0.0001,
+      "XC": 0.01,
+      "XCH": 0,
+      "XCN": 0.02,
+      "XCP": 1,
+      "XCR": 0.00017818,
+      "XDN": 1,
+      "XDP": 0,
+      "XEM": 15,
+      "XHC": 0.01,
+      "XLB": 0.01,
+      "XMG": 0.01,
+      "XMR": 0.015,
+      "XPB": 0.1,
+      "XPM": 0.01,
+      "XRP": 0.15,
+      "XSI": 0.01,
+      "XST": 0.01,
+      "XSV": 0.01,
+      "XUSD": 0,
+      "XVC": 0.01,
+      "XXC": 0.01,
+      "YACC": 0.01,
+      "YANG": 0.01,
+      "YC": 0.01,
+      "YIN": 0.01,
+      "ZEC": 0.001,
+      "ZRX": 5
+    },
+    "markets": {
+      "BTC_AMP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_ARDR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BCN": {},
+      "BTC_BCY": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BLK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BTCD": {},
+      "BTC_BTM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BTS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_BURST": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_CLAM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_CVC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_DCR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_DGB": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_DOGE": {
+        "price-precision": 7,
+        "quantity-precision": 7
+      },
+      "BTC_EMC2": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_ETH": {},
+      "BTC_EXP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_FCT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_FLDC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_FLO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_GAME": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_GAS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_GNO": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_GNT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_GRC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_HUC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_LBC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_LSK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_MAID": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_NAV": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_NEOS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_NMC": {},
+      "BTC_NXC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_NXT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_OMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_OMNI": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_PASC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_PINK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_POT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_PPC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_RADS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_REP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_RIC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_SBD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_SC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_STEEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_STORJ": {},
+      "BTC_STR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_STRAT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_SYS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_VIA": {},
+      "BTC_VRC": {},
+      "BTC_VTC": {},
+      "BTC_XBC": {},
+      "BTC_XCP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_XEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_XMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_XPM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_XRP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_XVC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC_ZRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_CVC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_GAS": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_GNO": {},
+      "ETH_GNT": {},
+      "ETH_LSK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_OMG": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_REP": {},
+      "ETH_STEEM": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ETH_ZRX": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_BCH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_BTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_ETC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_ETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_NXT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_REP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_STR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_XMR": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_XRP": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "USDT_ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_BCN": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_BLK": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_BTCD": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_DASH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_LTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_MAID": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_NXT": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XMR_ZEC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "quadrigacx": {
+    "trading-fees": {
+      "__notes": "available via api: https://www.quadrigacx.com/api_info, https://support.quadrigacx.com/support/solutions/articles/9000124313-do-you-charge-trading-fees-",
+      "default": {
+        "taker": "0.5%",
+        "maker": "0.5%"
+      },
+      "eth_btc": "0.2%",
+      "ltc_btc": "0.2%",
+      "bch_btc": "0.2%",
+      "btg_btc": "0.2%"
+    },
+    "deposit-fees": {
+      "__notes": "https://www.quadrigacx.com/account-funding-withdrawal",
+      "default": 0,
+      "CAD": {
+        "Flexepin Voucher": "2.5%",
+        "INTERAC® Online": "1.5%",
+        "Bank Wire": "1%",
+        "Crypto Capital": 0,
+        "QCX Voucher": 0
+      }
+    },
+    "withdrawl-fees": {
+      "default": 0,
+      "CAD": {
+        "Express Bank Transfer": "3%",
+        "Credit Card": "1%",
+        "Cash Delivery": {
+          "rate": "2%",
+          "fixed": 20
+        },
+        "Direct Bank Transfer / EFT": 0,
+        "Bank Wire": 0,
+        "Crypto Capital": 0,
+        "QCX Voucher": 0,
+        "Gift Card": 5.85
+      }
+    },
+    "markets": {
+      "bch_btc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "bch_cad": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "btc_cad": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "btc_usd": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "btg_btc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "btg_cad": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "eth_btc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "eth_cad": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "ltc_btc": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ltc_cad": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      }
+    }
+  },
+  "quoinex": {
+    "trading-fees": {
+      "__notes": "https://news.quoinex.com/fees/",
+      "default": {
+        "maker": "0.25%",
+        "taker": "0.25%"
+      },
+      "ETHAUD": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHBTC": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHCNY": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHEUR": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHHKD": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHIDR": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHINR": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHJPY": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHPHP": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHSGD": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "ETHUSD": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "QASHETH": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      },
+      "UBTCETH": {
+        "maker": "0.1%",
+        "taker": "0.1%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://quoine.zendesk.com/hc/en-us/articles/360001677811-Withdrawal-fees",
+      "default": 0,
+      "USD": 5,
+      "SGD": 5,
+      "EUR": 5,
+      "JPA": 500,
+      "IDR": "1%",
+      "INR": 325
+    },
+    "markets": {
+      "BCHJPY": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BCHSGD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BCHUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCAUD": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "BTCCNY": {
+        "price-precision": 5,
+        "quantity-precision": 7
+      },
+      "BTCEUR": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCHKD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCIDR": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCINR": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCJPY": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCPHP": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "BTCSGD": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "BTCUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DASHEUR": {
+        "price-precision": 0,
+        "quantity-precision": 1
+      },
+      "DASHJPY": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "DASHSGD": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "DASHUSD": {
+        "price-precision": 4,
+        "quantity-precision": 0
+      },
+      "ETHAUD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 5
+      },
+      "ETHCNY": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "ETHEUR": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHHKD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHIDR": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "ETHINR": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "ETHJPY": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHPHP": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHSGD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "NEOEUR": {
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "NEOJPY": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "NEOSGD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "NEOUSD": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "QASHAUD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "QASHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "QASHCNY": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "QASHETH": {
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "QASHEUR": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "QASHHKD": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "QASHIDR": {
+        "price-precision": 2,
+        "quantity-precision": 0
+      },
+      "QASHINR": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "QASHJPY": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "QASHPHP": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "QASHSGD": {
+        "price-precision": 5,
+        "quantity-precision": 5
+      },
+      "QASHUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "QTUMEUR": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "QTUMJPY": {
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "QTUMSGD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "QTUMUSD": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "RKTAUD": {
+        "price-precision": 4,
+        "quantity-precision": 0
+      },
+      "RKTEUR": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "RKTJPY": {
+        "price-precision": 4,
+        "quantity-precision": 6
+      },
+      "RKTSGD": {
+        "price-precision": 3,
+        "quantity-precision": 0
+      },
+      "RKTUSD": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "UBTCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 2
+      },
+      "UBTCETH": {
+        "price-precision": 0,
+        "quantity-precision": 0
+      },
+      "UBTCJPY": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "UBTCQASH": {
+        "price-precision": 4,
+        "quantity-precision": 4
+      },
+      "UBTCSGD": {
+        "price-precision": 2,
+        "quantity-precision": 5
+      },
+      "UBTCUSD": {
+        "price-precision": 5,
+        "quantity-precision": 4
+      },
+      "XRPEUR": {
+        "price-precision": 5,
+        "quantity-precision": 0
+      },
+      "XRPIDR": {
+        "price-precision": 5,
+        "quantity-precision": 0
+      },
+      "XRPJPY": {
+        "price-precision": 5,
+        "quantity-precision": 2
+      },
+      "XRPQASH": {
+        "price-precision": 8,
+        "quantity-precision": 6
+      },
+      "XRPSGD": {
+        "price-precision": 5,
+        "quantity-precision": 6
+      },
+      "XRPUSD": {
+        "price-precision": 5,
+        "quantity-precision": 6
+      }
+    }
+  },
+  "therock": {
+    "trading-fees": {
+      "__notes": "https://www.therocktrading.com/en/pages/fees, discounts available via the API",
+      "default": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PPCEUR": {
+        "taker": "0%",
+        "maker": "0%"
+      },
+      "PPCBTC": {
+        "taker": "0%",
+        "maker": "0%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://www.therocktrading.com/en/pages/fees",
+      "EUR": {
+        "SEPA Transfers (less than 1000 €)": 1.5,
+        "SEPA Transfers (over 1000 €)": 2.5,
+        "SEPA Transfers over 100k €": "0.1%"
+      },
+      "XRP": "0.05%",
+      "BTC": {
+        "regular": 0.0001,
+        "high priority": 0.0003
+      },
+      "BCH": 0.0005,
+      "PPC": 0.02,
+      "ETH": 0.001,
+      "ZEC": 0.001,
+      "NOKU": 0.75,
+      "EURN": 0.75,
+      "LTC": 0.002,
+      "FDZ": "0.01%"
+    },
+    "markets": {
+      "BCHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "BCHEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "BTCEUR": {
+        "price-precision": 2,
+        "quantity-precision": 4
+      },
+      "BTCXRP": {
+        "price-precision": 2,
+        "quantity-precision": 4
+      },
+      "ETHBTC": {
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "ETHEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      },
+      "ETHEURN": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "EUREURN": {
+        "price-precision": 3,
+        "quantity-precision": 2
+      },
+      "EURXRP": {
+        "price-precision": 2,
+        "quantity-precision": 2
+      },
+      "FDZETH": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "LTCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 2
+      },
+      "LTCEUR": {
+        "price-precision": 2,
+        "quantity-precision": 2
+      },
+      "NOKUETH": {
+        "price-precision": 6,
+        "quantity-precision": 3
+      },
+      "NOKUEURN": {
+        "price-precision": 3,
+        "quantity-precision": 3
+      },
+      "PPCBTC": {
+        "price-precision": 8,
+        "quantity-precision": 2
+      },
+      "PPCEUR": {
+        "price-precision": 2,
+        "quantity-precision": 2
+      },
+      "ZECBTC": {
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "ZECEUR": {
+        "price-precision": 2,
+        "quantity-precision": 3
+      }
+    }
+  },
+  "wex": {
+    "trading-fees": {
+      "__notes": "https://wex.nz/fees",
+      "default": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0,
+      "USD": {
+        "ADVCash": "0%",
+        "Perfect Money": "1%",
+        "Epay": "0%",
+        "Payeer": "5%",
+        "Western Union": "6.5%",
+        "MoneyGram": "6.5%",
+        "Contact": "6.5%"
+      },
+      "RUR": {
+        "ADVCash": "0%",
+        "Яндекс.деньги": "10%",
+        "QIWI": "5%",
+        "Payeer": "5%"
+      },
+      "EUR": {
+        "ADVCash": "0%",
+        "Perfect Money": "1%",
+        "Epay": "0%",
+        "Payeer": "5%"
+      }
+    },
+    "withdrawl-fees": {
+      "BTC": 0.0003,
+      "LTC": 0.001,
+      "NMC": 0.1,
+      "NVC": 0.1,
+      "PPC": 0.1,
+      "DSH": 0.001,
+      "ETH": 0.003,
+      "BCH": 0.001,
+      "ZEC": 0.001,
+      "USDT": 10,
+      "USD": {
+        "ADVCash": "2%",
+        "Perfect Money": "3%",
+        "Epay": "3%",
+        "Payeer": "2%",
+        "p2p - обмен Россия": "4%",
+        "Alfa Bank": "6%",
+        "p2p - обмен Беларусь": "4%",
+        "p2p - обмен Казахстан": "4%",
+        "p2p - Europe": "4%",
+        "p2p - United Arab Emirates": "4%"
+      },
+      "RUR": {
+        "ADVCash": "3%",
+        "Яндекс.деньги": "0%",
+        "QIWI": "5%",
+        "Payeer": "3%",
+        "Билайн": "2.5%",
+        "Мегафон": "2.5%",
+        "МТС": "2.5%",
+        "Теле 2": "2.5%",
+        "Visa": "5%",
+        "Mastercard": "5%",
+        "Альфа Банк": "6%",
+        "Тинькофф Банк": "6%",
+        "Банк Русский стандарт": "6%",
+        "Сбербанк": "7%"
+      },
+      "EUR": {
+        "ADVCash": "2%",
+        "Perfect Money": "3%",
+        "Epay": "3%",
+        "Payeer": "2%",
+        "Alfa Bank": "6%"
+      }
+    },
+    "markets": {
+      "bch_btc": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "bch_dsh": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_eth": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_eur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_ltc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_rur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bch_zec": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "bchet_bch": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "btc_eur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "btc_rur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "btc_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "btcet_btc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dsh_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "dsh_eth": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dsh_eur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dsh_ltc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dsh_rur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dsh_usd": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "dsh_zec": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "dshet_dsh": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "eth_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eth_eur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eth_ltc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eth_rur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eth_usd": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eth_zec": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ethet_eth": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "eur_rur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "eur_usd": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "euret_eur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ltc_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ltc_eur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ltc_rur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ltc_usd": {
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ltcet_ltc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "nmc_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "nmc_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "nmcet_nmc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "nvc_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "nvc_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "nvcet_nvc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ppc_btc": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ppc_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ppcet_ppc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ruret_rur": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "usd_rur": {
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "usdet_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "usdt_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "zec_btc": {
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "zec_ltc": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "zec_usd": {
+        "price-precision": 3,
+        "quantity-precision": 8
+      }
+    }
+  }
+}
