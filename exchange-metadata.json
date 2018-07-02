@@ -3502,7 +3502,11 @@
   },
   "bitstamp": {
     "trading-fees": {
-      "__notes": "get from api"
+      "__notes": "get from api",
+      "default": {
+        "maker": "0.25%",
+        "taker": "0.25%"
+      }
     },
     "deposit-fees": {
       "default": 0,
