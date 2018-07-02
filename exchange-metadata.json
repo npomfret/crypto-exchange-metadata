@@ -2421,7 +2421,11 @@
   },
   "bitfinex": {
     "trading-fees": {
-      "__notes": "get from api"
+      "__notes": "get from api",
+      "default": {
+        "taker": "0.2%",
+        "maker": "0.1%"
+      }
     },
     "deposit-fees": {
       "__notes": "https://www.bitfinex.com/fees",
