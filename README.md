@@ -20,12 +20,14 @@ The market symbols are specific to the exchanges, there is no common language fo
 
 _price-precision_: the number of digits that can come after the decimal point in the market price
 _quantity-precision_: the number of digits that can come after the decimal point in the order quantity for a market
+_minimum-order-size_: expressed with a currency to avoid ambiguity
 
 ```json
     "markets": {
-      "BCHEUR": {
-        "price-precision": 1,
-        "quantity-precision": 3
+      "ATENCEUR": {
+        "quantity-precision": 0,
+        "minimum-order-size": "ATENC 0.01",
+        "price-precision": 8
       },
 ```
 
@@ -48,9 +50,24 @@ Percentages are represented as such, eg:
 
 ```json
     "trading-fees": {
-      "default": {
+      "USDTUSD": {
         "taker": "0.2%",
-        "maker": "0.1%"
+        "maker": "0.2%"
+      }
+    }
+```
+
+If there is a sensible default it can be expressed as such:
+
+```json
+    "trading-fees": {
+      "default": {
+        "taker": "0.26%",
+        "maker": "0.16%"
+      },
+      "USDTUSD": {
+        "taker": "0.2%",
+        "maker": "0.2%"
       }
     }
 ```
@@ -85,7 +102,9 @@ Where a fee has a fixed and percentage part, these are represented as a map, eg:
 
 ## Whats not supported (yet)
 
-_Minium and maximum order sizes_: can be expressed in the base or counter currency
+_wildcards_: to represent all Ethereum markets it might be nice to use `ETH*`
+
+_maximum order sizes_: can be expressed in the base or counter currency
 
 _Order types_: market / limit / hidden / stop loss etc
 
