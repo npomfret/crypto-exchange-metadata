@@ -1,6 +1,8 @@
 # crypto-exchange-metadata
 
-A machine readable [json document](exchange-metadata.json) containing metadata for crypto currency trading.
+A machine readable [json document](exchange-metadata.json) containing metadata for crypto currency trading. 
+
+Supported exchanges include _anxpro, binance, bitbay, bitfinex, bitmarket, bitstamp, bittrex, btcmarkets, cex, coinbase, coinfloor, dsx, gdax, gemini, kraken, poloniex, therock, quadrigacx, quoinex, wex_
 
 ## File format
 
@@ -38,7 +40,7 @@ Absolute fees are represented as a number if there is no ambiguity in the curren
 ```json
   "anxpro": {
     "withdrawl-fees": {
-      ...
+
       "BTC": 0.002,
 ```
 
@@ -57,7 +59,7 @@ Where the exchange offers multiple options for a fee, these are expressed as a m
 
 ```json
     "withdrawl-fees": {
-        ...
+
         "PLN": {
           "Wire bank transfer": 4,
           "ATM withdrawal (100 - 1000 PLN)": 10,
