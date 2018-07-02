@@ -230,6 +230,12 @@
         "maker": "0.1%"
       }
     },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawl-fees": {
+      "__notes": "https://www.binance.com/fees.html"
+    },
     "markets": {
       "ADABNB": {
         "price-precision": 5,
