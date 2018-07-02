@@ -2,8 +2,41 @@
 
 A machine readable [json document](exchange-metadata.json) containing metadata for crypto currency trading. 
 
-Supported exchanges include _anxpro, binance, bitbay, bitfinex, bitmarket, bitstamp, bittrex, btcmarkets, cex, coinbase, coinfloor, dsx, gdax, gemini, kraken, poloniex, therock, quadrigacx, quoinex, wex_
 
+Supported data points include:
+
+ * currency symbols
+ * market symbols
+ * minimum order sizes
+ * order price precision
+ * order quantity precision
+ * trade fees
+ * withdrawal fees
+ * deposit fees
+
+Supported exchanges include:
+
+ * anxpro
+ * binance
+ * bitbay
+ * bitfinex
+ * bitmarket
+ * bitstamp
+ * bittrex
+ * btcmarkets
+ * cex
+ * coinbase
+ * coinfloor
+ * dsx
+ * gdax
+ * gemini
+ * kraken
+ * poloniex
+ * therock
+ * quadrigacx
+ * quoinex
+ * wex
+ 
 ## File format
 
 Where possible efforts are made to keep thing readable by humans.  For example, maps are kept in alphabetical order, percentages are expressed as percentages (not decimals).
@@ -115,6 +148,8 @@ _Fee discounts_: these are relative to the user's exchange account. They can usu
 _Symbol translations_: each exchange uses its own symbols for both currencies and markets. Mapping between these is not the goal of this project.
 
 _Lending_: only spot markets are supported (for now)
+
+_currency precision_: for withdrawals
 
 # Finally...
 
