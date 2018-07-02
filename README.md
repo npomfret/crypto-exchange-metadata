@@ -35,7 +35,7 @@ Where possible a note is added with a url that leads to the exchange documentati
 
 Absolute fees are represented as a number if there is no ambiguity in the currency, eg:
 
-```
+```json
   "anxpro": {
     "withdrawl-fees": {
       ...
@@ -44,7 +44,7 @@ Absolute fees are represented as a number if there is no ambiguity in the curren
 
 Percentages are represented as such, eg:
 
-```
+```json
     "trading-fees": {
       "default": {
         "taker": "0.2%",
@@ -55,7 +55,7 @@ Percentages are represented as such, eg:
 
 Where the exchange offers multiple options for a fee, these are expressed as a map, eg:
 
-```
+```json
     "withdrawl-fees": {
         ...
         "PLN": {
@@ -67,7 +67,7 @@ Where the exchange offers multiple options for a fee, these are expressed as a m
 
 Where a fee has a fixed and percentage part, these are represented as a map, eg:
 
-```
+```json
     "withdrawl-fees": {
       "HKD": {
         "options": [
