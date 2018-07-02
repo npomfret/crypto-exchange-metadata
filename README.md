@@ -1,6 +1,6 @@
 # crypto-exchange-metadata
 
-A machine readable [json document](exchange-metadata.json) containing metadata for crypto currency trading. 
+A machine readable [json document](exchange-metadata.json) containing exchange metadata for crypto currency trading. 
 
 
 Supported data points include:
