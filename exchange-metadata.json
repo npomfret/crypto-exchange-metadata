@@ -5736,125 +5736,246 @@
       }
     },
     "markets": {
+      "__notes": "can get from api",
       "BCH/BTC": {
         "price-precision": 6,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCH 0.007",
+          "BTC 0.001"
+        ]
       },
       "BCH/EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCH 0.02",
+          "EUR 20"
+        ]
       },
       "BCH/GBP": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCH 0.02",
+          "GBP 20"
+        ]
       },
       "BCH/USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCH 0.02",
+          "USD 20"
+        ]
       },
       "BTC/EUR": {
         "price-precision": 1,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.002",
+          "EUR 20"
+        ]
       },
       "BTC/GBP": {
         "price-precision": 1,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.002",
+          "GBP 20"
+        ]
       },
       "BTC/RUB": {
         "price-precision": 1,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.001",
+          "RUB 1000"
+        ]
       },
       "BTC/USD": {
         "price-precision": 1,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.002",
+          "USD 20"
+        ]
       },
       "BTG/BTC": {
         "price-precision": 6,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.01",
+          "BTC 0.001"
+        ]
       },
       "BTG/EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.03",
+          "EUR 20"
+        ]
       },
       "BTG/USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.03",
+          "USD 20"
+        ]
       },
       "DASH/BTC": {
         "price-precision": 6,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.015",
+          "BTC 0.001"
+        ]
       },
       "DASH/EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.03",
+          "EUR 20"
+        ]
       },
       "DASH/GBP": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.03",
+          "GBP 20"
+        ]
       },
       "DASH/USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.03",
+          "USD 20"
+        ]
       },
       "ETH/BTC": {
         "price-precision": 6,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "ETH 0.025",
+          "BTC 0.001"
+        ]
       },
       "ETH/EUR": {
         "price-precision": 2,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "ETH 0.05",
+          "EUR 20"
+        ]
       },
       "ETH/GBP": {
         "price-precision": 2,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "ETH 0.05",
+          "GBP 20"
+        ]
       },
       "ETH/USD": {
         "price-precision": 2,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "ETH 0.05",
+          "USD 20"
+        ]
       },
       "GHS/BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "GHS 100",
+          "BTC 0.00001"
+        ]
       },
       "XLM/BTC": {
         "price-precision": 8,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": [
+          "XLM 70",
+          "BTC 0.001"
+        ]
       },
       "XLM/EUR": {
         "price-precision": 4,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": [
+          "XLM 70",
+          "EUR 10"
+        ]
       },
       "XLM/USD": {
         "price-precision": 4,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": [
+          "XLM 70",
+          "USD 10"
+        ]
       },
       "XRP/BTC": {
         "price-precision": 8,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "XRP 40",
+          "BTC 0.001"
+        ]
       },
       "XRP/EUR": {
         "price-precision": 4,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "XRP 40",
+          "EUR 10"
+        ]
       },
       "XRP/USD": {
         "price-precision": 4,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": [
+          "XRP 40",
+          "USD 10"
+        ]
       },
       "ZEC/BTC": {
         "price-precision": 6,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ZEC 0.03",
+          "BTC 0.001"
+        ]
       },
       "ZEC/EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ZEC 0.07",
+          "EUR 20"
+        ]
       },
       "ZEC/GBP": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ZEC 0.07",
+          "GBP 20"
+        ]
       },
       "ZEC/USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ZEC 0.07",
+          "USD 20"
+        ]
       }
     }
   },
