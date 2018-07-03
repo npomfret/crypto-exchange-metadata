@@ -2247,175 +2247,395 @@
     "markets": {
       "BCC-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCC 0.00035",
+          "BTC 0.00003"
+        ]
       },
       "BCC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCC 0.00035",
+          "EUR 0.1"
+        ]
       },
       "BCC-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCC 0.00035",
+          "PLN 0.1"
+        ]
       },
       "BCC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BCC 0.00035",
+          "USD 0.1"
+        ]
       },
       "BTC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.00003",
+          "EUR 0.1"
+        ]
       },
       "BTC-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.00003",
+          "PLN 0.1"
+        ]
       },
       "BTC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTC 0.00003",
+          "USD 0.1"
+        ]
       },
       "BTG-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.00045",
+          "BTC 0.00003"
+        ]
       },
       "BTG-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.00045",
+          "EUR 0.1"
+        ]
       },
       "BTG-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.00045",
+          "PLN 0.1"
+        ]
       },
       "BTG-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "BTG 0.00045",
+          "USD 0.1"
+        ]
       },
       "DASH-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.00045",
+          "BTC 0.00003"
+        ]
       },
       "DASH-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.00045",
+          "EUR 0.1"
+        ]
       },
       "DASH-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.00045",
+          "PLN 0.1"
+        ]
       },
       "DASH-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "DASH 0.00045",
+          "USD 0.1"
+        ]
       },
       "ETH-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ETH 0.00045",
+          "BTC 0.00003"
+        ]
       },
       "ETH-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ETH 0.00045",
+          "EUR 0.1"
+        ]
       },
       "ETH-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ETH 0.00045",
+          "PLN 0.1"
+        ]
       },
       "ETH-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "ETH 0.00045",
+          "USD 0.1"
+        ]
       },
       "GAME-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "GAME 0.05",
+          "BTC 0.00003"
+        ]
       },
       "GAME-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "GAME 0.05",
+          "EUR 0.1"
+        ]
       },
       "GAME-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "GAME 0.05",
+          "PLN 0.1"
+        ]
       },
       "GAME-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "GAME 0.05",
+          "USD 0.1"
+        ]
       },
       "KZC-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "KZC 0.025",
+          "BTC 0.00003"
+        ]
       },
       "KZC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "KZC 0.025",
+          "EUR 0.1"
+        ]
       },
       "KZC-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "KZC 0.025",
+          "PLN 0.1"
+        ]
       },
       "KZC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "KZC 0.025",
+          "USD 0.1"
+        ]
       },
       "LSK-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LSK 0.025",
+          "BTC 0.00003"
+        ]
       },
       "LSK-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LSK 0.025",
+          "EUR 0.1"
+        ]
       },
       "LSK-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LSK 0.025",
+          "PLN 0.1"
+        ]
       },
       "LSK-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LSK 0.025",
+          "USD 0.1"
+        ]
       },
       "LTC-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LTC 0.0025",
+          "BTC 0.00003"
+        ]
       },
       "LTC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LTC 0.0025",
+          "EUR 0.1"
+        ]
       },
       "LTC-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LTC 0.0025",
+          "PLN 0.1"
+        ]
       },
       "LTC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "LTC 0.0025",
+          "USD 0.1"
+        ]
       },
       "XIN-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XIN 1",
+          "BTC 0.00003"
+        ]
       },
       "XIN-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XIN 1",
+          "EUR 0.1"
+        ]
       },
       "XIN-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XIN 1",
+          "PLN 0.1"
+        ]
       },
       "XIN-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XIN 1",
+          "USD 0.1"
+        ]
       },
       "XRP-BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XRP 0.2",
+          "BTC 0.00003"
+        ]
       },
       "XRP-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XRP 0.2",
+          "EUR 0.1"
+        ]
       },
       "XRP-PLN": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XRP 0.2",
+          "PLN 0.1"
+        ]
       },
       "XRP-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": [
+          "XRP 0.2",
+          "USD 0.1"
+        ]
+      },
+      "XMR-EUR": {
+        "minimum-order-size": [
+          "XMR 0.025",
+          "EUR 0.1"
+        ]
+      },
+      "ZEC-BTC": {
+        "minimum-order-size": [
+          "ZEC 0.025",
+          "BTC 0.00003"
+        ]
+      },
+      "ZEC-USD": {
+        "minimum-order-size": [
+          "ZEC 0.025",
+          "USD 0.1"
+        ]
+      },
+      "XMR-USD": {
+        "minimum-order-size": [
+          "XMR 0.025",
+          "USD 0.1"
+        ]
+      },
+      "ZEC-EUR": {
+        "minimum-order-size": [
+          "ZEC 0.025",
+          "EUR 0.1"
+        ]
+      },
+      "ZEC-PLN": {
+        "minimum-order-size": [
+          "ZEC 0.025",
+          "PLN 0.1"
+        ]
+      },
+      "XMR-PLN": {
+        "minimum-order-size": [
+          "XMR 0.025",
+          "PLN 0.1"
+        ]
+      },
+      "XMR-BTC": {
+        "minimum-order-size": [
+          "XMR 0.025",
+          "BTC 0.00003"
+        ]
       }
     }
   },

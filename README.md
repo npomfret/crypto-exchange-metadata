@@ -64,6 +64,20 @@ _minimum-order-size_: expressed with a currency to avoid ambiguity
       },
 ```
 
+Minimum order sizes are typically measured in the base currency.  However that isn't the case for all exchanges.  
+
+If there is a different minimum order size based on the direction of the order, is is represented as such:
+
+```json
+      "BCC-BTC": {
+
+        "minimum-order-size": [
+          "BCC 0.00035",
+          "BTC 0.00003"
+        ]
+      },
+```
+
 #### Fees
 
 Trading fees, deposit fees and withdrawal fees are supported.  
