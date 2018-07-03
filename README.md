@@ -147,7 +147,7 @@ _Symbol translations_: each exchange uses its own symbols for both currencies an
 
 _Lending_: only spot markets are supported (for now)
 
-_currency precision_: for withdrawals
+_currency precision_: useful for withdrawals or showing what funds are needed to execute an order
 
 # Finally...
 
