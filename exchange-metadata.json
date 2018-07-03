@@ -3952,28 +3952,45 @@
         "quantity-precision": 8,
         "min-order-size": "LTC 0.01"
       },
+      "LTCEUR": {
+        "price-precision": 4,
+        "quantity-precision": 8,
+        "min-order-size": "LTC 0.01"
+      },
       "LTCPLN": {
         "price-precision": 4,
         "quantity-precision": 8,
         "min-order-size": "LTC 0.01"
       },
       "BCCPLN": {
-        "min-order-size": "BCC 0.01"
+        "min-order-size": "BCC 0.01",
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "BCCEUR": {
-        "min-order-size": "BCC 0.01"
+        "min-order-size": "BCC 0.01",
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "BTGPLN": {
-        "min-order-size": "BTG 0.01"
+        "min-order-size": "BTG 0.01",
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "BTGEUR": {
-        "min-order-size": "BTG 0.01"
+        "min-order-size": "BTG 0.01",
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "XRPPLN": {
-        "min-order-size": "XRP 1"
+        "min-order-size": "XRP 1",
+        "price-precision": 4,
+        "quantity-precision": 6
       },
       "XRPEUR": {
-        "min-order-size": "XRP 1"
+        "min-order-size": "XRP 1",
+        "price-precision": 4,
+        "quantity-precision": 5
       }
     }
   },
