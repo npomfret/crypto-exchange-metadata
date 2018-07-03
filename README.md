@@ -135,19 +135,19 @@ Where a fee has a fixed and percentage part, these are represented as a map, eg:
 
 ## Whats not supported (yet)
 
-_wildcards_: to represent all Ethereum markets it might be nice to use `ETH*`
+_wildcards_: to represent all Ethereum markets it might be nice to use `ETH*`.
 
-_maximum order sizes_: can be expressed in the base or counter currency
+_maximum order sizes_: can be expressed in the base or counter currency.
 
-_Order types_: market / limit / hidden / stop loss etc
+_Order types_: market / limit / hidden / stop loss etc.
 
 _Fee discounts_: these are relative to the user's exchange account. They can usually be got via the an API call, or calculated programmatically.
 
-_Symbol translations_: each exchange uses its own symbols for both currencies and markets. Mapping between these is not the goal of this project.
+_Symbol translations_: each exchange uses its own symbols for both currencies and markets.
 
-_Lending_: only spot markets are supported (for now)
+_Lending_: only spot markets are supported (for now).
 
-_currency precision_: useful for withdrawals or showing what funds are needed to execute an order
+_currency precision_: useful for withdrawals or showing what funds are needed to execute an order.
 
 # Finally...
 
