@@ -4025,63 +4025,78 @@
       "__notes": "min trade size is either 0.001 BTC or 5 ($5 £5 5€) things of that market",
       "bchbtc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "bcheur": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "EUR 5.0"
       },
       "bchusd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USD 5.0"
       },
       "btceur": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "EUR 5.0"
       },
       "btcusd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USD 5.0"
       },
       "ethbtc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "etheur": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "EUR 5.0"
       },
       "ethusd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USD 5.0"
       },
       "eurusd": {
         "price-precision": 5,
-        "quantity-precision": 5
+        "quantity-precision": 5,
+        "minimum-order-size": "USD 5.0"
       },
       "ltcbtc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "ltceur": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "EUR 5.0"
       },
       "ltcusd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USD 5.0"
       },
       "xrpbtc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "xrpeur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "EUR 5.0"
       },
       "xrpusd": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USD 5.0"
       }
     }
   },
