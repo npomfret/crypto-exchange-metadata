@@ -3936,25 +3936,44 @@
       "DOGE": 1
     },
     "markets": {
+      "_notes": "min order sizes taken from: https://www.bitmarket.net/docs.php?file=faq.html",
       "BTCEUR": {
         "price-precision": 4,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "min-order-size": "BTC 0.001"
       },
       "BTCPLN": {
         "price-precision": 4,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "min-order-size": "BTC 0.001"
       },
       "LTCBTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "min-order-size": "LTC 0.01"
       },
       "LTCPLN": {
         "price-precision": 4,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "min-order-size": "LTC 0.01"
       },
-      "LiteMineXBTC": {
-        "price-precision": 4,
-        "quantity-precision": 4
+      "BCCPLN": {
+        "min-order-size": "BCC 0.01"
+      },
+      "BCCEUR": {
+        "min-order-size": "BCC 0.01"
+      },
+      "BTGPLN": {
+        "min-order-size": "BTG 0.01"
+      },
+      "BTGEUR": {
+        "min-order-size": "BTG 0.01"
+      },
+      "XRPPLN": {
+        "min-order-size": "XRP 1"
+      },
+      "XRPEUR": {
+        "min-order-size": "XRP 1"
       }
     }
   },
