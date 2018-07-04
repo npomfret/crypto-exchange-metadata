@@ -5,16 +5,22 @@
         "options": [
           {
             "Bank Wire": {
-              "_fixed": 250,
-              "_rate": "1.00%"
+              "fixed": 250,
+              "rate": "1.00%"
             },
             "HK Local Bank Transfer": {
-              "_fixed": 55,
-              "_rate": "1.00%"
+              "fixed": 55,
+              "rate": "1.00%"
             }
           }
         ]
       },
+      "USD": "100%",
+      "GBP": "100%",
+      "EUR": "100%",
+      "JPY": "100%",
+      "CAD": "100%",
+      "AUD": "100%",
       "ANX": 0.1,
       "ATENC": 0.1,
       "BTC": 0.002,
@@ -2225,6 +2231,7 @@
       "default": 0
     },
     "withdrawal-fees": {
+      "__notes": "https://bitbay.net/en/fees#withdrawals",
       "BTC": 0.00045,
       "LTC": 0.005,
       "ETH": 0.00126,
@@ -2236,6 +2243,8 @@
       "KZC": 0.0005,
       "XIN": 2,
       "XRP": 0.1,
+      "ZEC": 0.001,
+      "XMR": 0.04,
       "PLN": {
         "Wire bank transfer": 4,
         "ATM withdrawal (100 - 1000 PLN)": 10,
@@ -2655,6 +2664,10 @@
     },
     "withdrawal-fees": {
       "__notes": "these change regularly - get from api",
+      "USD": "0.1%",
+      "EUR": "0.1%",
+      "JPY": "0.1%",
+      "GBP": "0.1%",
       "AGI": 36.498,
       "AID": 42.424,
       "AIO": 4.0677,
@@ -3928,6 +3941,7 @@
         "Withdrawal at an ATM (50 - 1000 PLN)": 10,
         "Withdrawal at an ATM (1050 - 2 000 PLN)": 20
       },
+      "EUR": 2,
       "BTC": 0.0002,
       "LTC": 0.005,
       "BCC": 0.0008,
@@ -4009,13 +4023,12 @@
     },
     "withdrawal-fees": {
       "__notes": "https://www.bitstamp.net/fee_schedule/",
+      "default": 0,
       "EUR": {
         "SEPA": 0.9,
         "INTERNATIONAL WIRE": "0.09%"
       },
-      "USD": {
-        "INTERNATIONAL WIRE": "0.09%"
-      }
+      "USD": "0.09%"
     },
     "markets": {
       "__notes": "min trade size is either 0.001 BTC or 5 ($5 £5 5€) things of that market",
@@ -5909,12 +5922,12 @@
       },
       "RUB": {
         "VISA": {
-          "_rate": "5%",
-          "_fixed": 15.57
+          "rate": "5%",
+          "fixed": 15.57
         },
         "MasterCard": {
-          "_rate": "5%",
-          "_fixed": 15.57
+          "rate": "5%",
+          "fixed": 15.57
         }
       },
       "GBP": {
@@ -5930,16 +5943,16 @@
       "USD": {
         "VISA": 3.8,
         "MasterCard": {
-          "_rate": "1.2%",
-          "_fixed": 3.8
+          "rate": "1.2%",
+          "fixed": 3.8
         },
         "Crypto Capital": "1%"
       },
       "EUR": {
         "VISA": 3.5,
         "MasterCard": {
-          "_rate": "1.2%",
-          "_fixed": 3.8
+          "rate": "1.2%",
+          "fixed": 3.8
         },
         "Bank transfer": 25,
         "Crypto Capital": "1%",
@@ -5947,19 +5960,19 @@
       },
       "RUB": {
         "VISA": {
-          "_rate": "2.5%",
-          "_fixed": 30
+          "rate": "2.5%",
+          "fixed": 30
         },
         "MasterCard": {
-          "_rate": "2.5%",
-          "_fixed": 30
+          "rate": "2.5%",
+          "fixed": 30
         }
       },
       "GBP": {
         "VISA": 2.9,
         "MasterCard": {
-          "_rate": "1.2%",
-          "_fixed": 2.9
+          "rate": "1.2%",
+          "fixed": 2.9
         },
         "Bank transfer": 30,
         "Crypto Capital": "1%"
@@ -6538,6 +6551,7 @@
     },
     "withdrawal-fees": {
       "__notes": "https://gemini.com/transfer-fee-schedule/",
+      "default": 0,
       "BTC": 0.002,
       "ETH": 0.001,
       "ZEC": 0.002
@@ -6592,28 +6606,29 @@
     },
     "withdrawal-fees": {
       "__notes": "https://support.kraken.com/hc/en-us/articles/201893608-Digital-assets-cryptocurrency-withdrawal-fees, https://support.kraken.com/hc/en-us/articles/360000423043-Fiat-currency-withdrawal-fees",
-      "EUR": {
+      "ZEUR": {
         "SEPA bank transfer": 0.09,
         "SWIFT international wire transfer": 60
       },
-      "USD": {
+      "ZUSD": {
         "US domestic wire transfer": 5,
         "SWIFT international wire transfer": 60
       },
-      "JPY": 300,
-      "CAD": 10,
-      "XBT": 0.0005,
-      "LTC": 0.001,
-      "XDG": 2,
-      "XRP": 0.02,
-      "XLM": 0.00002,
-      "ETH": 0.005,
-      "ETC": 0.005,
-      "MLN": 0.003,
-      "XMR": 0.05,
-      "REP": 0.01,
-      "ICN": 0.2,
-      "ZEC": 0.0001,
+      "ZGBP": "100%",
+      "ZJPY": 300,
+      "ZCAD": 10,
+      "XXBT": 0.0005,
+      "XLTC": 0.001,
+      "XXDG": 2,
+      "XXRP": 0.02,
+      "XXLM": 0.00002,
+      "XETH": 0.005,
+      "XETC": 0.005,
+      "XMLN": 0.003,
+      "XXMR": 0.05,
+      "XREP": 0.01,
+      "XICN": 0.2,
+      "XZEC": 0.0001,
       "DASH": 0.005,
       "GNO": 0.01,
       "USDT": 5,
@@ -7917,8 +7932,8 @@
         "Express Bank Transfer": "3%",
         "Credit Card": "1%",
         "Cash Delivery": {
-          "_rate": "2%",
-          "_fixed": 20
+          "rate": "2%",
+          "fixed": 20
         },
         "Direct Bank Transfer / EFT": 0,
         "Bank Wire": 0,
