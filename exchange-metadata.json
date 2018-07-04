@@ -7688,43 +7688,53 @@
     "markets": {
       "bch_btc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_cad": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.0005"
       },
       "btc_cad": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.0005"
       },
       "btc_usd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.0005"
       },
       "btg_btc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btg 0.01"
       },
       "btg_cad": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btg 0.0005"
       },
       "eth_btc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.000001"
       },
       "eth_cad": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.000001"
       },
       "ltc_btc": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.01"
       },
       "ltc_cad": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.0001"
       }
     }
   },
