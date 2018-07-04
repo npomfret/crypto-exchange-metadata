@@ -8182,75 +8182,93 @@
     "markets": {
       "BCHBTC": {
         "price-precision": 8,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "BCH 0.005"
       },
       "BCHEUR": {
         "price-precision": 2,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "BCH 0.005"
       },
       "BTCEUR": {
         "price-precision": 2,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": "BTC 0.0005"
       },
       "BTCXRP": {
         "price-precision": 2,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": "BTC 0.0005"
       },
       "ETHBTC": {
         "price-precision": 8,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "ETH 0.005"
       },
       "ETHEUR": {
         "price-precision": 2,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "ETH 0.005"
       },
       "ETHEURN": {
         "price-precision": 3,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "ETH 0.005"
       },
       "EUREURN": {
         "price-precision": 3,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "EUR 0.01"
       },
       "EURXRP": {
         "price-precision": 2,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "EUR 0.01"
       },
       "FDZETH": {
         "price-precision": 6,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "FDZ 1"
       },
       "LTCBTC": {
         "price-precision": 8,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "LTC 0.01"
       },
       "LTCEUR": {
         "price-precision": 2,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "LTC 0.01"
       },
       "NOKUETH": {
         "price-precision": 6,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "NOKU 1"
       },
       "NOKUEURN": {
         "price-precision": 3,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "NOKU 1"
       },
       "PPCBTC": {
         "price-precision": 8,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "PPC 0.05"
       },
       "PPCEUR": {
         "price-precision": 2,
-        "quantity-precision": 2
+        "quantity-precision": 2,
+        "minimum-order-size": "PPC 0.05"
       },
       "ZECBTC": {
         "price-precision": 8,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "ZEC 0.005"
       },
       "ZECEUR": {
         "price-precision": 2,
-        "quantity-precision": 3
+        "quantity-precision": 3,
+        "minimum-order-size": "ZEC 0.005"
       }
     }
   },
