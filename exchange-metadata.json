@@ -6004,7 +6004,8 @@
       "__notes": "https://coinfloor.zendesk.com/hc/en-us/articles/201721837-What-is-the-minimum-amount-of-bitcoin-that-can-be-traded-",
       "BCH/GBP": {
         "price-precision": 0,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": 0.0001
       },
       "XBT/EUR": {
         "price-precision": 0,
@@ -6164,34 +6165,54 @@
         "minimum-order-size": "USD 10"
       },
       "btcusdt": {
-        "minimum-order-size": "BTC 0.0001"
+        "minimum-order-size": "BTC 0.0001",
+        "price-precision": 0,
+        "quantity-precision": 5
       },
       "bcceurs": {
-        "minimum-order-size": "BCH 0.01"
+        "minimum-order-size": "BCH 0.01",
+        "price-precision": 5,
+        "quantity-precision": 4
       },
       "eurseur": {
-        "minimum-order-size": "EURS 1"
+        "minimum-order-size": "EURS 1",
+        "price-precision": 3,
+        "quantity-precision": 0
       },
       "bccusdt": {
-        "minimum-order-size": "BCH 0.01"
+        "minimum-order-size": "BCH 0.01",
+        "price-precision": 0,
+        "quantity-precision": 0
       },
       "ltcusdt": {
-        "minimum-order-size": "LTC 0.01"
+        "minimum-order-size": "LTC 0.01",
+        "price-precision": 1,
+        "quantity-precision": 3
       },
       "btceurs": {
-        "minimum-order-size": "BTC 0.0001"
+        "minimum-order-size": "BTC 0.0001",
+        "price-precision": 5,
+        "quantity-precision": 5
       },
       "usdtusd": {
-        "minimum-order-size": "USDT 1"
+        "minimum-order-size": "USDT 1",
+        "price-precision": 6,
+        "quantity-precision": 1
       },
       "ltceurs": {
-        "minimum-order-size": "LTC 0.01"
+        "minimum-order-size": "LTC 0.01",
+        "price-precision": 6,
+        "quantity-precision": 3
       },
       "etheurs": {
-        "minimum-order-size": "ETH 0.01"
+        "minimum-order-size": "ETH 0.01",
+        "price-precision": 5,
+        "quantity-precision": 4
       },
       "ethusdt": {
-        "minimum-order-size": "ETH 0.01"
+        "minimum-order-size": "ETH 0.01",
+        "price-precision": 5,
+        "quantity-precision": 4
       }
     }
   },
