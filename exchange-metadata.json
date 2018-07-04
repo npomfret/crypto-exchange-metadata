@@ -6001,21 +6001,25 @@
       "USD": 75
     },
     "markets": {
+      "__notes": "https://coinfloor.zendesk.com/hc/en-us/articles/201721837-What-is-the-minimum-amount-of-bitcoin-that-can-be-traded-",
       "BCH/GBP": {
         "price-precision": 0,
         "quantity-precision": 4
       },
       "XBT/EUR": {
         "price-precision": 0,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": 0.0001
       },
       "XBT/GBP": {
         "price-precision": 0,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": 0.0001
       },
       "XBT/USD": {
         "price-precision": 0,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": 0.0001
       }
     }
   },
