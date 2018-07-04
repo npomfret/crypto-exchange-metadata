@@ -6313,25 +6313,31 @@
       "ZEC": 0.002
     },
     "markets": {
+      "__notes": "https://gemini24.zendesk.com/hc/en-us/articles/205432596-Are-there-trading-minimums-",
       "btcusd": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.00001"
       },
       "ethbtc": {
         "price-precision": 5,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": "eth 0.001"
       },
       "ethusd": {
         "price-precision": 2,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": "eth 0.001"
       },
       "zecbtc": {
         "price-precision": 5,
-        "quantity-precision": 4
+        "quantity-precision": 4,
+        "minimum-order-size": "btc 0.00001"
       },
       "zeceth": {
         "price-precision": 4,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": "eth 0.001"
       },
       "zecusd": {
         "price-precision": 2,
