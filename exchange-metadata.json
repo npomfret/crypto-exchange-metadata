@@ -6235,51 +6235,63 @@
     "markets": {
       "BCH-BTC": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BCH 0.01"
       },
       "BCH-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BCH 0.01"
       },
       "BCH-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BCH 0.01"
       },
       "BTC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "BTC-GBP": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "BTC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "ETH-BTC": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.01"
       },
       "ETH-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.01"
       },
       "ETH-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.01"
       },
       "LTC-BTC": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "LTC 0.1"
       },
       "LTC-EUR": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "LTC 0.1"
       },
       "LTC-USD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "LTC 0.1"
       }
     }
   },
