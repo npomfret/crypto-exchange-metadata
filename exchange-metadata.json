@@ -5929,6 +5929,8 @@
       }
     },
     "withdrawal-fees": {
+      "__notes": "https://cex.io/fee-schedule#/tab/payments",
+      "default": 0,
       "USD": {
         "VISA": 3.8,
         "MasterCard": {
