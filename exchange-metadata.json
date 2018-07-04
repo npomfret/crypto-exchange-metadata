@@ -8354,211 +8354,263 @@
     "markets": {
       "bch_btc": {
         "price-precision": 4,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.001"
       },
       "bch_dsh": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_eth": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_eur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_ltc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_rur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bch_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.001"
       },
       "bch_zec": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bch 0.01"
       },
       "bchet_bch": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "bchet 0.01"
       },
       "btc_eur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.001"
       },
       "btc_rur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.001"
       },
       "btc_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btc 0.001"
       },
       "btcet_btc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "btcet 0.01"
       },
       "dsh_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_eth": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_eur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_ltc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_rur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_usd": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dsh_zec": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dsh 0.01"
       },
       "dshet_dsh": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "dshet 0.01"
       },
       "eth_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "eth_eur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "eth_ltc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "eth_rur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "eth_usd": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "eth_zec": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eth 0.01"
       },
       "ethet_eth": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ethet 0.01"
       },
       "eur_rur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eur 0.1"
       },
       "eur_usd": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "eur 0.1"
       },
       "euret_eur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "euret 0.01"
       },
       "ltc_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.01"
       },
       "ltc_eur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.01"
       },
       "ltc_rur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.01"
       },
       "ltc_usd": {
         "price-precision": 6,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltc 0.01"
       },
       "ltcet_ltc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ltcet 0.01"
       },
       "nmc_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nmc 0.1"
       },
       "nmc_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nmc 0.1"
       },
       "nmcet_nmc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nmcet 0.01"
       },
       "nvc_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nvc 0.1"
       },
       "nvc_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nvc 0.1"
       },
       "nvcet_nvc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "nvcet 0.01"
       },
       "ppc_btc": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ppc 0.1"
       },
       "ppc_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ppc 0.1"
       },
       "ppcet_ppc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ppcet 0.01"
       },
       "ruret_rur": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ruret 0.01"
       },
       "usd_rur": {
         "price-precision": 5,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "usd 0.1"
       },
       "usdet_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "usdet 0.01"
       },
       "usdt_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "usdt 0.01"
       },
       "zec_btc": {
         "price-precision": 4,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "zec 0.01"
       },
       "zec_ltc": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "zec 0.01"
       },
       "zec_usd": {
         "price-precision": 3,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "zec 0.01"
       }
     }
   }
