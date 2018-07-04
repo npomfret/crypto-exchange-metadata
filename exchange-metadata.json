@@ -8539,6 +8539,7 @@
       }
     },
     "withdrawal-fees": {
+      "__notes": "https://wex.nz/fees",
       "BTC": 0.0003,
       "LTC": 0.001,
       "NMC": 0.1,
