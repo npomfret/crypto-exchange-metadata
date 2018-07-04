@@ -24,7 +24,6 @@ Supported exchanges include:
  * bittrex
  * btcmarkets
  * cex
- * coinbase
  * coinfloor
  * dsx
  * gdax

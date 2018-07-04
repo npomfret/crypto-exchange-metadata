@@ -5979,9 +5979,6 @@
       }
     }
   },
-  "coinbase": {
-    "markets": {}
-  },
   "coinfloor": {
     "trading-fees": {
       "__notes": "https://www.coinfloor.co.uk/fees - it's variable but not available on the API",
