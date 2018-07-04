@@ -7887,10 +7887,22 @@
         "taker": "0.5%",
         "maker": "0.5%"
       },
-      "eth_btc": "0.2%",
-      "ltc_btc": "0.2%",
-      "bch_btc": "0.2%",
-      "btg_btc": "0.2%"
+      "eth_btc": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ltc_btc": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "bch_btc": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "btg_btc": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      }
     },
     "deposit-fees": {
       "__notes": "https://www.quadrigacx.com/account-funding-withdrawal",
