@@ -2,7 +2,6 @@
 
 A machine readable [json document](exchange-metadata.json) containing exchange metadata for crypto currency trading. 
 
-
 Supported data points include:
 
  * currency symbols
@@ -43,6 +42,17 @@ Where possible efforts are made to keep thing readable by humans.  For example, 
 
 Fields starting with a double underscore (eg `__notes: "....`) are not machine readable and should be regarded as comments.
 
+## Naming conventions
+
+Always use the symbols that the exchanges use, including capitalization.
+
+We arbitrarily used the terms _base currency_ and _counter currency_ to represent names of the symbols in a currency pair.  
+So a BTC/USD market would (typically) have the _base currency_ of BTC and _counter currency_ of USD.  That means a bid order
+would result in buying BTC for USD.
+
+Some exchanges reverse these symbols in their market names.  Some swap the terms base and counter, and some use different 
+terms altogether.
+
 #### Exchange name
 
 Self explanatory.  Lower case, taken from the exchange url.
@@ -64,7 +74,23 @@ _minimum-order-size_: expressed with a currency to avoid ambiguity
       },
 ```
 
-Minimum order sizes are typically measured in the base currency.  However that isn't the case for all exchanges.  
+Minimum order sizes are typically measured in the base currency, eg:
+  
+```json
+      "BCC-BTC": {
+
+        "minimum-order-size": "BCC 0.00035"        
+      },
+```
+  
+If the minimum order size is in units of the counter currency, it is represented in the same format, eg:
+
+```json
+      "BCC-BTC": {
+
+        "minimum-order-size": "BTC 0.00003"        
+      },
+```
 
 If there is a different minimum order size based on the direction of the order, is is represented as such:
 
@@ -77,6 +103,8 @@ If there is a different minimum order size based on the direction of the order, 
         ]
       },
 ```
+
+In this example the minimum bid size is 0.00035BCC and the minimum ask size is 0.00003BTC. _note_ this will be changed shortly.
 
 #### Fees
 
