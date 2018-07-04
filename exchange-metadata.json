@@ -6131,7 +6131,7 @@
       },
       "eurusd": {
         "price-precision": 6,
-        "quantity-precision": 2,
+        "quantity-precision": 1,
         "minimum-order-size": "EUR 1"
       },
       "gbpusd": {
@@ -6161,12 +6161,12 @@
       },
       "usdrub": {
         "price-precision": 5,
-        "quantity-precision": 2,
+        "quantity-precision": 0,
         "minimum-order-size": "USD 10"
       },
       "btcusdt": {
         "minimum-order-size": "BTC 0.0001",
-        "price-precision": 0,
+        "price-precision": 5,
         "quantity-precision": 5
       },
       "bcceurs": {
@@ -6176,17 +6176,17 @@
       },
       "eurseur": {
         "minimum-order-size": "EURS 1",
-        "price-precision": 3,
-        "quantity-precision": 0
+        "price-precision": 6,
+        "quantity-precision": 1
       },
       "bccusdt": {
         "minimum-order-size": "BCH 0.01",
-        "price-precision": 0,
-        "quantity-precision": 0
+        "price-precision": 5,
+        "quantity-precision": 4
       },
       "ltcusdt": {
         "minimum-order-size": "LTC 0.01",
-        "price-precision": 1,
+        "price-precision": 6,
         "quantity-precision": 3
       },
       "btceurs": {
