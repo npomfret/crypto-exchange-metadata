@@ -5,12 +5,12 @@
         "options": [
           {
             "Bank Wire": {
-              "fixed": 250,
-              "rate": "1.00%"
+              "_fixed": 250,
+              "_rate": "1.00%"
             },
             "HK Local Bank Transfer": {
-              "fixed": 55,
-              "rate": "1.00%"
+              "_fixed": 55,
+              "_rate": "1.00%"
             }
           }
         ]
@@ -5913,12 +5913,12 @@
       },
       "RUB": {
         "VISA": {
-          "rate": "5%",
-          "fixed": 15.57
+          "_rate": "5%",
+          "_fixed": 15.57
         },
         "MasterCard": {
-          "rate": "5%",
-          "fixed": 15.57
+          "_rate": "5%",
+          "_fixed": 15.57
         }
       },
       "GBP": {
@@ -5934,16 +5934,16 @@
       "USD": {
         "VISA": 3.8,
         "MasterCard": {
-          "rate": "1.2%",
-          "fixed": 3.8
+          "_rate": "1.2%",
+          "_fixed": 3.8
         },
         "Crypto Capital": "1%"
       },
       "EUR": {
         "VISA": 3.5,
         "MasterCard": {
-          "rate": "1.2%",
-          "fixed": 3.8
+          "_rate": "1.2%",
+          "_fixed": 3.8
         },
         "Bank transfer": 25,
         "Crypto Capital": "1%",
@@ -5951,19 +5951,19 @@
       },
       "RUB": {
         "VISA": {
-          "rate": "2.5%",
-          "fixed": 30
+          "_rate": "2.5%",
+          "_fixed": 30
         },
         "MasterCard": {
-          "rate": "2.5%",
-          "fixed": 30
+          "_rate": "2.5%",
+          "_fixed": 30
         }
       },
       "GBP": {
         "VISA": 2.9,
         "MasterCard": {
-          "rate": "1.2%",
-          "fixed": 2.9
+          "_rate": "1.2%",
+          "_fixed": 2.9
         },
         "Bank transfer": 30,
         "Crypto Capital": "1%"
@@ -7921,8 +7921,8 @@
         "Express Bank Transfer": "3%",
         "Credit Card": "1%",
         "Cash Delivery": {
-          "rate": "2%",
-          "fixed": 20
+          "_rate": "2%",
+          "_fixed": 20
         },
         "Direct Bank Transfer / EFT": 0,
         "Bank Wire": 0,
@@ -8528,7 +8528,7 @@
     },
     "deposit-fees": {
       "default": 0,
-      "USD": {
+      "usd": {
         "ADVCash": "0%",
         "Perfect Money": "1%",
         "Epay": "0%",
@@ -8537,13 +8537,13 @@
         "MoneyGram": "6.5%",
         "Contact": "6.5%"
       },
-      "RUR": {
+      "rur": {
         "ADVCash": "0%",
         "Яндекс.деньги": "10%",
         "QIWI": "5%",
         "Payeer": "5%"
       },
-      "EUR": {
+      "eur": {
         "ADVCash": "0%",
         "Perfect Money": "1%",
         "Epay": "0%",
@@ -8552,17 +8552,17 @@
     },
     "withdrawal-fees": {
       "__notes": "https://wex.nz/fees",
-      "BTC": 0.0003,
-      "LTC": 0.001,
-      "NMC": 0.1,
-      "NVC": 0.1,
-      "PPC": 0.1,
-      "DSH": 0.001,
-      "ETH": 0.003,
-      "BCH": 0.001,
-      "ZEC": 0.001,
-      "USDT": 10,
-      "USD": {
+      "btc": 0.0003,
+      "ltc": 0.001,
+      "nmc": 0.1,
+      "nvc": 0.1,
+      "ppc": 0.1,
+      "dsh": 0.001,
+      "eth": 0.003,
+      "bch": 0.001,
+      "zec": 0.001,
+      "usdt": 10,
+      "usd": {
         "ADVCash": "4%",
         "Perfect Money": "4%",
         "Epay": "4%",
@@ -8574,7 +8574,7 @@
         "p2p - Europe": "4%",
         "p2p - United Arab Emirates": "4%"
       },
-      "RUR": {
+      "rur": {
         "ADVCash": "4%",
         "Яндекс.деньги": "0%",
         "QIWI": "5%",
@@ -8590,7 +8590,7 @@
         "Банк Русский стандарт": "6%",
         "Сбербанк": "7%"
       },
-      "EUR": {
+      "eur": {
         "ADVCash": "4%",
         "Perfect Money": "4%",
         "Epay": "4%",
