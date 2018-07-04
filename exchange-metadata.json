@@ -4004,12 +4004,8 @@
     },
     "deposit-fees": {
       "default": 0,
-      "EUR": {
-        "INTERNATIONAL WIRE": "0.05%"
-      },
-      "USD": {
-        "INTERNATIONAL WIRE": "0.05%"
-      }
+      "EUR": "0.05%",
+      "USD": "0.05%"
     },
     "withdrawal-fees": {
       "__notes": "https://www.bitstamp.net/fee_schedule/",
