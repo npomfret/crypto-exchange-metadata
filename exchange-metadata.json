@@ -6650,10 +6650,10 @@
       "BCHXBT": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "BCH 0.002"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "BCH 0.002"
+        }
       },
       "DASHEUR": {
         "price-precision": 3,
@@ -6668,18 +6668,18 @@
       "DASHXBT": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "DASH 0.03"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "DASH 0.03"
+        }
       },
       "EOSETH": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "EOS 3"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "EOS 3"
+        }
       },
       "EOSEUR": {
         "price-precision": 4,
@@ -6694,18 +6694,18 @@
       "EOSXBT": {
         "price-precision": 7,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "EOS 3"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "EOS 3"
+        }
       },
       "GNOETH": {
         "price-precision": 4,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "GNO 0.03"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "GNO 0.03"
+        }
       },
       "GNOEUR": {
         "price-precision": 2,
@@ -6720,10 +6720,10 @@
       "GNOXBT": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "GNO 0.03"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "GNO 0.03"
+        }
       },
       "USDTZUSD": {
         "price-precision": 4,
@@ -6733,18 +6733,18 @@
       "XETCXETH": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XETC 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XETC 0.3"
+        }
       },
       "XETCXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETC 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETC 0.3"
+        }
       },
       "XETCZEUR": {
         "price-precision": 3,
@@ -6759,16 +6759,16 @@
       "XETHXXBT": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETH 0.02"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETH 0.02"
+        }
       },
       "XETHXXBT.d": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETH 0.02"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETH 0.02"
+        }
       },
       "XETHZCAD": {
         "price-precision": 2,
@@ -6813,26 +6813,26 @@
       "XICNXETH": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XICN 2"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XICN 2"
+        }
       },
       "XICNXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XICN 2"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XICN 2"
+        }
       },
       "XLTCXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XLTC 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XLTC 0.1"
+        }
       },
       "XLTCZEUR": {
         "price-precision": 2,
@@ -6847,34 +6847,34 @@
       "XMLNXETH": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XMLN 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XMLN 0.1"
+        }
       },
       "XMLNXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XMLN 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XMLN 0.1"
+        }
       },
       "XREPXETH": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XREP 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XREP 0.3"
+        }
       },
       "XREPXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XREP 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XREP 0.3"
+        }
       },
       "XREPZEUR": {
         "price-precision": 3,
@@ -6934,10 +6934,10 @@
       "XXLMXXBT": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXLM 30"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXLM 30"
+        }
       },
       "XXLMZEUR": {
         "price-precision": 6,
@@ -6952,10 +6952,10 @@
       "XXMRXXBT": {
         "price-precision": 6,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXMR 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXMR 0.1"
+        }
       },
       "XXMRZEUR": {
         "price-precision": 2,
@@ -6970,10 +6970,10 @@
       "XXRPXXBT": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXRP 30"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXRP 30"
+        }
       },
       "XXRPZCAD": {
         "price-precision": 5,
@@ -6998,10 +6998,10 @@
       "XZECXXBT": {
         "price-precision": 5,
         "quantity-precision": 3,
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XZEC 0.03"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XZEC 0.03"
+        }
       },
       "XZECZEUR": {
         "price-precision": 3,
@@ -7022,16 +7022,16 @@
         "minimum-order-size": "USDT 5"
       },
       "ETCETH": {
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XETC 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XETC 0.3"
+        }
       },
       "ETCXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETC 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETC 0.3"
+        }
       },
       "ETCEUR": {
         "minimum-order-size": "XETC 0.3"
@@ -7040,16 +7040,16 @@
         "minimum-order-size": "XETC 0.3"
       },
       "ETHXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETH 0.02"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETH 0.02"
+        }
       },
       "ETHXBT.d": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XETH 0.02"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XETH 0.02"
+        }
       },
       "ETHCAD": {
         "minimum-order-size": "XETH 0.02"
@@ -7082,22 +7082,22 @@
         "minimum-order-size": "XETH 0.02"
       },
       "ICNETH": {
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XICN 2"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XICN 2"
+        }
       },
       "ICNXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XICN 2"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XICN 2"
+        }
       },
       "LTCXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XLTC 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XLTC 0.1"
+        }
       },
       "LTCEUR": {
         "minimum-order-size": "XLTC 0.1"
@@ -7106,28 +7106,28 @@
         "minimum-order-size": "XLTC 0.1"
       },
       "MLNETH": {
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XMLN 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XMLN 0.1"
+        }
       },
       "MLNXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XMLN 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XMLN 0.1"
+        }
       },
       "REPETH": {
-        "minimum-order-size": [
-          "XETH 0.02",
-          "XREP 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XETH 0.02",
+          "ask": "XREP 0.3"
+        }
       },
       "REPXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XREP 0.3"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XREP 0.3"
+        }
       },
       "REPEUR": {
         "minimum-order-size": "XREP 0.3"
@@ -7169,10 +7169,10 @@
         "minimum-order-size": "XXBT 0.002"
       },
       "XLMXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXLM 30"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXLM 30"
+        }
       },
       "XLMEUR": {
         "minimum-order-size": "XXLM 30"
@@ -7181,10 +7181,10 @@
         "minimum-order-size": "XXLM 30"
       },
       "XMRXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXMR 0.1"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXMR 0.1"
+        }
       },
       "XMREUR": {
         "minimum-order-size": "XXMR 0.1"
@@ -7193,10 +7193,10 @@
         "minimum-order-size": "XXMR 0.1"
       },
       "XRPXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XXRP 30"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XXRP 30"
+        }
       },
       "XRPCAD": {
         "minimum-order-size": "XXRP 30"
@@ -7211,10 +7211,10 @@
         "minimum-order-size": "XXRP 30"
       },
       "ZECXBT": {
-        "minimum-order-size": [
-          "XXBT 0.002",
-          "XZEC 0.03"
-        ]
+        "minimum-order-size": {
+          "bid": "XXBT 0.002",
+          "ask": "XZEC 0.03"
+        }
       },
       "ZECEUR": {
         "minimum-order-size": "XZEC 0.03"
