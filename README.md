@@ -173,6 +173,13 @@ Where a fee has a fixed and percentage part, these are represented as a map, eg:
       },
 ```
 
+In the case where an exchange supports a currency, but that currency cannot be withdrawn it is represented as such:
+
+```json
+    "withdrawal-fees": {
+      "USD": "n/a",
+```
+
 ## Whats not supported (yet)
 
 _wildcards_: to represent all Ethereum markets it might be nice to use `ETH*`.
