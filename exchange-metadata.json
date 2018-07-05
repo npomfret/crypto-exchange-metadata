@@ -15,12 +15,12 @@
           }
         ]
       },
-      "USD": "100%",
-      "GBP": "100%",
-      "EUR": "100%",
-      "JPY": "100%",
-      "CAD": "100%",
-      "AUD": "100%",
+      "USD": "n/a",
+      "GBP": "n/a",
+      "EUR": "n/a",
+      "JPY": "n/a",
+      "CAD": "n/a",
+      "AUD": "n/a",
       "ANX": 0.1,
       "ATENC": 0.1,
       "BTC": 0.002,
@@ -6614,7 +6614,7 @@
         "US domestic wire transfer": 5,
         "SWIFT international wire transfer": 60
       },
-      "ZGBP": "100%",
+      "ZGBP": "n/a",
       "ZJPY": 300,
       "ZCAD": 10,
       "XXBT": 0.0005,
