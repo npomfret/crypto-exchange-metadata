@@ -400,1839 +400,1839 @@
       "ADABNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ADA 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "ADABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ADA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ADAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ADA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ADAUSDT": {
         "price-precision": 8,
         "quantity-precision": 1,
-        "minimum-order-size": "ADA 0.1"
+        "minimum-order-size": "USDT 10"
       },
       "ADXBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ADX 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "ADXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ADX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ADXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ADX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "AEBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AE 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "AEBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AE 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "AEETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AE 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "AGIBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AGI 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "AGIBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AGI 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "AGIETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AGI 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "AIONBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AION 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "AIONBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AION 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "AIONETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AION 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "AMBBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "AMB 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "AMBBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AMB 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "AMBETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AMB 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "APPCBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "APPC 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "APPCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "APPC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "APPCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "APPC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ARKBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ARK 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "ARKETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ARK 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ARNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ARN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ARNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ARN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ASTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AST 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ASTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "AST 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BATBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BAT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "BATBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BAT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BATETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BAT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BCCBNB": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": "BCC 0.00001"
+        "minimum-order-size": "BNB 1"
       },
       "BCCBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "BCC 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "BCCETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "BCC 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "BCCUSDT": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": "BCC 0.00001"
+        "minimum-order-size": "USDT 10"
       },
       "BCDBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "BCD 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "BCDETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "BCD 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "BCNBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BCN 1"
+        "minimum-order-size": "BNB 1"
       },
       "BCNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BCN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BCNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BCN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BCPTBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BCPT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "BCPTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BCPT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BCPTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BCPT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BLZBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BLZ 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "BLZBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BLZ 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BLZETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BLZ 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BNBBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BNB 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "BNBETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BNB 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "BNBUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BNB 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "BNTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BNT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BNTETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BNT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "BQXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BQX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BQXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BQX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BRDBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BRD 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "BRDBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BRD 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BRDETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BRD 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "BTCUSDT": {
         "price-precision": 8,
         "quantity-precision": 6,
-        "minimum-order-size": "BTC 0.000001"
+        "minimum-order-size": "USDT 10"
       },
       "BTGBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BTG 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "BTGETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BTG 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "BTSBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "BTS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "BTSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BTS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "BTSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "BTS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "CDTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CDT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "CDTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CDT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "CHATBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CHAT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "CHATETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CHAT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "CLOAKBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "CLOAK 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "CLOAKETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "CLOAK 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "CMTBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "CMT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "CMTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CMT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "CMTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CMT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "CNDBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CND 1"
+        "minimum-order-size": "BNB 1"
       },
       "CNDBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CND 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "CNDETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CND 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "CVCBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "CVC 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "CVCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CVC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "CVCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "CVC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "DASHBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "DASH 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "DASHETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "DASH 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "DATABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DATA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "DATAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DATA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "DGDBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "DGD 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "DGDETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "DGD 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "DLTBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "DLT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "DLTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DLT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "DLTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DLT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "DNTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DNT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "DNTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "DNT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "EDOBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EDO 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "EDOETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EDO 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ELFBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ELF 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ELFETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ELF 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ENGBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ENG 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ENGETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ENG 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ENJBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ENJ 1"
+        "minimum-order-size": "BNB 1"
       },
       "ENJBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ENJ 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ENJETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ENJ 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "EOSBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EOS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "EOSBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EOS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "EOSETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EOS 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "EOSUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "EOS 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "ETCBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ETC 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "ETCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ETC 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "ETCETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ETC 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ETCUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ETC 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "ETHBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ETH 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "ETHUSDT": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": "ETH 0.00001"
+        "minimum-order-size": "USDT 10"
       },
       "EVXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "EVX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "EVXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "EVX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "FUELBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "FUEL 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "FUELETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "FUEL 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "FUNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "FUN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "FUNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "FUN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "GASBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GAS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "GNTBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GNT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "GNTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GNT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "GNTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GNT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "GRSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GRS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "GRSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GRS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "GTOBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GTO 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "GTOBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GTO 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "GTOETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "GTO 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "GVTBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GVT 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "GVTETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GVT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "GXSBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GXS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "GXSETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "GXS 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "HSRBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "HSR 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "HSRETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "HSR 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ICNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ICN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ICNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ICN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ICXBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ICX 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "ICXBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ICX 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "ICXETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ICX 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ICXUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ICX 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "INSBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "INS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "INSETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "INS 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "IOSTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOST 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "IOSTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOST 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "IOTABNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "IOTA 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "IOTABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOTA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "IOTAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOTA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "IOTAUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "IOTA 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "IOTXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOTX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "IOTXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "IOTX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "KEYBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "KEY 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "KEYETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "KEY 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "KMDBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "KMD 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "KMDETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "KMD 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "KNCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "KNC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "KNCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "KNC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "LENDBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LEND 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "LENDETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LEND 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "LINKBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LINK 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "LINKETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LINK 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "LOOMBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LOOM 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "LOOMBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LOOM 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "LOOMETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LOOM 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "LRCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LRC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "LRCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "LRC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "LSKBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LSK 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "LSKBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LSK 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "LSKETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LSK 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "LTCBNB": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": "LTC 0.00001"
+        "minimum-order-size": "BNB 1"
       },
       "LTCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LTC 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "LTCETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "LTC 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "LTCUSDT": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": "LTC 0.00001"
+        "minimum-order-size": "USDT 10"
       },
       "LUNBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LUN 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "LUNETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "LUN 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "MANABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MANA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "MANAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MANA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "MCOBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MCO 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "MCOBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MCO 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "MCOETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MCO 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "MDABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MDA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "MDAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MDA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "MODBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MOD 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "MODETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MOD 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "MTHBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MTH 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "MTHETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "MTH 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "MTLBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MTL 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "MTLETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "MTL 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NANOBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NANO 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NANOBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NANO 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NANOETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NANO 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NASBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NASBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NASETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAS 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NAVBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAV 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NAVBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAV 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NAVETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NAV 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NCASHBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NCASH 1"
+        "minimum-order-size": "BNB 1"
       },
       "NCASHBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NCASH 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "NCASHETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NCASH 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "NEBLBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NEBL 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NEBLBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NEBL 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NEBLETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NEBL 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NEOBNB": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "NEO 0.001"
+        "minimum-order-size": "BNB 1"
       },
       "NEOBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NEO 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NEOETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NEO 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "NEOUSDT": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "NEO 0.001"
+        "minimum-order-size": "USDT 10"
       },
       "NPXSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NPXS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "NPXSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NPXS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "NULSBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NULS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NULSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NULS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "NULSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "NULS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "NXSBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NXS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "NXSBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NXS 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "NXSETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "NXS 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "OAXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "OAX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "OAXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "OAX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "OMGBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "OMG 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "OMGETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "OMG 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ONTBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ONT 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "ONTBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ONT 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "ONTETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "ONT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "ONTUSDT": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ONT 0.001"
+        "minimum-order-size": "USDT 10"
       },
       "OSTBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "OST 1"
+        "minimum-order-size": "BNB 1"
       },
       "OSTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "OST 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "OSTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "OST 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "PIVXBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "PIVX 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "PIVXBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "PIVX 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "PIVXETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "PIVX 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "POABNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "POA 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "POABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "POAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "POEBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POE 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "POEETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POE 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "POWRBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "POWR 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "POWRBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POWR 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "POWRETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "POWR 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "PPTBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "PPT 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "PPTETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "PPT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "QKCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QKC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "QKCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QKC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "QLCBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QLC 1"
+        "minimum-order-size": "BNB 1"
       },
       "QLCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QLC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "QLCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QLC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "QSPBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QSP 1"
+        "minimum-order-size": "BNB 1"
       },
       "QSPBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QSP 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "QSPETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "QSP 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "QTUMBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "QTUM 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "QTUMBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "QTUM 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "QTUMETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "QTUM 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "QTUMUSDT": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "QTUM 0.001"
+        "minimum-order-size": "USDT 10"
       },
       "RCNBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RCN 1"
+        "minimum-order-size": "BNB 1"
       },
       "RCNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RCN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "RCNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RCN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "RDNBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "RDN 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "RDNBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RDN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "RDNETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RDN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "REPBNB": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "REP 0.001"
+        "minimum-order-size": "BNB 1"
       },
       "REPBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "REP 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "REPETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "REP 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "REQBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "REQ 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "REQETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "REQ 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "RLCBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "RLC 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "RLCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "RLC 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "RLCETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "RLC 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "RPXBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RPX 1"
+        "minimum-order-size": "BNB 1"
       },
       "RPXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RPX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "RPXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "RPX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "SALTBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "SALT 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "SALTETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "SALT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "SCBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SC 1"
+        "minimum-order-size": "BNB 1"
       },
       "SCBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SC 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SCETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SC 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "SKYBNB": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "SKY 0.001"
+        "minimum-order-size": "BNB 1"
       },
       "SKYBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "SKY 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "SKYETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "SKY 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "SNGLSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNGLS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SNGLSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNGLS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "SNMBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNM 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SNMETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNM 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "SNTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SNTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SNT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "STEEMBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "STEEM 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "STEEMBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "STEEM 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "STEEMETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "STEEM 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "STORJBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "STORJ 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "STORJETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "STORJ 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "STORMBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "STORM 1"
+        "minimum-order-size": "BNB 1"
       },
       "STORMBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "STORM 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "STORMETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "STORM 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "STRATBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "STRAT 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "STRATETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "STRAT 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "SUBBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SUB 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SUBETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SUB 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "SYSBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "SYS 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "SYSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SYS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "SYSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "SYS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "THETABNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "THETA 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "THETABTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "THETA 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "THETAETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "THETA 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "TNBBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TNB 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "TNBETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TNB 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "TNTBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TNT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "TNTETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TNT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "TRIGBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "TRIG 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "TRIGBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "TRIG 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "TRIGETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "TRIG 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "TRXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TRX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "TRXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TRX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "TRXUSDT": {
         "price-precision": 8,
         "quantity-precision": 1,
-        "minimum-order-size": "TRX 0.1"
+        "minimum-order-size": "USDT 10"
       },
       "TUSDBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "TUSD 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "TUSDBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TUSD 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "TUSDETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "TUSD 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "TUSDUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "TUSD 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "VENBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "VEN 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "VENBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VEN 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "VENETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VEN 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "VENUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "VEN 0.01"
+        "minimum-order-size": "USDT 10"
       },
       "VIABNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "VIA 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "VIABTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "VIA 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "VIAETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "VIA 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "VIBBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VIB 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "VIBEBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VIBE 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "VIBEETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VIBE 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "VIBETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "VIB 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "WABIBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WABI 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "WABIBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WABI 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "WABIETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WABI 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "WANBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAN 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "WANBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAN 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "WANETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAN 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "WAVESBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAVES 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "WAVESBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAVES 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "WAVESETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WAVES 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "WINGSBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WINGS 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "WINGSETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WINGS 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "WPRBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WPR 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "WPRETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "WPR 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "WTCBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WTC 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "WTCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WTC 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "WTCETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "WTC 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "XEMBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XEM 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "XEMBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XEM 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "XEMETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XEM 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "XLMBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XLM 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "XLMBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XLM 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "XLMETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XLM 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "XLMUSDT": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XLM 0.01"
+        "minimum-order-size": "USDT 1"
       },
       "XMRBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "XMR 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "XMRETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "XMR 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "XRPBNB": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XRP 0.01"
+        "minimum-order-size": "BNB 1"
       },
       "XRPBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XRP 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "XRPETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XRP 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "XRPUSDT": {
         "price-precision": 8,
         "quantity-precision": 1,
-        "minimum-order-size": "XRP 0.1"
+        "minimum-order-size": "USDT 10"
       },
       "XVGBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XVG 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "XVGETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "XVG 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "XZCBNB": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "XZC 0.001"
+        "minimum-order-size": "BNB 1"
       },
       "XZCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XZC 0.01"
+        "minimum-order-size": "BTC 0.001"
       },
       "XZCETH": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": "XZC 0.01"
+        "minimum-order-size": "ETH 0.01"
       },
       "YOYOBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "YOYO 1"
+        "minimum-order-size": "BNB 1"
       },
       "YOYOBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "YOYO 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "YOYOETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "YOYO 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ZECBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ZEC 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "ZECETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ZEC 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "ZENBNB": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ZEN 0.001"
+        "minimum-order-size": "BNB 1"
       },
       "ZENBTC": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ZEN 0.001"
+        "minimum-order-size": "BTC 0.001"
       },
       "ZENETH": {
         "price-precision": 8,
         "quantity-precision": 3,
-        "minimum-order-size": "ZEN 0.001"
+        "minimum-order-size": "ETH 0.01"
       },
       "ZILBNB": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ZIL 1"
+        "minimum-order-size": "BNB 1"
       },
       "ZILBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ZIL 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ZILETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ZIL 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "ZRXBTC": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ZRX 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "ZRXETH": {
         "price-precision": 8,
         "quantity-precision": 0,
-        "minimum-order-size": "ZRX 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "MFTBTC": {
         "price-precision": 8,
-        "minimum-order-size": "MFT 1"
+        "minimum-order-size": "BTC 0.001"
       },
       "MFTETH": {
         "price-precision": 8,
-        "minimum-order-size": "MFT 1"
+        "minimum-order-size": "ETH 0.01"
       },
       "MFTBNB": {
         "price-precision": 8,
-        "minimum-order-size": "MFT 1"
+        "minimum-order-size": "BNB 1"
       }
     }
   },
