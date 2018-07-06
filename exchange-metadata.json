@@ -6489,6 +6489,7 @@
     },
     "withdrawal-fees": {
       "__notes": "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees",
+      "default": 0,
       "USD": 10,
       "EUR": 0.15
     },
