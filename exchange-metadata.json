@@ -5922,47 +5922,58 @@
     "markets": {
       "BCH/AUD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BCH 0.001"
       },
       "BCH/BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BCH 0.001"
       },
       "BTC/AUD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.001"
       },
       "ETC/AUD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETC 0.001"
       },
       "ETC/BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.001"
       },
       "ETH/AUD": {
         "price-precision": 2,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.001"
       },
       "ETH/BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.001"
       },
       "LTC/AUD": {
         "price-precision": 2,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": "LTC 0.001"
       },
       "LTC/BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "LTC 0.001"
       },
       "XRP/AUD": {
         "price-precision": 2,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": "XRP 0.001"
       },
       "XRP/BTC": {
         "price-precision": 8,
-        "quantity-precision": 6
+        "quantity-precision": 6,
+        "minimum-order-size": "XRP 0.001"
       }
     }
   },
