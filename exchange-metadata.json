@@ -6327,22 +6327,22 @@
       "BCH/GBP": {
         "price-precision": 0,
         "quantity-precision": 4,
-        "minimum-order-size": 0.0001
+        "minimum-order-size": "BCH 0.0001"
       },
       "XBT/EUR": {
         "price-precision": 0,
         "quantity-precision": 4,
-        "minimum-order-size": 0.0001
+        "minimum-order-size": "XBT 0.0001"
       },
       "XBT/GBP": {
         "price-precision": 0,
         "quantity-precision": 4,
-        "minimum-order-size": 0.0001
+        "minimum-order-size": "XBT 0.0001"
       },
       "XBT/USD": {
         "price-precision": 0,
         "quantity-precision": 4,
-        "minimum-order-size": 0.0001
+        "minimum-order-size": "XBT 0.0001"
       }
     }
   },
