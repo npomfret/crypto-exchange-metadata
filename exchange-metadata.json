@@ -7408,395 +7408,493 @@
     "markets": {
       "BTC_AMP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_ARDR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BCH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BCN": {
         "price-precision": 7,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BCY": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BLK": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BTCD": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BTM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BTS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_BURST": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_CLAM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_CVC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_DASH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_DCR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_DGB": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_DOGE": {
         "price-precision": 7,
-        "quantity-precision": 7
+        "quantity-precision": 7,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_EMC2": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_ETC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_ETH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_EXP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_FCT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_FLDC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_FLO": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_GAME": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_GAS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_GNO": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_GNT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_GRC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_HUC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_LBC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_LSK": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_LTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_MAID": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_NAV": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_NEOS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_NMC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_NXC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_NXT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_OMG": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_OMNI": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_PASC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_PINK": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_POT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_PPC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_RADS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_REP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_RIC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_SBD": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_SC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_STEEM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_STORJ": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_STR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_STRAT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_SYS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_VIA": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_VRC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_VTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XBC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XCP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XEM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XMR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XPM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XRP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_XVC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_ZEC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "BTC_ZRX": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "BTC 0.0001"
       },
       "ETH_BCH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_CVC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_ETC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_GAS": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_GNO": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_GNT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_LSK": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_OMG": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_REP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_STEEM": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_ZEC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "ETH_ZRX": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "ETH 0.0001"
       },
       "USDT_BCH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_BTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_DASH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_ETC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_ETH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_LTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_NXT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_REP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_STR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_XMR": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_XRP": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "USDT_ZEC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "USDT 0.0001"
       },
       "XMR_BCN": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_BLK": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_BTCD": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_DASH": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_LTC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_MAID": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_NXT": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       },
       "XMR_ZEC": {
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 8,
+        "minimum-order-size": "XMR 0.0001"
       }
     }
   },
