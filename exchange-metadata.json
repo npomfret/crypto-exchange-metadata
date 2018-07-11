@@ -2,18 +2,14 @@
   "anxpro": {
     "withdrawal-fees": {
       "HKD": {
-        "options": [
-          {
-            "Bank Wire": {
-              "fixed": 250,
-              "rate": "1.00%"
-            },
-            "HK Local Bank Transfer": {
-              "fixed": 55,
-              "rate": "1.00%"
-            }
-          }
-        ]
+        "Bank Wire": {
+          "fixed": 250,
+          "rate": "1.00%"
+        },
+        "HK Local Bank Transfer": {
+          "fixed": 55,
+          "rate": "1.00%"
+        }
       },
       "USD": "n/a",
       "GBP": "n/a",
@@ -21,6 +17,7 @@
       "JPY": "n/a",
       "CAD": "n/a",
       "AUD": "n/a",
+      "SGD": "n/a",
       "ANX": 0.1,
       "ATENC": 0.1,
       "BTC": 0.002,
@@ -2695,6 +2692,18 @@
         "Express bank wire": "1.000%"
       },
       "EUR": {
+        "Bank wire": "0.100%",
+        "Express bank wire": "1.000%"
+      },
+      "JPY": {
+        "Bank wire": "0.100%",
+        "Express bank wire": "1.000%"
+      },
+      "GBP": {
+        "Bank wire": "0.100%",
+        "Express bank wire": "1.000%"
+      },
+      "SGD": {
         "Bank wire": "0.100%",
         "Express bank wire": "1.000%"
       },
