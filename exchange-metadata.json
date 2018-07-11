@@ -8079,327 +8079,327 @@
       "BCHJPY": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "BCH 0.01"
       },
       "BCHSGD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "BCH 0.01"
       },
       "BCHUSD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "BCH 0.01"
       },
       "BTCAUD": {
         "price-precision": 5,
         "quantity-precision": 5,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCCNY": {
         "price-precision": 5,
         "quantity-precision": 7,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCEUR": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCHKD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCIDR": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCINR": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCJPY": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCPHP": {
         "price-precision": 5,
         "quantity-precision": 5,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCSGD": {
         "price-precision": 5,
         "quantity-precision": 5,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "BTCUSD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.001
+        "minimum-order-size": "BTC 0.001"
       },
       "DASHEUR": {
         "price-precision": 0,
         "quantity-precision": 1,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "DASH 0.01"
       },
       "DASHJPY": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "DASH 0.01"
       },
       "DASHSGD": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "DASH 0.01"
       },
       "DASHUSD": {
         "price-precision": 4,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "DASH 0.01"
       },
       "ETHAUD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHBTC": {
         "price-precision": 8,
         "quantity-precision": 5,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHCNY": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHEUR": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHHKD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHIDR": {
         "price-precision": 5,
         "quantity-precision": 5,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHINR": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHJPY": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHPHP": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHSGD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "ETHUSD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "ETH 0.01"
       },
       "NEOEUR": {
         "price-precision": 1,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "NEO 0.1"
       },
       "NEOJPY": {
         "price-precision": 3,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "NEO 0.1"
       },
       "NEOSGD": {
         "price-precision": 3,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "NEO 0.1"
       },
       "NEOUSD": {
         "price-precision": 3,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "NEO 0.1"
       },
       "QASHAUD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHBTC": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHCNY": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHETH": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHEUR": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHHKD": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHIDR": {
         "price-precision": 2,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHINR": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHJPY": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHPHP": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHSGD": {
         "price-precision": 5,
         "quantity-precision": 5,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QASHUSD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "QASH 1"
       },
       "QTUMEUR": {
         "price-precision": 3,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "QTUM 0.1"
       },
       "QTUMJPY": {
         "price-precision": 2,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "QTUM 0.1"
       },
       "QTUMSGD": {
         "price-precision": 4,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "QTUM 0.1"
       },
       "QTUMUSD": {
         "price-precision": 4,
         "quantity-precision": 8,
-        "minimum-order-size": 0.1
+        "minimum-order-size": "QTUM 0.1"
       },
       "RKTAUD": {
         "price-precision": 4,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "RKT 1"
       },
       "RKTEUR": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "RKT 1"
       },
       "RKTJPY": {
         "price-precision": 4,
         "quantity-precision": 6,
-        "minimum-order-size": 1
+        "minimum-order-size": "RKT 1"
       },
       "RKTSGD": {
         "price-precision": 3,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "RKT 1"
       },
       "RKTUSD": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 1
+        "minimum-order-size": "RKT 1"
       },
       "UBTCBTC": {
         "price-precision": 8,
         "quantity-precision": 2,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "UBTCETH": {
         "price-precision": 0,
         "quantity-precision": 0,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "UBTCJPY": {
         "price-precision": 5,
         "quantity-precision": 8,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "UBTCQASH": {
         "price-precision": 4,
         "quantity-precision": 4,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "UBTCSGD": {
         "price-precision": 2,
         "quantity-precision": 5,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "UBTCUSD": {
         "price-precision": 5,
         "quantity-precision": 4,
-        "minimum-order-size": 0.01
+        "minimum-order-size": "UBTC 0.01"
       },
       "XRPEUR": {
         "price-precision": 5,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       },
       "XRPIDR": {
         "price-precision": 5,
         "quantity-precision": 0,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       },
       "XRPJPY": {
         "price-precision": 5,
         "quantity-precision": 2,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       },
       "XRPQASH": {
         "price-precision": 8,
         "quantity-precision": 6,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       },
       "XRPSGD": {
         "price-precision": 5,
         "quantity-precision": 6,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       },
       "XRPUSD": {
         "price-precision": 5,
         "quantity-precision": 6,
-        "minimum-order-size": 1
+        "minimum-order-size": "XRP 1"
       }
     }
   },
