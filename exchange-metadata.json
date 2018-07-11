@@ -4049,11 +4049,13 @@
       },
       "XMRUSD": {
         "minimum-order-size": "XMR 0.1",
-        "price-precision": 5
+        "price-precision": 1,
+        "quantity-precision": 8
       },
       "XMRBTC": {
         "minimum-order-size": "XMR 0.1",
-        "price-precision": 5
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "DSHUSD": {
         "minimum-order-size": "DSH 0.04",
@@ -4077,11 +4079,13 @@
       },
       "XRPUSD": {
         "minimum-order-size": "XRP 22.0",
-        "price-precision": 5
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "XRPBTC": {
         "minimum-order-size": "XRP 22.0",
-        "price-precision": 5
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "IOTUSD": {
         "minimum-order-size": "IOT 10.0",
@@ -4804,27 +4808,33 @@
       },
       "XLMUSD": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "XLMEUR": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "XLMJPY": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XLMGBP": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 4,
+        "quantity-precision": 8
       },
       "XLMBTC": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "XLMETH": {
         "minimum-order-size": "XLM 56.0",
-        "price-precision": 5
+        "price-precision": 7,
+        "quantity-precision": 8
       },
       "XVGUSD": {
         "minimum-order-size": "XVG 464.0",
@@ -4832,7 +4842,8 @@
       },
       "XVGEUR": {
         "minimum-order-size": "XVG 464.0",
-        "price-precision": 5
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "XVGJPY": {
         "minimum-order-size": "XVG 464.0",
@@ -4844,11 +4855,13 @@
       },
       "XVGBTC": {
         "minimum-order-size": "XVG 464.0",
-        "price-precision": 5
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "XVGETH": {
         "minimum-order-size": "XVG 464.0",
-        "price-precision": 5
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "BCIUSD": {
         "minimum-order-size": "BCI 6.0",
