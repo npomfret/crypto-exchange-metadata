@@ -8565,24 +8565,20 @@
       "default": 0,
       "usd": {
         "ADVCash": "0%",
-        "Perfect Money": "1%",
-        "Epay": "0%",
-        "Payeer": "5%",
+        "Perfect Money": "0%",
         "Western Union": "6.5%",
         "MoneyGram": "6.5%",
         "Contact": "6.5%"
       },
       "rur": {
         "ADVCash": "0%",
-        "Яндекс.деньги": "10%",
+        "Яндекс.деньги": "0%",
         "QIWI": "5%",
-        "Payeer": "5%"
       },
       "eur": {
         "ADVCash": "0%",
-        "Perfect Money": "1%",
-        "Epay": "0%",
-        "Payeer": "5%"
+        "Perfect Money": "0%",
+        "Payeer": "0%"
       }
     },
     "withdrawal-fees": {
@@ -8598,39 +8594,24 @@
       "zec": 0.001,
       "usdt": 10,
       "usd": {
-        "ADVCash": "4%",
-        "Perfect Money": "4%",
-        "Epay": "4%",
-        "Payeer": "4%",
-        "p2p - обмен Россия": "4%",
-        "Alfa Bank": "6%",
-        "p2p - обмен Беларусь": "4%",
-        "p2p - обмен Казахстан": "4%",
-        "p2p - Europe": "4%",
-        "p2p - United Arab Emirates": "4%"
+        "ADVCash": "20%",
+        "Perfect Money": "20%"
       },
       "rur": {
-        "ADVCash": "4%",
-        "Яндекс.деньги": "0%",
-        "QIWI": "5%",
-        "Payeer": "2%",
-        "Билайн": "2.5%",
-        "Мегафон": "2.5%",
-        "МТС": "2.5%",
-        "Теле 2": "2.5%",
-        "Visa": "5%",
-        "Mastercard": "5%",
-        "Альфа Банк": "6%",
-        "Тинькофф Банк": "6%",
-        "Банк Русский стандарт": "6%",
-        "Сбербанк": "7%"
+        "ADVCash": "20%",
+        "Яндекс.деньги": "5%",
+        "QIWI": "10%",
+        "Билайн": "10%",
+        "Мегафон": "10%",
+        "МТС": "10%",
+        "Теле 2": "10%",
+        "Visa": "10%",
+        "Mastercard": "10%"
       },
       "eur": {
-        "ADVCash": "4%",
-        "Perfect Money": "4%",
-        "Epay": "4%",
-        "Payeer": "4%",
-        "Alfa Bank": "6%"
+        "ADVCash": "20%",
+        "Perfect Money": "20%",
+        "Payeer": "20%"
       }
     },
     "markets": {
