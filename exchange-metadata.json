@@ -2691,87 +2691,87 @@
     "withdrawal-fees": {
       "__notes": "get from api",
       "ADD": 0,
-      "AGI": 17.624,
-      "AID": 20.034,
-      "AIO": 2.1414,
-      "ANT": 1.0438,
+      "AGI": 9.8548,
+      "AID": 10.894,
+      "AIO": 1.1843,
+      "ANT": 0.62141,
       "ATD": 0,
-      "AUC": 16.692,
-      "AVT": 2.5928,
-      "BAT": 8.5177,
+      "AUC": 7.6408,
+      "AVT": 1.4139,
+      "BAT": 4.7174,
       "BCH": 0.0001,
       "BCI": 0,
-      "BFT": 20.189,
+      "BFT": 11.034,
       "BTC": 0.0004,
       "BTG": 0,
-      "CBT": 55.513,
-      "CFI": 54.87,
-      "CND": 5.1642,
-      "CTX": 2.8983,
-      "DAD": 16.65,
-      "DAI": 2.35,
-      "DAT": 29.28,
+      "CBT": 30.519,
+      "CFI": 30.682,
+      "CND": 28.819,
+      "CTX": 0.27004,
+      "DAD": 9.5027,
+      "DAI": 1.3049,
+      "DAT": 16.372,
       "DSH": 0.01,
-      "DTH": 49.738,
-      "EDO": 2.244,
-      "ELF": 3.3045,
+      "DTH": 27.813,
+      "EDO": 1.3346,
+      "ELF": 1.9317,
       "EOS": 0,
-      "ESS": 68.757,
+      "ESS": 33.174,
       "ETC": 0.01,
-      "ETH": 0.0048285,
+      "ETH": 0.0027,
       "ETP": 0.01,
-      "EVT": 433.89,
-      "FSN": 0.72069,
-      "FUN": 78.795,
-      "GNT": 6.4732,
-      "IOS": 90.95,
+      "EVT": 194.65,
+      "FSN": 0.403,
+      "FUN": 41.539,
+      "GNT": 3.7582,
+      "IOS": 52.509,
       "IOT": 0.5,
-      "KNC": 2.2849,
-      "LRC": 5.1368,
+      "KNC": 1.2641,
+      "LRC": 2.9183,
       "LTC": 0.001,
-      "LYM": 48.475,
-      "MIT": 3.6583,
-      "MKR": 0.0040295,
-      "MNA": 22.722,
-      "MTN": 30,
-      "MTO": 23548,
-      "NCA": 116.44,
-      "NEC": 5.7004,
+      "LYM": 40.486,
+      "MIT": 2.046,
+      "MKR": 0.002239,
+      "MNA": 11.18,
+      "MTN": 15.398,
+      "MTO": 13125,
+      "NCA": 69.606,
+      "NEC": 3.1875,
       "NEO": 0,
-      "ODE": 5.5686,
-      "OMG": 0.29055,
-      "ORS": 49.106,
+      "ODE": 3.0169,
+      "OMG": 0.16709,
+      "ORS": 25.003,
       "PAI": 0,
-      "POA": 13.227,
-      "POY": 5.4612,
-      "QSH": 7.6708,
+      "POA": 5.9991,
+      "POY": 3.1215,
+      "QSH": 4.4747,
       "QTM": 0.01,
-      "RCN": 43.9,
-      "RDN": 2.6823,
-      "REP": 0.06553,
-      "REQ": 28.042,
-      "RLC": 2.0705,
-      "SAN": 2.5033,
-      "SEE": 282.77,
-      "SEN": 120.72,
-      "SNG": 47.483,
-      "SNT": 28.648,
-      "SPK": 24.332,
-      "STJ": 4.0275,
-      "TNB": 74.884,
-      "TRX": 61.152,
-      "UTK": 30.215,
-      "VEE": 88.613,
-      "VEN": 0.90503,
-      "WAX": 17.73,
+      "RCN": 24.548,
+      "RDN": 1.5255,
+      "REP": 0.038296,
+      "REQ": 15.555,
+      "RLC": 1.4089,
+      "SAN": 1.4218,
+      "SEE": 130.06,
+      "SEN": 67.517,
+      "SNG": 26.554,
+      "SNT": 16.234,
+      "SPK": 14.871,
+      "STJ": 2.2544,
+      "TNB": 48.64,
+      "TRX": 34.395,
+      "UTK": 12.013,
+      "VEE": 49.587,
+      "VEN": 0.5109,
+      "WAX": 10.137,
       "XLM": 0,
       "XMR": 0.04,
       "XRP": 0.02,
       "XVG": 0,
-      "YYW": 34.374,
-      "ZCN": 3.7143,
+      "YYW": 18.917,
+      "ZCN": 2.0931,
       "ZEC": 0.001,
-      "ZRX": 2.3459
+      "ZRX": 1.3546
     },
     "markets": {
       "btcusd": {
@@ -3982,6 +3982,1189 @@
       "esseth": {
         "minimum-order-size": "ess 242.0",
         "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AGIBTC": {
+        "price-precision": 5,
+        "quantity-precision": 8,
+        "minimum-order-size": "AGI 100.0"
+      },
+      "AGIETH": {
+        "price-precision": 5,
+        "quantity-precision": 8,
+        "minimum-order-size": "AGI 100.0"
+      },
+      "BTCUSD": {
+        "minimum-order-size": "BTC 0.002",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "LTCUSD": {
+        "minimum-order-size": "LTC 0.2",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "LTCBTC": {
+        "minimum-order-size": "LTC 0.2",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETHUSD": {
+        "minimum-order-size": "ETH 0.02",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ETHBTC": {
+        "minimum-order-size": "ETH 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETCBTC": {
+        "minimum-order-size": "ETC 0.8",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "ETCUSD": {
+        "minimum-order-size": "ETC 0.8",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "RRTUSD": {
+        "minimum-order-size": "RRT 214.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "RRTBTC": {
+        "minimum-order-size": "RRT 214.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ZECUSD": {
+        "minimum-order-size": "ZEC 0.06",
+        "price-precision": 5
+      },
+      "ZECBTC": {
+        "minimum-order-size": "ZEC 0.06",
+        "price-precision": 5
+      },
+      "XMRUSD": {
+        "minimum-order-size": "XMR 0.1",
+        "price-precision": 5
+      },
+      "XMRBTC": {
+        "minimum-order-size": "XMR 0.1",
+        "price-precision": 5
+      },
+      "DSHUSD": {
+        "minimum-order-size": "DSH 0.04",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "DSHBTC": {
+        "minimum-order-size": "DSH 0.04",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BTCEUR": {
+        "minimum-order-size": "BTC 0.002",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "BTCJPY": {
+        "minimum-order-size": "BTC 0.002",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "XRPUSD": {
+        "minimum-order-size": "XRP 22.0",
+        "price-precision": 5
+      },
+      "XRPBTC": {
+        "minimum-order-size": "XRP 22.0",
+        "price-precision": 5
+      },
+      "IOTUSD": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "IOTBTC": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "IOTETH": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "EOSUSD": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "EOSBTC": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "EOSETH": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SANUSD": {
+        "minimum-order-size": "SAN 14.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "SANBTC": {
+        "minimum-order-size": "SAN 14.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SANETH": {
+        "minimum-order-size": "SAN 14.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "OMGUSD": {
+        "minimum-order-size": "OMG 2.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "OMGBTC": {
+        "minimum-order-size": "OMG 2.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "OMGETH": {
+        "minimum-order-size": "OMG 2.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BCHUSD": {
+        "minimum-order-size": "BCH 0.02",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "BCHBTC": {
+        "minimum-order-size": "BCH 0.02",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BCHETH": {
+        "minimum-order-size": "BCH 0.02",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "NEOUSD": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "NEOBTC": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "NEOETH": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ETPUSD": {
+        "minimum-order-size": "ETP 20.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ETPBTC": {
+        "minimum-order-size": "ETP 20.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ETPETH": {
+        "minimum-order-size": "ETP 20.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "QTMUSD": {
+        "minimum-order-size": "QTM 2.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "QTMBTC": {
+        "minimum-order-size": "QTM 2.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "QTMETH": {
+        "minimum-order-size": "QTM 2.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AVTUSD": {
+        "minimum-order-size": "AVT 12.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "AVTBTC": {
+        "minimum-order-size": "AVT 12.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "AVTETH": {
+        "minimum-order-size": "AVT 12.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "EDOUSD": {
+        "minimum-order-size": "EDO 12.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "EDOBTC": {
+        "minimum-order-size": "EDO 12.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "EDOETH": {
+        "minimum-order-size": "EDO 12.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "BTGUSD": {
+        "minimum-order-size": "BTG 0.4",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "BTGBTC": {
+        "minimum-order-size": "BTG 0.4",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "DATUSD": {
+        "minimum-order-size": "DAT 194.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DATBTC": {
+        "minimum-order-size": "DAT 194.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DATETH": {
+        "minimum-order-size": "DAT 194.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "QSHUSD": {
+        "minimum-order-size": "QSH 46.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "QSHBTC": {
+        "minimum-order-size": "QSH 46.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "QSHETH": {
+        "minimum-order-size": "QSH 46.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "YYWUSD": {
+        "minimum-order-size": "YYW 172.0",
+        "price-precision": 5
+      },
+      "YYWBTC": {
+        "minimum-order-size": "YYW 172.0",
+        "price-precision": 5
+      },
+      "YYWETH": {
+        "minimum-order-size": "YYW 172.0",
+        "price-precision": 5
+      },
+      "GNTUSD": {
+        "minimum-order-size": "GNT 36.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "GNTBTC": {
+        "minimum-order-size": "GNT 36.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "GNTETH": {
+        "minimum-order-size": "GNT 36.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SNTUSD": {
+        "minimum-order-size": "SNT 192.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SNTBTC": {
+        "minimum-order-size": "SNT 192.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNTETH": {
+        "minimum-order-size": "SNT 192.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "IOTEUR": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BATUSD": {
+        "minimum-order-size": "BAT 50.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "BATBTC": {
+        "minimum-order-size": "BAT 50.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BATETH": {
+        "minimum-order-size": "BAT 50.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "MNAUSD": {
+        "minimum-order-size": "MNA 132.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MNABTC": {
+        "minimum-order-size": "MNA 132.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MNAETH": {
+        "minimum-order-size": "MNA 132.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "FUNUSD": {
+        "minimum-order-size": "FUN 446.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "FUNBTC": {
+        "minimum-order-size": "FUN 446.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FUNETH": {
+        "minimum-order-size": "FUN 446.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ZRXUSD": {
+        "minimum-order-size": "ZRX 16.0",
+        "price-precision": 5
+      },
+      "ZRXBTC": {
+        "minimum-order-size": "ZRX 16.0",
+        "price-precision": 5
+      },
+      "ZRXETH": {
+        "minimum-order-size": "ZRX 16.0",
+        "price-precision": 5
+      },
+      "TNBUSD": {
+        "minimum-order-size": "TNB 528.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "TNBBTC": {
+        "minimum-order-size": "TNB 528.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TNBETH": {
+        "minimum-order-size": "TNB 528.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SPKUSD": {
+        "minimum-order-size": "SPK 108.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SPKBTC": {
+        "minimum-order-size": "SPK 108.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SPKETH": {
+        "minimum-order-size": "SPK 108.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "TRXUSD": {
+        "minimum-order-size": "TRX 272.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "TRXBTC": {
+        "minimum-order-size": "TRX 272.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "TRXETH": {
+        "minimum-order-size": "TRX 272.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RCNUSD": {
+        "minimum-order-size": "RCN 236.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "RCNBTC": {
+        "minimum-order-size": "RCN 236.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RCNETH": {
+        "minimum-order-size": "RCN 236.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "RLCUSD": {
+        "minimum-order-size": "RLC 14.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "RLCBTC": {
+        "minimum-order-size": "RLC 14.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RLCETH": {
+        "minimum-order-size": "RLC 14.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "AIDUSD": {
+        "minimum-order-size": "AID 102.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AIDBTC": {
+        "minimum-order-size": "AID 102.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AIDETH": {
+        "minimum-order-size": "AID 102.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNGUSD": {
+        "minimum-order-size": "SNG 298.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SNGBTC": {
+        "minimum-order-size": "SNG 298.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SNGETH": {
+        "minimum-order-size": "SNG 298.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "REPUSD": {
+        "minimum-order-size": "REP 0.4",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "REPBTC": {
+        "minimum-order-size": "REP 0.4",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "REPETH": {
+        "minimum-order-size": "REP 0.4",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ELFUSD": {
+        "minimum-order-size": "ELF 20.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "ELFBTC": {
+        "minimum-order-size": "ELF 20.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ELFETH": {
+        "minimum-order-size": "ELF 20.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "BTCGBP": {
+        "minimum-order-size": "BTC 0.002",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "ETHEUR": {
+        "minimum-order-size": "ETH 0.02",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "ETHJPY": {
+        "minimum-order-size": "ETH 0.02",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "ETHGBP": {
+        "minimum-order-size": "ETH 0.02",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "NEOEUR": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "NEOJPY": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 0,
+        "quantity-precision": 8
+      },
+      "NEOGBP": {
+        "minimum-order-size": "NEO 0.4",
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "EOSEUR": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "EOSJPY": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "EOSGBP": {
+        "minimum-order-size": "EOS 2.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "IOTJPY": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "IOTGBP": {
+        "minimum-order-size": "IOT 10.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "IOSUSD": {
+        "minimum-order-size": "IOS 482.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "IOSBTC": {
+        "minimum-order-size": "IOS 480.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "IOSETH": {
+        "minimum-order-size": "IOS 480.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AIOUSD": {
+        "minimum-order-size": "AIO 10.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "AIOBTC": {
+        "minimum-order-size": "AIO 10.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "AIOETH": {
+        "minimum-order-size": "AIO 10.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "REQUSD": {
+        "minimum-order-size": "REQ 140.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "REQBTC": {
+        "minimum-order-size": "REQ 140.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "REQETH": {
+        "minimum-order-size": "REQ 140.0",
+        "price-precision": 7,
+        "quantity-precision": 6
+      },
+      "RDNUSD": {
+        "minimum-order-size": "RDN 14.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "RDNBTC": {
+        "minimum-order-size": "RDN 14.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "RDNETH": {
+        "minimum-order-size": "RDN 14.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "LRCUSD": {
+        "minimum-order-size": "LRC 32.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "LRCBTC": {
+        "minimum-order-size": "LRC 32.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LRCETH": {
+        "minimum-order-size": "LRC 32.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "WAXUSD": {
+        "minimum-order-size": "WAX 112.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "WAXBTC": {
+        "minimum-order-size": "WAX 112.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "WAXETH": {
+        "minimum-order-size": "WAX 112.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DAIUSD": {
+        "minimum-order-size": "DAI 10.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "DAIBTC": {
+        "minimum-order-size": "DAI 10.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "DAIETH": {
+        "minimum-order-size": "DAI 10.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "CFIUSD": {
+        "minimum-order-size": "CFI 288.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "CFIBTC": {
+        "minimum-order-size": "CFI 288.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CFIETH": {
+        "minimum-order-size": "CFI 288.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AGIUSD": {
+        "minimum-order-size": "AGI 100.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BFTUSD": {
+        "minimum-order-size": "BFT 104.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "BFTBTC": {
+        "minimum-order-size": "BFT 104.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BFTETH": {
+        "minimum-order-size": "BFT 104.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "MTNUSD": {
+        "minimum-order-size": "MTN 158.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MTNBTC": {
+        "minimum-order-size": "MTN 158.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MTNETH": {
+        "minimum-order-size": "MTN 158.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ODEUSD": {
+        "minimum-order-size": "ODE 66.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "ODEBTC": {
+        "minimum-order-size": "ODE 66.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ODEETH": {
+        "minimum-order-size": "ODE 66.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ANTUSD": {
+        "minimum-order-size": "ANT 6.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "ANTBTC": {
+        "minimum-order-size": "ANT 6.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ANTETH": {
+        "minimum-order-size": "ANT 6.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "DTHUSD": {
+        "minimum-order-size": "DTH 302.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "DTHBTC": {
+        "minimum-order-size": "DTH 302.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DTHETH": {
+        "minimum-order-size": "DTH 302.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MITUSD": {
+        "minimum-order-size": "MIT 30.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "MITBTC": {
+        "minimum-order-size": "MIT 30.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "MITETH": {
+        "minimum-order-size": "MIT 30.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "STJUSD": {
+        "minimum-order-size": "STJ 22.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "STJBTC": {
+        "minimum-order-size": "STJ 22.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "STJETH": {
+        "minimum-order-size": "STJ 22.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "XLMUSD": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XLMEUR": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XLMJPY": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XLMGBP": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XLMBTC": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XLMETH": {
+        "minimum-order-size": "XLM 56.0",
+        "price-precision": 5
+      },
+      "XVGUSD": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "XVGEUR": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "XVGJPY": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "XVGGBP": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "XVGBTC": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "XVGETH": {
+        "minimum-order-size": "XVG 464.0",
+        "price-precision": 5
+      },
+      "BCIUSD": {
+        "minimum-order-size": "BCI 6.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "BCIBTC": {
+        "minimum-order-size": "BCI 6.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "MKRUSD": {
+        "minimum-order-size": "MKR 0.02",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "MKRBTC": {
+        "minimum-order-size": "MKR 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "MKRETH": {
+        "minimum-order-size": "MKR 0.02",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "VENUSD": {
+        "minimum-order-size": "VEN 4.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "VENBTC": {
+        "minimum-order-size": "VEN 4.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "VENETH": {
+        "minimum-order-size": "VEN 4.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "KNCUSD": {
+        "minimum-order-size": "KNC 14.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "KNCBTC": {
+        "minimum-order-size": "KNC 14.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "KNCETH": {
+        "minimum-order-size": "KNC 14.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POAUSD": {
+        "minimum-order-size": "POA 62.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "POABTC": {
+        "minimum-order-size": "POA 62.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POAETH": {
+        "minimum-order-size": "POA 62.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "LYMUSD": {
+        "minimum-order-size": "LYM 274.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "LYMBTC": {
+        "minimum-order-size": "LYM 274.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "LYMETH": {
+        "minimum-order-size": "LYM 274.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "UTKUSD": {
+        "minimum-order-size": "UTK 162.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "UTKBTC": {
+        "minimum-order-size": "UTK 162.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "UTKETH": {
+        "minimum-order-size": "UTK 162.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "VEEUSD": {
+        "minimum-order-size": "VEE 606.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "VEEBTC": {
+        "minimum-order-size": "VEE 606.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "VEEETH": {
+        "minimum-order-size": "VEE 606.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DADUSD": {
+        "minimum-order-size": "DAD 82.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "DADBTC": {
+        "minimum-order-size": "DAD 82.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "DADETH": {
+        "minimum-order-size": "DAD 82.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ORSUSD": {
+        "minimum-order-size": "ORS 374.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ORSBTC": {
+        "minimum-order-size": "ORS 374.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ORSETH": {
+        "minimum-order-size": "ORS 374.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AUCUSD": {
+        "minimum-order-size": "AUC 68.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "AUCBTC": {
+        "minimum-order-size": "AUC 68.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "AUCETH": {
+        "minimum-order-size": "AUC 68.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POYUSD": {
+        "minimum-order-size": "POY 36.0",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "POYBTC": {
+        "minimum-order-size": "POY 36.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "POYETH": {
+        "minimum-order-size": "POY 36.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "FSNUSD": {
+        "minimum-order-size": "FSN 4.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "FSNBTC": {
+        "minimum-order-size": "FSN 4.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FSNETH": {
+        "minimum-order-size": "FSN 4.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "CBTUSD": {
+        "minimum-order-size": "CBT 424.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "CBTBTC": {
+        "minimum-order-size": "CBT 424.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CBTETH": {
+        "minimum-order-size": "CBT 424.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ZCNUSD": {
+        "minimum-order-size": "ZCN 18.0",
+        "price-precision": 5
+      },
+      "ZCNBTC": {
+        "minimum-order-size": "ZCN 18.0",
+        "price-precision": 5
+      },
+      "ZCNETH": {
+        "minimum-order-size": "ZCN 18.0",
+        "price-precision": 5
+      },
+      "SENUSD": {
+        "minimum-order-size": "SEN 576.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "SENBTC": {
+        "minimum-order-size": "SEN 576.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SENETH": {
+        "minimum-order-size": "SEN 576.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "NCAUSD": {
+        "minimum-order-size": "NCA 772.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "NCABTC": {
+        "minimum-order-size": "NCA 772.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "NCAETH": {
+        "minimum-order-size": "NCA 772.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CNDUSD": {
+        "minimum-order-size": "CND 348.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "CNDBTC": {
+        "minimum-order-size": "CND 348.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CNDETH": {
+        "minimum-order-size": "CND 348.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "CTXUSD": {
+        "minimum-order-size": "CTX 14.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "CTXBTC": {
+        "minimum-order-size": "CTX 14.0",
+        "price-precision": 8,
+        "quantity-precision": 6
+      },
+      "CTXETH": {
+        "minimum-order-size": "CTX 14.0",
+        "price-precision": 8,
+        "quantity-precision": 3
+      },
+      "PAIUSD": {
+        "minimum-order-size": "PAI 8.0",
+        "price-precision": 3,
+        "quantity-precision": 8
+      },
+      "PAIBTC": {
+        "minimum-order-size": "PAI 8.0",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "SEEUSD": {
+        "minimum-order-size": "SEE 1396.0",
+        "price-precision": 6,
+        "quantity-precision": 8
+      },
+      "SEEBTC": {
+        "minimum-order-size": "SEE 1396.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "SEEETH": {
+        "minimum-order-size": "SEE 1396.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ESSUSD": {
+        "minimum-order-size": "ESS 242.0",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "ESSBTC": {
+        "minimum-order-size": "ESS 242.0",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "ESSETH": {
+        "minimum-order-size": "ESS 242.0",
+        "price-precision": 8,
         "quantity-precision": 8
       }
     }
