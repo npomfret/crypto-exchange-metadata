@@ -4522,7 +4522,7 @@
       "BTC-AID": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "AID 1e-8"
+        "minimum-order-size": "AID 0.00000001"
       },
       "BTC-AMP": {
         "price-precision": 8,
@@ -4597,7 +4597,7 @@
       "BTC-BLT": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "BLT 1e-8"
+        "minimum-order-size": "BLT 0.00000001"
       },
       "BTC-BNT": {
         "price-precision": 8,
@@ -4642,7 +4642,7 @@
       "BTC-CBC": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "CBC 1e-8"
+        "minimum-order-size": "CBC 0.00000001"
       },
       "BTC-CFI": {
         "price-precision": 8,
@@ -4662,7 +4662,7 @@
       "BTC-CMCT": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "CMCT 1e-8"
+        "minimum-order-size": "CMCT 0.00000001"
       },
       "BTC-COVAL": {
         "price-precision": 7,
@@ -4887,7 +4887,7 @@
       "BTC-GTO": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "GTO 1e-8"
+        "minimum-order-size": "GTO 0.00000001"
       },
       "BTC-GUP": {
         "price-precision": 8,
@@ -5032,12 +5032,12 @@
       "BTC-NGC": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "NGC 1e-8"
+        "minimum-order-size": "NGC 0.00000001"
       },
       "BTC-NLC2": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "NLC2 1e-8"
+        "minimum-order-size": "NLC2 0.00000001"
       },
       "BTC-NLG": {
         "price-precision": 8,
@@ -5067,7 +5067,7 @@
       "BTC-OCN": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "OCN 1e-8"
+        "minimum-order-size": "OCN 0.00000001"
       },
       "BTC-OK": {
         "price-precision": 8,
@@ -5262,7 +5262,7 @@
       "BTC-STORM": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "STORM 1e-8"
+        "minimum-order-size": "STORM 0.00000001"
       },
       "BTC-STRAT": {
         "price-precision": 8,
@@ -5312,7 +5312,7 @@
       "BTC-TUBE": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "TUBE 1e-8"
+        "minimum-order-size": "TUBE 0.00000001"
       },
       "BTC-TUSD": {
         "price-precision": 8,
@@ -5497,7 +5497,7 @@
       "ETH-AID": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "AID 1e-8"
+        "minimum-order-size": "AID 0.00000001"
       },
       "ETH-ANT": {
         "price-precision": 8,
@@ -5522,7 +5522,7 @@
       "ETH-BLT": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "BLT 1e-8"
+        "minimum-order-size": "BLT 0.00000001"
       },
       "ETH-BNT": {
         "price-precision": 8,
@@ -5592,7 +5592,7 @@
       "ETH-GTO": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "GTO 1e-8"
+        "minimum-order-size": "GTO 0.00000001"
       },
       "ETH-GUP": {
         "price-precision": 8,
@@ -5642,7 +5642,7 @@
       "ETH-NGC": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "NGC 1e-8"
+        "minimum-order-size": "NGC 0.00000001"
       },
       "ETH-NMR": {
         "price-precision": 8,
@@ -5652,7 +5652,7 @@
       "ETH-OCN": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "OCN 1e-8"
+        "minimum-order-size": "OCN 0.00000001"
       },
       "ETH-OMG": {
         "price-precision": 8,
@@ -5722,7 +5722,7 @@
       "ETH-STORM": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "STORM 1e-8"
+        "minimum-order-size": "STORM 0.00000001"
       },
       "ETH-STRAT": {
         "price-precision": 8,
@@ -5817,7 +5817,7 @@
       "USD-ETH": {
         "price-precision": 3,
         "quantity-precision": 8,
-        "minimum-order-size": "ETH 1e-8"
+        "minimum-order-size": "ETH 0.00000001"
       },
       "USD-TUSD": {
         "price-precision": 3,
@@ -5857,7 +5857,7 @@
       "USDT-DCR": {
         "price-precision": 8,
         "quantity-precision": 8,
-        "minimum-order-size": "DCR 1e-8"
+        "minimum-order-size": "DCR 0.00000001"
       },
       "USDT-ETC": {
         "price-precision": 8,
@@ -5925,12 +5925,12 @@
         "minimum-order-size": "ZEC 0.01001703"
       },
       "BTC-BKX": {
-        "minimum-order-size": "BKX 1e-8",
+        "minimum-order-size": "BKX 0.00000001",
         "price-precision": 8,
         "quantity-precision": 8
       },
       "BTC-MFT": {
-        "minimum-order-size": "MFT 1e-8",
+        "minimum-order-size": "MFT 0.00000001",
         "price-precision": 8,
         "quantity-precision": 8
       }
