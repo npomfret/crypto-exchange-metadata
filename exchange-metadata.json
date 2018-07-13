@@ -5923,6 +5923,16 @@
         "price-precision": 8,
         "quantity-precision": 8,
         "minimum-order-size": "ZEC 0.01001703"
+      },
+      "BTC-BKX": {
+        "minimum-order-size": "BKX 1e-8",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BTC-MFT": {
+        "minimum-order-size": "MFT 1e-8",
+        "price-precision": 8,
+        "quantity-precision": 8
       }
     }
   },
