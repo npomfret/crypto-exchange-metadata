@@ -8612,22 +8612,12 @@
     "deposit-fees": {
       "default": 0,
       "usd": {
-        "ADVCash": "0%",
-        "Perfect Money": "0%",
         "Western Union": "6.5%",
         "MoneyGram": "6.5%",
         "Contact": "6.5%"
       },
-      "rur": {
-        "ADVCash": "0%",
-        "Яндекс.деньги": "0%",
-        "QIWI": "5%"
-      },
-      "eur": {
-        "ADVCash": "0%",
-        "Perfect Money": "0%",
-        "Payeer": "0%"
-      }
+      "rur": "n/a",
+      "eur": "n/a"
     },
     "withdrawal-fees": {
       "__notes": "https://wex.nz/fees",
@@ -8641,26 +8631,9 @@
       "bch": 0.001,
       "zec": 0.001,
       "usdt": 10,
-      "usd": {
-        "ADVCash": "20%",
-        "Perfect Money": "20%"
-      },
-      "rur": {
-        "ADVCash": "20%",
-        "Яндекс.деньги": "5%",
-        "QIWI": "10%",
-        "Билайн": "10%",
-        "Мегафон": "10%",
-        "МТС": "10%",
-        "Теле 2": "10%",
-        "Visa": "10%",
-        "Mastercard": "10%"
-      },
-      "eur": {
-        "ADVCash": "20%",
-        "Perfect Money": "20%",
-        "Payeer": "20%"
-      }
+      "usd": "n/a",
+      "rur": "n/a",
+      "eur": "n/a"
     },
     "markets": {
       "bch_btc": {
