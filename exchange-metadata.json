@@ -8895,6 +8895,11 @@
         "price-precision": 3,
         "quantity-precision": 8,
         "minimum-order-size": "zec 0.01"
+      },
+      "btc_usdt": {
+        "minimum-order-size": "btc 0.001",
+        "price-precision": 3,
+        "quantity-precision": 8
       }
     }
   }
