@@ -6734,6 +6734,14 @@
       }
     }
   },
+  "itbit": {
+    "trading-fees": {
+      "default": {
+        "taker": "0.25%",
+        "maker": "0%"
+      }
+    }
+  },
   "kraken": {
     "trading-fees": {
       "__notes": "https://www.kraken.com/help/fees",
