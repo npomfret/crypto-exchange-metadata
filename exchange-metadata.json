@@ -4466,7 +4466,7 @@
       "ZRX": 1,
       "VEE": 1,
       "BCPT": 1,
-      "TRX": 1,
+      "TRX": 0.003,
       "TUSD": 1,
       "BTCP": 0.01,
       "LRC": 1,
@@ -4484,7 +4484,9 @@
       "TUBE": 0.01,
       "CBC": 1,
       "CMCT": 1,
-      "NLC2": 0.1
+      "NLC2": 0.1,
+      "BKX": 1,
+      "MFT": 1
     },
     "markets": {
       "BTC-2GIVE": {
