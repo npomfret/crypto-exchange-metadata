@@ -8010,7 +8010,7 @@
     "deposit-fees": {
       "__notes": "https://www.quadrigacx.com/account-funding-withdrawal",
       "default": 0,
-      "CAD": {
+      "cad": {
         "Flexepin Voucher": "2.5%",
         "INTERAC® Online": "1.5%",
         "Bank Wire": "1%",
@@ -8020,7 +8020,7 @@
     },
     "withdrawal-fees": {
       "default": 0,
-      "CAD": {
+      "cad": {
         "Express Bank Transfer": "3%",
         "Credit Card": "1%",
         "Cash Delivery": {
