@@ -2625,49 +2625,65 @@
         "minimum-order-size": {
           "bid": "XMR 0.025",
           "ask": "EUR 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ZEC-BTC": {
         "minimum-order-size": {
           "bid": "ZEC 0.025",
           "ask": "BTC 0.00003"
-        }
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "ZEC-USD": {
         "minimum-order-size": {
           "bid": "ZEC 0.025",
           "ask": "USD 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XMR-USD": {
         "minimum-order-size": {
           "bid": "XMR 0.025",
           "ask": "USD 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ZEC-EUR": {
         "minimum-order-size": {
           "bid": "ZEC 0.025",
           "ask": "EUR 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ZEC-PLN": {
         "minimum-order-size": {
           "bid": "ZEC 0.025",
           "ask": "PLN 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XMR-PLN": {
         "minimum-order-size": {
           "bid": "XMR 0.025",
           "ask": "PLN 0.1"
-        }
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XMR-BTC": {
         "minimum-order-size": {
           "bid": "XMR 0.025",
           "ask": "BTC 0.00003"
-        }
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       }
     }
   },
