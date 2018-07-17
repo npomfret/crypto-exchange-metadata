@@ -6606,9 +6606,9 @@
         "quantity-precision": 4
       },
       "eurseur": {
-        "minimum-order-size": "EURS 1",
+        "minimum-order-size": "EURS 0.01",
         "price-precision": 6,
-        "quantity-precision": 1
+        "quantity-precision": 2
       },
       "bccusdt": {
         "minimum-order-size": "BCH 0.01",
