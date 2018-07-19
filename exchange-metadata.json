@@ -2735,7 +2735,7 @@
       "BAT": 3.6035,
       "BCH": 0.0001,
       "BCI": 0,
-      "BFT": 16.146,
+      "BFT": 12.061,
       "BTC": 0.0004,
       "BTG": 0,
       "CBT": 41.545,
@@ -2746,12 +2746,12 @@
       "DAI": 1.213,
       "DAT": 18.126,
       "DSH": 0.01,
-      "DTA": 135.55,
+      "DTA": 135.07,
       "DTH": 33.508,
       "EDO": 1.3211,
       "ELF": 2.0032,
       "EOS": 0,
-      "ESS": 48.215,
+      "ESS": 58.798,
       "ETC": 0.01,
       "ETH": 0.0027,
       "ETP": 0.01,
@@ -2764,9 +2764,9 @@
       "IOT": 0.5,
       "IQX": 0,
       "KNC": 1.3259,
-      "LRC": 4.2369,
+      "LRC": 2.939,
       "LTC": 0.001,
-      "LYM": 42.83,
+      "LYM": 29.316,
       "MIT": 1.9425,
       "MKR": 0.0020843,
       "MNA": 12.345,
@@ -2779,7 +2779,7 @@
       "OMG": 0.17701,
       "ORS": 22.534,
       "PAI": 0,
-      "POA": 8.2954,
+      "POA": 5.812,
       "POY": 3.5383,
       "QSH": 4.4763,
       "QTM": 0.01,
@@ -2787,7 +2787,7 @@
       "RDN": 1.5841,
       "REP": 0.042028,
       "REQ": 18.05,
-      "RLC": 1.111,
+      "RLC": 1.6026,
       "SAN": 1.2858,
       "SEE": 180,
       "SEN": 74.034,
@@ -2948,7 +2948,7 @@
       },
       "SANUSD": {
         "minimum-order-size": "SAN 14.0",
-        "price-precision": 4,
+        "price-precision": 3,
         "quantity-precision": 8
       },
       "SANBTC": {
@@ -3053,7 +3053,7 @@
       },
       "EDOUSD": {
         "minimum-order-size": "EDO 12.0",
-        "price-precision": 4,
+        "price-precision": 3,
         "quantity-precision": 8
       },
       "EDOBTC": {
@@ -3173,7 +3173,7 @@
       },
       "MNAUSD": {
         "minimum-order-size": "MNA 132.0",
-        "price-precision": 5,
+        "price-precision": 4,
         "quantity-precision": 8
       },
       "MNABTC": {
@@ -3273,8 +3273,8 @@
       },
       "RCNETH": {
         "minimum-order-size": "RCN 236.0",
-        "price-precision": 8,
-        "quantity-precision": 4
+        "price-precision": 7,
+        "quantity-precision": 8
       },
       "RLCUSD": {
         "minimum-order-size": "RLC 14.0",
@@ -3454,7 +3454,7 @@
       "REQETH": {
         "minimum-order-size": "REQ 156.0",
         "price-precision": 7,
-        "quantity-precision": 6
+        "quantity-precision": 8
       },
       "RDNUSD": {
         "minimum-order-size": "RDN 14.0",
@@ -3469,7 +3469,7 @@
       "RDNETH": {
         "minimum-order-size": "RDN 14.0",
         "price-precision": 6,
-        "quantity-precision": 5
+        "quantity-precision": 8
       },
       "LRCUSD": {
         "minimum-order-size": "LRC 38.0",
@@ -3533,7 +3533,7 @@
       },
       "AGIUSD": {
         "minimum-order-size": "AGI 100.0",
-        "price-precision": 5,
+        "price-precision": 4,
         "quantity-precision": 8
       },
       "BFTUSD": {
@@ -3563,7 +3563,7 @@
       },
       "MTNETH": {
         "minimum-order-size": "MTN 178.0",
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "ODEUSD": {
@@ -3578,12 +3578,12 @@
       },
       "ODEETH": {
         "minimum-order-size": "ODE 66.0",
-        "price-precision": 7,
+        "price-precision": 6,
         "quantity-precision": 8
       },
       "ANTUSD": {
         "minimum-order-size": "ANT 6.0",
-        "price-precision": 4,
+        "price-precision": 3,
         "quantity-precision": 8
       },
       "ANTBTC": {
@@ -3623,7 +3623,7 @@
       },
       "MITETH": {
         "minimum-order-size": "MIT 30.0",
-        "price-precision": 6,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "STJUSD": {
@@ -3708,7 +3708,7 @@
       },
       "BCIBTC": {
         "minimum-order-size": "BCI 6.0",
-        "price-precision": 7,
+        "price-precision": 8,
         "quantity-precision": 8
       },
       "MKRUSD": {
@@ -3738,7 +3738,7 @@
       },
       "VENETH": {
         "minimum-order-size": "VEN 4.0",
-        "price-precision": 6,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "KNCUSD": {
@@ -3828,7 +3828,7 @@
       },
       "DADETH": {
         "minimum-order-size": "DAD 82.0",
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "ORSUSD": {
@@ -3839,7 +3839,7 @@
       "ORSBTC": {
         "minimum-order-size": "ORS 374.0",
         "price-precision": 8,
-        "quantity-precision": 8
+        "quantity-precision": 4
       },
       "ORSETH": {
         "minimum-order-size": "ORS 374.0",
@@ -3848,7 +3848,7 @@
       },
       "AUCUSD": {
         "minimum-order-size": "AUC 68.0",
-        "price-precision": 5,
+        "price-precision": 4,
         "quantity-precision": 8
       },
       "AUCBTC": {
@@ -3883,12 +3883,12 @@
       },
       "FSNBTC": {
         "minimum-order-size": "FSN 4.0",
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "FSNETH": {
         "minimum-order-size": "FSN 4.0",
-        "price-precision": 7,
+        "price-precision": 6,
         "quantity-precision": 8
       },
       "CBTUSD": {
@@ -3908,7 +3908,7 @@
       },
       "ZCNUSD": {
         "minimum-order-size": "ZCN 22.0",
-        "price-precision": 5,
+        "price-precision": 4,
         "quantity-precision": 8
       },
       "ZCNBTC": {
@@ -3938,7 +3938,7 @@
       },
       "NCAUSD": {
         "minimum-order-size": "NCA 826.0",
-        "price-precision": 6,
+        "price-precision": 5,
         "quantity-precision": 8
       },
       "NCABTC": {
@@ -3964,7 +3964,7 @@
       "CNDETH": {
         "minimum-order-size": "CND 358.0",
         "price-precision": 8,
-        "quantity-precision": 4
+        "quantity-precision": 8
       },
       "CTXUSD": {
         "minimum-order-size": "CTX 18.0",
@@ -3978,17 +3978,17 @@
       },
       "CTXETH": {
         "minimum-order-size": "CTX 18.0",
-        "price-precision": 7,
+        "price-precision": 8,
         "quantity-precision": 8
       },
       "PAIUSD": {
         "minimum-order-size": "PAI 10.0",
-        "price-precision": 3,
+        "price-precision": 4,
         "quantity-precision": 8
       },
       "PAIBTC": {
         "minimum-order-size": "PAI 10.0",
-        "price-precision": 7,
+        "price-precision": 8,
         "quantity-precision": 8
       },
       "SEEUSD": {
@@ -4049,7 +4049,7 @@
       "HOTETH": {
         "minimum-order-size": "HOT 330.0",
         "price-precision": 8,
-        "quantity-precision": 7
+        "quantity-precision": 8
       },
       "DTAUSD": {
         "minimum-order-size": "DTA 1560.0",
