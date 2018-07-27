@@ -245,153 +245,156 @@
       "LTC": 0.01,
       "QTUM": 0.01,
       "EOS": 0.01,
-      "SNT": 36,
-      "BNT": 1,
+      "SNT": 41,
+      "BNT": 1.3,
       "GAS": 0,
       "BCC": 0.001,
       "BTM": 5,
-      "USDT": 3.4,
+      "USDT": 4,
       "HCC": 0.0005,
       "HSR": 0.0001,
-      "OAX": 7.6,
-      "DNT": 69,
-      "MCO": 0.34,
-      "ICN": 4.2,
-      "ZRX": 3,
-      "OMG": 0.37,
+      "OAX": 8.8,
+      "DNT": 77,
+      "MCO": 0.39,
+      "ICN": 5,
+      "ZRX": 2.6,
+      "OMG": 0.41,
       "WTC": 0.5,
-      "LRC": 8.8,
+      "LRC": 10.6,
       "LLT": 67.8,
-      "YOYO": 47,
-      "TRX": 66,
+      "YOYO": 55,
+      "TRX": 1,
       "STRAT": 0.1,
-      "SNGLS": 75,
-      "BQX": 1.7,
-      "KNC": 3,
-      "SNM": 19,
-      "FUN": 99,
-      "LINK": 11.7,
+      "SNGLS": 82,
+      "BQX": 2.7,
+      "KNC": 3.1,
+      "SNM": 24,
+      "FUN": 110,
+      "LINK": 11.1,
       "XVG": 0.1,
       "CTR": 35,
-      "SALT": 2.4,
-      "MDA": 5.2,
+      "SALT": 2.6,
+      "MDA": 4.5,
       "IOTA": 0.5,
-      "SUB": 12.3,
+      "SUB": 13.8,
       "ETC": 0.01,
-      "MTL": 1.9,
-      "MTH": 67,
-      "ENG": 2,
-      "AST": 19.2,
+      "MTL": 2.2,
+      "MTH": 77,
+      "ENG": 2.3,
+      "AST": 19.8,
       "DASH": 0.002,
       "BTG": 0.001,
-      "EVX": 4.1,
-      "REQ": 36.8,
-      "VIB": 34,
-      "POWR": 10.8,
+      "EVX": 4.2,
+      "REQ": 42.8,
+      "VIB": 43,
+      "POWR": 8.9,
       "ARK": 0.1,
       "XRP": 0.25,
       "MOD": 3,
-      "ENJ": 45,
-      "STORJ": 5.8,
-      "VEN": 1.2,
+      "ENJ": 46,
+      "STORJ": 5.4,
       "KMD": 0.002,
-      "RCN": 57,
+      "RCN": 65,
       "NULS": 1.2,
-      "RDN": 3.5,
+      "RDN": 3.4,
       "XMR": 0.04,
-      "DLT": 28.6,
-      "AMB": 8.5,
-      "BAT": 11,
+      "DLT": 32.3,
+      "AMB": 10.5,
+      "BAT": 10,
       "ZEC": 0.005,
-      "BCPT": 16.3,
-      "ARN": 4.4,
+      "BCPT": 16.8,
+      "ARN": 4.8,
       "GVT": 0.34,
-      "CDT": 101,
+      "CDT": 120,
       "GXS": 0.3,
-      "POE": 153,
-      "QSP": 37,
+      "POE": 159,
+      "QSP": 42,
       "BTS": 1,
       "XZC": 0.02,
       "LSK": 0.1,
-      "TNT": 60,
-      "FUEL": 70,
-      "MANA": 29,
+      "TNT": 74,
+      "FUEL": 94,
+      "MANA": 23,
       "BCD": 1,
       "DGD": 0.03,
-      "ADX": 7.2,
+      "ADX": 6.9,
       "ADA": 1,
-      "PPT": 0.37,
-      "CMT": 16,
+      "PPT": 0.51,
+      "CMT": 20,
       "XLM": 0.01,
-      "CND": 88,
-      "LEND": 91,
-      "WABI": 6.9,
+      "CND": 95,
+      "LEND": 110,
+      "WABI": 9,
       "SBTC": 0.0005,
       "BCX": 0.5,
       "WAVES": 0.002,
-      "TNB": 115,
-      "GTO": 18,
+      "TNB": 138,
+      "GTO": 19,
       "ICX": 0.02,
-      "OST": 37,
+      "OST": 47,
       "ELF": 4.2,
-      "AION": 2.7,
-      "CVC": 14.6,
+      "AION": 3.5,
+      "CVC": 15.8,
       "REP": 0.1,
-      "GNT": 8.3,
-      "DATA": 37.3,
+      "GNT": 9.5,
+      "DATA": 44.3,
       "ETF": 1,
-      "BRD": 6.3,
+      "BRD": 7.5,
       "NEBL": 0.01,
-      "VIBE": 35.5,
-      "LUN": 0.35,
-      "CHAT": 55.9,
-      "RLC": 3.5,
-      "INS": 4.4,
-      "IOST": 115.1,
+      "VIBE": 40.8,
+      "LUN": 0.42,
+      "CHAT": 79.3,
+      "RLC": 4.6,
+      "INS": 5.5,
+      "IOST": 98.4,
       "STEEM": 0.01,
       "NANO": 0.01,
-      "AE": 1.4,
+      "AE": 1.5,
       "VIA": 0.01,
-      "BLZ": 8.5,
-      "SYS": 0.001,
+      "BLZ": 9.3,
+      "SYS": 1,
       "RPX": 1,
-      "NCASH": 208,
+      "NCASH": 238.2,
       "POA": 0.01,
-      "ONT": 0.1,
-      "ZIL": 34.5,
-      "STORM": 147,
+      "ONT": 1,
+      "ZIL": 37.9,
+      "STORM": 171,
       "XEM": 4,
       "WAN": 0.1,
-      "WPR": 61.5,
+      "WPR": 67.5,
       "QLC": 1,
       "GRS": 0.2,
       "CLOAK": 0.02,
-      "LOOM": 11.7,
+      "LOOM": 14.8,
       "BCN": 1,
-      "TUSD": 2.92,
+      "TUSD": 2.78,
       "ZEN": 0.002,
       "SKY": 0.01,
       "THETA": 24,
-      "IOTX": 100,
-      "QKC": 36.94,
-      "AGI": 23.42,
+      "IOTX": 121.4,
+      "QKC": 36.5,
+      "AGI": 33.97,
       "NXS": 0.02,
       "SC": 0.1,
       "EON": 10,
-      "NPXS": 726,
-      "KEY": 143,
+      "NPXS": 874,
+      "KEY": 234,
       "NAS": 0.1,
-      "ADD": 0.001,
+      "ADD": 0.1,
       "MEETONE": 5,
-      "ATD": 0.001,
-      "MFT": 181,
+      "ATD": 0.1,
+      "MFT": 210,
       "EOP": 5,
-      "DENT": 482,
-      "EDO": 3,
-      "WINGS": 13.2,
+      "DENT": 931,
+      "IQ": 0.1,
+      "ARDR": 2,
+      "HOT": 3637,
+      "VET": 100,
+      "EDO": 3.1,
+      "WINGS": 12.7,
       "NAV": 0.2,
-      "TRIG": 27.9,
-      "APPC": 14.5,
+      "TRIG": 50.3,
+      "APPC": 16.3,
       "PIVX": 0.02
     },
     "markets": {
@@ -2239,6 +2242,46 @@
       "DENTETH": {
         "minimum-order-size": "ETH 0.01",
         "price-precision": 8
+      },
+      "ARDRBTC": {
+        "price-precision": 8,
+        "minimum-order-size": "BTC 0.001"
+      },
+      "ARDRETH": {
+        "price-precision": 8,
+        "minimum-order-size": "ETH 0.01"
+      },
+      "ARDRBNB": {
+        "price-precision": 5,
+        "minimum-order-size": "BNB 1"
+      },
+      "NULSUSDT": {
+        "price-precision": 4,
+        "minimum-order-size": "USDT 10"
+      },
+      "HOTBTC": {
+        "price-precision": 8,
+        "minimum-order-size": "BTC 0.001"
+      },
+      "HOTETH": {
+        "price-precision": 8,
+        "minimum-order-size": "ETH 0.01"
+      },
+      "VETBTC": {
+        "price-precision": 8,
+        "minimum-order-size": "BTC 0.001"
+      },
+      "VETETH": {
+        "price-precision": 8,
+        "minimum-order-size": "ETH 0.01"
+      },
+      "VETUSDT": {
+        "price-precision": 5,
+        "minimum-order-size": "USDT 10"
+      },
+      "VETBNB": {
+        "price-precision": 5,
+        "minimum-order-size": "BNB 1"
       }
     }
   },
@@ -2683,6 +2726,102 @@
           "ask": "BTC 0.00003"
         },
         "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "OMG-BTC": {
+        "minimum-order-size": {
+          "bid": "OMG 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FTO-USD": {
+        "minimum-order-size": {
+          "bid": "FTO 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GNT-BTC": {
+        "minimum-order-size": {
+          "bid": "GNT 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "FTO-PLN": {
+        "minimum-order-size": {
+          "bid": "FTO 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "FTO-EUR": {
+        "minimum-order-size": {
+          "bid": "FTO 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "OMG-USD": {
+        "minimum-order-size": {
+          "bid": "OMG 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GNT-EUR": {
+        "minimum-order-size": {
+          "bid": "GNT 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "FTO-BTC": {
+        "minimum-order-size": {
+          "bid": "FTO 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "GNT-USD": {
+        "minimum-order-size": {
+          "bid": "GNT 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "OMG-PLN": {
+        "minimum-order-size": {
+          "bid": "OMG 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "OMG-EUR": {
+        "minimum-order-size": {
+          "bid": "OMG 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
+      },
+      "GNT-PLN": {
+        "minimum-order-size": {
+          "bid": "GNT 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
         "quantity-precision": 8
       }
     }
@@ -8668,7 +8807,6 @@
         "MoneyGram": "6.5%",
         "Contact": "6.5%"
       },
-      "rur": "n/a",
       "eur": "n/a"
     },
     "withdrawal-fees": {
@@ -8684,7 +8822,7 @@
       "zec": 0.001,
       "usdt": 10,
       "usd": "n/a",
-      "rur": "n/a",
+      "rur": "55%",
       "eur": "n/a"
     },
     "markets": {
