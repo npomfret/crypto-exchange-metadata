@@ -4705,7 +4705,9 @@
       "CMCT": 1,
       "NLC2": 0.1,
       "BKX": 1,
-      "MFT": 1
+      "MFT": 1,
+      "LOOM": 1,
+      "RFR": 1
     },
     "markets": {
       "BTC-2GIVE": {
@@ -5039,7 +5041,7 @@
         "minimum-order-size": "FCT 0.07386856"
       },
       "BTC-FLDC": {
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8,
         "minimum-order-size": "FLDC 105.93220339"
       },
@@ -5168,6 +5170,11 @@
         "quantity-precision": 8,
         "minimum-order-size": "LMC 30.33980583"
       },
+      "BTC-LOOM": {
+        "minimum-order-size": "LOOM 0.00000001",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
       "BTC-LRC": {
         "price-precision": 8,
         "quantity-precision": 8,
@@ -5234,7 +5241,7 @@
         "minimum-order-size": "MUE 16.11863314"
       },
       "BTC-MUSIC": {
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8,
         "minimum-order-size": "MUSIC 121.3592233"
       },
@@ -5294,7 +5301,7 @@
         "minimum-order-size": "NXT 11.03752759"
       },
       "BTC-OCN": {
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8,
         "minimum-order-size": "OCN 0.00000001"
       },
@@ -5407,6 +5414,11 @@
         "price-precision": 8,
         "quantity-precision": 8,
         "minimum-order-size": "REP 0.05283089"
+      },
+      "BTC-RFR": {
+        "minimum-order-size": "RFR 0.00000001",
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "BTC-RLC": {
         "price-precision": 8,
@@ -6087,6 +6099,11 @@
         "price-precision": 8,
         "quantity-precision": 8,
         "minimum-order-size": "DCR 0.00000001"
+      },
+      "USDT-DGB": {
+        "minimum-order-size": "DGB 0.00000001",
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "USDT-ETC": {
         "price-precision": 8,
