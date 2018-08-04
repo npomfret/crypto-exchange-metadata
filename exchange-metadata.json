@@ -31,7 +31,6 @@
       "XRP": 1
     },
     "trading-fees": {
-      "__notes": "https://anxpro.com/pages/fees",
       "default": {
         "taker": "0.2%",
         "maker": "0.1%"
@@ -40,189 +39,323 @@
     "markets": {
       "ATENCAUD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 AUD"
+        },
+        "price-precision": 0
       },
       "ATENCCAD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 CAD"
+        },
+        "price-precision": 0
       },
       "ATENCEUR": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 EUR"
+        },
+        "price-precision": 0
       },
       "ATENCGBP": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 GBP"
+        },
+        "price-precision": 0
       },
       "ATENCHKD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "1 HKD"
+        },
+        "price-precision": 0
       },
       "ATENCJPY": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "10 JPY"
+        },
+        "price-precision": 0
       },
       "ATENCNZD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 NZD"
+        },
+        "price-precision": 0
       },
       "ATENCSGD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 SGD"
+        },
+        "price-precision": 0
       },
       "ATENCUSD": {
         "quantity-precision": 0,
-        "minimum-order-size": "ATENC 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 ATENC",
+          "ask": "0.1 USD"
+        },
+        "price-precision": 0
       },
       "BTCAUD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 AUD"
+        },
         "price-precision": 5
       },
       "BTCCAD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 CAD"
+        },
         "price-precision": 5
       },
       "BTCEUR": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 EUR"
+        },
         "price-precision": 5
       },
       "BTCGBP": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 GBP"
+        },
         "price-precision": 5
       },
       "BTCHKD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "1 HKD"
+        },
         "price-precision": 5
       },
       "BTCJPY": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "10 JPY"
+        },
         "price-precision": 5
       },
       "BTCNZD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 NZD"
+        },
         "price-precision": 5
       },
       "BTCSGD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 SGD"
+        },
         "price-precision": 5
       },
       "BTCUSD": {
         "quantity-precision": 8,
-        "minimum-order-size": "BTC 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 BTC",
+          "ask": "0.1 USD"
+        },
         "price-precision": 5
       },
       "DOGEBTC": {
         "quantity-precision": 8,
-        "minimum-order-size": "DOGE 5000",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "5000 DOGE",
+          "ask": "0.01 BTC"
+        },
+        "price-precision": 7
       },
       "ETHBTC": {
         "quantity-precision": 8,
-        "minimum-order-size": "ETH 0.0001",
+        "minimum-order-size": {
+          "bid": "0.0001 ETH",
+          "ask": "0.01 BTC"
+        },
         "price-precision": 8
       },
       "ETHHKD": {
         "quantity-precision": 8,
-        "minimum-order-size": "ETH 0.0001",
+        "minimum-order-size": {
+          "bid": "0.0001 ETH",
+          "ask": "1 HKD"
+        },
         "price-precision": 5
       },
       "ETHUSD": {
         "quantity-precision": 8,
-        "minimum-order-size": "ETH 0.0001",
+        "minimum-order-size": {
+          "bid": "0.0001 ETH",
+          "ask": "0.1 USD"
+        },
         "price-precision": 5
       },
       "GNTETH": {
         "quantity-precision": 8,
-        "minimum-order-size": "GNT 1",
+        "minimum-order-size": {
+          "bid": "1 GNT",
+          "ask": "0.0001 ETH"
+        },
         "price-precision": 8
       },
       "LTCBTC": {
-        "quantity-precision": 8,
-        "minimum-order-size": "LTC 0.1",
+        "quantity-precision": 6,
+        "minimum-order-size": {
+          "bid": "0.1 LTC",
+          "ask": "0.01 BTC"
+        },
         "price-precision": 5
       },
       "OAXETH": {
         "quantity-precision": 7,
-        "minimum-order-size": "OAX 0.01",
+        "minimum-order-size": {
+          "bid": "0.01 OAX",
+          "ask": "0.0001 ETH"
+        },
         "price-precision": 8
       },
       "STARTAUD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 AUD"
+        },
+        "price-precision": 0
       },
       "STARTBTC": {
         "quantity-precision": 8,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.01 BTC"
+        },
+        "price-precision": 7
       },
       "STARTCAD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 CAD"
+        },
+        "price-precision": 0
       },
       "STARTEUR": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 EUR"
+        },
+        "price-precision": 0
       },
       "STARTGBP": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 GBP"
+        },
+        "price-precision": 0
       },
       "STARTHKD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "1 HKD"
+        },
+        "price-precision": 0
       },
       "STARTJPY": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "10 JPY"
+        },
+        "price-precision": 0
       },
       "STARTNZD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 NZD"
+        },
+        "price-precision": 0
       },
       "STARTSGD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 SGD"
+        },
+        "price-precision": 0
       },
       "STARTUSD": {
         "quantity-precision": 0,
-        "minimum-order-size": "START 0.01",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "0.01 START",
+          "ask": "0.1 USD"
+        },
+        "price-precision": 0
       },
       "STRBTC": {
         "quantity-precision": 0,
-        "minimum-order-size": "STR 500",
-        "price-precision": 8
+        "minimum-order-size": {
+          "bid": "500 STR",
+          "ask": "0.01 BTC"
+        },
+        "price-precision": 0
       },
       "XRPBTC": {
         "quantity-precision": 8,
-        "minimum-order-size": "XRP 100",
+        "minimum-order-size": {
+          "bid": "100 XRP",
+          "ask": "0.01 BTC"
+        },
         "price-precision": 8
       }
+    },
+    "withdrawl-fees": {
+      "HKD": {
+        "Bank Wire": {
+          "fixed": 250,
+          "rate": "1.00%"
+        },
+        "HK Local Bank Transfer": {
+          "fixed": 55,
+          "rate": "1.00%"
+        }
+      },
+      "ANX": 0.1,
+      "ATENC": 0.1,
+      "BTC": 0.002,
+      "DOGE": 0.1,
+      "ETH": 0.005,
+      "GNT": 0.001,
+      "LTC": 0.02,
+      "OAX": 0.001,
+      "START": 0.1,
+      "STR": 1,
+      "XRP": 1
     }
   },
   "binance": {
