@@ -434,7 +434,27 @@
   },
   "binance": {
     "trading-fees": {
-      "__notes": "https://www.binance.com/fees.html",
+      "__notes": "https://www.binance.com/fees.html, https://support.binance.com/hc/en-us/articles/115000583311",
+      "_structure": {
+        "*": [
+          {
+            "discount": "50%",
+            "notes": "for year 1 (if account contains sufficient BNB tokens)"
+          },
+          {
+            "discount": "25%",
+            "notes": "for year 2 (if account contains sufficient BNB tokens)"
+          },
+          {
+            "discount": "12.5%",
+            "notes": "for year 3 (if account contains sufficient BNB tokens)"
+          },
+          {
+            "discount": "6.75%",
+            "notes": "for year 4 (if account contains sufficient BNB tokens)"
+          }
+        ]
+      },
       "default": {
         "taker": "0.1%",
         "maker": "0.1%"
@@ -11875,6 +11895,38 @@
   "therock": {
     "trading-fees": {
       "__notes": "https://www.therocktrading.com/en/pages/fees, discounts available via the API",
+      "_structure": {
+        "BTC*": [
+          {
+            "discount": "50%",
+            "notes": "Last 30 days trading fees > 0.04 BTC"
+          },
+          {
+            "discount": "90%",
+            "notes": "Last 30 days trading fees > 0.16 BTC"
+          }
+        ],
+        "EUR*": [
+          {
+            "discount": "50%",
+            "notes": "Last 30 days trading fees > 25 EUR"
+          },
+          {
+            "discount": "90%",
+            "notes": "Last 30 days trading fees > 100 EUR"
+          }
+        ],
+        "XRP*": [
+          {
+            "discount": "50%",
+            "notes": "Last 30 days trading fees > 120 XRP"
+          },
+          {
+            "discount": "90%",
+            "notes": "Last 30 days trading fees > 600 XRP"
+          }
+        ]
+      },
       "default": {
         "taker": "0.2%",
         "maker": "0.2%"
