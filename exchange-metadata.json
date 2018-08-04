@@ -3290,10 +3290,249 @@
   },
   "bitbay": {
     "trading-fees": {
-      "__notes": "https://www.bitbay.net/en/fees",
       "default": {
+        "taker": "0%",
+        "maker": "0.1%"
+      },
+      "BAT-EUR": {
         "taker": "0.43%",
-        "maker": "0.30%"
+        "maker": "0.3%"
+      },
+      "BAT-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BAT-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BCC-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BCC-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BCC-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTC-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTC-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTC-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTG-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTG-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "BTG-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "DASH-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "DASH-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "DASH-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ETH-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ETH-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ETH-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "FTO-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "FTO-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "FTO-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GAME-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GAME-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GAME-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GNT-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GNT-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "GNT-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "KZC-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "KZC-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "KZC-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LSK-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LSK-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LSK-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LTC-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LTC-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "LTC-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "OMG-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "OMG-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "OMG-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "PAY-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "PAY-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "PAY-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "REP-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "REP-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "REP-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XIN-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XIN-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XIN-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XMR-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XMR-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XMR-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XRP-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XRP-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "XRP-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZEC-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZEC-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZEC-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZRX-EUR": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZRX-PLN": {
+        "taker": "0.43%",
+        "maker": "0.3%"
+      },
+      "ZRX-USD": {
+        "taker": "0.43%",
+        "maker": "0.3%"
       }
     },
     "deposit-fees": {
@@ -3325,19 +3564,43 @@
     "markets": {
       "BAT-BTC": {
         "baseCcy": "BAT",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "minimum-order-size": {
+          "bid": "BAT 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "BAT-EUR": {
         "baseCcy": "BAT",
-        "counterCcy": "EUR"
+        "counterCcy": "EUR",
+        "minimum-order-size": {
+          "bid": "BAT 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "BAT-PLN": {
         "baseCcy": "BAT",
-        "counterCcy": "PLN"
+        "counterCcy": "PLN",
+        "minimum-order-size": {
+          "bid": "BAT 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "BAT-USD": {
         "baseCcy": "BAT",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "minimum-order-size": {
+          "bid": "BAT 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 7
       },
       "BCC-BTC": {
         "baseCcy": "BCC",
@@ -3811,35 +4074,83 @@
       },
       "PAY-BTC": {
         "baseCcy": "PAY",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "minimum-order-size": {
+          "bid": "PAY 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "PAY-EUR": {
         "baseCcy": "PAY",
-        "counterCcy": "EUR"
+        "counterCcy": "EUR",
+        "minimum-order-size": {
+          "bid": "PAY 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "PAY-PLN": {
         "baseCcy": "PAY",
-        "counterCcy": "PLN"
+        "counterCcy": "PLN",
+        "minimum-order-size": {
+          "bid": "PAY 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "PAY-USD": {
         "baseCcy": "PAY",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "minimum-order-size": {
+          "bid": "PAY 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "REP-BTC": {
         "baseCcy": "REP",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "minimum-order-size": {
+          "bid": "REP 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "REP-EUR": {
         "baseCcy": "REP",
-        "counterCcy": "EUR"
+        "counterCcy": "EUR",
+        "minimum-order-size": {
+          "bid": "REP 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 1
       },
       "REP-PLN": {
         "baseCcy": "REP",
-        "counterCcy": "PLN"
+        "counterCcy": "PLN",
+        "minimum-order-size": {
+          "bid": "REP 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "REP-USD": {
         "baseCcy": "REP",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "minimum-order-size": {
+          "bid": "REP 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XIN-BTC": {
         "baseCcy": "XIN",
@@ -3848,7 +4159,7 @@
           "bid": "XIN 1",
           "ask": "BTC 0.00003"
         },
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 8
       },
       "XIN-EUR": {
@@ -4003,19 +4314,43 @@
       },
       "ZRX-BTC": {
         "baseCcy": "ZRX",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "minimum-order-size": {
+          "bid": "ZRX 0.25",
+          "ask": "BTC 0.00003"
+        },
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "ZRX-EUR": {
         "baseCcy": "ZRX",
-        "counterCcy": "EUR"
+        "counterCcy": "EUR",
+        "minimum-order-size": {
+          "bid": "ZRX 0.25",
+          "ask": "EUR 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ZRX-PLN": {
         "baseCcy": "ZRX",
-        "counterCcy": "PLN"
+        "counterCcy": "PLN",
+        "minimum-order-size": {
+          "bid": "ZRX 0.25",
+          "ask": "PLN 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ZRX-USD": {
         "baseCcy": "ZRX",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "minimum-order-size": {
+          "bid": "ZRX 0.25",
+          "ask": "USD 0.1"
+        },
+        "price-precision": 2,
+        "quantity-precision": 8
       }
     }
   },
