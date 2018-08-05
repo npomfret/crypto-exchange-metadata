@@ -435,30 +435,33 @@
   "binance": {
     "trading-fees": {
       "__notes": "https://www.binance.com/fees.html, https://support.binance.com/hc/en-us/articles/115000583311",
-      "_structure": {
-        "*": [
-          {
-            "discount": "50%",
-            "notes": "for year 1 (if account contains sufficient BNB tokens)"
-          },
-          {
-            "discount": "25%",
-            "notes": "for year 2 (if account contains sufficient BNB tokens)"
-          },
-          {
-            "discount": "12.5%",
-            "notes": "for year 3 (if account contains sufficient BNB tokens)"
-          },
-          {
-            "discount": "6.75%",
-            "notes": "for year 4 (if account contains sufficient BNB tokens)"
-          }
-        ]
-      },
-      "default": {
-        "taker": "0.1%",
-        "maker": "0.1%"
-      }
+      "default": [
+        {
+          "taker": "0.1%",
+          "maker": "0.1%",
+          "label": "default"
+        },
+        {
+          "taker": "0.05%",
+          "maker": "0.05%",
+          "label": "for year 1 (if account contains sufficient BNB tokens)"
+        },
+        {
+          "taker": "0.075%",
+          "maker": "0.075%",
+          "label": "for year 2 (if account contains sufficient BNB tokens)"
+        },
+        {
+          "taker": "0.0875%",
+          "maker": "0.0875%",
+          "label": "for year 3 (if account contains sufficient BNB tokens)"
+        },
+        {
+          "taker": "0.09325%",
+          "maker": "0.09325%",
+          "label": "for year 4 (if account contains sufficient BNB tokens)"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -3291,249 +3294,101 @@
   "bitbay": {
     "trading-fees": {
       "default": {
-        "taker": "0%",
-        "maker": "0.1%"
+        "taker": "0.1%",
+        "maker": "0%"
       },
-      "BAT-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BAT-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BAT-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BCC-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BCC-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BCC-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTC-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTC-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTC-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTG-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTG-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "BTG-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "DASH-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "DASH-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "DASH-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ETH-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ETH-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ETH-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "FTO-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "FTO-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "FTO-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GAME-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GAME-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GAME-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GNT-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GNT-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "GNT-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "KZC-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "KZC-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "KZC-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LSK-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LSK-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LSK-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LTC-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LTC-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "LTC-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "OMG-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "OMG-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "OMG-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "PAY-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "PAY-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "PAY-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "REP-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "REP-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "REP-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XIN-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XIN-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XIN-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XMR-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XMR-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XMR-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XRP-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XRP-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "XRP-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZEC-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZEC-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZEC-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZRX-EUR": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZRX-PLN": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      },
-      "ZRX-USD": {
-        "taker": "0.43%",
-        "maker": "0.3%"
-      }
+      "^\\w{3,4}?-EUR$|^\\w{3,4}-PLN$|^\\w{3,4}-USD$": [
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.43%",
+          "maker": "0.30%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.42%",
+          "maker": "0.29%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.41%",
+          "maker": "0.28%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.40%",
+          "maker": "0.28%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.39%",
+          "maker": "0.27%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.38%",
+          "maker": "0.26%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.37%",
+          "maker": "0.25%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.36%",
+          "maker": "0.25%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.35%",
+          "maker": "0.24%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.33%",
+          "maker": "0.23%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.32%",
+          "maker": "0.22%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.31%",
+          "maker": "0.21%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.30%",
+          "maker": "0.21%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.29%",
+          "maker": "0.20%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.28%",
+          "maker": "0.19%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.27%",
+          "maker": "0.18%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.26%",
+          "maker": "0.18%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "taker": "0.25%",
+          "maker": "0.17%"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -4357,10 +4212,88 @@
   "bitfinex": {
     "trading-fees": {
       "__notes": "get from api",
-      "default": {
-        "taker": "0.2%",
-        "maker": "0.1%"
-      }
+      "default": [
+        {
+          "taker": "0.2%",
+          "maker": "0.1%",
+          "label": "$0.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.08%",
+          "label": "$500,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.06%",
+          "label": "$1,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.04%",
+          "label": "$2,500,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.02%",
+          "label": "$5,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0%",
+          "label": "$7,500,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.18%",
+          "maker": "0%",
+          "label": "$10,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.16%",
+          "maker": "0%",
+          "label": "$15,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.14%",
+          "maker": "0%",
+          "label": "$20,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0%",
+          "label": "$25,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0%",
+          "label": "$30,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.09%",
+          "maker": "0%",
+          "label": "$300,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.085%",
+          "maker": "0%",
+          "label": "1,000,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.075%",
+          "maker": "0%",
+          "label": "$3,000,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.060%",
+          "maker": "0%",
+          "label": "$10,000,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        },
+        {
+          "taker": "0.055%",
+          "maker": "0%",
+          "label": "$30,000,000,000.00 or more executed in the last 30 days (usd equivalent)"
+        }
+      ]
     },
     "deposit-fees": {
       "__notes": "https://www.bitfinex.com/fees",
@@ -6326,11 +6259,89 @@
   },
   "bitmarket": {
     "trading-fees": {
-      "__notes": "get from api",
-      "default": {
-        "maker": "0.15%",
-        "taker": "0.45%"
-      }
+      "__notes": "https://www.bitmarket.net/docs.php?file=pricing.html (get from api)",
+      "default": [
+        {
+          "maker": "0.15%",
+          "taker": "0.45%",
+          "label": "0.00 - 99.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.14%",
+          "taker": "0.44%",
+          "label": "100.00 - 299.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.13%",
+          "taker": "0.43%",
+          "label": "300.00 - 499.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.12%",
+          "taker": "0.42%",
+          "label": "500.00 - 999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.11%",
+          "taker": "0.41%",
+          "label": "1000.00 - 1999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.10%",
+          "taker": "0.40%",
+          "label": "2000.00 - 2999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.09%",
+          "taker": "0.39%",
+          "label": "3000.00 - 4999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.08%",
+          "taker": "0.38%",
+          "label": "5000.00 - 9999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.07%",
+          "taker": "0.37%",
+          "label": "10000.00 - 19999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.06%",
+          "taker": "0.36%",
+          "label": "20000.00 - 29999.99 EUR EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.05%",
+          "taker": "0.35%",
+          "label": "30000.00 - 49999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.04%",
+          "taker": "0.34%",
+          "label": "50000.00 - 99999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.03%",
+          "taker": "0.33%",
+          "label": "100000.00 - 199999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.02%",
+          "taker": "0.32%",
+          "label": "200000.00 - 299999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.01%",
+          "taker": "0.31%",
+          "label": "300000.00 - 499999.99 EUR turnover in the last 30 days"
+        },
+        {
+          "maker": "0.00%",
+          "taker": "0.30%",
+          "label": "over EUR 500000.00 turnover in the last 30 days"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0,
@@ -6338,7 +6349,8 @@
         "Transfer SEPA (SHA)": 2,
         "Transfer INT (SHA)": 5,
         "Transfer INT (BEN)": 5
-      }
+      },
+      "DOGE": "n/a"
     },
     "withdrawal-fees": {
       "__notes": "https://www.bitmarket.net/docs.php?file=pricing.html",
@@ -6515,11 +6527,59 @@
   },
   "bitstamp": {
     "trading-fees": {
-      "__notes": "get from api",
-      "default": {
-        "maker": "0.25%",
-        "taker": "0.25%"
-      }
+      "__notes": "https://www.bitstamp.net/fee_schedule/ (get from api)",
+      "default": [
+        {
+          "maker": "0.25%",
+          "taker": "0.25%",
+          "label": "< $20,000 30 days USD volume"
+        },
+        {
+          "maker": "0.24%",
+          "taker": "0.24%",
+          "label": "< $100,000 30 days USD volume"
+        },
+        {
+          "maker": "0.22%",
+          "taker": "0.22%",
+          "label": "< $200,000 30 days USD volume"
+        },
+        {
+          "maker": "0.20%",
+          "taker": "0.20%",
+          "label": "< $400,000 30 days USD volume"
+        },
+        {
+          "maker": "0.15%",
+          "taker": "0.15%",
+          "label": "< $600,000 30 days USD volume"
+        },
+        {
+          "maker": "0.14%",
+          "taker": "0.14%",
+          "label": "< $1,000,000 30 days USD volume"
+        },
+        {
+          "maker": "0.13%",
+          "taker": "0.13%",
+          "label": "< $2,000,000 30 days USD volume"
+        },
+        {
+          "maker": "0.12%",
+          "taker": "0.12%",
+          "label": "< $4,000,000 30 days USD volume"
+        },
+        {
+          "maker": "0.11%",
+          "taker": "0.11%",
+          "label": "< $20,000,000 30 days USD volume"
+        },
+        {
+          "maker": "0.10%",
+          "taker": "0.10%",
+          "label": "> $20,000,000 30 days USD volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0,
@@ -8996,51 +9056,113 @@
   },
   "btcmarkets": {
     "trading-fees": {
-      "__notes": "can get from api (but it's quite slow)",
-      "LTC/BTC": {
+      "__notes": "https://www.btcmarkets.net/fees - can get from api (but it's quite slow)",
+      "default": {
         "taker": "0.22%",
         "maker": "0.22%"
       },
-      "ETH/BTC": {
-        "taker": "0.22%",
-        "maker": "0.22%"
-      },
-      "ETC/BTC": {
-        "taker": "0.22%",
-        "maker": "0.22%"
-      },
-      "XRP/BTC": {
-        "taker": "0.22%",
-        "maker": "0.22%"
-      },
-      "BCH/BTC": {
-        "taker": "0.22%",
-        "maker": "0.22%"
-      },
-      "BTC/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      },
-      "LTC/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      },
-      "ETH/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      },
-      "ETC/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      },
-      "XRP/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      },
-      "BCH/AUD": {
-        "taker": "0.85%",
-        "maker": "0.85%"
-      }
+      "^\\w{3}/AUD": [
+        {
+          "taker": "0.85%",
+          "maker": "0.85%",
+          "label": "$0.01 - $500 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.83%",
+          "maker": "0.83%",
+          "label": "$500.01 - $1,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.8%",
+          "maker": "0.8%",
+          "label": "$1,000.01 - $3,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.75%",
+          "maker": "0.75%",
+          "label": "$3,000.01 - $9,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.7%",
+          "maker": "0.7%",
+          "label": "$9,000.01 - $18,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.65%",
+          "maker": "0.65%",
+          "label": "$18,000.01 - $40,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.6%",
+          "maker": "0.6%",
+          "label": "$40,000.01 - $60,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.55%",
+          "maker": "0.55%",
+          "label": "$60,000.01 - $70,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.5%",
+          "maker": "0.5%",
+          "label": "$70,000.01 - $80,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.45%",
+          "maker": "0.45%",
+          "label": "$80,000.01 - $90,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.4%",
+          "maker": "0.4%",
+          "label": "$90,000.01 - $115,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.35%",
+          "maker": "0.35%",
+          "label": "$115,000.01 - $125,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.30%",
+          "maker": "0.30%",
+          "label": "$125,000.01 - $200,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.25%",
+          "maker": "0.25%",
+          "label": "$200,000.01 - $400,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.23%",
+          "maker": "0.23%",
+          "label": "$400,000.01 - $650,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.20%",
+          "maker": "0.20%",
+          "label": "$650,000.01 - $850,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.18%",
+          "maker": "0.18%",
+          "label": "$850,000.01 - $1,000,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.15%",
+          "maker": "0.15%",
+          "label": "$1,000,000.01 - $3,000,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.13%",
+          "maker": "0.13%",
+          "label": "$3,000,000.01 - $5,000,000 30 Day AUD Volume"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0.1%",
+          "label": "> $5,000,000 30 Day AUD Volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -9136,11 +9258,54 @@
   },
   "cex": {
     "trading-fees": {
-      "__notes": "get from api",
-      "default": {
-        "taker": "0.25%",
-        "maker": "0.16%"
-      }
+      "__notes": "https://cex.io/fee-schedule - get from api",
+      "default": [
+        {
+          "taker": "0.25%",
+          "maker": "0.16%",
+          "label": "≤ 5 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.23%",
+          "maker": "0.15%",
+          "label": "≤ 30 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.21%",
+          "maker": "0.13%",
+          "label": "≤ 50 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.12%",
+          "label": "≤ 100 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.18%",
+          "maker": "0.1%",
+          "label": "≤ 200 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.15%",
+          "maker": "0.08%",
+          "label": "≤ 1000 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.13%",
+          "maker": "0.04%",
+          "label": "≤ 3000 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.11%",
+          "maker": "0.0%",
+          "label": "≤ 6000 BTC 30-day trade volume"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0%",
+          "label": "> 6000 BTC 30-day trade volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0,
@@ -9538,10 +9703,40 @@
   "coinfloor": {
     "trading-fees": {
       "__notes": "https://www.coinfloor.co.uk/fees - it's variable but not available on the API",
-      "default": {
-        "taker": "0.30%",
-        "maker": "0.30%"
-      }
+      "default": [
+        {
+          "taker": "0.30%",
+          "maker": "0.30%",
+          "label": "< 500,000 30 day trailing trading volume"
+        },
+        {
+          "taker": "0.20%",
+          "maker": "0.20%",
+          "label": "500,000 - 1,000,000 30 day trailing trading volume"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0.10%",
+          "label": "> 1,000,000 30 day trailing trading volume"
+        }
+      ],
+      "^\\w{3}/PLN$": [
+        {
+          "taker": "0.30%",
+          "maker": "0.30%",
+          "label": "< 2,000,000 30 day trailing trading volume"
+        },
+        {
+          "taker": "0.20%",
+          "maker": "0.20%",
+          "label": "2,000,000 - 4,000,000 30 day trailing trading volume"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0.10%",
+          "label": "> 4,000,000 30 day trailing trading volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0,
@@ -9590,10 +9785,43 @@
   "dsx": {
     "trading-fees": {
       "__notes": "https://dsx.uk/schedule/",
-      "default": {
-        "taker": "0.35%",
-        "maker": "0.20%"
-      }
+      "default": [
+        {
+          "taker": "0.35%",
+          "maker": "0.20%",
+          "label": "≤ USD 500,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0.26%",
+          "maker": "0.17%",
+          "label": "≤  USD 1,000,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.12%",
+          "label": "≤ USD 5,000,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0.17%",
+          "maker": "0.1%",
+          "label": "≤ USD 10,000,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0.08%",
+          "label": "≤ USD 15,000,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0.04%",
+          "label": "≤ USD 25,000,000 trailing 30 day average trade volume"
+        },
+        {
+          "taker": "0%",
+          "maker": "0.08%",
+          "label": "> USD 25,000,000 trailing 30 day average trade volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -9609,6 +9837,8 @@
       "LTC": 0.001,
       "ETH": 0.001,
       "BCH": 0.0005,
+      "BTG": 0.0005,
+      "EURS": 1,
       "USDT": 1
     },
     "markets": {
@@ -9848,19 +10078,33 @@
   "gdax": {
     "trading-fees": {
       "__notes": "https://pro.coinbase.com/fees",
-      "default": {
-        "taker": "0.30%",
-        "maker": "0%"
-      }
+      "default": [
+        {
+          "taker": "0.30%",
+          "maker": "0%",
+          "label": "$0m - $10m total USD trading volume over the trailing 30 day period"
+        },
+        {
+          "taker": "0.20%",
+          "maker": "0%",
+          "label": "$10m - $100m total USD trading volume over the trailing 30 day period"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0%",
+          "label": "$100m+ total USD trading volume over the trailing 30 day period"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
     },
     "withdrawal-fees": {
-      "__notes": "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees",
+      "__notes": "https://support.pro.coinbase.com/customer/en/portal/articles/2945310-fees, https://support.coinbase.com/customer/portal/articles/2109597-buy-sell-bank-transfer-fees",
       "default": 0,
       "USD": 10,
-      "EUR": 0.15
+      "EUR": 0.15,
+      "GBP": 1
     },
     "markets": {
       "BCH-BTC": {
@@ -9952,10 +10196,38 @@
   "gemini": {
     "trading-fees": {
       "__notes": "https://gemini.com/trading-fee-schedule/",
-      "default": {
-        "taker": "1.00%",
-        "maker": "1.00%"
-      }
+      "default": [
+        {
+          "taker": "1.00%",
+          "maker": "1.00%",
+          "label": "0 30-Day Trading Volume in (USD Notional)"
+        },
+        {
+          "taker": "0.75%",
+          "maker": "0.75%",
+          "label": "≥ $25,000 30-Day Trading Volume in (USD Notional)"
+        },
+        {
+          "taker": "0.5%",
+          "maker": "0.25%",
+          "label": "≥ $50,000 30-Day Trading Volume in (USD Notional)"
+        },
+        {
+          "taker": "0.25%",
+          "maker": "0.15%",
+          "label": "≥ $500,000 30-Day Trading Volume in (USD Notional)"
+        },
+        {
+          "taker": "0.15%",
+          "maker": "0.1%",
+          "label": "≥ $5,000,000 30-Day Trading Volume in (USD Notional)"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0%",
+          "label": "≥ $15,000,000 30-Day Trading Volume in (USD Notional)"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -10013,24 +10285,118 @@
   },
   "itbit": {
     "trading-fees": {
-      "default": {
-        "taker": "0.25%",
-        "maker": "0%"
-      }
+      "default": [
+        {
+          "taker": "0.25%",
+          "maker": "0%",
+          "label": "0 - 100 BTC Volume over 30-Day Period"
+        },
+        {
+          "taker": "0.175%",
+          "maker": "0%",
+          "label": "100 - 500 BTC Volume over 30-Day Period"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0%",
+          "label": "500 - 2,500 BTC Volume over 30-Day Period"
+        },
+        {
+          "taker": "0.075%",
+          "maker": "0%",
+          "label": "2,500 - 10,000 BTC Volume over 30-Day Period"
+        },
+        {
+          "taker": "0.005%",
+          "maker": "0%",
+          "label": "10,000+ BTC Volume over 30-Day Period"
+        }
+      ]
     },
     "markets": {}
   },
   "kraken": {
     "trading-fees": {
       "__notes": "https://www.kraken.com/help/fees",
-      "default": {
-        "taker": "0.26%",
-        "maker": "0.16%"
-      },
-      "USDTUSD": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      }
+      "default": [
+        {
+          "taker": "0.26%",
+          "maker": "0.16%",
+          "label": "< 50,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.24%",
+          "maker": "0.14%",
+          "label": "< 100,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.22%",
+          "maker": "0.12%",
+          "label": "< 250,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.20%",
+          "maker": "0.10%",
+          "label": "< 500,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.18%",
+          "maker": "0.08%",
+          "label": "< 100,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.16%",
+          "maker": "0.06%",
+          "label": "< 2,500,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.14%",
+          "maker": "0.04%",
+          "label": "< 5,000,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0.02%",
+          "label": "< 10,000,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0%",
+          "label": "> 10,000,000 trade volume during last 30 days"
+        }
+      ],
+      "USDTUSD": [
+        {
+          "taker": "0.2%",
+          "maker": "0.2%",
+          "label": "< 50,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.16%",
+          "maker": "0.16%",
+          "label": "< 100,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0.12%",
+          "label": "< 250,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.08%",
+          "maker": "0.08%",
+          "label": "< 500,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0.04%",
+          "maker": "0.04%",
+          "label": "< 1,000,000 trade volume during last 30 days"
+        },
+        {
+          "taker": "0%",
+          "maker": "0%",
+          "label": "> 1,000,000 trade volume during last 30 days"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -10589,10 +10955,63 @@
   "poloniex": {
     "trading-fees": {
       "__notes": "https://poloniex.com/fees/",
-      "default": {
-        "taker": "0.2%",
-        "maker": "0.1%"
-      }
+      "default": [
+        {
+          "taker": "0.2%",
+          "maker": "0.1%",
+          "label": "< 500K USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.08%",
+          "label": "≥ 500K USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.06%",
+          "label": "≥ 1M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.04%",
+          "label": "≥ 2.5M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0.02%",
+          "label": "≥ 5M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.2%",
+          "maker": "0%",
+          "label": "≥ 7.5M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.18%",
+          "maker": "0%",
+          "label": "≥ 10M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.16%",
+          "maker": "0%",
+          "label": "≥ 15M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.14%",
+          "maker": "0%",
+          "label": "≥ 20M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0%",
+          "label": "≥ 25M USD 30 days of trading volume"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0%",
+          "label": "≥ 30M USD 30 days of trading volume"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
@@ -11574,7 +11993,7 @@
   },
   "quadrigacx": {
     "trading-fees": {
-      "__notes": "available via api: https://www.quadrigacx.com/api_info, https://support.quadrigacx.com/support/solutions/articles/9000124313-do-you-charge-trading-fees-",
+      "__notes": "https://support.quadrigacx.com/support/solutions/articles/9000124313-do-you-charge-trading-fees- available via api",
       "default": {
         "taker": "0.5%",
         "maker": "0.5%"
@@ -11703,55 +12122,11 @@
         "maker": "0.25%",
         "taker": "0.25%"
       },
-      "ETHAUD": {
+      "^ETH\\w{3,4}$": {
         "maker": "0.1%",
         "taker": "0.1%"
       },
-      "ETHBTC": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHCNY": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHEUR": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHHKD": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHIDR": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHINR": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHJPY": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHPHP": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHSGD": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "ETHUSD": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "QASHETH": {
-        "maker": "0.1%",
-        "taker": "0.1%"
-      },
-      "UBTCETH": {
+      "^\\w{3,4}ETH$": {
         "maker": "0.1%",
         "taker": "0.1%"
       }
@@ -12230,50 +12605,61 @@
   "therock": {
     "trading-fees": {
       "__notes": "https://www.therocktrading.com/en/pages/fees, discounts available via the API",
-      "_structure": {
-        "BTC*": [
-          {
-            "discount": "50%",
-            "notes": "Last 30 days trading fees > 0.04 BTC"
-          },
-          {
-            "discount": "90%",
-            "notes": "Last 30 days trading fees > 0.16 BTC"
-          }
-        ],
-        "EUR*": [
-          {
-            "discount": "50%",
-            "notes": "Last 30 days trading fees > 25 EUR"
-          },
-          {
-            "discount": "90%",
-            "notes": "Last 30 days trading fees > 100 EUR"
-          }
-        ],
-        "XRP*": [
-          {
-            "discount": "50%",
-            "notes": "Last 30 days trading fees > 120 XRP"
-          },
-          {
-            "discount": "90%",
-            "notes": "Last 30 days trading fees > 600 XRP"
-          }
-        ]
-      },
       "default": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "PPCEUR": {
-        "taker": "0%",
-        "maker": "0%"
-      },
-      "PPCBTC": {
-        "taker": "0%",
-        "maker": "0%"
-      }
+      "^\\w{3,4}BTC$": [
+        {
+          "taker": "0.2%",
+          "maker": "0.2%",
+          "label": "default"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0.1%",
+          "label": "Last 30 days trading fees > 0.04 BTC"
+        },
+        {
+          "taker": "0.02%",
+          "maker": "0.02%",
+          "label": "Last 30 days trading fees > 0.16 BTC"
+        }
+      ],
+      "^\\w{3,4}EUR$": [
+        {
+          "taker": "0.2%",
+          "maker": "0.2%",
+          "label": "default"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0.1%",
+          "label": "Last 30 days trading fees > 25 EUR"
+        },
+        {
+          "taker": "0.02%",
+          "maker": "0.02%",
+          "label": "Last 30 days trading fees > 100 EUR"
+        }
+      ],
+      "^\\w{3,4}XRP$": [
+        {
+          "taker": "0.2%",
+          "maker": "0.2%",
+          "label": "default"
+        },
+        {
+          "taker": "0.1%",
+          "maker": "0.1%",
+          "label": "Last 30 days trading fees > 120 XRP"
+        },
+        {
+          "taker": "0.02%",
+          "maker": "0.02%",
+          "label": "Last 30 days trading fees > 600 XRP"
+        }
+      ]
     },
     "deposit-fees": {
       "default": 0
