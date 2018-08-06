@@ -1,5 +1,8 @@
 {
   "anxpro": {
+    "deposit-fees": {
+      "default": 0
+    },
     "withdrawal-fees": {
       "HKD": {
         "Bank Wire": {
@@ -407,29 +410,6 @@
         "price-precision": 8,
         "quantity-precision": 8
       }
-    },
-    "withdrawl-fees": {
-      "HKD": {
-        "Bank Wire": {
-          "fixed": 250,
-          "rate": "1.00%"
-        },
-        "HK Local Bank Transfer": {
-          "fixed": 55,
-          "rate": "1.00%"
-        }
-      },
-      "ANX": 0.1,
-      "ATENC": 0.1,
-      "BTC": 0.002,
-      "DOGE": 0.1,
-      "ETH": 0.005,
-      "GNT": 0.001,
-      "LTC": 0.02,
-      "OAX": 0.001,
-      "START": 0.1,
-      "STR": 1,
-      "XRP": 1
     }
   },
   "binance": {
