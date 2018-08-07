@@ -11423,7 +11423,7 @@
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.0001",
         "price-precision": 7,
-        "quantity-precision": 7
+        "quantity-precision": 6
       },
       "BTC_EMC2": {
         "baseCcy": "EMC2",
@@ -11434,7 +11434,10 @@
       },
       "BTC_EOS": {
         "baseCcy": "EOS",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "minimum-order-size": "BTC 0.0001",
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "BTC_ETC": {
         "baseCcy": "ETC",
@@ -11781,7 +11784,10 @@
       },
       "ETH_EOS": {
         "baseCcy": "EOS",
-        "counterCcy": "ETH"
+        "counterCcy": "ETH",
+        "minimum-order-size": "ETH 0.0001",
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "ETH_ETC": {
         "baseCcy": "ETC",
@@ -11876,7 +11882,10 @@
       },
       "USDT_EOS": {
         "baseCcy": "EOS",
-        "counterCcy": "USDT"
+        "counterCcy": "USDT",
+        "minimum-order-size": "USDT 0.0001",
+        "price-precision": 8,
+        "quantity-precision": 8
       },
       "USDT_ETC": {
         "baseCcy": "ETC",
