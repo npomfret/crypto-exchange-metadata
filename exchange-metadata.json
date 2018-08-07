@@ -448,163 +448,167 @@
     },
     "withdrawal-fees": {
       "__notes": "https://www.binance.com/fees.html - withdrawal fees change regulary",
-      "BNB": 0.21,
+      "BNB": 0.18,
       "BTC": 0.0005,
       "NEO": 0,
       "ETH": 0.01,
-      "LTC": 0.01,
+      "LTC": 0.001,
       "QTUM": 0.01,
       "EOS": 0.01,
-      "SNT": 41,
+      "SNT": 46,
       "BNT": 1.3,
       "GAS": 0,
       "BCC": 0.001,
       "BTM": 5,
-      "USDT": 4,
+      "USDT": 3.5,
       "HCC": 0.0005,
       "HSR": 0.0001,
-      "OAX": 8.8,
-      "DNT": 77,
-      "MCO": 0.39,
-      "ICN": 5,
+      "OAX": 10.7,
+      "DNT": 84,
+      "MCO": 0.4,
+      "ICN": 4.1,
       "ZRX": 2.6,
-      "OMG": 0.41,
-      "WTC": 0.5,
-      "LRC": 10.6,
+      "OMG": 0.47,
+      "WTC": 0.7,
+      "LRC": 14.8,
       "LLT": 67.8,
-      "YOYO": 55,
+      "YOYO": 74,
       "TRX": 1,
       "STRAT": 0.1,
-      "SNGLS": 82,
-      "BQX": 2.7,
-      "KNC": 3.1,
-      "SNM": 24,
-      "FUN": 110,
-      "LINK": 11.1,
+      "SNGLS": 86,
+      "BQX": 3.7,
+      "KNC": 3.7,
+      "SNM": 28,
+      "FUN": 118,
+      "LINK": 10.4,
       "XVG": 0.1,
       "CTR": 35,
-      "SALT": 2.6,
-      "MDA": 4.5,
+      "SALT": 3.6,
+      "MDA": 5,
       "IOTA": 0.5,
-      "SUB": 13.8,
+      "SUB": 15.3,
       "ETC": 0.01,
-      "MTL": 2.2,
-      "MTH": 77,
-      "ENG": 2.3,
-      "AST": 19.8,
+      "MTL": 2.5,
+      "MTH": 92,
+      "ENG": 2.7,
+      "AST": 22.7,
       "DASH": 0.002,
       "BTG": 0.001,
-      "EVX": 4.2,
-      "REQ": 42.8,
-      "VIB": 43,
-      "POWR": 8.9,
+      "EVX": 4.6,
+      "REQ": 52.9,
+      "VIB": 53,
+      "POWR": 10.7,
       "ARK": 0.1,
       "XRP": 0.25,
       "MOD": 3,
-      "ENJ": 46,
-      "STORJ": 5.4,
+      "ENJ": 52,
+      "STORJ": 5.3,
       "KMD": 0.002,
-      "RCN": 65,
-      "NULS": 1.2,
-      "RDN": 3.4,
+      "RCN": 75,
+      "NULS": 1.4,
+      "RDN": 4.1,
       "XMR": 0.04,
-      "DLT": 32.3,
-      "AMB": 10.5,
+      "DLT": 42.9,
+      "AMB": 14.1,
       "BAT": 10,
       "ZEC": 0.005,
-      "BCPT": 16.8,
-      "ARN": 4.8,
-      "GVT": 0.34,
-      "CDT": 120,
+      "BCPT": 17.7,
+      "ARN": 5.6,
+      "GVT": 0.4,
+      "CDT": 143,
       "GXS": 0.3,
-      "POE": 159,
-      "QSP": 42,
+      "POE": 183,
+      "QSP": 51,
       "BTS": 1,
       "XZC": 0.02,
       "LSK": 0.1,
-      "TNT": 74,
-      "FUEL": 94,
-      "MANA": 23,
+      "TNT": 89,
+      "FUEL": 128,
+      "MANA": 26,
       "BCD": 1,
-      "DGD": 0.03,
-      "ADX": 6.9,
+      "DGD": 0.04,
+      "ADX": 8.3,
       "ADA": 1,
-      "PPT": 0.51,
-      "CMT": 20,
+      "PPT": 0.54,
+      "CMT": 23,
       "XLM": 0.01,
-      "CND": 95,
-      "LEND": 110,
-      "WABI": 9,
+      "CND": 104,
+      "LEND": 128,
+      "WABI": 12.4,
       "SBTC": 0.0005,
       "BCX": 0.5,
       "WAVES": 0.002,
-      "TNB": 138,
-      "GTO": 19,
+      "TNB": 130,
+      "GTO": 22,
       "ICX": 0.02,
-      "OST": 47,
-      "ELF": 4.2,
-      "AION": 3.5,
-      "CVC": 15.8,
+      "OST": 57,
+      "ELF": 4.7,
+      "AION": 4.1,
+      "CVC": 15.2,
       "REP": 0.1,
-      "GNT": 9.5,
-      "DATA": 44.3,
+      "GNT": 11.3,
+      "DATA": 53.1,
       "ETF": 1,
-      "BRD": 7.5,
+      "BRD": 6.7,
       "NEBL": 0.01,
-      "VIBE": 40.8,
-      "LUN": 0.42,
-      "CHAT": 79.3,
-      "RLC": 4.6,
-      "INS": 5.5,
-      "IOST": 98.4,
+      "VIBE": 55.8,
+      "LUN": 0.5,
+      "CHAT": 105.8,
+      "RLC": 5.8,
+      "INS": 7.9,
+      "IOST": 122.5,
       "STEEM": 0.01,
       "NANO": 0.01,
       "AE": 1.5,
       "VIA": 0.01,
-      "BLZ": 9.3,
+      "BLZ": 11.7,
       "SYS": 1,
       "RPX": 1,
-      "NCASH": 238.2,
+      "NCASH": 273.3,
       "POA": 0.01,
       "ONT": 1,
-      "ZIL": 37.9,
-      "STORM": 171,
+      "ZIL": 47.6,
+      "STORM": 208,
       "XEM": 4,
       "WAN": 0.1,
-      "WPR": 67.5,
+      "WPR": 90.6,
       "QLC": 1,
       "GRS": 0.2,
       "CLOAK": 0.02,
-      "LOOM": 14.8,
+      "LOOM": 18.6,
       "BCN": 1,
-      "TUSD": 2.78,
+      "TUSD": 2.43,
       "ZEN": 0.002,
       "SKY": 0.01,
       "THETA": 24,
-      "IOTX": 121.4,
-      "QKC": 36.5,
-      "AGI": 33.97,
+      "IOTX": 143.9,
+      "QKC": 48.21,
+      "AGI": 36.68,
       "NXS": 0.02,
       "SC": 0.1,
       "EON": 10,
-      "NPXS": 874,
-      "KEY": 234,
+      "NPXS": 1266,
+      "KEY": 278,
       "NAS": 0.1,
       "ADD": 0.1,
       "MEETONE": 5,
       "ATD": 0.1,
-      "MFT": 210,
+      "MFT": 250,
       "EOP": 5,
-      "DENT": 931,
+      "DENT": 1163,
       "IQ": 0.1,
       "ARDR": 2,
-      "HOT": 3637,
+      "HOT": 3062,
       "VET": 100,
-      "EDO": 3.1,
-      "WINGS": 12.7,
+      "DOCK": 77,
+      "POLY": 9,
+      "VTHO": 21,
+      "ONG": 0.1,
+      "EDO": 3.3,
+      "WINGS": 14.8,
       "NAV": 0.2,
-      "TRIG": 50.3,
-      "APPC": 16.3,
+      "TRIG": 54.7,
+      "APPC": 19.4,
       "PIVX": 0.02
     },
     "markets": {
@@ -613,7 +617,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "ADABTC": {
         "baseCcy": "ADA",
@@ -641,7 +645,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "ADXBTC": {
         "baseCcy": "ADX",
@@ -662,7 +666,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "AEBTC": {
         "baseCcy": "AE",
@@ -683,7 +687,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "AGIBTC": {
         "baseCcy": "AGI",
@@ -704,7 +708,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "AIONBTC": {
         "baseCcy": "AION",
@@ -725,7 +729,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "AMBBTC": {
         "baseCcy": "AMB",
@@ -746,7 +750,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "APPCBTC": {
         "baseCcy": "APPC",
@@ -766,19 +770,22 @@
         "baseCcy": "ARDR",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
-        "price-precision": 5
+        "price-precision": 5,
+        "quantity-precision": 1
       },
       "ARDRBTC": {
         "baseCcy": "ARDR",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "ARDRETH": {
         "baseCcy": "ARDR",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "ARKBTC": {
         "baseCcy": "ARK",
@@ -827,7 +834,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "BATBTC": {
         "baseCcy": "BAT",
@@ -896,7 +903,7 @@
         "baseCcy": "BCN",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 0
       },
       "BCNETH": {
@@ -911,7 +918,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "BCPTBTC": {
         "baseCcy": "BCPT",
@@ -932,7 +939,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "BLZBTC": {
         "baseCcy": "BLZ",
@@ -1002,7 +1009,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "BRDBTC": {
         "baseCcy": "BRD",
@@ -1044,7 +1051,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "BTSBTC": {
         "baseCcy": "BTS",
@@ -1149,7 +1156,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "CVCBTC": {
         "baseCcy": "CVC",
@@ -1197,13 +1204,15 @@
         "baseCcy": "DENT",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8
+        "price-precision": 7,
+        "quantity-precision": 0
       },
       "DENTETH": {
         "baseCcy": "DENT",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "DGDBTC": {
         "baseCcy": "DGD",
@@ -1224,7 +1233,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "DLTBTC": {
         "baseCcy": "DLT",
@@ -1256,11 +1265,15 @@
       },
       "DOCKBTC": {
         "baseCcy": "DOCK",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "DOCKETH": {
         "baseCcy": "DOCK",
-        "counterCcy": "ETH"
+        "counterCcy": "ETH",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "EDOBTC": {
         "baseCcy": "EDO",
@@ -1449,7 +1462,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "GNTBTC": {
         "baseCcy": "GNT",
@@ -1484,7 +1497,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "GTOBTC": {
         "baseCcy": "GTO",
@@ -1538,7 +1551,8 @@
         "baseCcy": "HOT",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "HSRBTC": {
         "baseCcy": "HSR",
@@ -1573,7 +1587,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "ICXBTC": {
         "baseCcy": "ICX",
@@ -1629,7 +1643,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "IOTABTC": {
         "baseCcy": "IOTA",
@@ -1741,7 +1755,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "LOOMBTC": {
         "baseCcy": "LOOM",
@@ -1853,7 +1867,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "MCOBTC": {
         "baseCcy": "MCO",
@@ -1887,19 +1901,22 @@
         "baseCcy": "MFT",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
-        "price-precision": 6
+        "price-precision": 6,
+        "quantity-precision": 0
       },
       "MFTBTC": {
         "baseCcy": "MFT",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "MFTETH": {
         "baseCcy": "MFT",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "MODBTC": {
         "baseCcy": "MOD",
@@ -1969,7 +1986,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "NASBTC": {
         "baseCcy": "NAS",
@@ -2080,7 +2097,7 @@
         "baseCcy": "NPXS",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8,
+        "price-precision": 7,
         "quantity-precision": 0
       },
       "NPXSETH": {
@@ -2095,7 +2112,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "NULSBTC": {
         "baseCcy": "NULS",
@@ -2115,7 +2132,8 @@
         "baseCcy": "NULS",
         "counterCcy": "USDT",
         "minimum-order-size": "USDT 10",
-        "price-precision": 4
+        "price-precision": 4,
+        "quantity-precision": 2
       },
       "NXSBNB": {
         "baseCcy": "NXS",
@@ -2171,7 +2189,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "ONTBTC": {
         "baseCcy": "ONT",
@@ -2220,7 +2238,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "PIVXBTC": {
         "baseCcy": "PIVX",
@@ -2241,7 +2259,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "POABTC": {
         "baseCcy": "POA",
@@ -2273,18 +2291,22 @@
       },
       "POLYBNB": {
         "baseCcy": "POLY",
-        "counterCcy": "BNB"
+        "counterCcy": "BNB",
+        "price-precision": 5,
+        "quantity-precision": 1
       },
       "POLYBTC": {
         "baseCcy": "POLY",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "POWRBNB": {
         "baseCcy": "POWR",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "POWRBTC": {
         "baseCcy": "POWR",
@@ -2354,7 +2376,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
-        "quantity-precision": 0
+        "quantity-precision": 1
       },
       "QSPBTC": {
         "baseCcy": "QSP",
@@ -2375,7 +2397,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "QTUMBTC": {
         "baseCcy": "QTUM",
@@ -2480,7 +2502,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "RLCBTC": {
         "baseCcy": "RLC",
@@ -2620,7 +2642,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "STEEMBTC": {
         "baseCcy": "STEEM",
@@ -2725,7 +2747,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "THETABTC": {
         "baseCcy": "THETA",
@@ -2774,7 +2796,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "TRIGBTC": {
         "baseCcy": "TRIG",
@@ -2816,7 +2838,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "TUSDBTC": {
         "baseCcy": "TUSD",
@@ -2843,60 +2865,64 @@
         "baseCcy": "VEN",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
-        "price-precision": 4,
-        "quantity-precision": 2
+        "price-precision": 0,
+        "quantity-precision": 0
       },
       "VENBTC": {
         "baseCcy": "VEN",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8,
+        "price-precision": 0,
         "quantity-precision": 0
       },
       "VENETH": {
         "baseCcy": "VEN",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8,
+        "price-precision": 0,
         "quantity-precision": 0
       },
       "VENUSDT": {
         "baseCcy": "VEN",
         "counterCcy": "USDT",
         "minimum-order-size": "USDT 10",
-        "price-precision": 4,
-        "quantity-precision": 2
+        "price-precision": 0,
+        "quantity-precision": 0
       },
       "VETBNB": {
         "baseCcy": "VET",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
-        "price-precision": 5
+        "price-precision": 5,
+        "quantity-precision": 1
       },
       "VETBTC": {
         "baseCcy": "VET",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "VETETH": {
         "baseCcy": "VET",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "VETUSDT": {
         "baseCcy": "VET",
         "counterCcy": "USDT",
         "minimum-order-size": "USDT 10",
-        "price-precision": 5
+        "price-precision": 5,
+        "quantity-precision": 1
       },
       "VIABNB": {
         "baseCcy": "VIA",
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "VIABTC": {
         "baseCcy": "VIA",
@@ -2945,7 +2971,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "WABIBTC": {
         "baseCcy": "WABI",
@@ -2966,7 +2992,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "WANBTC": {
         "baseCcy": "WAN",
@@ -3057,7 +3083,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "XEMBTC": {
         "baseCcy": "XEM",
@@ -3078,7 +3104,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "XLMBTC": {
         "baseCcy": "XLM",
@@ -3099,7 +3125,7 @@
         "counterCcy": "USDT",
         "minimum-order-size": "USDT 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "XMRBTC": {
         "baseCcy": "XMR",
@@ -3120,7 +3146,7 @@
         "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
-        "quantity-precision": 2
+        "quantity-precision": 1
       },
       "XRPBTC": {
         "baseCcy": "XRP",
