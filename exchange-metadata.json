@@ -3310,87 +3310,92 @@
           "maker": "0.30%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 3 750 EUR",
           "taker": "0.42%",
           "maker": "0.29%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 7 500 EUR",
           "taker": "0.41%",
           "maker": "0.28%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 10 000 EUR",
           "taker": "0.40%",
           "maker": "0.28%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 15 000 EUR",
           "taker": "0.39%",
           "maker": "0.27%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 20 000 EUR",
           "taker": "0.38%",
           "maker": "0.26%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 25 000 EUR",
           "taker": "0.37%",
           "maker": "0.25%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 37 500 EUR",
           "taker": "0.36%",
           "maker": "0.25%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 50 000 EUR",
           "taker": "0.35%",
           "maker": "0.24%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 75 000 EUR",
+          "taker": "0.34%",
+          "maker": "0.24%"
+        },
+        {
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 100 000 EUR",
           "taker": "0.33%",
           "maker": "0.23%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 150 000 EUR",
           "taker": "0.32%",
           "maker": "0.22%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 200 000 EUR",
           "taker": "0.31%",
           "maker": "0.21%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 250 000 EUR",
           "taker": "0.30%",
           "maker": "0.21%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 375 000 EUR",
           "taker": "0.29%",
           "maker": "0.20%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 500 000 EUR",
           "taker": "0.28%",
           "maker": "0.19%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 625 000 EUR",
           "taker": "0.27%",
           "maker": "0.18%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY < 875 000 EUR",
           "taker": "0.26%",
           "maker": "0.18%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY > 875 000 EUR",
           "taker": "0.25%",
           "maker": "0.17%"
         }
