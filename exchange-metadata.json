@@ -679,9 +679,9 @@
       "PIVX": 0.02
     },
     "markets": {
-      "ADABNB holdings": {
+      "ADABNB": {
         "baseCcy": "ADA",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -707,9 +707,9 @@
         "price-precision": 5,
         "quantity-precision": 1
       },
-      "ADXBNB holdings": {
+      "ADXBNB": {
         "baseCcy": "ADX",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -728,9 +728,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "AEBNB holdings": {
+      "AEBNB": {
         "baseCcy": "AE",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -749,9 +749,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "AGIBNB holdings": {
+      "AGIBNB": {
         "baseCcy": "AGI",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -770,9 +770,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "AIONBNB holdings": {
+      "AIONBNB": {
         "baseCcy": "AION",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -791,9 +791,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "AMBBNB holdings": {
+      "AMBBNB": {
         "baseCcy": "AMB",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -812,9 +812,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "APPCBNB holdings": {
+      "APPCBNB": {
         "baseCcy": "APPC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -833,9 +833,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "ARDRBNB holdings": {
+      "ARDRBNB": {
         "baseCcy": "ARDR",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -896,9 +896,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "BATBNB holdings": {
+      "BATBNB": {
         "baseCcy": "BAT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -917,9 +917,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "BCCBNB holdings": {
+      "BCCBNB": {
         "baseCcy": "BCC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 2,
         "quantity-precision": 5
@@ -959,9 +959,9 @@
         "price-precision": 5,
         "quantity-precision": 3
       },
-      "BCNBNB holdings": {
+      "BCNBNB": {
         "baseCcy": "BCN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -980,9 +980,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "BCPTBNB holdings": {
+      "BCPTBNB": {
         "baseCcy": "BCPT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1001,9 +1001,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "BLZBNB holdings": {
+      "BLZBNB": {
         "baseCcy": "BLZ",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1023,21 +1023,21 @@
         "quantity-precision": 0
       },
       "BNBBTC": {
-        "baseCcy": "BNB holdings",
+        "baseCcy": "BNB",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
         "price-precision": 7,
         "quantity-precision": 2
       },
       "BNBETH": {
-        "baseCcy": "BNB holdings",
+        "baseCcy": "BNB",
         "counterCcy": "ETH",
         "minimum-order-size": "ETH 0.01",
         "price-precision": 6,
         "quantity-precision": 2
       },
       "BNBUSDT": {
-        "baseCcy": "BNB holdings",
+        "baseCcy": "BNB",
         "counterCcy": "USDT",
         "minimum-order-size": "USDT 10",
         "price-precision": 4,
@@ -1071,9 +1071,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "BRDBNB holdings": {
+      "BRDBNB": {
         "baseCcy": "BRD",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1113,9 +1113,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "BTSBNB holdings": {
+      "BTSBNB": {
         "baseCcy": "BTS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1176,9 +1176,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "CMTBNB holdings": {
+      "CMTBNB": {
         "baseCcy": "CMT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 2
@@ -1197,9 +1197,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "CNDBNB holdings": {
+      "CNDBNB": {
         "baseCcy": "CND",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -1218,9 +1218,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "CVCBNB holdings": {
+      "CVCBNB": {
         "baseCcy": "CVC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1295,9 +1295,9 @@
         "price-precision": 5,
         "quantity-precision": 3
       },
-      "DLTBNB holdings": {
+      "DLTBNB": {
         "baseCcy": "DLT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1384,9 +1384,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "ENJBNB holdings": {
+      "ENJBNB": {
         "baseCcy": "ENJ",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -1405,9 +1405,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "EOSBNB holdings": {
+      "EOSBNB": {
         "baseCcy": "EOS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -1433,9 +1433,9 @@
         "price-precision": 4,
         "quantity-precision": 2
       },
-      "ETCBNB holdings": {
+      "ETCBNB": {
         "baseCcy": "ETC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -1524,9 +1524,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "GNTBNB holdings": {
+      "GNTBNB": {
         "baseCcy": "GNT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1559,9 +1559,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "GTOBNB holdings": {
+      "GTOBNB": {
         "baseCcy": "GTO",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1649,9 +1649,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "ICXBNB holdings": {
+      "ICXBNB": {
         "baseCcy": "ICX",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1705,9 +1705,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "IOTABNB holdings": {
+      "IOTABNB": {
         "baseCcy": "IOTA",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1817,9 +1817,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "LOOMBNB holdings": {
+      "LOOMBNB": {
         "baseCcy": "LOOM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1852,9 +1852,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "LSKBNB holdings": {
+      "LSKBNB": {
         "baseCcy": "LSK",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -1873,9 +1873,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "LTCBNB holdings": {
+      "LTCBNB": {
         "baseCcy": "LTC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 2,
         "quantity-precision": 5
@@ -1929,9 +1929,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "MCOBNB holdings": {
+      "MCOBNB": {
         "baseCcy": "MCO",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -1964,9 +1964,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "MFTBNB holdings": {
+      "MFTBNB": {
         "baseCcy": "MFT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2027,9 +2027,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "NANOBNB holdings": {
+      "NANOBNB": {
         "baseCcy": "NANO",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -2048,9 +2048,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "NASBNB holdings": {
+      "NASBNB": {
         "baseCcy": "NAS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2069,9 +2069,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "NAVBNB holdings": {
+      "NAVBNB": {
         "baseCcy": "NAV",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 2
@@ -2090,9 +2090,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "NCASHBNB holdings": {
+      "NCASHBNB": {
         "baseCcy": "NCASH",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2111,9 +2111,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "NEBLBNB holdings": {
+      "NEBLBNB": {
         "baseCcy": "NEBL",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 2
@@ -2132,9 +2132,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "NEOBNB holdings": {
+      "NEOBNB": {
         "baseCcy": "NEO",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 3,
         "quantity-precision": 3
@@ -2174,9 +2174,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "NULSBNB holdings": {
+      "NULSBNB": {
         "baseCcy": "NULS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2202,9 +2202,9 @@
         "price-precision": 4,
         "quantity-precision": 2
       },
-      "NXSBNB holdings": {
+      "NXSBNB": {
         "baseCcy": "NXS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -2251,9 +2251,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "ONTBNB holdings": {
+      "ONTBNB": {
         "baseCcy": "ONT",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2279,9 +2279,9 @@
         "price-precision": 3,
         "quantity-precision": 3
       },
-      "OSTBNB holdings": {
+      "OSTBNB": {
         "baseCcy": "OST",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2300,9 +2300,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "PIVXBNB holdings": {
+      "PIVXBNB": {
         "baseCcy": "PIVX",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2321,9 +2321,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "POABNB holdings": {
+      "POABNB": {
         "baseCcy": "POA",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2356,9 +2356,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "POLYBNB holdings": {
+      "POLYBNB": {
         "baseCcy": "POLY",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "price-precision": 5,
         "quantity-precision": 1
       },
@@ -2368,9 +2368,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "POWRBNB holdings": {
+      "POWRBNB": {
         "baseCcy": "POWR",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2417,9 +2417,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "QLCBNB holdings": {
+      "QLCBNB": {
         "baseCcy": "QLC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2438,9 +2438,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "QSPBNB holdings": {
+      "QSPBNB": {
         "baseCcy": "QSP",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 1
@@ -2459,9 +2459,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "QTUMBNB holdings": {
+      "QTUMBNB": {
         "baseCcy": "QTUM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2487,9 +2487,9 @@
         "price-precision": 3,
         "quantity-precision": 3
       },
-      "RCNBNB holdings": {
+      "RCNBNB": {
         "baseCcy": "RCN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2508,9 +2508,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "RDNBNB holdings": {
+      "RDNBNB": {
         "baseCcy": "RDN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 2
@@ -2529,9 +2529,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "REPBNB holdings": {
+      "REPBNB": {
         "baseCcy": "REP",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 3,
         "quantity-precision": 3
@@ -2564,9 +2564,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "RLCBNB holdings": {
+      "RLCBNB": {
         "baseCcy": "RLC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2585,9 +2585,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "RPXBNB holdings": {
+      "RPXBNB": {
         "baseCcy": "RPX",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2620,9 +2620,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "SCBNB holdings": {
+      "SCBNB": {
         "baseCcy": "SC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2641,9 +2641,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "SKYBNB holdings": {
+      "SKYBNB": {
         "baseCcy": "SKY",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 3,
         "quantity-precision": 3
@@ -2704,9 +2704,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "STEEMBNB holdings": {
+      "STEEMBNB": {
         "baseCcy": "STEEM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2739,9 +2739,9 @@
         "price-precision": 7,
         "quantity-precision": 0
       },
-      "STORMBNB holdings": {
+      "STORMBNB": {
         "baseCcy": "STORM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -2788,9 +2788,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "SYSBNB holdings": {
+      "SYSBNB": {
         "baseCcy": "SYS",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 2
@@ -2809,9 +2809,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "THETABNB holdings": {
+      "THETABNB": {
         "baseCcy": "THETA",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2858,9 +2858,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "TRIGBNB holdings": {
+      "TRIGBNB": {
         "baseCcy": "TRIG",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2900,9 +2900,9 @@
         "price-precision": 5,
         "quantity-precision": 1
       },
-      "TUSDBNB holdings": {
+      "TUSDBNB": {
         "baseCcy": "TUSD",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2928,9 +2928,9 @@
         "price-precision": 4,
         "quantity-precision": 2
       },
-      "VENBNB holdings": {
+      "VENBNB": {
         "baseCcy": "VEN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 0,
         "quantity-precision": 0
@@ -2956,9 +2956,9 @@
         "price-precision": 0,
         "quantity-precision": 0
       },
-      "VETBNB holdings": {
+      "VETBNB": {
         "baseCcy": "VET",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -2984,9 +2984,9 @@
         "price-precision": 5,
         "quantity-precision": 1
       },
-      "VIABNB holdings": {
+      "VIABNB": {
         "baseCcy": "VIA",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3033,9 +3033,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "WABIBNB holdings": {
+      "WABIBNB": {
         "baseCcy": "WABI",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3054,9 +3054,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "WANBNB holdings": {
+      "WANBNB": {
         "baseCcy": "WAN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3075,9 +3075,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "WAVESBNB holdings": {
+      "WAVESBNB": {
         "baseCcy": "WAVES",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -3124,9 +3124,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "WTCBNB holdings": {
+      "WTCBNB": {
         "baseCcy": "WTC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 4,
         "quantity-precision": 2
@@ -3145,9 +3145,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "XEMBNB holdings": {
+      "XEMBNB": {
         "baseCcy": "XEM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3166,9 +3166,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "XLMBNB holdings": {
+      "XLMBNB": {
         "baseCcy": "XLM",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3208,9 +3208,9 @@
         "price-precision": 5,
         "quantity-precision": 3
       },
-      "XRPBNB holdings": {
+      "XRPBNB": {
         "baseCcy": "XRP",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 5,
         "quantity-precision": 1
@@ -3250,9 +3250,9 @@
         "price-precision": 8,
         "quantity-precision": 0
       },
-      "XZCBNB holdings": {
+      "XZCBNB": {
         "baseCcy": "XZC",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 3,
         "quantity-precision": 3
@@ -3271,9 +3271,9 @@
         "price-precision": 6,
         "quantity-precision": 2
       },
-      "YOYOBNB holdings": {
+      "YOYOBNB": {
         "baseCcy": "YOYO",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
@@ -3306,9 +3306,9 @@
         "price-precision": 5,
         "quantity-precision": 3
       },
-      "ZENBNB holdings": {
+      "ZENBNB": {
         "baseCcy": "ZEN",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 3,
         "quantity-precision": 3
@@ -3327,9 +3327,9 @@
         "price-precision": 5,
         "quantity-precision": 3
       },
-      "ZILBNB holdings": {
+      "ZILBNB": {
         "baseCcy": "ZIL",
-        "counterCcy": "BNB holdings",
+        "counterCcy": "BNB",
         "minimum-order-size": "BNB 1",
         "price-precision": 6,
         "quantity-precision": 0
