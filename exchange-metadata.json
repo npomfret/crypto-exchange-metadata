@@ -6855,6 +6855,64 @@
       }
     }
   },
+  "bitmex": {
+    "markets": {
+      "ADAXBT=": {
+        "baseCcy": "ADA",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BCHXBT=": {
+        "baseCcy": "BCH",
+        "counterCcy": "XBT",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "EOSXBT=": {
+        "baseCcy": "EOS",
+        "counterCcy": "XBT",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ETH=": {
+        "baseCcy": "ETH",
+        "counterCcy": "USD",
+        "price-precision": 2,
+        "quantity-precision": 2
+      },
+      "ETHXBT=": {
+        "baseCcy": "ETH",
+        "counterCcy": "XBT",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "LTCXBT=": {
+        "baseCcy": "LTC",
+        "counterCcy": "XBT",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "TRXXBT=": {
+        "baseCcy": "TRX",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XBT=": {
+        "baseCcy": "XBT",
+        "counterCcy": "USD",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "XRPXBT=": {
+        "baseCcy": "XRP",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      }
+    }
+  },
   "bittrex": {
     "trading-fees": {
       "__notes": "https://bittrex.com/fees, https://support.bittrex.com/hc/en-us/articles/115000199651-What-fees-does-Bittrex-charge-",
@@ -10226,6 +10284,18 @@
         "minimum-order-size": "BTC 0.001",
         "price-precision": 2,
         "quantity-precision": 8
+      },
+      "ETC-BTC": {
+        "baseCcy": "ETC",
+        "counterCcy": "BTC"
+      },
+      "ETC-EUR": {
+        "baseCcy": "ETC",
+        "counterCcy": "EUR"
+      },
+      "ETC-USD": {
+        "baseCcy": "ETC",
+        "counterCcy": "USD"
       },
       "ETH-BTC": {
         "baseCcy": "ETH",
