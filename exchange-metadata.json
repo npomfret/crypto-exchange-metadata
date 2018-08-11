@@ -6454,7 +6454,7 @@
         "quantity-precision": 8
       },
       "BCCPLN": {
-        "baseCcy": "BCC",
+        "baseCcy": "BCH",
         "counterCcy": "PLN",
         "minimum-order-size": "BCC 0.01",
         "price-precision": 4,
@@ -6508,6 +6508,10 @@
         "minimum-order-size": "LTC 0.01",
         "price-precision": 4,
         "quantity-precision": 8
+      },
+      "LiteMineXBTC": {
+        "baseCcy": "LiteMineX",
+        "counterCcy": "BTC"
       },
       "XRPEUR": {
         "baseCcy": "XRP",
@@ -6605,17 +6609,201 @@
   },
   "bitmex": {
     "markets": {
+      ".ADAXBT": {
+        "baseCcy": "ADA",
+        "counterCcy": "BTC"
+      },
+      ".ADAXBT30M": {
+        "baseCcy": "ADA",
+        "counterCcy": "BTC"
+      },
+      ".BCHXBT": {
+        "baseCcy": "BCH",
+        "counterCcy": "BTC"
+      },
+      ".BCHXBT30M": {
+        "baseCcy": "BCH",
+        "counterCcy": "BTC"
+      },
+      ".BETH": {
+        "baseCcy": "ETH",
+        "counterCcy": "USD"
+      },
+      ".BETH30M": {
+        "baseCcy": "ETH",
+        "counterCcy": "USD"
+      },
+      ".BVOL": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".BVOL24H": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".BVOL7D": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".BXBT": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      ".BXBT30M": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      ".BXBTJPY": {
+        "baseCcy": "BTC",
+        "counterCcy": "JPY"
+      },
+      ".BXBTJPY30M": {
+        "baseCcy": "BTC",
+        "counterCcy": "JPY"
+      },
+      ".EOSXBT": {
+        "baseCcy": "EOS",
+        "counterCcy": "BTC"
+      },
+      ".EOSXBT30M": {
+        "baseCcy": "EOS",
+        "counterCcy": "BTC"
+      },
+      ".ETHBON": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHBON2H": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHBON8H": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHUSDPI": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHUSDPI2H": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHUSDPI8H": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".ETHXBT": {
+        "baseCcy": "ETH",
+        "counterCcy": "BTC"
+      },
+      ".ETHXBT30M": {
+        "baseCcy": "ETH",
+        "counterCcy": "BTC"
+      },
+      ".EVOL7D": {
+        "baseCcy": "ETH",
+        "counterCcy": "XXX"
+      },
+      ".LTCXBT": {
+        "baseCcy": "LTC",
+        "counterCcy": "BTC"
+      },
+      ".LTCXBT30M": {
+        "baseCcy": "LTC",
+        "counterCcy": "BTC"
+      },
+      ".TRXXBT": {
+        "baseCcy": "TRX",
+        "counterCcy": "BTC"
+      },
+      ".TRXXBT30M": {
+        "baseCcy": "TRX",
+        "counterCcy": "BTC"
+      },
+      ".USDBON": {
+        "baseCcy": "USD",
+        "counterCcy": "XXX"
+      },
+      ".USDBON2H": {
+        "baseCcy": "USD",
+        "counterCcy": "XXX"
+      },
+      ".USDBON8H": {
+        "baseCcy": "USD",
+        "counterCcy": "XXX"
+      },
+      ".XBT": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      ".XBT30M": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      ".XBTBON": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XBTBON2H": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XBTBON8H": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XBTJPY": {
+        "baseCcy": "BTC",
+        "counterCcy": "JPY"
+      },
+      ".XBTJPY30M": {
+        "baseCcy": "BTC",
+        "counterCcy": "JPY"
+      },
+      ".XBTUSDPI": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XBTUSDPI2H": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XBTUSDPI8H": {
+        "baseCcy": "BTC",
+        "counterCcy": "XXX"
+      },
+      ".XRPXBT": {
+        "baseCcy": "XRP",
+        "counterCcy": "BTC"
+      },
+      ".XRPXBT30M": {
+        "baseCcy": "XRP",
+        "counterCcy": "BTC"
+      },
+      "ADAU18": {
+        "baseCcy": "ADA",
+        "counterCcy": "BTC"
+      },
       "ADAXBT=": {
         "baseCcy": "ADA",
         "counterCcy": "XBT",
         "price-precision": 8,
         "quantity-precision": 8
       },
+      "BCHU18": {
+        "baseCcy": "BCH",
+        "counterCcy": "BTC"
+      },
       "BCHXBT=": {
         "baseCcy": "BCH",
         "counterCcy": "XBT",
         "price-precision": 4,
         "quantity-precision": 8
+      },
+      "EOSU18": {
+        "baseCcy": "EOS",
+        "counterCcy": "BTC"
       },
       "EOSXBT=": {
         "baseCcy": "EOS",
@@ -6629,11 +6817,23 @@
         "price-precision": 2,
         "quantity-precision": 2
       },
+      "ETHU18": {
+        "baseCcy": "ETH",
+        "counterCcy": "BTC"
+      },
+      "ETHUSD": {
+        "baseCcy": "ETH",
+        "counterCcy": "USD"
+      },
       "ETHXBT=": {
         "baseCcy": "ETH",
         "counterCcy": "XBT",
         "price-precision": 5,
         "quantity-precision": 8
+      },
+      "LTCU18": {
+        "baseCcy": "LTC",
+        "counterCcy": "BTC"
       },
       "LTCXBT=": {
         "baseCcy": "LTC",
@@ -6641,17 +6841,45 @@
         "price-precision": 5,
         "quantity-precision": 8
       },
+      "TRXU18": {
+        "baseCcy": "TRX",
+        "counterCcy": "BTC"
+      },
       "TRXXBT=": {
         "baseCcy": "TRX",
         "counterCcy": "XBT",
         "price-precision": 8,
         "quantity-precision": 8
       },
+      "XBT7D_D95": {
+        "baseCcy": "BTC",
+        "counterCcy": "BTC"
+      },
+      "XBT7D_U105": {
+        "baseCcy": "BTC",
+        "counterCcy": "BTC"
+      },
       "XBT=": {
         "baseCcy": "XBT",
         "counterCcy": "USD",
         "price-precision": 1,
         "quantity-precision": 8
+      },
+      "XBTU18": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      "XBTUSD": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      "XBTZ18": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      },
+      "XRPU18": {
+        "baseCcy": "XRP",
+        "counterCcy": "BTC"
       },
       "XRPXBT=": {
         "baseCcy": "XRP",
@@ -9342,7 +9570,7 @@
         "quantity-precision": 8
       },
       "ETC/BTC": {
-        "baseCcy": "ETH",
+        "baseCcy": "ETC",
         "counterCcy": "BTC",
         "minimum-order-size": "ETH 0.001",
         "price-precision": 8,
@@ -10461,7 +10689,20 @@
         }
       ]
     },
-    "markets": {}
+    "markets": {
+      "XBTEUR": {
+        "baseCcy": "BTC",
+        "counterCcy": "EUR"
+      },
+      "XBTSGD": {
+        "baseCcy": "BTC",
+        "counterCcy": "SGD"
+      },
+      "XBTUSD": {
+        "baseCcy": "BTC",
+        "counterCcy": "USD"
+      }
+    }
   },
   "kraken": {
     "trading-fees": {
@@ -12201,71 +12442,71 @@
     },
     "markets": {
       "bch_btc": {
-        "baseCcy": "bch",
-        "counterCcy": "btc",
+        "baseCcy": "BCH",
+        "counterCcy": "BTC",
         "minimum-order-size": "bch 0.01",
         "price-precision": 8,
         "quantity-precision": 8
       },
       "bch_cad": {
-        "baseCcy": "bch",
-        "counterCcy": "cad",
+        "baseCcy": "BCH",
+        "counterCcy": "CAD",
         "minimum-order-size": "bch 0.0005",
         "price-precision": 2,
         "quantity-precision": 8
       },
       "btc_cad": {
-        "baseCcy": "btc",
-        "counterCcy": "cad",
+        "baseCcy": "BTC",
+        "counterCcy": "CAD",
         "minimum-order-size": "btc 0.0005",
         "price-precision": 2,
         "quantity-precision": 8
       },
       "btc_usd": {
-        "baseCcy": "btc",
-        "counterCcy": "usd",
+        "baseCcy": "BTC",
+        "counterCcy": "USD",
         "minimum-order-size": "btc 0.0005",
         "price-precision": 2,
         "quantity-precision": 8
       },
       "btg_btc": {
-        "baseCcy": "btg",
-        "counterCcy": "btc",
+        "baseCcy": "BTG",
+        "counterCcy": "BTC",
         "minimum-order-size": "btg 0.01",
         "price-precision": 8,
         "quantity-precision": 8
       },
       "btg_cad": {
-        "baseCcy": "btg",
-        "counterCcy": "cad",
+        "baseCcy": "BTG",
+        "counterCcy": "CAD",
         "minimum-order-size": "btg 0.0005",
         "price-precision": 2,
         "quantity-precision": 8
       },
       "eth_btc": {
-        "baseCcy": "eth",
-        "counterCcy": "btc",
+        "baseCcy": "ETH",
+        "counterCcy": "BTC",
         "minimum-order-size": "eth 0.000001",
         "price-precision": 8,
         "quantity-precision": 8
       },
       "eth_cad": {
-        "baseCcy": "eth",
-        "counterCcy": "cad",
+        "baseCcy": "ETH",
+        "counterCcy": "CAD",
         "minimum-order-size": "eth 0.000001",
         "price-precision": 2,
         "quantity-precision": 8
       },
       "ltc_btc": {
-        "baseCcy": "ltc",
-        "counterCcy": "btc",
+        "baseCcy": "LTC",
+        "counterCcy": "BTC",
         "minimum-order-size": "ltc 0.01",
         "price-precision": 8,
         "quantity-precision": 8
       },
       "ltc_cad": {
-        "baseCcy": "ltc",
-        "counterCcy": "cad",
+        "baseCcy": "LTC",
+        "counterCcy": "CAD",
         "minimum-order-size": "ltc 0.0001",
         "price-precision": 2,
         "quantity-precision": 8
@@ -13006,372 +13247,372 @@
     },
     "markets": {
       "bch_btc": {
-        "baseCcy": "bch",
-        "counterCcy": "btc",
+        "baseCcy": "BCH",
+        "counterCcy": "BTC",
         "minimum-order-size": "bch 0.001",
         "price-precision": 4,
         "quantity-precision": 8
       },
       "bch_dsh": {
-        "baseCcy": "bch",
-        "counterCcy": "dsh",
+        "baseCcy": "BCH",
+        "counterCcy": "DASH",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_eth": {
-        "baseCcy": "bch",
-        "counterCcy": "eth",
+        "baseCcy": "BCH",
+        "counterCcy": "ETH",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_eur": {
-        "baseCcy": "bch",
-        "counterCcy": "eur",
+        "baseCcy": "BCH",
+        "counterCcy": "EUR",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_ltc": {
-        "baseCcy": "bch",
-        "counterCcy": "ltc",
+        "baseCcy": "BCH",
+        "counterCcy": "LTC",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_rur": {
-        "baseCcy": "bch",
-        "counterCcy": "rur",
+        "baseCcy": "BCH",
+        "counterCcy": "RUB",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_usd": {
-        "baseCcy": "bch",
-        "counterCcy": "usd",
+        "baseCcy": "BCH",
+        "counterCcy": "USD",
         "minimum-order-size": "bch 0.001",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bch_zec": {
-        "baseCcy": "bch",
-        "counterCcy": "zec",
+        "baseCcy": "BCH",
+        "counterCcy": "ZEC",
         "minimum-order-size": "bch 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "bchet_bch": {
-        "baseCcy": "bchet",
-        "counterCcy": "bch",
+        "baseCcy": "BCHET",
+        "counterCcy": "BCH",
         "minimum-order-size": "bchet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "btc_eur": {
-        "baseCcy": "btc",
-        "counterCcy": "eur",
+        "baseCcy": "BTC",
+        "counterCcy": "EUR",
         "minimum-order-size": "btc 0.001",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "btc_rur": {
-        "baseCcy": "btc",
-        "counterCcy": "rur",
+        "baseCcy": "BTC",
+        "counterCcy": "RUB",
         "minimum-order-size": "btc 0.001",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "btc_usd": {
-        "baseCcy": "btc",
-        "counterCcy": "usd",
+        "baseCcy": "BTC",
+        "counterCcy": "USD",
         "minimum-order-size": "btc 0.001",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "btc_usdt": {
-        "baseCcy": "btc",
-        "counterCcy": "usdt",
+        "baseCcy": "BTC",
+        "counterCcy": "USDT",
         "minimum-order-size": "btc 0.001",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "btcet_btc": {
-        "baseCcy": "btcet",
-        "counterCcy": "btc",
+        "baseCcy": "BTCET",
+        "counterCcy": "BTC",
         "minimum-order-size": "btcet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dsh_btc": {
-        "baseCcy": "dsh",
-        "counterCcy": "btc",
+        "baseCcy": "DASH",
+        "counterCcy": "BTC",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "dsh_eth": {
-        "baseCcy": "dsh",
-        "counterCcy": "eth",
+        "baseCcy": "DASH",
+        "counterCcy": "ETH",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dsh_eur": {
-        "baseCcy": "dsh",
-        "counterCcy": "eur",
+        "baseCcy": "DASH",
+        "counterCcy": "EUR",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dsh_ltc": {
-        "baseCcy": "dsh",
-        "counterCcy": "ltc",
+        "baseCcy": "DASH",
+        "counterCcy": "LTC",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dsh_rur": {
-        "baseCcy": "dsh",
-        "counterCcy": "rur",
+        "baseCcy": "DASH",
+        "counterCcy": "RUB",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dsh_usd": {
-        "baseCcy": "dsh",
-        "counterCcy": "usd",
+        "baseCcy": "DASH",
+        "counterCcy": "USD",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "dsh_zec": {
-        "baseCcy": "dsh",
-        "counterCcy": "zec",
+        "baseCcy": "DASH",
+        "counterCcy": "ZEC",
         "minimum-order-size": "dsh 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "dshet_dsh": {
-        "baseCcy": "dshet",
-        "counterCcy": "dsh",
+        "baseCcy": "DSHET",
+        "counterCcy": "DASH",
         "minimum-order-size": "dshet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "eth_btc": {
-        "baseCcy": "eth",
-        "counterCcy": "btc",
+        "baseCcy": "ETH",
+        "counterCcy": "BTC",
         "minimum-order-size": "eth 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eth_eur": {
-        "baseCcy": "eth",
-        "counterCcy": "eur",
+        "baseCcy": "ETH",
+        "counterCcy": "EUR",
         "minimum-order-size": "eth 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eth_ltc": {
-        "baseCcy": "eth",
-        "counterCcy": "ltc",
+        "baseCcy": "ETH",
+        "counterCcy": "LTC",
         "minimum-order-size": "eth 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eth_rur": {
-        "baseCcy": "eth",
-        "counterCcy": "rur",
+        "baseCcy": "ETH",
+        "counterCcy": "RUB",
         "minimum-order-size": "eth 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eth_usd": {
-        "baseCcy": "eth",
-        "counterCcy": "usd",
+        "baseCcy": "ETH",
+        "counterCcy": "USD",
         "minimum-order-size": "eth 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eth_zec": {
-        "baseCcy": "eth",
-        "counterCcy": "zec",
+        "baseCcy": "ETH",
+        "counterCcy": "ZEC",
         "minimum-order-size": "eth 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ethet_eth": {
-        "baseCcy": "ethet",
-        "counterCcy": "eth",
+        "baseCcy": "ETHET",
+        "counterCcy": "ETH",
         "minimum-order-size": "ethet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "eur_rur": {
-        "baseCcy": "eur",
-        "counterCcy": "rur",
+        "baseCcy": "EUR",
+        "counterCcy": "RUB",
         "minimum-order-size": "eur 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "eur_usd": {
-        "baseCcy": "eur",
-        "counterCcy": "usd",
+        "baseCcy": "EUR",
+        "counterCcy": "USD",
         "minimum-order-size": "eur 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "euret_eur": {
-        "baseCcy": "euret",
-        "counterCcy": "eur",
+        "baseCcy": "EURET",
+        "counterCcy": "EUR",
         "minimum-order-size": "euret 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ltc_btc": {
-        "baseCcy": "ltc",
-        "counterCcy": "btc",
+        "baseCcy": "LTC",
+        "counterCcy": "BTC",
         "minimum-order-size": "ltc 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "ltc_eur": {
-        "baseCcy": "ltc",
-        "counterCcy": "eur",
+        "baseCcy": "LTC",
+        "counterCcy": "EUR",
         "minimum-order-size": "ltc 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ltc_rur": {
-        "baseCcy": "ltc",
-        "counterCcy": "rur",
+        "baseCcy": "LTC",
+        "counterCcy": "RUB",
         "minimum-order-size": "ltc 0.01",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "ltc_usd": {
-        "baseCcy": "ltc",
-        "counterCcy": "usd",
+        "baseCcy": "LTC",
+        "counterCcy": "USD",
         "minimum-order-size": "ltc 0.01",
         "price-precision": 6,
         "quantity-precision": 8
       },
       "ltcet_ltc": {
-        "baseCcy": "ltcet",
-        "counterCcy": "ltc",
+        "baseCcy": "LTCET",
+        "counterCcy": "LTC",
         "minimum-order-size": "ltcet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "nmc_btc": {
-        "baseCcy": "nmc",
-        "counterCcy": "btc",
+        "baseCcy": "NMC",
+        "counterCcy": "BTC",
         "minimum-order-size": "nmc 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "nmc_usd": {
-        "baseCcy": "nmc",
-        "counterCcy": "usd",
+        "baseCcy": "NMC",
+        "counterCcy": "USD",
         "minimum-order-size": "nmc 0.1",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "nmcet_nmc": {
-        "baseCcy": "nmcet",
-        "counterCcy": "nmc",
+        "baseCcy": "NMCET",
+        "counterCcy": "NMC",
         "minimum-order-size": "nmcet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "nvc_btc": {
-        "baseCcy": "nvc",
-        "counterCcy": "btc",
+        "baseCcy": "NVC",
+        "counterCcy": "BTC",
         "minimum-order-size": "nvc 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "nvc_usd": {
-        "baseCcy": "nvc",
-        "counterCcy": "usd",
+        "baseCcy": "NVC",
+        "counterCcy": "USD",
         "minimum-order-size": "nvc 0.1",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "nvcet_nvc": {
-        "baseCcy": "nvcet",
-        "counterCcy": "nvc",
+        "baseCcy": "NVCET",
+        "counterCcy": "NVC",
         "minimum-order-size": "nvcet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ppc_btc": {
-        "baseCcy": "ppc",
-        "counterCcy": "btc",
+        "baseCcy": "PPC",
+        "counterCcy": "BTC",
         "minimum-order-size": "ppc 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "ppc_usd": {
-        "baseCcy": "ppc",
-        "counterCcy": "usd",
+        "baseCcy": "PPC",
+        "counterCcy": "USD",
         "minimum-order-size": "ppc 0.1",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ppcet_ppc": {
-        "baseCcy": "ppcet",
-        "counterCcy": "ppc",
+        "baseCcy": "PPCET",
+        "counterCcy": "PPC",
         "minimum-order-size": "ppcet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "ruret_rur": {
-        "baseCcy": "ruret",
-        "counterCcy": "rur",
+        "baseCcy": "RURET",
+        "counterCcy": "RUB",
         "minimum-order-size": "ruret 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "usd_rur": {
-        "baseCcy": "usd",
-        "counterCcy": "rur",
+        "baseCcy": "USD",
+        "counterCcy": "RUB",
         "minimum-order-size": "usd 0.1",
         "price-precision": 5,
         "quantity-precision": 8
       },
       "usdet_usd": {
-        "baseCcy": "usdet",
-        "counterCcy": "usd",
+        "baseCcy": "USDET",
+        "counterCcy": "USD",
         "minimum-order-size": "usdet 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "usdt_usd": {
-        "baseCcy": "usdt",
-        "counterCcy": "usd",
+        "baseCcy": "USDT",
+        "counterCcy": "USD",
         "minimum-order-size": "usdt 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "zec_btc": {
-        "baseCcy": "zec",
-        "counterCcy": "btc",
+        "baseCcy": "ZEC",
+        "counterCcy": "BTC",
         "minimum-order-size": "zec 0.01",
         "price-precision": 4,
         "quantity-precision": 8
       },
       "zec_ltc": {
-        "baseCcy": "zec",
-        "counterCcy": "ltc",
+        "baseCcy": "ZEC",
+        "counterCcy": "LTC",
         "minimum-order-size": "zec 0.01",
         "price-precision": 3,
         "quantity-precision": 8
       },
       "zec_usd": {
-        "baseCcy": "zec",
-        "counterCcy": "usd",
+        "baseCcy": "ZEC",
+        "counterCcy": "USD",
         "minimum-order-size": "zec 0.01",
         "price-precision": 3,
         "quantity-precision": 8
