@@ -6603,6 +6603,64 @@
       }
     }
   },
+  "bitmex": {
+    "markets": {
+      "ADAXBT=": {
+        "baseCcy": "ADA",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "BCHXBT=": {
+        "baseCcy": "BCH",
+        "counterCcy": "XBT",
+        "price-precision": 4,
+        "quantity-precision": 8
+      },
+      "EOSXBT=": {
+        "baseCcy": "EOS",
+        "counterCcy": "XBT",
+        "price-precision": 7,
+        "quantity-precision": 8
+      },
+      "ETH=": {
+        "baseCcy": "ETH",
+        "counterCcy": "USD",
+        "price-precision": 2,
+        "quantity-precision": 2
+      },
+      "ETHXBT=": {
+        "baseCcy": "ETH",
+        "counterCcy": "XBT",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "LTCXBT=": {
+        "baseCcy": "LTC",
+        "counterCcy": "XBT",
+        "price-precision": 5,
+        "quantity-precision": 8
+      },
+      "TRXXBT=": {
+        "baseCcy": "TRX",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      },
+      "XBT=": {
+        "baseCcy": "XBT",
+        "counterCcy": "USD",
+        "price-precision": 1,
+        "quantity-precision": 8
+      },
+      "XRPXBT=": {
+        "baseCcy": "XRP",
+        "counterCcy": "XBT",
+        "price-precision": 8,
+        "quantity-precision": 8
+      }
+    }
+  },
   "bitstamp": {
     "trading-fees": {
       "__notes": "https://www.bitstamp.net/fee_schedule/ (get from api)",
@@ -6851,64 +6909,6 @@
         "counterCcy": "usd",
         "minimum-order-size": "usd 5.0",
         "price-precision": 5,
-        "quantity-precision": 8
-      }
-    }
-  },
-  "bitmex": {
-    "markets": {
-      "ADAXBT=": {
-        "baseCcy": "ADA",
-        "counterCcy": "XBT",
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "BCHXBT=": {
-        "baseCcy": "BCH",
-        "counterCcy": "XBT",
-        "price-precision": 4,
-        "quantity-precision": 8
-      },
-      "EOSXBT=": {
-        "baseCcy": "EOS",
-        "counterCcy": "XBT",
-        "price-precision": 7,
-        "quantity-precision": 8
-      },
-      "ETH=": {
-        "baseCcy": "ETH",
-        "counterCcy": "USD",
-        "price-precision": 2,
-        "quantity-precision": 2
-      },
-      "ETHXBT=": {
-        "baseCcy": "ETH",
-        "counterCcy": "XBT",
-        "price-precision": 5,
-        "quantity-precision": 8
-      },
-      "LTCXBT=": {
-        "baseCcy": "LTC",
-        "counterCcy": "XBT",
-        "price-precision": 5,
-        "quantity-precision": 8
-      },
-      "TRXXBT=": {
-        "baseCcy": "TRX",
-        "counterCcy": "XBT",
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "XBT=": {
-        "baseCcy": "XBT",
-        "counterCcy": "USD",
-        "price-precision": 1,
-        "quantity-precision": 8
-      },
-      "XRPXBT=": {
-        "baseCcy": "XRP",
-        "counterCcy": "XBT",
-        "price-precision": 8,
         "quantity-precision": 8
       }
     }
