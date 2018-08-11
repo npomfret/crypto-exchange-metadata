@@ -10137,6 +10137,10 @@
         "price-precision": 0,
         "quantity-precision": 4
       },
+      "XBT/PLN": {
+        "baseCcy": "XBT",
+        "counterCcy": "PLN"
+      },
       "XBT/USD": {
         "baseCcy": "XBT",
         "counterCcy": "USD",
