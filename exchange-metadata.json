@@ -1612,7 +1612,8 @@
         "baseCcy": "HOT",
         "counterCcy": "BTC",
         "minimum-order-size": "BTC 0.001",
-        "price-precision": 8
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "HOTETH": {
         "baseCcy": "HOT",
@@ -6611,179 +6612,224 @@
     "markets": {
       ".ADAXBT": {
         "baseCcy": "ADA",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       ".ADAXBT30M": {
         "baseCcy": "ADA",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       ".BCHXBT": {
         "baseCcy": "BCH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".BCHXBT30M": {
         "baseCcy": "BCH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".BETH": {
         "baseCcy": "ETH",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".BETH30M": {
         "baseCcy": "ETH",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".BVOL": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 2
       },
       ".BVOL24H": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 2
       },
       ".BVOL7D": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 2
       },
       ".BXBT": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".BXBT30M": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".BXBTJPY": {
         "baseCcy": "BTC",
-        "counterCcy": "JPY"
+        "counterCcy": "JPY",
+        "price-precision": 2
       },
       ".BXBTJPY30M": {
         "baseCcy": "BTC",
-        "counterCcy": "JPY"
+        "counterCcy": "JPY",
+        "price-precision": 2
       },
       ".EOSXBT": {
         "baseCcy": "EOS",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 16
       },
       ".EOSXBT30M": {
         "baseCcy": "EOS",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 16
       },
       ".ETHBON": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHBON2H": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHBON8H": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHUSDPI": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHUSDPI2H": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHUSDPI8H": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".ETHXBT": {
         "baseCcy": "ETH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".ETHXBT30M": {
         "baseCcy": "ETH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".EVOL7D": {
         "baseCcy": "ETH",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 2
       },
       ".LTCXBT": {
         "baseCcy": "LTC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".LTCXBT30M": {
         "baseCcy": "LTC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5
       },
       ".TRXXBT": {
         "baseCcy": "TRX",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       ".TRXXBT30M": {
         "baseCcy": "TRX",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       ".USDBON": {
         "baseCcy": "USD",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".USDBON2H": {
         "baseCcy": "USD",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".USDBON8H": {
         "baseCcy": "USD",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBT": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".XBT30M": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2
       },
       ".XBTBON": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBTBON2H": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBTBON8H": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBTJPY": {
         "baseCcy": "BTC",
-        "counterCcy": "JPY"
+        "counterCcy": "JPY",
+        "price-precision": 2
       },
       ".XBTJPY30M": {
         "baseCcy": "BTC",
-        "counterCcy": "JPY"
+        "counterCcy": "JPY",
+        "price-precision": 2
       },
       ".XBTUSDPI": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBTUSDPI2H": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XBTUSDPI8H": {
         "baseCcy": "BTC",
-        "counterCcy": "XXX"
+        "counterCcy": "XXX",
+        "price-precision": 6
       },
       ".XRPXBT": {
         "baseCcy": "XRP",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       ".XRPXBT30M": {
         "baseCcy": "XRP",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8
       },
       "ADAU18": {
         "baseCcy": "ADA",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "ADAXBT=": {
         "baseCcy": "ADA",
@@ -6793,7 +6839,9 @@
       },
       "BCHU18": {
         "baseCcy": "BCH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 4,
+        "quantity-precision": 0
       },
       "BCHXBT=": {
         "baseCcy": "BCH",
@@ -6803,7 +6851,9 @@
       },
       "EOSU18": {
         "baseCcy": "EOS",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 16,
+        "quantity-precision": 0
       },
       "EOSXBT=": {
         "baseCcy": "EOS",
@@ -6819,11 +6869,15 @@
       },
       "ETHU18": {
         "baseCcy": "ETH",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5,
+        "quantity-precision": 0
       },
       "ETHUSD": {
         "baseCcy": "ETH",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2,
+        "quantity-precision": 0
       },
       "ETHXBT=": {
         "baseCcy": "ETH",
@@ -6833,7 +6887,9 @@
       },
       "LTCU18": {
         "baseCcy": "LTC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5,
+        "quantity-precision": 0
       },
       "LTCXBT=": {
         "baseCcy": "LTC",
@@ -6843,7 +6899,9 @@
       },
       "TRXU18": {
         "baseCcy": "TRX",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "TRXXBT=": {
         "baseCcy": "TRX",
@@ -6853,11 +6911,15 @@
       },
       "XBT7D_D95": {
         "baseCcy": "BTC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5,
+        "quantity-precision": 0
       },
       "XBT7D_U105": {
         "baseCcy": "BTC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5,
+        "quantity-precision": 0
       },
       "XBT=": {
         "baseCcy": "XBT",
@@ -6867,19 +6929,27 @@
       },
       "XBTU18": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 1,
+        "quantity-precision": 0
       },
       "XBTUSD": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 1,
+        "quantity-precision": 0
       },
       "XBTZ18": {
         "baseCcy": "BTC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 1,
+        "quantity-precision": 0
       },
       "XRPU18": {
         "baseCcy": "XRP",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 8,
+        "quantity-precision": 0
       },
       "XRPXBT=": {
         "baseCcy": "XRP",
@@ -10519,15 +10589,21 @@
       },
       "ETC-BTC": {
         "baseCcy": "ETC",
-        "counterCcy": "BTC"
+        "counterCcy": "BTC",
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "ETC-EUR": {
         "baseCcy": "ETC",
-        "counterCcy": "EUR"
+        "counterCcy": "EUR",
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ETC-USD": {
         "baseCcy": "ETC",
-        "counterCcy": "USD"
+        "counterCcy": "USD",
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "ETH-BTC": {
         "baseCcy": "ETH",
@@ -10999,7 +11075,9 @@
         "minimum-order-size": {
           "bid": "XXBT 0.002",
           "ask": "XETH 0.02"
-        }
+        },
+        "price-precision": 6,
+        "quantity-precision": 8
       },
       "XETHZCAD": {
         "baseCcy": "XETH",
@@ -11011,7 +11089,9 @@
       "XETHZCAD.d": {
         "baseCcy": "XETH",
         "counterCcy": "ZCAD",
-        "minimum-order-size": "XETH 0.02"
+        "minimum-order-size": "XETH 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "XETHZEUR": {
         "baseCcy": "XETH",
@@ -11023,7 +11103,9 @@
       "XETHZEUR.d": {
         "baseCcy": "XETH",
         "counterCcy": "ZEUR",
-        "minimum-order-size": "XETH 0.02"
+        "minimum-order-size": "XETH 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "XETHZGBP": {
         "baseCcy": "XETH",
@@ -11035,7 +11117,9 @@
       "XETHZGBP.d": {
         "baseCcy": "XETH",
         "counterCcy": "ZGBP",
-        "minimum-order-size": "XETH 0.02"
+        "minimum-order-size": "XETH 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "XETHZJPY": {
         "baseCcy": "XETH",
@@ -11047,7 +11131,9 @@
       "XETHZJPY.d": {
         "baseCcy": "XETH",
         "counterCcy": "ZJPY",
-        "minimum-order-size": "XETH 0.02"
+        "minimum-order-size": "XETH 0.02",
+        "price-precision": 3,
+        "quantity-precision": 8
       },
       "XETHZUSD": {
         "baseCcy": "XETH",
@@ -11059,7 +11145,9 @@
       "XETHZUSD.d": {
         "baseCcy": "XETH",
         "counterCcy": "ZUSD",
-        "minimum-order-size": "XETH 0.02"
+        "minimum-order-size": "XETH 0.02",
+        "price-precision": 5,
+        "quantity-precision": 8
       },
       "XICNXETH": {
         "baseCcy": "XICN",
@@ -11169,7 +11257,9 @@
       "XXBTZCAD.d": {
         "baseCcy": "XXBT",
         "counterCcy": "ZCAD",
-        "minimum-order-size": "XXBT 0.002"
+        "minimum-order-size": "XXBT 0.002",
+        "price-precision": 3,
+        "quantity-precision": 8
       },
       "XXBTZEUR": {
         "baseCcy": "XXBT",
@@ -11181,7 +11271,9 @@
       "XXBTZEUR.d": {
         "baseCcy": "XXBT",
         "counterCcy": "ZEUR",
-        "minimum-order-size": "XXBT 0.002"
+        "minimum-order-size": "XXBT 0.002",
+        "price-precision": 2,
+        "quantity-precision": 8
       },
       "XXBTZGBP": {
         "baseCcy": "XXBT",
@@ -11193,7 +11285,9 @@
       "XXBTZGBP.d": {
         "baseCcy": "XXBT",
         "counterCcy": "ZGBP",
-        "minimum-order-size": "XXBT 0.002"
+        "minimum-order-size": "XXBT 0.002",
+        "price-precision": 3,
+        "quantity-precision": 8
       },
       "XXBTZJPY": {
         "baseCcy": "XXBT",
@@ -11205,7 +11299,9 @@
       "XXBTZJPY.d": {
         "baseCcy": "XXBT",
         "counterCcy": "ZJPY",
-        "minimum-order-size": "XXBT 0.002"
+        "minimum-order-size": "XXBT 0.002",
+        "price-precision": 1,
+        "quantity-precision": 8
       },
       "XXBTZUSD": {
         "baseCcy": "XXBT",
@@ -11217,7 +11313,9 @@
       "XXBTZUSD.d": {
         "baseCcy": "XXBT",
         "counterCcy": "ZUSD",
-        "minimum-order-size": "XXBT 0.002"
+        "minimum-order-size": "XXBT 0.002",
+        "price-precision": 3,
+        "quantity-precision": 8
       },
       "XXDGXXBT": {
         "baseCcy": "XXDG",
