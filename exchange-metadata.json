@@ -6609,6 +6609,13 @@
     }
   },
   "bitmex": {
+    "trading-fees": {
+      "__notes": "https://www.bitstamp.net/fee_schedule/ (get from api)",
+      "default": {
+        "taker": "0.0750%",
+        "maker": "-0.0250%"
+      }
+    },
     "markets": {
       ".ADAXBT": {
         "baseCcy": "ADA",
