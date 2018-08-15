@@ -9417,6 +9417,169 @@
       }
     }
   },
+  "bleutrade": {
+    "trading-fees": {
+      "__notes": "https://bleutrade.com/help/fees_and_deadlines",
+      "default": {
+        "taker": "0.25%",
+        "maker": "0.25%"
+      },
+      "deposit-fees": {
+        "default": 0
+      },
+      "withdrawal-fees": {
+        "ADC": 0.1,
+        "BTA": 0.1,
+        "BITB": 0.1,
+        "BTC": 0.001,
+        "BCC": 0.001,
+        "BTCD": 0.001,
+        "BTG": 0.001,
+        "BLK": 0.1,
+        "CDN": 0.1,
+        "CLAM": 0.01,
+        "DASH": 0.001,
+        "DCR": 0.05,
+        "DGC": 0.1,
+        "DP": 0.1,
+        "DPC": 0.1,
+        "DOGE": 10.0,
+        "EFL": 0.1,
+        "ETH": 0.01,
+        "EXP": 0.1,
+        "FJC": 0.1,
+        "BSTY": 0.001,
+        "GB": 0.1,
+        "NLG": 0.1,
+        "HTML": 1.0,
+        "LTC": 0.001,
+        "MONA": 0.01,
+        "MOON": 1.0,
+        "NMC": 0.015,
+        "NEOS": 0.1,
+        "NVC": 0.05,
+        "OK": 0.1,
+        "PPC": 0.1,
+        "POT": 0.1,
+        "XPM": 0.001,
+        "QTUM": 0.1,
+        "RDD": 0.1,
+        "SLR": 0.1,
+        "START": 0.1,
+        "SLG": 0.1,
+        "TROLL": 0.1,
+        "UNO": 0.01,
+        "VRC": 0.1,
+        "VTC": 0.1,
+        "XVP": 0.1,
+        "WDC": 0.001,
+        "ZET": 0.1
+      },
+      "markets": {}
+    }
+  },
+  "bitflyer": {
+    "trading-fees": {
+      "__notes": "https://bleutrade.com/help/fees_and_deadlines",
+      "default": {
+        "taker": "0%",
+        "maker": "0%"
+      },
+      "ETH/BTC": {
+        "taker": "0.20%",
+        "maker": "0.20%"
+      },
+      "BCH/BTC": {
+        "taker": "0.20%",
+        "maker": "0.20%"
+      },
+      "^BTC/EUR$|^BTC/JPY$|^BTC/USD$": [
+        {
+          "taker": "0.15%",
+          "maker": "0.15%",
+          "label": "Less than 100,000 JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.14%",
+          "maker": "0.14%",
+          "label": "100,000 to 200,000 JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.13%",
+          "maker": "0.13%",
+          "label": "200,000 to 500,000 JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.12%",
+          "maker": "0.12%",
+          "label": "500,000 to 1 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.11%",
+          "maker": "0.11%",
+          "label": "1 million to 2 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.10%",
+          "maker": "0.10%",
+          "label": "2 million to 5 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.09%",
+          "maker": "0.09%",
+          "label": "5 million to 10 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.07%",
+          "maker": "0.07%",
+          "label": "10 million to 20 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.05%",
+          "maker": "0.05%",
+          "label": "20 million to 50 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.03%",
+          "maker": "0.03%",
+          "label": "50 million to 100 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.02%",
+          "maker": "0.02%",
+          "label": "100 million to 500 million JPY volume traded in past 30 days"
+        },
+        {
+          "taker": "0.01%",
+          "maker": "0.01%",
+          "label": "At least 500 million JPY volume traded in past 30 days"
+        }
+      ]
+    },
+    "deposit-fees": {
+      "__notes": "https://bitflyer.com/en-eu/Commission, https://bitflyer.com/en-jp/Commission",
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "EUR": {
+        "SEPA Withdrawals ≤ €250,000.00": 0.3,
+        "> €250,000.00 ≤ €250,000.00": 10
+      },
+      "JPY": {
+        "SMBC Account Holders Up to JPY 30,000": 216,
+        "SMBC Account Holders over JPY 30,000": 432,
+        "NON SMBC Account Holders Up to JPY 30,000": 540,
+        "NON SMBC Account Holders over JPY 30,000": 756
+      },
+      "BTC": 0.0004,
+      "ETH": 0.005,
+      "ETC": 0.005,
+      "LTC": 0.001,
+      "BCH": 0.0002,
+      "LSK": 0.1
+    },
+    "markets": {}
+  },
   "btcmarkets": {
     "trading-fees": {
       "__notes": "https://www.btcmarkets.net/fees - can get from api (but it's quite slow)",
