@@ -9948,6 +9948,63 @@
     },
     "markets": {}
   },
+  "braziliex": {
+    "trading-fees": {
+      "default": {
+        "taker": "0.5000%",
+        "maker": "0.5000%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0,
+      "TRX": "0.01 ETH",
+      "PRSP": "0.01 ETH",
+      "SNGLS": "0.01 ETH",
+      "OMG": "0.01 ETH",
+      "GNT": "0.01 ETH",
+      "EPC": "0.01 ETH",
+      "CFTY": "0.01 ETH",
+      "BNB": "0.01 ETH",
+      "BRZX": "0.01 ETH",
+      "ABC": "0.01 ETH"
+    },
+    "withdrawal-fees": {
+      "BRL": {
+        "fixed": "9 BRL",
+        "rate": "0.25%"
+      },
+      "ABC": ["1 ABC", "0.01 ETH"],
+      "BCH": 0.0020,
+      "BTC": 0.0002,
+      "BRZX": ["0.01 ETH", "1.0000 BRZX"],
+      "BTG": 0.0020,
+      "BNB": ["0.01 ETH", "0.5000 BNB"],
+      "CFTY": ["0.01 ETH", "0.1000 CFTY"],
+      "CRW": 0.0020,
+      "DASH": 0.0020,
+      "DCR": 0.0100,
+      "EOS": 0,
+      "EPC": ["0.01 ETH", "25.0000 EPC"],
+      "ETC": 0.0100,
+      "ETH": 0.0020,
+      "GNT": ["0.01 ETH", "15.0000 GNT"],
+      "IOP": 1.0000,
+      "LTC": 0.0100,
+      "MXT": 1.0000,
+      "OMG": ["0.01 ETH", "0.5000 OMG"],
+      "ONIX": 5.0000,
+      "PRSP": ["0.01 ETH", "0.1000 PRSP"],
+      "SMART": 1.0000,
+      "SNGLS": ["0.01 ETH", "2.0000 SNGLS"],
+      "TRX": ["0.01 ETH", "0.0000 TRX"],
+      "USDT": 25.0000,
+      "XMR": 0.0200,
+      "XRP": 1.0000,
+      "ZEC": 0.0020,
+      "LCC": 5.0000
+    },
+    "markets": {}
+  },
   "btcmarkets": {
     "trading-fees": {
       "__notes": "https://www.btcmarkets.net/fees - can get from api (but it's quite slow)",
@@ -10149,6 +10206,22 @@
         "quantity-precision": 6
       }
     }
+  },
+  "btctrade": {
+    "trading-fees": {
+      "default": {
+        "maker": "0.2%",
+        "taker": "0.2%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "default": 0,
+      "BTC": 0.001
+    },
+    "markets": {}
   },
   "cex": {
     "trading-fees": {
@@ -10593,6 +10666,35 @@
         "15": "i"
       }
     }
+  },
+  "cobinhood": {
+    "trading-fees": {
+      "default": {
+        "maker": "0%",
+        "taker": "0%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "default": "3 USD",
+      "BTC": 0.001,
+      "ETH": 0.007,
+      "USDT": "20 USD",
+      "EOS": 0.05,
+      "QTUM": 0.02,
+      "LTC": 0.001,
+      "BCH": 0.001,
+      "NEO": 0,
+      "GAS": 0,
+      "ACT": 0.02,
+      "MIOTA": 0,
+      "BOT": "12 USD",
+      "PLY": "12 USD",
+      "LSTR": "12 USD"
+    },
+    "markets": {}
   },
   "coinfloor": {
     "trading-fees": {
