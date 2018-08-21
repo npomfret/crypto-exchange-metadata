@@ -10223,6 +10223,119 @@
     },
     "markets": {}
   },
+  "bx": {
+    "trading-fees": {
+      "default": {
+        "maker": "0.25%",
+        "taker": "0.25%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "default": 0,
+      "THB": {
+        "bank wire": {
+          "fixed": 20,
+          "rate": "0.001%"
+        }
+      },
+      "BTC": {
+        "Standard": 0.00050000,
+        "Preferred Trader": 0
+      },
+      "ETH": {
+        "Standard": 0.00500000,
+        "Preferred Trader": 0
+      },
+      "BCH": {
+        "Standard": 0.00010000,
+        "Preferred Trader": 0
+      },
+      "DAS": {
+        "Standard": 0.005000000,
+        "Preferred Trader": 0
+      },
+      "DOG": {
+        "Standard": 5.00000000,
+        "Preferred Trader": 0
+      },
+      "EVX": {
+        "Standard": 0.0100,
+        "Preferred Trader": 0
+      },
+      "FTC": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "GNO": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "HYP": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "LTC": {
+        "Standard": 0.00500000,
+        "Preferred Trader": 0
+      },
+      "NMC": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "OMG": {
+        "Standard": 0.20000000,
+        "Preferred Trader": 0
+      },
+      "PND": {
+        "Standard": 2.00000000,
+        "Preferred Trader": 0
+      },
+      "POW": {
+        "Standard": 0.010000,
+        "Preferred Trader": 0
+      },
+      "PPC": {
+        "Standard": 0.02000000,
+        "Preferred Trader": 0
+      },
+      "REP": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "XCN": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      },
+      "XPM": {
+        "Standard": 0.02000000,
+        "Preferred Trader": 0
+      },
+      "XYP": {
+        "Standard": 0.00500000,
+        "Preferred Trader": 0
+      },
+      "XRP": {
+        "Standard": 0.010000,
+        "Preferred Trader": 0
+      },
+      "XZC": {
+        "Standard": 0.00500000,
+        "Preferred Trader": 0
+      },
+      "ZEC": {
+        "Standard": 0.00500000,
+        "Preferred Trader": 0
+      },
+      "ZMN": {
+        "Standard": 0.01000000,
+        "Preferred Trader": 0
+      }
+    },
+    "markets": {}
+  },
   "cex": {
     "trading-fees": {
       "__notes": "https://cex.io/fee-schedule - get from api",
