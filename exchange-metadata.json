@@ -9973,30 +9973,60 @@
         "fixed": "9 BRL",
         "rate": "0.25%"
       },
-      "ABC": ["1 ABC", "0.01 ETH"],
+      "ABC": [
+        "1 ABC",
+        "0.01 ETH"
+      ],
       "BCH": 0.0020,
       "BTC": 0.0002,
-      "BRZX": ["0.01 ETH", "1.0000 BRZX"],
+      "BRZX": [
+        "0.01 ETH",
+        "1.0000 BRZX"
+      ],
       "BTG": 0.0020,
-      "BNB": ["0.01 ETH", "0.5000 BNB"],
-      "CFTY": ["0.01 ETH", "0.1000 CFTY"],
+      "BNB": [
+        "0.01 ETH",
+        "0.5000 BNB"
+      ],
+      "CFTY": [
+        "0.01 ETH",
+        "0.1000 CFTY"
+      ],
       "CRW": 0.0020,
       "DASH": 0.0020,
       "DCR": 0.0100,
       "EOS": 0,
-      "EPC": ["0.01 ETH", "25.0000 EPC"],
+      "EPC": [
+        "0.01 ETH",
+        "25.0000 EPC"
+      ],
       "ETC": 0.0100,
       "ETH": 0.0020,
-      "GNT": ["0.01 ETH", "15.0000 GNT"],
+      "GNT": [
+        "0.01 ETH",
+        "15.0000 GNT"
+      ],
       "IOP": 1.0000,
       "LTC": 0.0100,
       "MXT": 1.0000,
-      "OMG": ["0.01 ETH", "0.5000 OMG"],
+      "OMG": [
+        "0.01 ETH",
+        "0.5000 OMG"
+      ],
       "ONIX": 5.0000,
-      "PRSP": ["0.01 ETH", "0.1000 PRSP"],
+      "PRSP": [
+        "0.01 ETH",
+        "0.1000 PRSP"
+      ],
       "SMART": 1.0000,
-      "SNGLS": ["0.01 ETH", "2.0000 SNGLS"],
-      "TRX": ["0.01 ETH", "0.0000 TRX"],
+      "SNGLS": [
+        "0.01 ETH",
+        "2.0000 SNGLS"
+      ],
+      "TRX": [
+        "0.01 ETH",
+        "0.0000 TRX"
+      ],
       "USDT": 25.0000,
       "XMR": 0.0200,
       "XRP": 1.0000,
@@ -10333,6 +10363,21 @@
         "Standard": 0.01000000,
         "Preferred Trader": 0
       }
+    },
+    "markets": {}
+  },
+  "c-cex": {
+    "trading-fees": {
+      "default": {
+        "maker": "0.2%",
+        "taker": "0.2%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "default": 0
     },
     "markets": {}
   },
