@@ -1,4 +1,4 @@
-package snowmonkey.exchangemetadata.parsers;
+package snowmonkey.exchangemetadata;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

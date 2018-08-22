@@ -2,6 +2,7 @@ package snowmonkey.exchangemetadata.parsers;
 
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
+import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.TradingFees;

@@ -1,14 +1,7 @@
 package snowmonkey.exchangemetadata.model;
 
-import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
-import snowmonkey.exchangemetadata.parsers.BitsAndBobs;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.Map;
 
 public class ExchangeMetadata {
