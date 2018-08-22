@@ -39,8 +39,14 @@ public class Fee {
             part = part.trim();
 
             if (part.matches("^\\d+(\\.\\d+)?%$")) {
+                if(rate.isPresent())
+                    throw new IllegalStateException("cannot handle a fee with multiple rates");
+
                 rate = Optional.of(new Rate(part));
             } else if (part.matches("^\\d+(\\.\\d+)?$")) {
+                if(fixed.isPresent())
+                    throw new IllegalStateException("cannot handle a fee with multiple fixed amounts");
+
                 fixed = Optional.of(new Fixed(new BigDecimal(part)));
             }
         }
