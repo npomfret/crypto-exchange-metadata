@@ -16,6 +16,8 @@ import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.time.Duration;
 
 import static java.time.temporal.ChronoUnit.SECONDS;
@@ -37,6 +39,12 @@ public class BitsAndBobs {
         source.fullSequentialParse();
 
         return source;
+    }
+
+    public static JsonObject readJson(Path path) throws IOException {
+        try(BufferedReader reader = Files.newBufferedReader(path)) {
+            return new JsonParser().parse(reader).getAsJsonObject();
+        }
     }
 
     public static JsonObject readJson(String url) throws IOException {

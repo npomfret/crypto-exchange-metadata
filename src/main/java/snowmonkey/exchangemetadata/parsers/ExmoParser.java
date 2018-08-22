@@ -5,24 +5,25 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
+import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.util.HashMap;
 import java.util.Optional;
 
 public class ExmoParser {
 
-    public static void main(String[] args) throws Exception {
+    public static ExchangeMetadata run() throws Exception {
         TradingFees tradingFees = new TradingFees();
         String tradingFee = WebPageParser.parseTradingFee();
         tradingFees.addDefaultFee(parseFee(tradingFee).get());
 
-        System.out.println("tradingFees: " + BitsAndBobs.prettyPrint(tradingFees.toJson()));
-
-        TransferFees transferFees = new TransferFees();
+        TransferFees depositFees = new TransferFees();
+        TransferFees withdrawalFees = new TransferFees();
 
         JsonObject jsonObject = BitsAndBobs.readJson("https://exmo.com/ctrl/feesAndLimits");
         JsonArray asJsonArray = jsonObject.get("data").getAsJsonObject().get("fees").getAsJsonArray();
@@ -30,14 +31,14 @@ public class ExmoParser {
             JsonObject obj = jsonElement.getAsJsonObject();
             String group = obj.get("group").getAsJsonPrimitive().getAsString();
 
-            if(group.equals("crypto")) {
+            if (group.equals("crypto")) {
                 for (JsonElement item : obj.get("items").getAsJsonArray()) {
                     String ccy = item.getAsJsonObject().get("prov").getAsJsonPrimitive().getAsString();
                     String depositFee = item.getAsJsonObject().get("dep").getAsJsonPrimitive().getAsString();
                     String withdrawalFee = item.getAsJsonObject().get("wd").getAsJsonPrimitive().getAsString();
 
-                    parseFee(depositFee).ifPresent(fee -> transferFees.addDepositFee(ccy, fee));
-                    parseFee(withdrawalFee).ifPresent(fee -> transferFees.addWithdrawalFee(ccy, fee));
+                    parseFee(depositFee).ifPresent(fee -> depositFees.addFee(ccy, fee));
+                    parseFee(withdrawalFee).ifPresent(fee -> withdrawalFees.addFee(ccy, fee));
                 }
             } else {
                 String ccy = obj.get("title").getAsJsonPrimitive().getAsString();
@@ -47,21 +48,21 @@ public class ExmoParser {
                     String depositFee = item.getAsJsonObject().get("dep").getAsJsonPrimitive().getAsString();
                     String withdrawalFee = item.getAsJsonObject().get("wd").getAsJsonPrimitive().getAsString();
 
-                    parseFee(depositFee).ifPresent(fee -> transferFees.addDepositFee(ccy, mechanism, fee));
-                    parseFee(withdrawalFee).ifPresent(fee -> transferFees.addWithdrawalFee(ccy, mechanism, fee));
+                    parseFee(depositFee).ifPresent(fee -> depositFees.addFee(ccy, mechanism, fee));
+                    parseFee(withdrawalFee).ifPresent(fee -> withdrawalFees.addFee(ccy, mechanism, fee));
                 }
             }
 
         }
 
-        System.out.println("transferFees: " + BitsAndBobs.prettyPrint(transferFees.toJson()));
+        return new ExchangeMetadata(tradingFees, depositFees, withdrawalFees, new HashMap());
     }
 
     private static Optional<Fee> parseFee(String feeText) {
-        if(feeText.equals("-"))
+        if (feeText.equals("-"))
             return Optional.empty();
 
-        if(feeText.equals("0%"))
+        if (feeText.equals("0%"))
             feeText = "0";
 
         return Optional.of(Fee.parse(feeText));
