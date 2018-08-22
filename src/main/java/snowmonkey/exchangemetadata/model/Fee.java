@@ -18,9 +18,9 @@ public class Fee {
 
     public JsonElement toJson() {
         if (rate.isPresent() && !fixed.isPresent())
-            return new JsonPrimitive(rate.get().value);
+            return rate.get().toJson();
         if (!rate.isPresent() && fixed.isPresent())
-            return new JsonPrimitive(fixed.get().value.stripTrailingZeros().toPlainString());
+            return fixed.get().toJson();
 
         JsonObject root = new JsonObject();
         root.add("rate", rate.get().toJson());
@@ -52,9 +52,11 @@ public class Fee {
     }
 
     public static class Rate {
-        public final String value;//eg 4.1%
+        public final String value;//eg "4.1%"
 
         public Rate(String value) {
+            if(!value.endsWith("%"))
+                throw new IllegalStateException("Invalid rate '" + value + "', rate should be a numerical percentage string, eg: 4.3%");
             this.value = value;
         }
 
@@ -67,12 +69,13 @@ public class Fee {
         public final BigDecimal value;
 
         public Fixed(BigDecimal value) {
-            this.value = value;
+            this.value = new BigDecimal(value.toPlainString());
         }
 
         public JsonElement toJson() {
-            return new JsonPrimitive(value.stripTrailingZeros().doubleValue());
+            return new JsonPrimitive(value);
         }
+
     }
 
 }

@@ -50,7 +50,10 @@ public class BitsAndBobs {
     }
 
     public static String prettyPrint(JsonElement e) {
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        Gson gson = new GsonBuilder()
+                .setPrettyPrinting()
+                .disableHtmlEscaping()
+                .create();
         return gson.toJson(e);
     }
 }

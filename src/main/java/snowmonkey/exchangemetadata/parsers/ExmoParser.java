@@ -27,11 +27,9 @@ public class ExmoParser {
         JsonObject jsonObject = BitsAndBobs.readJson("https://exmo.com/ctrl/feesAndLimits");
         JsonArray asJsonArray = jsonObject.get("data").getAsJsonObject().get("fees").getAsJsonArray();
         for (JsonElement jsonElement : asJsonArray) {
-//            System.out.println("jsonElement = " + jsonElement);
             JsonObject obj = jsonElement.getAsJsonObject();
             String group = obj.get("group").getAsJsonPrimitive().getAsString();
 
-//            System.out.println("group = " + group);
             if(group.equals("crypto")) {
                 for (JsonElement item : obj.get("items").getAsJsonArray()) {
                     String ccy = item.getAsJsonObject().get("prov").getAsJsonPrimitive().getAsString();
@@ -40,8 +38,6 @@ public class ExmoParser {
 
                     parseFee(depositFee).ifPresent(fee -> transferFees.addDepositFee(ccy, fee));
                     parseFee(withdrawalFee).ifPresent(fee -> transferFees.addWithdrawalFee(ccy, fee));
-
-                    System.out.println(ccy + " " + depositFee + " " + withdrawalFee);
                 }
             } else {
                 String ccy = obj.get("title").getAsJsonPrimitive().getAsString();
@@ -53,8 +49,6 @@ public class ExmoParser {
 
                     parseFee(depositFee).ifPresent(fee -> transferFees.addDepositFee(ccy, mechanism, fee));
                     parseFee(withdrawalFee).ifPresent(fee -> transferFees.addWithdrawalFee(ccy, mechanism, fee));
-
-                    System.out.println(ccy + " '" + mechanism + "' '" + depositFee + "' '" + withdrawalFee + "'");
                 }
             }
 
@@ -66,6 +60,10 @@ public class ExmoParser {
     private static Optional<Fee> parseFee(String feeText) {
         if(feeText.equals("-"))
             return Optional.empty();
+
+        if(feeText.equals("0%"))
+            feeText = "0";
+
         return Optional.of(Fee.parse(feeText));
     }
 
