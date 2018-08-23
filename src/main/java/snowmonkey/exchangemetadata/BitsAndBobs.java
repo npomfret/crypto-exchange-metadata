@@ -13,11 +13,14 @@ import net.htmlparser.jericho.Source;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigDecimal;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.text.NumberFormat;
+import java.text.ParseException;
 import java.time.Duration;
 
 import static java.time.temporal.ChronoUnit.SECONDS;
@@ -36,7 +39,11 @@ public class BitsAndBobs {
     }
 
     public static JsonObject getJson(URI uri) throws IOException, InterruptedException {
-        return new JsonParser().parse(doGet(uri)).getAsJsonObject();
+        return getJsonElement(uri).getAsJsonObject();
+    }
+
+    public static JsonElement getJsonElement(URI uri) throws IOException, InterruptedException {
+        return new JsonParser().parse(doGet(uri));
     }
 
     public static String doGet(URI uri) throws IOException, InterruptedException {
@@ -76,5 +83,15 @@ public class BitsAndBobs {
                 .disableHtmlEscaping()
                 .create();
         return gson.toJson(e);
+    }
+
+    public static BigDecimal percentToBigDecimal(String s) {
+        try {
+            NumberFormat percentFormat = NumberFormat.getPercentInstance();
+            Number parse = percentFormat.parse(s);
+            return new BigDecimal(parse.toString());
+        } catch (ParseException e) {
+            throw new IllegalStateException("Should not happen", e);
+        }
     }
 }

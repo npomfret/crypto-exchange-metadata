@@ -7,6 +7,7 @@ import snowmonkey.exchangemetadata.parsers.CryptopiaParser;
 import snowmonkey.exchangemetadata.parsers.EthfinexParser;
 import snowmonkey.exchangemetadata.parsers.ExmoParser;
 import snowmonkey.exchangemetadata.parsers.GatecoinParser;
+import snowmonkey.exchangemetadata.parsers.HitbtcParser;
 
 import java.io.BufferedWriter;
 import java.nio.file.Files;
@@ -25,6 +26,7 @@ public class RunAll {
         exchanges.add("cryptopia", CryptopiaParser.run().toJson());
         exchanges.add("ethfinex", EthfinexParser.run().toJson());
         exchanges.add("gatecoin", GatecoinParser.run().toJson());
+        exchanges.add("hitbtc", HitbtcParser.run().toJson());
 
         JsonObject output = new JsonObject();
         exchanges.keySet().stream().sorted().forEach(exchangeName -> output.add(exchangeName, exchanges.get(exchangeName)));

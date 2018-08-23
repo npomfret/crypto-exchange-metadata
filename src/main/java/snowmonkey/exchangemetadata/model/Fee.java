@@ -3,6 +3,7 @@ package snowmonkey.exchangemetadata.model;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
+import snowmonkey.exchangemetadata.BitsAndBobs;
 
 import java.math.BigDecimal;
 import java.util.Optional;
@@ -47,12 +48,12 @@ public class Fee {
         for (String part : parts) {
             part = part.trim();
 
-            if (part.matches("^\\d+(\\.\\d+)?%$")) {
+            if (part.matches("^-?\\d+(\\.\\d+)?%$")) {
                 if (rate.isPresent())
                     throw new IllegalStateException("cannot handle a fee with multiple rates");
 
                 rate = Optional.of(new Rate(part));
-            } else if (part.matches("^\\d+(\\.\\d+)?$")) {
+            } else if (part.matches("^-?\\d+(\\.\\d+)?$")) {
                 if (fixed.isPresent())
                     throw new IllegalStateException("cannot handle a fee with multiple fixed amounts");
 
@@ -77,6 +78,10 @@ public class Fee {
 
         public JsonElement toJson() {
             return new JsonPrimitive(value);
+        }
+
+        public BigDecimal asDecimal() {
+            return BitsAndBobs.percentToBigDecimal(value);
         }
     }
 
