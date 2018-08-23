@@ -61,6 +61,21 @@ public class BitsAndBobs {
         return response.body();
     }
 
+    public static void main(String[] args) throws Exception {
+        String uri ="https://www.okcoin.com/api/v1/withdraw_info.do";
+        HttpRequest request = HttpRequest.newBuilder()
+                .uri(URI.create(uri))
+                .POST(HttpRequest.BodyPublisher.noBody())
+                .build();
+
+        HttpResponse<String> response = HttpClient.newBuilder()
+                .build()
+                .send(request, HttpResponse.BodyHandler.asString());
+
+        String body = response.body();
+        System.out.println(body);
+
+    }
     public static JsonObject readJson(Path path) throws IOException {
         try (BufferedReader reader = Files.newBufferedReader(path)) {
             return new JsonParser().parse(reader).getAsJsonObject();
