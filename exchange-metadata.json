@@ -10983,6 +10983,105 @@
     },
     "markets": {}
   },
+  "coinfalcon": {
+    "trading-fees": {
+      "default": [
+        {
+          "label": "User 30 day volume in BTC > 0 BTC",
+          "taker": "0.20%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 10 BTC",
+          "taker": "0.19%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 20 BTC",
+          "taker": "0.18%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 30 BTC",
+          "taker": "0.17%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 60 BTC",
+          "taker": "0.16%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 120 BTC",
+          "taker": "0.15%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 180 BTC",
+          "taker": "0.14%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 240 BTC",
+          "taker": "0.11%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 600 BTC",
+          "taker": "0.08%",
+          "maker": 0
+        },
+        {
+          "label": "User 30 day volume in BTC > 1200 BTC",
+          "taker": "0.05%",
+          "maker": 0
+        }
+      ]
+    },
+    "deposit-fees": {
+      "Bitcoin": 0,
+      "Bitcoin Cash": 0,
+      "Bitcoin Gold": 0,
+      "Cardano": 0,
+      "DasCoin": 0,
+      "Dogecoin": 0,
+      "EOS": 0,
+      "Electra": 0,
+      "Ethereum": 0,
+      "Ethereum Tokens": 0,
+      "Garlicoin": 0,
+      "Iota": 0,
+      "Litecoin": 0,
+      "Nano": 0,
+      "Ripple": 0,
+      "SEPA": 1,
+      "TetherUS": 0,
+      "Tron": 0,
+      "XTRABYTES": 0
+    },
+    "withdrawal-fees": {
+      "Bitcoin": 0.00008,
+      "Bitcoin Cash": 0.0001,
+      "Bitcoin Gold": 0.00005,
+      "Cardano": 1.0,
+      "DasCoin": 0.0,
+      "Dogecoin": 1.0,
+      "EOS": 0.05,
+      "Electra": 0.00001,
+      "Ethereum": 0.006,
+      "Ethereum Tokens": 2.3,
+      "Garlicoin": 0.0015,
+      "Iota": 0.0,
+      "Litecoin": 0.0001,
+      "Nano": 0.0,
+      "Ripple": 0.2,
+      "SEPA": 1,
+      "TetherUS": 1.0,
+      "Tron": 0.1,
+      "XTRABYTES": 1.0
+    },
+    "markets": {}
+  },
   "coinfloor": {
     "trading-fees": {
       "__notes": "https://www.coinfloor.co.uk/fees - it's variable but not available on the API",

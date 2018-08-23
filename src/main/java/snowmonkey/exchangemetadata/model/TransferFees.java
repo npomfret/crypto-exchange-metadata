@@ -13,6 +13,10 @@ public class TransferFees {
         fees.put(ccy, Collections.singletonMap("default", fee));
     }
 
+    public void addDefaultFee(Fee fee) {
+        fees.put("default", Collections.singletonMap("default", fee));
+    }
+
     public void addFee(String ccy, String label, Fee fee) {
         if (!fees.containsKey(ccy)) {
             fees.put(ccy, new HashMap<>());
@@ -40,5 +44,4 @@ public class TransferFees {
 
         return root;
     }
-
 }

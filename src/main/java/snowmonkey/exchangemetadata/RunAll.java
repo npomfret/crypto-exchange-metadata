@@ -1,6 +1,7 @@
 package snowmonkey.exchangemetadata;
 
 import com.google.gson.JsonObject;
+import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
 import snowmonkey.exchangemetadata.parsers.CoinexParser;
 import snowmonkey.exchangemetadata.parsers.ExmoParser;
 
@@ -17,6 +18,7 @@ public class RunAll {
 
         exchanges.add("exmo", ExmoParser.run().toJson());
         exchanges.add("coinex", CoinexParser.run().toJson());
+        exchanges.add("coinfalcon", CoinFalconParser.run().toJson());
 
         JsonObject output = new JsonObject();
         exchanges.keySet().stream().sorted().forEach(exchangeName -> output.add(exchangeName, exchanges.get(exchangeName)));
