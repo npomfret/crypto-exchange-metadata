@@ -57,11 +57,9 @@ public class CoinFalconParser {
 
             for (Element row : tables.get(1).getAllElements("tr")) {
                 List<Element> cells = row.getAllElements("td");
-                String currencyName = cells.get(0).getTextExtractor().toString();
+                String mechanism = cells.get(0).getTextExtractor().toString();
 
-                //todo: currencyName needs mapping to symbol
-
-                String withdrawalFee = cells.get(1).getTextExtractor().toString();
+                String withdrawalFeeText = cells.get(1).getTextExtractor().toString();
                 if(cells.size() >= 3) {
                     String depositFeeText = cells.get(2).getTextExtractor().toString();
                     if(depositFeeText.equals("Free"))
@@ -70,8 +68,16 @@ public class CoinFalconParser {
                         depositFee = Fee.parse(depositFeeText);
                 }
 
-                depositFees.addFee(currencyName, depositFee);
-                withdrawalFees.addFee(currencyName, Fee.parse(withdrawalFee));
+                if(mechanism.equals("Ethereum Tokens"))
+                    continue;//todo: model the "Suggested network fee x 2.3" somehow
+
+                String ccy = withdrawalFeeText.split(" ")[1];
+
+                if(ccy.equals("€"))
+                    ccy = "EUR";
+
+                depositFees.addFee(ccy, depositFee);
+                withdrawalFees.addFee(ccy, Fee.parse(withdrawalFeeText));
             }
         }
 
