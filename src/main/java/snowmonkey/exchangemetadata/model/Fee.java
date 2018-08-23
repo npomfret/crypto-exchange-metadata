@@ -8,6 +8,9 @@ import java.math.BigDecimal;
 import java.util.Optional;
 
 public class Fee {
+    public static final Fee ZERO_RATE = new Fee(Optional.of(new Rate("0%")), Optional.empty());
+    public static final Fee ZERO_FIXED = new Fee(Optional.empty(), Optional.of(new Fixed(BigDecimal.ZERO)));
+
     public final Optional<Rate> rate;
     public final Optional<Fixed> fixed;
 
