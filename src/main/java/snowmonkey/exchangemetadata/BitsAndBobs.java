@@ -31,6 +31,10 @@ public class BitsAndBobs {
         return source;
     }
 
+    public static JsonObject getJson(String uri) throws IOException, InterruptedException {
+        return getJson(URI.create(uri));
+    }
+
     public static JsonObject getJson(URI uri) throws IOException, InterruptedException {
         return new JsonParser().parse(doGet(uri)).getAsJsonObject();
     }
