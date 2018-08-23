@@ -11166,6 +11166,7568 @@
       }
     }
   },
+  "cryptopia": {
+    "trading-fees": {
+      "DAXX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SCT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SBC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYL/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SONG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROUD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PBL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIRD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MONK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EXP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GCN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOT/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FC2/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WEED/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "V/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EFL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZAP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HUSH/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KNC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AUR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRAT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NVC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAID/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RVN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QWARK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HXX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEND/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZET/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CEFS/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTC/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECOB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XXX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CQST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KAYI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "8BIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETHD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NPW/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUBO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NXS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEUS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HEAT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOOK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGB/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CFC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UBQ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MATRX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NKA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EBG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OMG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FANS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIFY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HSR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LPC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLIS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RNS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KOBO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RED/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACOIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MSP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BWK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$PAC/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATOM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AU/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AUR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BGR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BDL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "REP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUMA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SYNX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WHL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TES/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LUX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BRG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "R/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OTN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLAM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GLD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "Q2C/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SUMO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALIS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BERN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGPT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INPAY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLC2/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DAS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XEM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLAX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVIL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FJC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUMA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HOLD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VUC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZSE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYNX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PUT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IVY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$$$/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPANK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HUSH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSPEC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLASH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BDL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SLOTH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTX/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAV/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTCU/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MEC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHESS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEBL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INFX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STV/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COAL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZAP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEEZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SDRN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ERY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VITAE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VOISE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WLC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AU/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRONE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAGA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PEPE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLOAK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIVO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIRL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTCU/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HXX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIVE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRAVE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEMON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CQST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WDC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UIS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAV/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POWR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CPN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCOIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UIS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IZE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RVN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRBO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RDD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KMD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ENJ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORME/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OSC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TAJ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XDNA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GPL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VADE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NRG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KING/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHAN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNET/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAND/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEAF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UMO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAMO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KOBO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KNC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEAN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IRL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RNS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ENJ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RICKS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHIEF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LUX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTC/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BPL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PND/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RKC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOLI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETH/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PND/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CCN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MLITE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIFY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FRN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "R/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CJ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAPP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SCL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARKS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAPP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORME/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FROST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BWK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZOI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARKS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRYPT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DUO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ODN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEV/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MCI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAV/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MSP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XGOX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INSN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BVB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ONION/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRW/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAV/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XXX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BENJI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KASH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ONION/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRWI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCOIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WLC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "I0C/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PF/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELLA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RKC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOJO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AGA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTCS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COLX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPTX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VCC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLC2/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINEX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TEK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOXX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATOM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZCL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NYAN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MONK/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACOIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRAT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CBX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZNY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELLA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTDX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EBG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRFT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ANI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAND/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NYAN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TWIST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSD/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAMO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC3/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COAL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMPCO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAGA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RED/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SLG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LSK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TUSD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SWING/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BENJI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UFR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CENNZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KMD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARGUS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MEC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XJO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEERT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPCX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CACH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TGC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RPC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAZA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SXC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHIEF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC2/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLOCK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBYTE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRONE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HYP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSPEC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCXT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZNY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FONZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HBN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BKCAT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SYNX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUMBA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WW/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINDA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TGC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCPT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CREA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DRPU/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKY/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HDLB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BBT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMCC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NOBL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOGE/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HBN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NKA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SMC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BAT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIGGY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTNC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ERY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "I0C/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIRL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MLITE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNO/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GLD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OTN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MBRS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ITI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BPL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSTY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GZE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UIS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XGOX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PURA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LPC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DASH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WEED/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QAC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BAT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "300/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HUSH/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MATRX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOT/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CJ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBBT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EGC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHAN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RYO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EUC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CANN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KED/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FJC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VCC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOGE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NET/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLZ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XXX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NRG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIVE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RNS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSPEC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NETKO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOLI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CEFS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHVR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INFX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CFC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OSC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYNX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MATRX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OXY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DRXNE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GZE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LANA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BKCAT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAZA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIRTY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KBR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAME/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZOI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOIL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTIC3/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLASH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LUX/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TER/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "42/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZNY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDDIE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPAL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEUS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XVG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMPCO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KDC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COMP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IXC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "8BIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GUN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEEZ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HOLD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FJC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MBRS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WISH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XWC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SXC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IRL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PPC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FONZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEAN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "V/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WDC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XEM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KED/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EPC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PPC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GXG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FUZZ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BAY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRFT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SLG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SONG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECOB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMCC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPCX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHRM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "611/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARGUS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STV/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTX/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XID/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IDH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QBT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAID/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FFC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WHL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPACE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SFC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINDA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WHL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LANA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRYPT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EZT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CCB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BGR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SYNX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "YOVI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BON/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEAF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OOO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RVN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DPP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SBC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAV/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COMP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DPP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "START/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IFLT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EGC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MUSIC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RPC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RIYA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HDLB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IFLT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLOAK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BAY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOPE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QRK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WISH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTNC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GDC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IVY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QWARK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$$$/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FCT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATOM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TUSD/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCPT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HLM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPANK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FC2/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC2/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POWR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COLX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IFT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EZT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OZC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BND/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PINK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GCC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LFTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEERT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WLC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SFC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CXT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CPN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHESS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKRL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DON/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIVX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IFT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZET/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOKI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINEX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIME/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NXS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "42/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OZC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECA/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "START/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ODN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOXX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KASH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPAL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBTS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TES/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CREA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUMA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FUZZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZOI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LWF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORME/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FCT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KING/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTCC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KMD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XLC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIVX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SUMO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLAM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDDIE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CON/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALEX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TZC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZER/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "888/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FONZ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MCI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SMC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FFC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PRL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COAL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ITI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "REP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGPT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETHD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLOCK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "300/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XGOX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOPE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DAXX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IXC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KAYI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IRL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WEED/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AGA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOTO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "YOVI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DARK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BPL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LUX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRWI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INFX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EUC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DBIX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DALC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATMOS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMCC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XWC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QRK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EOS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BND/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WISH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBX/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HEAT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CACH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIGGY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DUO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPACE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CACH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "1337/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EQT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUMBA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KEK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MCI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SXC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CEFS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARGUS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RDD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XVG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PPC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCXT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARCO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOKI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVIL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOJO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTCS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROUD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTCS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUSH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CREA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EPC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPTX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEMON/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OFF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GPL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTUM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GZE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKRL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XID/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOSON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOOK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XJO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FUNK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TAJ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEC/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPACE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ENJ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRYPT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LOKI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "888/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COPPER/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHAN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "C2/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TWIST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PND/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RKC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC3/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PBL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "R/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAPP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HLM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FRN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZER/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TPAY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SUMO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARKS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UFR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ANI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KING/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TUSD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FFC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GEERT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MEC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PRL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLOCK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PUT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IDH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PENG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TZC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TGC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SQL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOTO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BLC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$PAC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TEK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIME/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CBX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NET/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAV/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HUSH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SJW/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BVB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRUMP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BND/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OMG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WW/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FUNK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NOBL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TER/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EXP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBTS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCH/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CPN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INSN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORME/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINEX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIVX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DASH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NYAN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SMC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNET/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GXG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIRTY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAMO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TEK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EQT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$PAC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIRX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COLX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DASH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CENNZ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SJW/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "888/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARCO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SONG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEVA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QAC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLAX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMPCO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HBN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SWING/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CON/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LUX/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OXY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTDX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAGA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LSK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FROST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALIS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NPW/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUBO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "APX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NXS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HYP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CFC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SCL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$$$/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "808/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRAVE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNIFY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOGE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLOAK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QWARK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCR/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KOBO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RED/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGPT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XVG/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DALC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRUMP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PURA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZCL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRWI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DARK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOJO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "Q2C/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROUD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CLAM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XDNA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIVX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INPAY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PUT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KBR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KNC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PENG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ODN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BBT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FRN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VUC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QAC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INPAY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBTS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "APX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIRX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FUZZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRAT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVIL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WILD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTCC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEBL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KAYI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RICKS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PURA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CJ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SQL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FANS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETN/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATMOS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GUN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HOLD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LWF/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IVY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EOS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEUS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRONE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FANS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COPPER/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAZA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETZ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BWK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUBO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CBX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NRG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIVE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEEZ/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DAS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POWR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSTY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RAIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WDC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UFR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PINK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KED/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NTRN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHRM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AUR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETC/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VPRC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOON/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DAXX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIRD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DARK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RDD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LCP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUSH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QBT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GPL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IZE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPANK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VOISE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NVC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIME/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC3/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "611/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NLC2/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MONK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XEM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LANA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDOGE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EXP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HUSH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ITI/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EZT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NAV/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECOB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOIL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "I0C/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMR/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEND/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEV/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BDL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTCU/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAV/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CQST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VPRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ABY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PBL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KDC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TWIST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LFTC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LCP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIRL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PHR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GDC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GCC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XDNA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NPW/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GXG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOPE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "C2/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CCN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HLM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SLOTH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIVO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "INSN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MONK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCXT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIRX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "$PAC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BGR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BENJI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ONION/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "YOVI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PXI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WILD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DRPU/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KEK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DBIX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CNET/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UBQ/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KASH/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KRB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEST/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OZC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SOIL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IDH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RICKS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOXX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ELLA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HYP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UMO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SIB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SCL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DAS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SFC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SDRN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QBT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "42/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TAJ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RAIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ADST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XRY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DPP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALEX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MLITE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTC/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZEC/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NTRN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OOO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LSK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCF/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CCN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RPC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RIYA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OFF/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRUMP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IXC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VOISE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC2/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BBT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BVB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AMP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WW/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "300/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CXT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DEV/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FCT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETN/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UNO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NVC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SLG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBYTE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTUM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCPT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "COPPER/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDOGE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOSON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OOO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LCP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PROC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLIS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POLIS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "APX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MSP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IFT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EUC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XSN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XCT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "C2/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BRG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EFL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XJO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GCC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PASS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OTN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBBT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ATMOS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LYC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GLD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CXT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UMO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DBIX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GUN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GCN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EOS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VRM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HDLB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTDX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CHESS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EVR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GBYTE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCH/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "808/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GDC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACOIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AGA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LINDA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VPRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BOLI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XVG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "START/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TZC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EBG/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TES/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZER/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XLC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CEFS/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FC2/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETHD/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MUSIC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MUSIC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALEX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RIYA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BCH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MGX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MOTO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TPAY/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DUO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QRK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CDM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EGC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XVG/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PEPE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NET/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LEMON/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STV/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VCC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GIN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SDRN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SEND/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RYO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BIS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BERN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VITAE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XID/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HEAT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LDOGE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XLC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "QTUM/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIVX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XBC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HSR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BEAN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PLR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IZE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NETKO/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARK/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRBO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WSX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "V/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEVA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRW/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XZC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOGE/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNX/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DRXNE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NTRN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHVR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "REP/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SPT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MBRS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BRG/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PAY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VITAE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "1337/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEVA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AU/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAME/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SBC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ERY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SCT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ANI/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OXY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DASH/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PRL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BITG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DALC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PIGGY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KDC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EQT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VADE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EFL/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MINT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TER/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RYO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLASH/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARK/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CEFS/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ORME/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAID/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZET/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MAGN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RBT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PINK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SAND/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LBTC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CRM/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETH/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZAP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ACC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZSE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPAL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTIC3/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HAL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LTC/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TIT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LWF/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRFT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "AC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OFF/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHA/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OPCX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UBQ/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DIVX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CANN/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BNC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTY/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DOT/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ETC/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CCB/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XWC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "8BIT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HXX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XPTX/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OMG/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VIVO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "UTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DP/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WILD/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "WC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DCR/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKRL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DNA/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GRW/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KBR/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCOIN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GNT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FLAX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TPAY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "XMR/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "POP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BAY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CANN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SWING/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SQL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "OSC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NOBL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MARX/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CAP/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "Q2C/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHRM/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BUMBA/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MST/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TOK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BERN/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EMD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "HSR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DRXNE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FTCC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CMT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BKCAT/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMC/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NMS/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PEPE/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRBO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TUSD/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "VADE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GAME/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SKY/NZDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARCO/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "611/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ARI/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SHVR/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KEK/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "STRC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TRK/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BTB/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZSE/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "SJW/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NZDT/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "LPC/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "DGB/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "BSTY/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "TTC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "GIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EZT/USDT": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "RAIN/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MNE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "IQT/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "PCC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "EDDIE/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "CTIC3/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ALIS/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "FROST/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "MTNC/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ZCL/BTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "ECO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "KUSH/LTC": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NETKO/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      },
+      "NEBL/DOGE": {
+        "taker": "0.2%",
+        "maker": "0.2%"
+      }
+    },
+    "deposit-fees": {
+      "default": 0
+    },
+    "withdrawal-fees": {
+      "$$$": 10,
+      "$PAC": 0.00002,
+      "1337": 0.01,
+      "300": 0.01,
+      "42": 2E-8,
+      "611": 0.0611,
+      "808": 0.01,
+      "888": 0.01,
+      "8BIT": 1,
+      "ABC": 0.11,
+      "ABY": 0.01,
+      "AC": 1,
+      "AC3": 0.01,
+      "ACC": 0.01,
+      "ACOIN": 0.0001,
+      "ACP": 0.01,
+      "ADA": 0.2,
+      "ADC": 0.0001,
+      "ADST": 30,
+      "AGA": 0.01,
+      "ALEX": 0.01,
+      "ALIS": 50,
+      "ALL": 0.01,
+      "ALT": 1,
+      "AMN": 800,
+      "AMP": 44,
+      "ANI": 0.0001,
+      "APX": 0.01,
+      "ARC": 0.01,
+      "ARCO": 0.01,
+      "ARG": 0.01,
+      "ARGUS": 0.01,
+      "ARI": 0.5,
+      "ARK": 0.1,
+      "ATH": 0.04,
+      "ATMOS": 0.01,
+      "ATOM": 0.01,
+      "AU": 0.01,
+      "AUR": 0.0001,
+      "BAT": 0.0001,
+      "BAY": 0.01,
+      "BBT": 0.01,
+      "BCF": 0.5,
+      "BCH": 0.0008,
+      "BCPT": 30,
+      "BCS": 0.01,
+      "BDL": 0.01,
+      "BEAN": 0.0001,
+      "BEEZ": 0.0001,
+      "BENJI": 0.01,
+      "BERN": 0.01,
+      "BGR": 100,
+      "BIP": 0.01,
+      "BIRD": 0.0001,
+      "BIS": 0.02,
+      "BITG": 0.01,
+      "BITS": 0.01,
+      "BKCAT": 20,
+      "BLC": 0.0001,
+      "BLK": 0.0001,
+      "BLOCK": 0.01,
+      "BLZ": 10,
+      "BNC": 6,
+      "BND": 0.01,
+      "BNX": 0.0001,
+      "BOLI": 0.0001,
+      "BON": 30,
+      "BOSON": 0.01,
+      "BOXX": 0.01,
+      "BPL": 0.1,
+      "BRG": 0.0001,
+      "BSD": 0.005,
+      "BSTY": 1,
+      "BTA": 0.0001,
+      "BTB": 0.0001,
+      "BTC": 0.0005,
+      "BTCS": 0.0001,
+      "BTDX": 0.01,
+      "BTG": 0.01,
+      "BTM": 13,
+      "BTX": 0.01,
+      "BUBO": 100,
+      "BUMBA": 0.0001,
+      "BUN": 100,
+      "BVB": 0.01,
+      "BVC": 0.0001,
+      "BWK": 0.01,
+      "C2": 0.01,
+      "CACH": 0.01,
+      "CAN": 40,
+      "CANN": 0.0001,
+      "CAP": 0.0001,
+      "CAPP": 300,
+      "CAR": 0.01,
+      "CAT": 0.0001,
+      "CBX": 0.00001,
+      "CC": 0.01,
+      "CCB": 50,
+      "CCN": 0.01,
+      "CDM": 0.01,
+      "CDN": 0.0001,
+      "CEFS": 0.01,
+      "CENNZ": 30,
+      "CFC": 0.0001,
+      "CHAN": 0.01,
+      "CHC": 0.0001,
+      "CHESS": 0.01,
+      "CHIEF": 0.01,
+      "CJ": 0.01,
+      "CL": 200,
+      "CLAM": 0.0001,
+      "CLOAK": 0.01,
+      "CMPCO": 0.01,
+      "CMT": 0.01,
+      "CNET": 0.01,
+      "CNO": 0.01,
+      "COAL": 0.01,
+      "COLX": 0.01,
+      "COMP": 0.01,
+      "CON": 1,
+      "COPPER": 0.01,
+      "COR": 0.01,
+      "CPN": 0.0001,
+      "CQST": 0.01,
+      "CRAVE": 0.01,
+      "CRC": 0.0001,
+      "CREA": 0.01,
+      "CRM": 0.01,
+      "CRYPT": 0.01,
+      "CSC": 0.01,
+      "CTIC3": 2000,
+      "CTL": 0.1,
+      "CXT": 0.01,
+      "DALC": 30,
+      "DARK": 1,
+      "DAS": 200,
+      "DASH": 0.01,
+      "DAXX": 0.01,
+      "DBIX": 0.04,
+      "DCN": 20000,
+      "DCR": 0.03,
+      "DCY": 0.01,
+      "DEM": 1,
+      "DEUS": 0.01,
+      "DEV": 0.01,
+      "DGB": 0.5,
+      "DGC": 0.0001,
+      "DGPT": 6,
+      "DIBC": 1200,
+      "DIM": 100,
+      "DIME": 0.0001,
+      "DIRTY": 0.0001,
+      "DIVX": 3,
+      "DNA": 60,
+      "DNR": 0.01,
+      "DOGE": 3,
+      "DON": 0.01,
+      "DOPE": 0.01,
+      "DOT": 0,
+      "DP": 0.01,
+      "DPP": 200,
+      "DRPU": 5,
+      "DRXNE": 0.01,
+      "DUO": 0.0001,
+      "EBG": 0.0001,
+      "EC": 0.01,
+      "ECA": 0.01,
+      "ECO": 0.01,
+      "ECOB": 20,
+      "EDC": 0.01,
+      "EDDIE": 0.01,
+      "EDRC": 0.0001,
+      "EFL": 0.01,
+      "EGC": 0.0001,
+      "ELC": 0.0001,
+      "ELLA": 0.01,
+      "ELM": 0.01,
+      "EMB": 0.01,
+      "EMC": 0.03,
+      "EMC2": 0.01,
+      "EMD": 0.0001,
+      "ENJ": 80,
+      "EOS": 0.01,
+      "EPC": 0.0001,
+      "EQT": 0.01,
+      "ERY": 0.01,
+      "ETC": 0.01,
+      "ETH": 0.004,
+      "ETHD": 90,
+      "ETN": 5,
+      "ETT": 27,
+      "ETZ": 0.01,
+      "EUC": 0.0001,
+      "EVIL": 0.0001,
+      "EVO": 0.0001,
+      "EVR": 90,
+      "EXP": 0.01,
+      "EZT": 20,
+      "FANS": 0.01,
+      "FC2": 0.01,
+      "FCT": 0.1,
+      "FFC": 0.0001,
+      "FJC": 0.01,
+      "FLASH": 0.01,
+      "FLAX": 0.0001,
+      "FLN": 100,
+      "FLT": 0.01,
+      "FONZ": 1,
+      "FRN": 0.0001,
+      "FROST": 0.01,
+      "FST": 0.0001,
+      "FT": 120,
+      "FTC": 1,
+      "FTCC": 10,
+      "FUNK": 100,
+      "FUZZ": 0.0001,
+      "GAME": 0.0001,
+      "GAP": 0.01,
+      "GBX": 0.01,
+      "GBYTE": 0.00002,
+      "GCC": 0.01,
+      "GCN": 100,
+      "GDC": 10,
+      "GEERT": 0.01,
+      "GEO": 0.01,
+      "GIN": 0.01,
+      "GLD": 0.0001,
+      "GNO": 0.11,
+      "GNR": 0.01,
+      "GNT": 20,
+      "GP": 0.0001,
+      "GPL": 0.0001,
+      "GRFT": 1,
+      "GRN": 0.01,
+      "GRS": 0.01,
+      "GRW": 0.0001,
+      "GRWI": 0.01,
+      "GUN": 1,
+      "GXG": 100,
+      "GZE": 0.04,
+      "HAC": 400,
+      "HAL": 0.0001,
+      "HAV": 0.01,
+      "HBN": 0.5,
+      "HC": 0.01,
+      "HDLB": 300,
+      "HEAT": 0.01,
+      "HLM": 0.01,
+      "HOLD": 0.001,
+      "HSR": 0.01,
+      "HST": 10,
+      "HUSH": 0.01,
+      "HXX": 0.005,
+      "HYP": 1,
+      "I0C": 0.0001,
+      "IC": 0.01,
+      "IDH": 300,
+      "IFLT": 0.01,
+      "IFT": 100,
+      "IN": 0.01,
+      "INFX": 0.0001,
+      "INN": 0.01,
+      "INPAY": 0.01,
+      "INSN": 0.01,
+      "IQ": 0.01,
+      "IQT": 90,
+      "IRL": 1,
+      "ITI": 0.01,
+      "IVY": 0.01,
+      "IXC": 0.0001,
+      "IZE": 0.01,
+      "JIN": 0.01,
+      "KARM": 1,
+      "KASH": 0.01,
+      "KAYI": 0.01,
+      "KBR": 3000,
+      "KDC": 0.01,
+      "KED": 0.0001,
+      "KEK": 0.01,
+      "KING": 500,
+      "KMD": 0.01,
+      "KNC": 6,
+      "KOBO": 0.01,
+      "KRB": 0.2,
+      "KRONE": 0.01,
+      "KUMA": 0.0001,
+      "KUSH": 0.01,
+      "LANA": 0.01,
+      "LBC": 0.01,
+      "LBTC": 0.01,
+      "LCP": 0.01,
+      "LDC": 0.01,
+      "LDOGE": 1,
+      "LEA": 10,
+      "LEAF": 0.0001,
+      "LEMON": 0.0001,
+      "LINA": 130,
+      "LINDA": 0.01,
+      "LINX": 0.01,
+      "LIT": 0.0001,
+      "LIVE": 200,
+      "LOKI": 0.01,
+      "LOOK": 1,
+      "LOT": 10,
+      "LPC": 0.01,
+      "LSK": 0.2,
+      "LTB": 0.0001,
+      "LTC": 0.002,
+      "LTCU": 0.01,
+      "LUX": 0.004,
+      "LWF": 0.2,
+      "LYC": 0.01,
+      "LYL": 90,
+      "LYNX": 0.0001,
+      "MAC": 0.01,
+      "MAG": 0.01,
+      "MAGE": 0.01,
+      "MAGN": 0.01,
+      "MAID": 29,
+      "MAR": 0.01,
+      "MARKS": 0.01,
+      "MARS": 1,
+      "MARX": 0.01,
+      "MATRX": 0.01,
+      "MAZA": 0.0001,
+      "MBRS": 400,
+      "MCI": 200,
+      "MEC": 0.05,
+      "MGO": 30,
+      "MGX": 4,
+      "MINEX": 900,
+      "MINT": 0.0001,
+      "MLITE": 0.01,
+      "MNE": 60,
+      "MNM": 0.01,
+      "MOIN": 0.0001,
+      "MOJO": 0.01,
+      "MONK": 0.01,
+      "MOTO": 1,
+      "MRY": 1,
+      "MSP": 40,
+      "MST": 0.01,
+      "MTL": 4,
+      "MTNC": 0.01,
+      "MUSIC": 0.01,
+      "NAMO": 0.01,
+      "NAV": 0.0001,
+      "NEBL": 0.01,
+      "NEO": 0,
+      "NET": 0.0001,
+      "NETKO": 0.01,
+      "NEVA": 0.01,
+      "NKA": 0.0001,
+      "NLC2": 0.01,
+      "NLX": 0.01,
+      "NMC": 0.0001,
+      "NMS": 0.01,
+      "NOBL": 0.01,
+      "NPW": 0.01,
+      "NRG": 0.01,
+      "NTRN": 0.1,
+      "NVC": 0.0001,
+      "NXS": 0.15,
+      "NYAN": 0.0001,
+      "NZDT": 2,
+      "ODN": 0.01,
+      "OFF": 1,
+      "OK": 0.005,
+      "OMG": 0.6,
+      "ONION": 0.01,
+      "OOO": 0.01,
+      "OPAL": 0.01,
+      "OPC": 0.01,
+      "OPCX": 0.01,
+      "ORB": 0.001,
+      "ORE": 0.01,
+      "ORME": 8,
+      "OSC": 0.0001,
+      "OTN": 3,
+      "OXY": 0.2,
+      "OZC": 1,
+      "PAK": 0.0001,
+      "PASC": 0.01,
+      "PASL": 0.01,
+      "PASS": 0.01,
+      "PAY": 6,
+      "PBL": 50,
+      "PCC": 0.0001,
+      "PCN": 0.01,
+      "PCOIN": 0.01,
+      "PENG": 100,
+      "PEPE": 0.01,
+      "PF": 350,
+      "PHO": 0.0001,
+      "PHR": 0.01,
+      "PHS": 0.0001,
+      "PIE": 0.01,
+      "PIGGY": 1,
+      "PINK": 0.01,
+      "PIRL": 0.01,
+      "PIVX": 0.01,
+      "PLC": 0.0001,
+      "PLR": 30,
+      "PND": 10,
+      "POLIS": 0.01,
+      "POLL": 9,
+      "POP": 50,
+      "POST": 0.01,
+      "POT": 1,
+      "POWR": 20,
+      "PPC": 0.0001,
+      "PR": 0.0001,
+      "PRL": 30,
+      "PROC": 0.01,
+      "PROUD": 0.01,
+      "PTC": 0.0001,
+      "PURA": 0.01,
+      "PUT": 0.01,
+      "PXC": 1,
+      "PXI": 0.01,
+      "Q2C": 0.01,
+      "QAC": 0.01,
+      "QBT": 0.01,
+      "QRK": 0.0001,
+      "QTL": 0.5,
+      "QTUM": 0.01,
+      "QWARK": 0.01,
+      "R": 10,
+      "RAIN": 0.01,
+      "RBBT": 0.0001,
+      "RBT": 0.0001,
+      "RBY": 0.0001,
+      "RC": 1,
+      "RDD": 0.5,
+      "RED": 1,
+      "REP": 0.1,
+      "RICKS": 0.01,
+      "RIYA": 9,
+      "RKC": 700,
+      "RNS": 0.01,
+      "RPC": 0.0001,
+      "RVN": 0.01,
+      "RYO": 0.03,
+      "SAGA": 0.01,
+      "SAND": 0.01,
+      "SBC": 0.0005,
+      "SCL": 30,
+      "SCT": 40,
+      "SDRN": 1000,
+      "SEL": 0.01,
+      "SEND": 0.01,
+      "SFC": 0.01,
+      "SHA": 10,
+      "SHRM": 0.01,
+      "SHVR": 120,
+      "SIB": 0.01,
+      "SIRX": 0.01,
+      "SJW": 0.0001,
+      "SKC": 1,
+      "SKIN": 400,
+      "SKR": 0.0001,
+      "SKRL": 200,
+      "SKY": 0,
+      "SLG": 0.0001,
+      "SLOTH": 0.0001,
+      "SMC": 0.01,
+      "SOIL": 0.01,
+      "SONG": 0.005,
+      "SOON": 1,
+      "SPACE": 0.01,
+      "SPANK": 50,
+      "SPN": 100,
+      "SPR": 0.01,
+      "SPT": 0.0001,
+      "SQL": 0.05,
+      "SRC": 0.01,
+      "SRN": 30,
+      "START": 0.0001,
+      "STN": 0.01,
+      "STRAT": 0.01,
+      "STRC": 30,
+      "STV": 0.0001,
+      "SUMO": 0.01,
+      "SWING": 0.0001,
+      "SXC": 1,
+      "SYNX": 0.01,
+      "TAJ": 0.01,
+      "TEK": 0.0001,
+      "TER": 0.01,
+      "TES": 1,
+      "TGC": 0.01,
+      "TIT": 1,
+      "TIX": 20,
+      "TOA": 0.01,
+      "TOK": 0.01,
+      "TOP": 1,
+      "TPAY": 0.01,
+      "TRBO": 0.0001,
+      "TRC": 0.0001,
+      "TRI": 0.0001,
+      "TRK": 0.0001,
+      "TRUMP": 0.01,
+      "TRX": 0.1,
+      "TTC": 1,
+      "TTY": 1,
+      "TUSD": 3,
+      "TWIST": 0.01,
+      "TX": 0.0001,
+      "TZC": 0.01,
+      "UBQ": 0.01,
+      "UBT": 0.01,
+      "UFR": 40,
+      "UIS": 0.01,
+      "UMO": 0.0001,
+      "UNIC": 1,
+      "UNIFY": 0.01,
+      "UNIT": 0.01,
+      "UNO": 0.01,
+      "UR": 0.01,
+      "USDT": 5,
+      "USNBT": 5,
+      "UTC": 0.01,
+      "V": 0.0001,
+      "VADE": 0.0001,
+      "VCC": 0.01,
+      "VIT": 300,
+      "VITAE": 0.01,
+      "VIVO": 0.01,
+      "VOISE": 1200,
+      "VPRC": 0.01,
+      "VRC": 0.0001,
+      "VRM": 0.01,
+      "VUC": 0.01,
+      "WC": 0.02,
+      "WDC": 0.0001,
+      "WEED": 9,
+      "WHL": 0.01,
+      "WILD": 200,
+      "WISH": 50,
+      "WLC": 0.01,
+      "WRC": 0.01,
+      "WSP": 0.01,
+      "WSX": 10,
+      "WW": 0.01,
+      "XBC": 0.0001,
+      "XBL": 50,
+      "XBP": 1000,
+      "XBTS": 0.01,
+      "XBY": 1,
+      "XCI": 0.01,
+      "XCO": 0.01,
+      "XCPO": 0.01,
+      "XCT": 0.0001,
+      "XCXT": 0.01,
+      "XDNA": 0.01,
+      "XEM": 1,
+      "XGOX": 0.01,
+      "XID": 30,
+      "XJO": 0.01,
+      "XLC": 0.015,
+      "XMCC": 0.01,
+      "XMG": 0.0002,
+      "XMR": 0.02,
+      "XMY": 0.0001,
+      "XP": 0.01,
+      "XPD": 1,
+      "XPM": 0.0001,
+      "XPTX": 0.01,
+      "XRA": 0.01,
+      "XRE": 0.01,
+      "XRY": 0.01,
+      "XSN": 0.01,
+      "XSPEC": 0.01,
+      "XST": 0.01,
+      "XVG": 1,
+      "XVI": 0.0001,
+      "XWC": 0.01,
+      "XXX": 0.01,
+      "XZC": 0.01,
+      "XZX": 0.01,
+      "YOVI": 0.0001,
+      "ZAP": 120,
+      "ZCL": 0.01,
+      "ZEC": 0.0002,
+      "ZEIT": 10,
+      "ZEN": 0.01,
+      "ZER": 0.01,
+      "ZEST": 0.01,
+      "ZET": 0.01,
+      "ZNY": 0.01,
+      "ZOI": 0.004,
+      "ZSE": 0.01
+    },
+    "markets": {}
+  },
   "dsx": {
     "trading-fees": {
       "__notes": "https://dsx.uk/schedule/",

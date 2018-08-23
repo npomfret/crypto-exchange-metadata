@@ -41,13 +41,19 @@ public class TradingFees {
 
     private final Map<String, List<FeePair>> fees = new HashMap<>();
 
+    public void addFee(String market, Fee takerFee, Fee makerFee) {
+        addFee(market, takerFee, makerFee, null);
+    }
+
     public void addDefaultFeeScheduleItem(String label, Fee takerFee, Fee makerFee) {
-        String ccy = "default";
+        addFee("default", takerFee, makerFee, label);
+    }
 
-        if (!fees.containsKey(ccy))
-            fees.put(ccy, new ArrayList<>());
+    private void addFee(String marketName, Fee takerFee, Fee makerFee, String label) {
+        if (!fees.containsKey(marketName))
+            fees.put(marketName, new ArrayList<>());
 
-        List<FeePair> list = fees.get(ccy);
+        List<FeePair> list = fees.get(marketName);
         list.add(new FeePair(label, takerFee, makerFee));
     }
 

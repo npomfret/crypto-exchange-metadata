@@ -8,8 +8,6 @@ import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.List;
 
@@ -20,7 +18,7 @@ public class CoinFalconParser {
         System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
     }
 
-    public static ExchangeMetadata run() throws URISyntaxException, IOException, InterruptedException {
+    public static ExchangeMetadata run() throws Exception {
         Source source = BitsAndBobs.getPage("https://coinfalcon.com/fees");
         List<Element> tables = source.getAllElements("table");
 
@@ -60,20 +58,20 @@ public class CoinFalconParser {
                 String mechanism = cells.get(0).getTextExtractor().toString();
 
                 String withdrawalFeeText = cells.get(1).getTextExtractor().toString();
-                if(cells.size() >= 3) {
+                if (cells.size() >= 3) {
                     String depositFeeText = cells.get(2).getTextExtractor().toString();
-                    if(depositFeeText.equals("Free"))
+                    if (depositFeeText.equals("Free"))
                         depositFee = Fee.parse("0");
                     else
                         depositFee = Fee.parse(depositFeeText);
                 }
 
-                if(mechanism.equals("Ethereum Tokens"))
+                if (mechanism.equals("Ethereum Tokens"))
                     continue;//todo: model the "Suggested network fee x 2.3" somehow
 
                 String ccy = withdrawalFeeText.split(" ")[1];
 
-                if(ccy.equals("€"))
+                if (ccy.equals("€"))
                     ccy = "EUR";
 
                 depositFees.addFee(ccy, depositFee);

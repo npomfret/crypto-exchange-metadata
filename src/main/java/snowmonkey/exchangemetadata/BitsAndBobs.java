@@ -23,9 +23,21 @@ import java.time.Duration;
 import static java.time.temporal.ChronoUnit.SECONDS;
 
 public class BitsAndBobs {
-    public static Source getPage(String rui) throws URISyntaxException, IOException, InterruptedException {
+    public static Source getPage(String uri) throws URISyntaxException, IOException, InterruptedException {
+        String body = doGet(new URI(uri));
+        Source source = new Source(body);
+        source.fullSequentialParse();
+
+        return source;
+    }
+
+    public static JsonObject getJson(URI uri) throws IOException, InterruptedException {
+        return new JsonParser().parse(doGet(uri)).getAsJsonObject();
+    }
+
+    public static String doGet(URI uri) throws IOException, InterruptedException {
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(new URI(rui))
+                .uri(uri)
                 .timeout(Duration.of(10, SECONDS))
                 .header("key1", "value1")
                 .GET()
@@ -35,14 +47,11 @@ public class BitsAndBobs {
                 .build()
                 .send(request, HttpResponse.BodyHandler.asString());
 
-        Source source = new Source(response.body());
-        source.fullSequentialParse();
-
-        return source;
+        return response.body();
     }
 
     public static JsonObject readJson(Path path) throws IOException {
-        try(BufferedReader reader = Files.newBufferedReader(path)) {
+        try (BufferedReader reader = Files.newBufferedReader(path)) {
             return new JsonParser().parse(reader).getAsJsonObject();
         }
     }

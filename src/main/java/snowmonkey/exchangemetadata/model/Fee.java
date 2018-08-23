@@ -39,19 +39,19 @@ public class Fee {
             part = part.trim();
 
             if (part.matches("^\\d+(\\.\\d+)?%$")) {
-                if(rate.isPresent())
+                if (rate.isPresent())
                     throw new IllegalStateException("cannot handle a fee with multiple rates");
 
                 rate = Optional.of(new Rate(part));
             } else if (part.matches("^\\d+(\\.\\d+)?$")) {
-                if(fixed.isPresent())
+                if (fixed.isPresent())
                     throw new IllegalStateException("cannot handle a fee with multiple fixed amounts");
 
                 fixed = Optional.of(new Fixed(new BigDecimal(part)));
             }
         }
 
-        if(!rate.isPresent() && !fixed.isPresent())
+        if (!rate.isPresent() && !fixed.isPresent())
             throw new IllegalStateException("Cannot parse fee '" + feeText + "'");
 
         return new Fee(rate, fixed);
@@ -61,7 +61,7 @@ public class Fee {
         public final String value;//eg "4.1%"
 
         public Rate(String value) {
-            if(!value.endsWith("%"))
+            if (!value.endsWith("%"))
                 throw new IllegalStateException("Invalid rate '" + value + "', rate should be a numerical percentage string, eg: 4.3%");
             this.value = value;
         }

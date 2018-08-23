@@ -3,6 +3,7 @@ package snowmonkey.exchangemetadata;
 import com.google.gson.JsonObject;
 import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
 import snowmonkey.exchangemetadata.parsers.CoinexParser;
+import snowmonkey.exchangemetadata.parsers.CryptopiaParser;
 import snowmonkey.exchangemetadata.parsers.ExmoParser;
 
 import java.io.BufferedWriter;
@@ -19,11 +20,12 @@ public class RunAll {
         exchanges.add("exmo", ExmoParser.run().toJson());
         exchanges.add("coinex", CoinexParser.run().toJson());
         exchanges.add("coinfalcon", CoinFalconParser.run().toJson());
+        exchanges.add("cryptopia", CryptopiaParser.run().toJson());
 
         JsonObject output = new JsonObject();
         exchanges.keySet().stream().sorted().forEach(exchangeName -> output.add(exchangeName, exchanges.get(exchangeName)));
 
-        try(BufferedWriter writer = Files.newBufferedWriter(path)) {
+        try (BufferedWriter writer = Files.newBufferedWriter(path)) {
             writer.append(BitsAndBobs.prettyPrint(output));
         }
     }
