@@ -1,0 +1,15 @@
+{
+  "name": "mapping-generation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/npomfret/crypto-exchange-metadata",
+  "author": "nick pomfret",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ccxt": "^1.17.179"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
