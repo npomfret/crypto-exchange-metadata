@@ -1,0 +1,22 @@
+[
+  {
+    "id": "btc/eur",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "btc/usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  }
+]

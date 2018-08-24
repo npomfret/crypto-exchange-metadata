@@ -1,0 +1,326 @@
+[
+  {
+    "id": "arnbtc",
+    "ccxt": {
+      "symbol": "ARN/BTC",
+      "base": "ARN",
+      "quote": "BTC"
+    },
+    "baseId": "arn",
+    "quoteId": "btc",
+    "baseCurrency": "Aeron",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bchbtc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bchuah",
+    "ccxt": {
+      "symbol": "BCH/UAH",
+      "base": "BCH",
+      "quote": "UAH"
+    },
+    "baseId": "bch",
+    "quoteId": "uah",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "btcuah",
+    "ccxt": {
+      "symbol": "BTC/UAH",
+      "base": "BTC",
+      "quote": "UAH"
+    },
+    "baseId": "btc",
+    "quoteId": "uah",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "dashuah",
+    "ccxt": {
+      "symbol": "DASH/UAH",
+      "base": "DASH",
+      "quote": "UAH"
+    },
+    "baseId": "dash",
+    "quoteId": "uah",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "eosuah",
+    "ccxt": {
+      "symbol": "EOS/UAH",
+      "base": "EOS",
+      "quote": "UAH"
+    },
+    "baseId": "eos",
+    "quoteId": "uah",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "erc20btc",
+    "ccxt": {
+      "symbol": "ERC20/BTC",
+      "base": "ERC20",
+      "quote": "BTC"
+    },
+    "baseId": "erc20",
+    "quoteId": "btc",
+    "baseCurrency": "ERC20",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethuah",
+    "ccxt": {
+      "symbol": "ETH/UAH",
+      "base": "ETH",
+      "quote": "UAH"
+    },
+    "baseId": "eth",
+    "quoteId": "uah",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "evrbtc",
+    "ccxt": {
+      "symbol": "EVR/BTC",
+      "base": "EVR",
+      "quote": "BTC"
+    },
+    "baseId": "evr",
+    "quoteId": "btc",
+    "baseCurrency": "Everus",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "foodbtc",
+    "ccxt": {
+      "symbol": "FOOD/BTC",
+      "base": "FOOD",
+      "quote": "BTC"
+    },
+    "baseId": "food",
+    "quoteId": "btc",
+    "baseCurrency": "FoodCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gbguah",
+    "ccxt": {
+      "symbol": "GBG/UAH",
+      "base": "GBG",
+      "quote": "UAH"
+    },
+    "baseId": "gbg",
+    "quoteId": "uah",
+    "baseCurrency": "Golos Gold",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "golgbg",
+    "ccxt": {
+      "symbol": "GOL/GBG",
+      "base": "GOL",
+      "quote": "GBG"
+    },
+    "baseId": "gol",
+    "quoteId": "gbg",
+    "baseCurrency": "GOL",
+    "quoteCurrency": "Golos Gold"
+  },
+  {
+    "id": "hknbtc",
+    "ccxt": {
+      "symbol": "HKN/BTC",
+      "base": "HKN",
+      "quote": "BTC"
+    },
+    "baseId": "hkn",
+    "quoteId": "btc",
+    "baseCurrency": "Hacken",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "krbuah",
+    "ccxt": {
+      "symbol": "KRB/UAH",
+      "base": "KRB",
+      "quote": "UAH"
+    },
+    "baseId": "krb",
+    "quoteId": "uah",
+    "baseCurrency": "Karbo",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "kunbtc",
+    "ccxt": {
+      "symbol": "KUN/BTC",
+      "base": "KUN",
+      "quote": "BTC"
+    },
+    "baseId": "kun",
+    "quoteId": "btc",
+    "baseCurrency": "KUN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltcuah",
+    "ccxt": {
+      "symbol": "LTC/UAH",
+      "base": "LTC",
+      "quote": "UAH"
+    },
+    "baseId": "ltc",
+    "quoteId": "uah",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "rbtc",
+    "ccxt": {
+      "symbol": "R/BTC",
+      "base": "R",
+      "quote": "BTC"
+    },
+    "baseId": "r",
+    "quoteId": "btc",
+    "baseCurrency": "Revain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "remeth",
+    "ccxt": {
+      "symbol": "REMETH/",
+      "base": "REMETH",
+      "quote": ""
+    },
+    "baseId": "remeth",
+    "quoteId": "",
+    "baseCurrency": "REMETH",
+    "quoteCurrency": ""
+  },
+  {
+    "id": "remuah",
+    "ccxt": {
+      "symbol": "REM/UAH",
+      "base": "REM",
+      "quote": "UAH"
+    },
+    "baseId": "rem",
+    "quoteId": "uah",
+    "baseCurrency": "Remme",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "rmcbtc",
+    "ccxt": {
+      "symbol": "RMC/BTC",
+      "base": "RMC",
+      "quote": "BTC"
+    },
+    "baseId": "rmc",
+    "quoteId": "btc",
+    "baseCurrency": "Russian Miner Coin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "tusduah",
+    "ccxt": {
+      "symbol": "TUSD/UAH",
+      "base": "TUSD",
+      "quote": "UAH"
+    },
+    "baseId": "tusd",
+    "quoteId": "uah",
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "venusbtc",
+    "ccxt": {
+      "symbol": "VENUS/BTC",
+      "base": "VENUS",
+      "quote": "BTC"
+    },
+    "baseId": "venus",
+    "quoteId": "btc",
+    "baseCurrency": "VENUS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wavesuah",
+    "ccxt": {
+      "symbol": "WAVES/UAH",
+      "base": "WAVES",
+      "quote": "UAH"
+    },
+    "baseId": "waves",
+    "quoteId": "uah",
+    "baseCurrency": "Waves",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "xemuah",
+    "ccxt": {
+      "symbol": "XEM/UAH",
+      "base": "XEM",
+      "quote": "UAH"
+    },
+    "baseId": "xem",
+    "quoteId": "uah",
+    "baseCurrency": "NEM",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "xlmuah",
+    "ccxt": {
+      "symbol": "XLM/UAH",
+      "base": "XLM",
+      "quote": "UAH"
+    },
+    "baseId": "xlm",
+    "quoteId": "uah",
+    "baseCurrency": "Stellar",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "xrpuah",
+    "ccxt": {
+      "symbol": "XRP/UAH",
+      "base": "XRP",
+      "quote": "UAH"
+    },
+    "baseId": "xrp",
+    "quoteId": "uah",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  },
+  {
+    "id": "zecuah",
+    "ccxt": {
+      "symbol": "ZEC/UAH",
+      "base": "ZEC",
+      "quote": "UAH"
+    },
+    "baseId": "zec",
+    "quoteId": "uah",
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Ukrainian Hryvnia"
+  }
+]

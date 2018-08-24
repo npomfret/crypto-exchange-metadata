@@ -1,0 +1,32 @@
+[
+  {
+    "id": "XBTEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XBTSGD",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "XBTUSD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  }
+]

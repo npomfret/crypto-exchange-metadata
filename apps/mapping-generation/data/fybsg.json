@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SEK",
+    "ccxt": {
+      "symbol": "BTC/SEK",
+      "base": "BTC",
+      "quote": "SEK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Swedish Krona"
+  },
+  {
+    "id": "SGD",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  }
+]

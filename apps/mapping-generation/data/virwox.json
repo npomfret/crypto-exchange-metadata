@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "ccxt": {
+      "symbol": "EUR/SLL",
+      "base": "EUR",
+      "quote": "SLL"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "SLL"
+  },
+  {
+    "id": "10",
+    "ccxt": {
+      "symbol": "USD/ACD",
+      "base": "USD",
+      "quote": "ACD"
+    },
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "ACD"
+  },
+  {
+    "id": "11",
+    "ccxt": {
+      "symbol": "BTC/SLL",
+      "base": "BTC",
+      "quote": "SLL"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "SLL"
+  },
+  {
+    "id": "12",
+    "ccxt": {
+      "symbol": "EUR/MVC",
+      "base": "EUR",
+      "quote": "MVC"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "Maverick Chain"
+  },
+  {
+    "id": "2",
+    "ccxt": {
+      "symbol": "GBP/SLL",
+      "base": "GBP",
+      "quote": "SLL"
+    },
+    "baseCurrency": "British Pound Sterling",
+    "quoteCurrency": "SLL"
+  },
+  {
+    "id": "3",
+    "ccxt": {
+      "symbol": "CHF/SLL",
+      "base": "CHF",
+      "quote": "SLL"
+    },
+    "baseCurrency": "Swiss Franc",
+    "quoteCurrency": "SLL"
+  },
+  {
+    "id": "4",
+    "ccxt": {
+      "symbol": "USD/SLL",
+      "base": "USD",
+      "quote": "SLL"
+    },
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "SLL"
+  },
+  {
+    "id": "5",
+    "ccxt": {
+      "symbol": "SLL/OMC",
+      "base": "SLL",
+      "quote": "OMC"
+    },
+    "baseCurrency": "SLL",
+    "quoteCurrency": "Omicron"
+  },
+  {
+    "id": "6",
+    "ccxt": {
+      "symbol": "EUR/OMC",
+      "base": "EUR",
+      "quote": "OMC"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "Omicron"
+  },
+  {
+    "id": "7",
+    "ccxt": {
+      "symbol": "USD/OMC",
+      "base": "USD",
+      "quote": "OMC"
+    },
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Omicron"
+  },
+  {
+    "id": "8",
+    "ccxt": {
+      "symbol": "SLL/ACD",
+      "base": "SLL",
+      "quote": "ACD"
+    },
+    "baseCurrency": "SLL",
+    "quoteCurrency": "ACD"
+  },
+  {
+    "id": "9",
+    "ccxt": {
+      "symbol": "EUR/ACD",
+      "base": "EUR",
+      "quote": "ACD"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "ACD"
+  }
+]

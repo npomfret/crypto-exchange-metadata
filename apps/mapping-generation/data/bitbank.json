@@ -1,0 +1,98 @@
+[
+  {
+    "id": "bcc_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bcc",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcc_jpy",
+    "ccxt": {
+      "symbol": "BCH/JPY",
+      "base": "BCH",
+      "quote": "JPY"
+    },
+    "baseId": "bcc",
+    "quoteId": "jpy",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "btc_jpy",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseId": "btc",
+    "quoteId": "jpy",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc_btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mona_btc",
+    "ccxt": {
+      "symbol": "MONA/BTC",
+      "base": "MONA",
+      "quote": "BTC"
+    },
+    "baseId": "mona",
+    "quoteId": "btc",
+    "baseCurrency": "MonaCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mona_jpy",
+    "ccxt": {
+      "symbol": "MONA/JPY",
+      "base": "MONA",
+      "quote": "JPY"
+    },
+    "baseId": "mona",
+    "quoteId": "jpy",
+    "baseCurrency": "MonaCoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "xrp_jpy",
+    "ccxt": {
+      "symbol": "XRP/JPY",
+      "base": "XRP",
+      "quote": "JPY"
+    },
+    "baseId": "xrp",
+    "quoteId": "jpy",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Japanese Yen"
+  }
+]

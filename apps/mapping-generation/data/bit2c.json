@@ -1,0 +1,42 @@
+[
+  {
+    "id": "BchNis",
+    "ccxt": {
+      "symbol": "BCH/NIS",
+      "base": "BCH",
+      "quote": "NIS"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "NIS"
+  },
+  {
+    "id": "BtcNis",
+    "ccxt": {
+      "symbol": "BTC/NIS",
+      "base": "BTC",
+      "quote": "NIS"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "NIS"
+  },
+  {
+    "id": "BtgNis",
+    "ccxt": {
+      "symbol": "BTG/NIS",
+      "base": "BTG",
+      "quote": "NIS"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "NIS"
+  },
+  {
+    "id": "LtcNis",
+    "ccxt": {
+      "symbol": "LTC/NIS",
+      "base": "LTC",
+      "quote": "NIS"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "NIS"
+  }
+]

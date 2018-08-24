@@ -1,0 +1,302 @@
+[
+  {
+    "id": "bchhkx",
+    "ccxt": {
+      "symbol": "BCH/HKX",
+      "base": "BCH",
+      "quote": "HKX"
+    },
+    "baseId": "BCH",
+    "quoteId": "HKX",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "btchkd",
+    "ccxt": {
+      "symbol": "BTC/HKD",
+      "base": "BTC",
+      "quote": "HKD"
+    },
+    "baseId": "BTC",
+    "quoteId": "HKD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "btchkx",
+    "ccxt": {
+      "symbol": "BTC/HKX",
+      "base": "BTC",
+      "quote": "HKX"
+    },
+    "baseId": "BTC",
+    "quoteId": "HKX",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "btcusd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "BTC",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btcusx",
+    "ccxt": {
+      "symbol": "BTC/USX",
+      "base": "BTC",
+      "quote": "USX"
+    },
+    "baseId": "BTC",
+    "quoteId": "USX",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "USX"
+  },
+  {
+    "id": "cbteth",
+    "ccxt": {
+      "symbol": "CBT/ETH",
+      "base": "CBT",
+      "quote": "ETH"
+    },
+    "baseId": "CBT",
+    "quoteId": "ETH",
+    "baseCurrency": "CommerceBlock",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cbthkx",
+    "ccxt": {
+      "symbol": "CBT/HKX",
+      "base": "CBT",
+      "quote": "HKX"
+    },
+    "baseId": "CBT",
+    "quoteId": "HKX",
+    "baseCurrency": "CommerceBlock",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "cbtusx",
+    "ccxt": {
+      "symbol": "CBT/USX",
+      "base": "CBT",
+      "quote": "USX"
+    },
+    "baseId": "CBT",
+    "quoteId": "USX",
+    "baseCurrency": "CommerceBlock",
+    "quoteCurrency": "USX"
+  },
+  {
+    "id": "eoshkd",
+    "ccxt": {
+      "symbol": "EOS/HKD",
+      "base": "EOS",
+      "quote": "HKD"
+    },
+    "baseId": "EOS",
+    "quoteId": "HKD",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "eoshkx",
+    "ccxt": {
+      "symbol": "EOS/HKX",
+      "base": "EOS",
+      "quote": "HKX"
+    },
+    "baseId": "EOS",
+    "quoteId": "HKX",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "eosusx",
+    "ccxt": {
+      "symbol": "EOS/USX",
+      "base": "EOS",
+      "quote": "USX"
+    },
+    "baseId": "EOS",
+    "quoteId": "USX",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "USX"
+  },
+  {
+    "id": "etchkx",
+    "ccxt": {
+      "symbol": "ETC/HKX",
+      "base": "ETC",
+      "quote": "HKX"
+    },
+    "baseId": "ETC",
+    "quoteId": "HKX",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "ethhkd",
+    "ccxt": {
+      "symbol": "ETH/HKD",
+      "base": "ETH",
+      "quote": "HKD"
+    },
+    "baseId": "ETH",
+    "quoteId": "HKD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "ethhkx",
+    "ccxt": {
+      "symbol": "ETH/HKX",
+      "base": "ETH",
+      "quote": "HKX"
+    },
+    "baseId": "ETH",
+    "quoteId": "HKX",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "ethusd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ethusx",
+    "ccxt": {
+      "symbol": "ETH/USX",
+      "base": "ETH",
+      "quote": "USX"
+    },
+    "baseId": "ETH",
+    "quoteId": "USX",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "USX"
+  },
+  {
+    "id": "hkxhkd",
+    "ccxt": {
+      "symbol": "HKX/HKD",
+      "base": "HKX",
+      "quote": "HKD"
+    },
+    "baseId": "HKX",
+    "quoteId": "HKD",
+    "baseCurrency": "HKX",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "likehkx",
+    "ccxt": {
+      "symbol": "LIKE/HKX",
+      "base": "LIKE",
+      "quote": "HKX"
+    },
+    "baseId": "LIKE",
+    "quoteId": "HKX",
+    "baseCurrency": "LikeCoin",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "ltchkx",
+    "ccxt": {
+      "symbol": "LTC/HKX",
+      "base": "LTC",
+      "quote": "HKX"
+    },
+    "baseId": "LTC",
+    "quoteId": "HKX",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "neohkd",
+    "ccxt": {
+      "symbol": "NEO/HKD",
+      "base": "NEO",
+      "quote": "HKD"
+    },
+    "baseId": "NEO",
+    "quoteId": "HKD",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "usxhkx",
+    "ccxt": {
+      "symbol": "USX/HKX",
+      "base": "USX",
+      "quote": "HKX"
+    },
+    "baseId": "USX",
+    "quoteId": "HKX",
+    "baseCurrency": "USX",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "usxusd",
+    "ccxt": {
+      "symbol": "USX/USD",
+      "base": "USX",
+      "quote": "USD"
+    },
+    "baseId": "USX",
+    "quoteId": "USD",
+    "baseCurrency": "USX",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xpaeth",
+    "ccxt": {
+      "symbol": "XPA/ETH",
+      "base": "XPA",
+      "quote": "ETH"
+    },
+    "baseId": "XPA",
+    "quoteId": "ETH",
+    "baseCurrency": "XPA",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "xpahkx",
+    "ccxt": {
+      "symbol": "XPA/HKX",
+      "base": "XPA",
+      "quote": "HKX"
+    },
+    "baseId": "XPA",
+    "quoteId": "HKX",
+    "baseCurrency": "XPA",
+    "quoteCurrency": "HKX"
+  },
+  {
+    "id": "xpausx",
+    "ccxt": {
+      "symbol": "XPA/USX",
+      "base": "XPA",
+      "quote": "USX"
+    },
+    "baseId": "XPA",
+    "quoteId": "USX",
+    "baseCurrency": "XPA",
+    "quoteCurrency": "USX"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "BCCPLN",
+    "ccxt": {
+      "symbol": "BCH/PLN",
+      "base": "BCH",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "BTCEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTCPLN",
+    "ccxt": {
+      "symbol": "BTC/PLN",
+      "base": "BTC",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "BTGPLN",
+    "ccxt": {
+      "symbol": "BTG/PLN",
+      "base": "BTG",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "LiteMineXBTC",
+    "ccxt": {
+      "symbol": "LiteMineX/BTC",
+      "base": "LiteMineX",
+      "quote": "BTC"
+    },
+    "baseCurrency": "LiteMineX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTCBTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTCPLN",
+    "ccxt": {
+      "symbol": "LTC/PLN",
+      "base": "LTC",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Polish Zloty"
+  }
+]

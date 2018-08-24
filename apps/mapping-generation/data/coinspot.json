@@ -1,0 +1,32 @@
+[
+  {
+    "id": "BTC",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "DOGE",
+    "ccxt": {
+      "symbol": "DOGE/AUD",
+      "base": "DOGE",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "LTC",
+    "ccxt": {
+      "symbol": "LTC/AUD",
+      "base": "LTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Australian Dollar"
+  }
+]

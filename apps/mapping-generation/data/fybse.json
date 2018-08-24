@@ -1,0 +1,12 @@
+[
+  {
+    "id": "SEK",
+    "ccxt": {
+      "symbol": "BTC/SEK",
+      "base": "BTC",
+      "quote": "SEK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Swedish Krona"
+  }
+]

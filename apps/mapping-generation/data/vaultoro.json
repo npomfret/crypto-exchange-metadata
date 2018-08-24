@@ -1,0 +1,14 @@
+[
+  {
+    "id": "BTC-GLD",
+    "ccxt": {
+      "symbol": "Gold/BTC",
+      "base": "Gold",
+      "quote": "BTC"
+    },
+    "baseId": "GLD",
+    "quoteId": "BTC",
+    "baseCurrency": "Gold",
+    "quoteCurrency": "Bitcoin"
+  }
+]

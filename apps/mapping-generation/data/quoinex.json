@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "BTC",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "102",
+    "ccxt": {
+      "symbol": "RKT/SGD",
+      "base": "RKT",
+      "quote": "SGD"
+    },
+    "baseId": "RKT",
+    "quoteId": "SGD",
+    "baseCurrency": "Rock",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "103",
+    "ccxt": {
+      "symbol": "RKT/AUD",
+      "base": "RKT",
+      "quote": "AUD"
+    },
+    "baseId": "RKT",
+    "quoteId": "AUD",
+    "baseCurrency": "Rock",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "104",
+    "ccxt": {
+      "symbol": "RKT/USD",
+      "base": "RKT",
+      "quote": "USD"
+    },
+    "baseId": "RKT",
+    "quoteId": "USD",
+    "baseCurrency": "Rock",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "105",
+    "ccxt": {
+      "symbol": "RKT/EUR",
+      "base": "RKT",
+      "quote": "EUR"
+    },
+    "baseId": "RKT",
+    "quoteId": "EUR",
+    "baseCurrency": "Rock",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "106",
+    "ccxt": {
+      "symbol": "RKT/JPY",
+      "base": "RKT",
+      "quote": "JPY"
+    },
+    "baseId": "RKT",
+    "quoteId": "JPY",
+    "baseCurrency": "Rock",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "11",
+    "ccxt": {
+      "symbol": "BTC/IDR",
+      "base": "BTC",
+      "quote": "IDR"
+    },
+    "baseId": "BTC",
+    "quoteId": "IDR",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Indonesian Rupiah"
+  },
+  {
+    "id": "13",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseId": "BTC",
+    "quoteId": "AUD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "15",
+    "ccxt": {
+      "symbol": "BTC/PHP",
+      "base": "BTC",
+      "quote": "PHP"
+    },
+    "baseId": "BTC",
+    "quoteId": "PHP",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Philippine Peso"
+  },
+  {
+    "id": "17",
+    "ccxt": {
+      "symbol": "BTC/CNY",
+      "base": "BTC",
+      "quote": "CNY"
+    },
+    "baseId": "BTC",
+    "quoteId": "CNY",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "18",
+    "ccxt": {
+      "symbol": "BTC/INR",
+      "base": "BTC",
+      "quote": "INR"
+    },
+    "baseId": "BTC",
+    "quoteId": "INR",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Indian Rupee"
+  },
+  {
+    "id": "27",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "28",
+    "ccxt": {
+      "symbol": "ETH/EUR",
+      "base": "ETH",
+      "quote": "EUR"
+    },
+    "baseId": "ETH",
+    "quoteId": "EUR",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "29",
+    "ccxt": {
+      "symbol": "ETH/JPY",
+      "base": "ETH",
+      "quote": "JPY"
+    },
+    "baseId": "ETH",
+    "quoteId": "JPY",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "3",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseId": "BTC",
+    "quoteId": "EUR",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "30",
+    "ccxt": {
+      "symbol": "ETH/SGD",
+      "base": "ETH",
+      "quote": "SGD"
+    },
+    "baseId": "ETH",
+    "quoteId": "SGD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "31",
+    "ccxt": {
+      "symbol": "ETH/HKD",
+      "base": "ETH",
+      "quote": "HKD"
+    },
+    "baseId": "ETH",
+    "quoteId": "HKD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "32",
+    "ccxt": {
+      "symbol": "ETH/IDR",
+      "base": "ETH",
+      "quote": "IDR"
+    },
+    "baseId": "ETH",
+    "quoteId": "IDR",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Indonesian Rupiah"
+  },
+  {
+    "id": "33",
+    "ccxt": {
+      "symbol": "ETH/AUD",
+      "base": "ETH",
+      "quote": "AUD"
+    },
+    "baseId": "ETH",
+    "quoteId": "AUD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "34",
+    "ccxt": {
+      "symbol": "ETH/PHP",
+      "base": "ETH",
+      "quote": "PHP"
+    },
+    "baseId": "ETH",
+    "quoteId": "PHP",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Philippine Peso"
+  },
+  {
+    "id": "35",
+    "ccxt": {
+      "symbol": "ETH/CNY",
+      "base": "ETH",
+      "quote": "CNY"
+    },
+    "baseId": "ETH",
+    "quoteId": "CNY",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "36",
+    "ccxt": {
+      "symbol": "ETH/INR",
+      "base": "ETH",
+      "quote": "INR"
+    },
+    "baseId": "ETH",
+    "quoteId": "INR",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Indian Rupee"
+  },
+  {
+    "id": "37",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "ETH",
+    "quoteId": "BTC",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "39",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseId": "BCH",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "40",
+    "ccxt": {
+      "symbol": "BCH/SGD",
+      "base": "BCH",
+      "quote": "SGD"
+    },
+    "baseId": "BCH",
+    "quoteId": "SGD",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "41",
+    "ccxt": {
+      "symbol": "BCH/JPY",
+      "base": "BCH",
+      "quote": "JPY"
+    },
+    "baseId": "BCH",
+    "quoteId": "JPY",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "42",
+    "ccxt": {
+      "symbol": "DASH/SGD",
+      "base": "DASH",
+      "quote": "SGD"
+    },
+    "baseId": "DASH",
+    "quoteId": "SGD",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "43",
+    "ccxt": {
+      "symbol": "DASH/USD",
+      "base": "DASH",
+      "quote": "USD"
+    },
+    "baseId": "DASH",
+    "quoteId": "USD",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "44",
+    "ccxt": {
+      "symbol": "DASH/JPY",
+      "base": "DASH",
+      "quote": "JPY"
+    },
+    "baseId": "DASH",
+    "quoteId": "JPY",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "45",
+    "ccxt": {
+      "symbol": "DASH/EUR",
+      "base": "DASH",
+      "quote": "EUR"
+    },
+    "baseId": "DASH",
+    "quoteId": "EUR",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "46",
+    "ccxt": {
+      "symbol": "QTUM/SGD",
+      "base": "QTUM",
+      "quote": "SGD"
+    },
+    "baseId": "QTUM",
+    "quoteId": "SGD",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "47",
+    "ccxt": {
+      "symbol": "QTUM/USD",
+      "base": "QTUM",
+      "quote": "USD"
+    },
+    "baseId": "QTUM",
+    "quoteId": "USD",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "48",
+    "ccxt": {
+      "symbol": "QTUM/JPY",
+      "base": "QTUM",
+      "quote": "JPY"
+    },
+    "baseId": "QTUM",
+    "quoteId": "JPY",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "49",
+    "ccxt": {
+      "symbol": "QTUM/EUR",
+      "base": "QTUM",
+      "quote": "EUR"
+    },
+    "baseId": "QTUM",
+    "quoteId": "EUR",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "5",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseId": "BTC",
+    "quoteId": "JPY",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "50",
+    "ccxt": {
+      "symbol": "QASH/JPY",
+      "base": "QASH",
+      "quote": "JPY"
+    },
+    "baseId": "QASH",
+    "quoteId": "JPY",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "51",
+    "ccxt": {
+      "symbol": "QASH/ETH",
+      "base": "QASH",
+      "quote": "ETH"
+    },
+    "baseId": "QASH",
+    "quoteId": "ETH",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "52",
+    "ccxt": {
+      "symbol": "QASH/BTC",
+      "base": "QASH",
+      "quote": "BTC"
+    },
+    "baseId": "QASH",
+    "quoteId": "BTC",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "53",
+    "ccxt": {
+      "symbol": "NEO/USD",
+      "base": "NEO",
+      "quote": "USD"
+    },
+    "baseId": "NEO",
+    "quoteId": "USD",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "54",
+    "ccxt": {
+      "symbol": "NEO/JPY",
+      "base": "NEO",
+      "quote": "JPY"
+    },
+    "baseId": "NEO",
+    "quoteId": "JPY",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "55",
+    "ccxt": {
+      "symbol": "NEO/SGD",
+      "base": "NEO",
+      "quote": "SGD"
+    },
+    "baseId": "NEO",
+    "quoteId": "SGD",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "56",
+    "ccxt": {
+      "symbol": "NEO/EUR",
+      "base": "NEO",
+      "quote": "EUR"
+    },
+    "baseId": "NEO",
+    "quoteId": "EUR",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "57",
+    "ccxt": {
+      "symbol": "QASH/USD",
+      "base": "QASH",
+      "quote": "USD"
+    },
+    "baseId": "QASH",
+    "quoteId": "USD",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "58",
+    "ccxt": {
+      "symbol": "QASH/EUR",
+      "base": "QASH",
+      "quote": "EUR"
+    },
+    "baseId": "QASH",
+    "quoteId": "EUR",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "59",
+    "ccxt": {
+      "symbol": "QASH/SGD",
+      "base": "QASH",
+      "quote": "SGD"
+    },
+    "baseId": "QASH",
+    "quoteId": "SGD",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "60",
+    "ccxt": {
+      "symbol": "QASH/AUD",
+      "base": "QASH",
+      "quote": "AUD"
+    },
+    "baseId": "QASH",
+    "quoteId": "AUD",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "61",
+    "ccxt": {
+      "symbol": "QASH/IDR",
+      "base": "QASH",
+      "quote": "IDR"
+    },
+    "baseId": "QASH",
+    "quoteId": "IDR",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Indonesian Rupiah"
+  },
+  {
+    "id": "62",
+    "ccxt": {
+      "symbol": "QASH/HKD",
+      "base": "QASH",
+      "quote": "HKD"
+    },
+    "baseId": "QASH",
+    "quoteId": "HKD",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "63",
+    "ccxt": {
+      "symbol": "QASH/PHP",
+      "base": "QASH",
+      "quote": "PHP"
+    },
+    "baseId": "QASH",
+    "quoteId": "PHP",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Philippine Peso"
+  },
+  {
+    "id": "64",
+    "ccxt": {
+      "symbol": "QASH/CNY",
+      "base": "QASH",
+      "quote": "CNY"
+    },
+    "baseId": "QASH",
+    "quoteId": "CNY",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "65",
+    "ccxt": {
+      "symbol": "QASH/INR",
+      "base": "QASH",
+      "quote": "INR"
+    },
+    "baseId": "QASH",
+    "quoteId": "INR",
+    "baseCurrency": "QASH",
+    "quoteCurrency": "Indian Rupee"
+  },
+  {
+    "id": "7",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseId": "BTC",
+    "quoteId": "SGD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "71",
+    "ccxt": {
+      "symbol": "UBTC/USD",
+      "base": "UBTC",
+      "quote": "USD"
+    },
+    "baseId": "UBTC",
+    "quoteId": "USD",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "72",
+    "ccxt": {
+      "symbol": "UBTC/JPY",
+      "base": "UBTC",
+      "quote": "JPY"
+    },
+    "baseId": "UBTC",
+    "quoteId": "JPY",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "73",
+    "ccxt": {
+      "symbol": "UBTC/SGD",
+      "base": "UBTC",
+      "quote": "SGD"
+    },
+    "baseId": "UBTC",
+    "quoteId": "SGD",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "74",
+    "ccxt": {
+      "symbol": "UBTC/BTC",
+      "base": "UBTC",
+      "quote": "BTC"
+    },
+    "baseId": "UBTC",
+    "quoteId": "BTC",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "75",
+    "ccxt": {
+      "symbol": "UBTC/ETH",
+      "base": "UBTC",
+      "quote": "ETH"
+    },
+    "baseId": "UBTC",
+    "quoteId": "ETH",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "76",
+    "ccxt": {
+      "symbol": "UBTC/QASH",
+      "base": "UBTC",
+      "quote": "QASH"
+    },
+    "baseId": "UBTC",
+    "quoteId": "QASH",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "QASH"
+  },
+  {
+    "id": "83",
+    "ccxt": {
+      "symbol": "XRP/JPY",
+      "base": "XRP",
+      "quote": "JPY"
+    },
+    "baseId": "XRP",
+    "quoteId": "JPY",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "84",
+    "ccxt": {
+      "symbol": "XRP/USD",
+      "base": "XRP",
+      "quote": "USD"
+    },
+    "baseId": "XRP",
+    "quoteId": "USD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "85",
+    "ccxt": {
+      "symbol": "XRP/EUR",
+      "base": "XRP",
+      "quote": "EUR"
+    },
+    "baseId": "XRP",
+    "quoteId": "EUR",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "86",
+    "ccxt": {
+      "symbol": "XRP/SGD",
+      "base": "XRP",
+      "quote": "SGD"
+    },
+    "baseId": "XRP",
+    "quoteId": "SGD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "87",
+    "ccxt": {
+      "symbol": "XRP/IDR",
+      "base": "XRP",
+      "quote": "IDR"
+    },
+    "baseId": "XRP",
+    "quoteId": "IDR",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Indonesian Rupiah"
+  },
+  {
+    "id": "88",
+    "ccxt": {
+      "symbol": "XRP/QASH",
+      "base": "XRP",
+      "quote": "QASH"
+    },
+    "baseId": "XRP",
+    "quoteId": "QASH",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "QASH"
+  },
+  {
+    "id": "9",
+    "ccxt": {
+      "symbol": "BTC/HKD",
+      "base": "BTC",
+      "quote": "HKD"
+    },
+    "baseId": "BTC",
+    "quoteId": "HKD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hong Kong Dollar"
+  }
+]

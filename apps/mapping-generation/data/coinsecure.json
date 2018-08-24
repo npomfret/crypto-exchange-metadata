@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTC/INR",
+    "ccxt": {
+      "symbol": "BTC/INR",
+      "base": "BTC",
+      "quote": "INR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Indian Rupee"
+  }
+]

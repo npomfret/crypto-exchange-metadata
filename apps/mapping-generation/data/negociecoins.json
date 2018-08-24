@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b2xbrl",
+    "ccxt": {
+      "symbol": "B2X/BRL",
+      "base": "B2X",
+      "quote": "BRL"
+    },
+    "baseCurrency": "SegWit2x",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "bchbrl",
+    "ccxt": {
+      "symbol": "BCH/BRL",
+      "base": "BCH",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "btcbrl",
+    "ccxt": {
+      "symbol": "BTC/BRL",
+      "base": "BTC",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "btgbrl",
+    "ccxt": {
+      "symbol": "BTG/BRL",
+      "base": "BTG",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "dashbrl",
+    "ccxt": {
+      "symbol": "DASH/BRL",
+      "base": "DASH",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "ltcbrl",
+    "ccxt": {
+      "symbol": "LTC/BRL",
+      "base": "LTC",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Brazilian Real"
+  }
+]

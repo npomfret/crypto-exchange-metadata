@@ -1,0 +1,362 @@
+[
+  {
+    "id": "bch_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bch_jpy",
+    "ccxt": {
+      "symbol": "BCH/JPY",
+      "base": "BCH",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "bitcrystals_btc",
+    "ccxt": {
+      "symbol": "BITCRYSTALS/BTC",
+      "base": "BITCRYSTALS",
+      "quote": "BTC"
+    },
+    "baseCurrency": "BITCRYSTALS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bitcrystals_jpy",
+    "ccxt": {
+      "symbol": "BITCRYSTALS/JPY",
+      "base": "BITCRYSTALS",
+      "quote": "JPY"
+    },
+    "baseCurrency": "BITCRYSTALS",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "btc_jpy",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "cicc_btc",
+    "ccxt": {
+      "symbol": "CICC/BTC",
+      "base": "CICC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "CICC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cicc_jpy",
+    "ccxt": {
+      "symbol": "CICC/JPY",
+      "base": "CICC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "CICC",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "csbtc_btc",
+    "ccxt": {
+      "symbol": "CSBTC/BTC",
+      "base": "CSBTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "CSBTC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cscmseth_erc20.cms",
+    "ccxt": {
+      "symbol": "CSCMSETH/ERC20.CMS",
+      "base": "CSCMSETH",
+      "quote": "ERC20.CMS"
+    },
+    "baseCurrency": "CSCMSETH",
+    "quoteCurrency": "ERC20.CMS"
+  },
+  {
+    "id": "cscmsxem_mosaic.cms",
+    "ccxt": {
+      "symbol": "CSCMSXEM/MOSAIC.CMS",
+      "base": "CSCMSXEM",
+      "quote": "MOSAIC.CMS"
+    },
+    "baseCurrency": "CSCMSXEM",
+    "quoteCurrency": "MOSAIC.CMS"
+  },
+  {
+    "id": "cseth_eth",
+    "ccxt": {
+      "symbol": "CSETH/ETH",
+      "base": "CSETH",
+      "quote": "ETH"
+    },
+    "baseCurrency": "CSETH",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "csxem_xem",
+    "ccxt": {
+      "symbol": "CSXEM/XEM",
+      "base": "CSXEM",
+      "quote": "XEM"
+    },
+    "baseCurrency": "CSXEM",
+    "quoteCurrency": "NEM"
+  },
+  {
+    "id": "cszaif_zaif",
+    "ccxt": {
+      "symbol": "CSZAIF/ZAIF",
+      "base": "CSZAIF",
+      "quote": "ZAIF"
+    },
+    "baseCurrency": "CSZAIF",
+    "quoteCurrency": "ZAIF"
+  },
+  {
+    "id": "erc20.cms_btc",
+    "ccxt": {
+      "symbol": "ERC20.CMS/BTC",
+      "base": "ERC20.CMS",
+      "quote": "BTC"
+    },
+    "baseCurrency": "ERC20.CMS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "erc20.cms_jpy",
+    "ccxt": {
+      "symbol": "ERC20.CMS/JPY",
+      "base": "ERC20.CMS",
+      "quote": "JPY"
+    },
+    "baseCurrency": "ERC20.CMS",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_jpy",
+    "ccxt": {
+      "symbol": "ETH/JPY",
+      "base": "ETH",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "fscc_btc",
+    "ccxt": {
+      "symbol": "FSCC/BTC",
+      "base": "FSCC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "FSCC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fscc_jpy",
+    "ccxt": {
+      "symbol": "FSCC/JPY",
+      "base": "FSCC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "FSCC",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "jpyz_jpy",
+    "ccxt": {
+      "symbol": "JPYZ/JPY",
+      "base": "JPYZ",
+      "quote": "JPY"
+    },
+    "baseCurrency": "JPYZ",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "mona_btc",
+    "ccxt": {
+      "symbol": "MONA/BTC",
+      "base": "MONA",
+      "quote": "BTC"
+    },
+    "baseCurrency": "MonaCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mona_jpy",
+    "ccxt": {
+      "symbol": "MONA/JPY",
+      "base": "MONA",
+      "quote": "JPY"
+    },
+    "baseCurrency": "MonaCoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "mosaic.cms_btc",
+    "ccxt": {
+      "symbol": "MOSAIC.CMS/BTC",
+      "base": "MOSAIC.CMS",
+      "quote": "BTC"
+    },
+    "baseCurrency": "MOSAIC.CMS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mosaic.cms_jpy",
+    "ccxt": {
+      "symbol": "MOSAIC.CMS/JPY",
+      "base": "MOSAIC.CMS",
+      "quote": "JPY"
+    },
+    "baseCurrency": "MOSAIC.CMS",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "ncxc_btc",
+    "ccxt": {
+      "symbol": "NCXC/BTC",
+      "base": "NCXC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "NCXC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ncxc_jpy",
+    "ccxt": {
+      "symbol": "NCXC/JPY",
+      "base": "NCXC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "NCXC",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "pepecash_btc",
+    "ccxt": {
+      "symbol": "PEPECASH/BTC",
+      "base": "PEPECASH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Pepe Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pepecash_jpy",
+    "ccxt": {
+      "symbol": "PEPECASH/JPY",
+      "base": "PEPECASH",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Pepe Cash",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "sjcx_btc",
+    "ccxt": {
+      "symbol": "SJCX/BTC",
+      "base": "SJCX",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Storjcoin X",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sjcx_jpy",
+    "ccxt": {
+      "symbol": "SJCX/JPY",
+      "base": "SJCX",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Storjcoin X",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "xcp_btc",
+    "ccxt": {
+      "symbol": "XCP/BTC",
+      "base": "XCP",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Counterparty",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xcp_jpy",
+    "ccxt": {
+      "symbol": "XCP/JPY",
+      "base": "XCP",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Counterparty",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "xem_btc",
+    "ccxt": {
+      "symbol": "XEM/BTC",
+      "base": "XEM",
+      "quote": "BTC"
+    },
+    "baseCurrency": "NEM",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xem_jpy",
+    "ccxt": {
+      "symbol": "XEM/JPY",
+      "base": "XEM",
+      "quote": "JPY"
+    },
+    "baseCurrency": "NEM",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "zaif_btc",
+    "ccxt": {
+      "symbol": "ZAIF/BTC",
+      "base": "ZAIF",
+      "quote": "BTC"
+    },
+    "baseCurrency": "ZAIF",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zaif_jpy",
+    "ccxt": {
+      "symbol": "ZAIF/JPY",
+      "base": "ZAIF",
+      "quote": "JPY"
+    },
+    "baseCurrency": "ZAIF",
+    "quoteCurrency": "Japanese Yen"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "AED",
+    "ccxt": {
+      "symbol": "BTC/AED",
+      "base": "BTC",
+      "quote": "AED"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "United Arab Emirates Dirham"
+  },
+  {
+    "id": "AUD",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "BGN",
+    "ccxt": {
+      "symbol": "BTC/BGN",
+      "base": "BTC",
+      "quote": "BGN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Bulgarian Lev"
+  },
+  {
+    "id": "CAD",
+    "ccxt": {
+      "symbol": "BTC/CAD",
+      "base": "BTC",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "CHF",
+    "ccxt": {
+      "symbol": "BTC/CHF",
+      "base": "BTC",
+      "quote": "CHF"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Swiss Franc"
+  },
+  {
+    "id": "CNY",
+    "ccxt": {
+      "symbol": "BTC/CNY",
+      "base": "BTC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "CZK",
+    "ccxt": {
+      "symbol": "BTC/CZK",
+      "base": "BTC",
+      "quote": "CZK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Czech Republic Koruna"
+  },
+  {
+    "id": "DKK",
+    "ccxt": {
+      "symbol": "BTC/DKK",
+      "base": "BTC",
+      "quote": "DKK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Danish Krone"
+  },
+  {
+    "id": "EUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "GBP",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "HKD",
+    "ccxt": {
+      "symbol": "BTC/HKD",
+      "base": "BTC",
+      "quote": "HKD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "HRK",
+    "ccxt": {
+      "symbol": "BTC/HRK",
+      "base": "BTC",
+      "quote": "HRK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Croatian Kuna"
+  },
+  {
+    "id": "HUF",
+    "ccxt": {
+      "symbol": "BTC/HUF",
+      "base": "BTC",
+      "quote": "HUF"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hungarian Forint"
+  },
+  {
+    "id": "ILS",
+    "ccxt": {
+      "symbol": "BTC/ILS",
+      "base": "BTC",
+      "quote": "ILS"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Israeli New Sheqel"
+  },
+  {
+    "id": "INR",
+    "ccxt": {
+      "symbol": "BTC/INR",
+      "base": "BTC",
+      "quote": "INR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Indian Rupee"
+  },
+  {
+    "id": "JPY",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "MUR",
+    "ccxt": {
+      "symbol": "BTC/MUR",
+      "base": "BTC",
+      "quote": "MUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Mauritian Rupee"
+  },
+  {
+    "id": "MXN",
+    "ccxt": {
+      "symbol": "BTC/MXN",
+      "base": "BTC",
+      "quote": "MXN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "NOK",
+    "ccxt": {
+      "symbol": "BTC/NOK",
+      "base": "BTC",
+      "quote": "NOK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Norwegian Krone"
+  },
+  {
+    "id": "NZD",
+    "ccxt": {
+      "symbol": "BTC/NZD",
+      "base": "BTC",
+      "quote": "NZD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "PLN",
+    "ccxt": {
+      "symbol": "BTC/PLN",
+      "base": "BTC",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "RON",
+    "ccxt": {
+      "symbol": "BTC/RON",
+      "base": "BTC",
+      "quote": "RON"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Romanian Leu"
+  },
+  {
+    "id": "RUB",
+    "ccxt": {
+      "symbol": "BTC/RUB",
+      "base": "BTC",
+      "quote": "RUB"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Russian Ruble"
+  },
+  {
+    "id": "SEK",
+    "ccxt": {
+      "symbol": "BTC/SEK",
+      "base": "BTC",
+      "quote": "SEK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Swedish Krona"
+  },
+  {
+    "id": "SGD",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "THB",
+    "ccxt": {
+      "symbol": "BTC/THB",
+      "base": "BTC",
+      "quote": "THB"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "TRY",
+    "ccxt": {
+      "symbol": "BTC/TRY",
+      "base": "BTC",
+      "quote": "TRY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Turkish Lira"
+  },
+  {
+    "id": "USD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ZAR",
+    "ccxt": {
+      "symbol": "BTC/ZAR",
+      "base": "BTC",
+      "quote": "ZAR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "South African Rand"
+  }
+]

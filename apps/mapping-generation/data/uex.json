@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bchbtc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bchusdt",
+    "ccxt": {
+      "symbol": "BCH/USDT",
+      "base": "BCH",
+      "quote": "USDT"
+    },
+    "baseId": "bch",
+    "quoteId": "usdt",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "btcusdt",
+    "ccxt": {
+      "symbol": "BTC/USDT",
+      "base": "BTC",
+      "quote": "USDT"
+    },
+    "baseId": "btc",
+    "quoteId": "usdt",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "cennzeth",
+    "ccxt": {
+      "symbol": "CENNZ/ETH",
+      "base": "CENNZ",
+      "quote": "ETH"
+    },
+    "baseId": "cennz",
+    "quoteId": "eth",
+    "baseCurrency": "Centrality",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cnneth",
+    "ccxt": {
+      "symbol": "CNN/ETH",
+      "base": "CNN",
+      "quote": "ETH"
+    },
+    "baseId": "cnn",
+    "quoteId": "eth",
+    "baseCurrency": "Content Neutrality Network",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cnnusdt",
+    "ccxt": {
+      "symbol": "CNN/USDT",
+      "base": "CNN",
+      "quote": "USDT"
+    },
+    "baseId": "cnn",
+    "quoteId": "usdt",
+    "baseCurrency": "Content Neutrality Network",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "cosmeth",
+    "ccxt": {
+      "symbol": "COSM/ETH",
+      "base": "COSM",
+      "quote": "ETH"
+    },
+    "baseId": "cosm",
+    "quoteId": "eth",
+    "baseCurrency": "Cosmo Coin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ctxceth",
+    "ccxt": {
+      "symbol": "CTXC/ETH",
+      "base": "CTXC",
+      "quote": "ETH"
+    },
+    "baseId": "ctxc",
+    "quoteId": "eth",
+    "baseCurrency": "Cortex",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "dtaeth",
+    "ccxt": {
+      "symbol": "DTA/ETH",
+      "base": "DTA",
+      "quote": "ETH"
+    },
+    "baseId": "dta",
+    "quoteId": "eth",
+    "baseCurrency": "DATA",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ethbtc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethusdt",
+    "ccxt": {
+      "symbol": "ETH/USDT",
+      "base": "ETH",
+      "quote": "USDT"
+    },
+    "baseId": "eth",
+    "quoteId": "usdt",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "exceth",
+    "ccxt": {
+      "symbol": "EXC/ETH",
+      "base": "EXC",
+      "quote": "ETH"
+    },
+    "baseId": "exc",
+    "quoteId": "eth",
+    "baseCurrency": "Excaliburcoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "knteth",
+    "ccxt": {
+      "symbol": "KNT/ETH",
+      "base": "KNT",
+      "quote": "ETH"
+    },
+    "baseId": "knt",
+    "quoteId": "eth",
+    "baseCurrency": "Kora Network Token",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "lbabtc",
+    "ccxt": {
+      "symbol": "LBA/BTC",
+      "base": "LBA",
+      "quote": "BTC"
+    },
+    "baseId": "lba",
+    "quoteId": "btc",
+    "baseCurrency": "Libra Credit",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "lbaeth",
+    "ccxt": {
+      "symbol": "LBA/ETH",
+      "base": "LBA",
+      "quote": "ETH"
+    },
+    "baseId": "lba",
+    "quoteId": "eth",
+    "baseCurrency": "Libra Credit",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "leeketh",
+    "ccxt": {
+      "symbol": "LEEK/ETH",
+      "base": "LEEK",
+      "quote": "ETH"
+    },
+    "baseId": "leek",
+    "quoteId": "eth",
+    "baseCurrency": "LEEK",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "manaeth",
+    "ccxt": {
+      "symbol": "MANA/ETH",
+      "base": "MANA",
+      "quote": "ETH"
+    },
+    "baseId": "mana",
+    "quoteId": "eth",
+    "baseCurrency": "Decentraland",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "olteth",
+    "ccxt": {
+      "symbol": "OLT/ETH",
+      "base": "OLT",
+      "quote": "ETH"
+    },
+    "baseId": "olt",
+    "quoteId": "eth",
+    "baseCurrency": "OneLedger",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "polybtc",
+    "ccxt": {
+      "symbol": "POLY/BTC",
+      "base": "POLY",
+      "quote": "BTC"
+    },
+    "baseId": "poly",
+    "quoteId": "btc",
+    "baseCurrency": "Polymath",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "polyusdt",
+    "ccxt": {
+      "symbol": "POLY/USDT",
+      "base": "POLY",
+      "quote": "USDT"
+    },
+    "baseId": "poly",
+    "quoteId": "usdt",
+    "baseCurrency": "Polymath",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "ratingeth",
+    "ccxt": {
+      "symbol": "RATING/ETH",
+      "base": "RATING",
+      "quote": "ETH"
+    },
+    "baseId": "rating",
+    "quoteId": "eth",
+    "baseCurrency": "DPRating",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "reneth",
+    "ccxt": {
+      "symbol": "REN/ETH",
+      "base": "REN",
+      "quote": "ETH"
+    },
+    "baseId": "ren",
+    "quoteId": "eth",
+    "baseCurrency": "Republic Protocol",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ttceth",
+    "ccxt": {
+      "symbol": "TTC/ETH",
+      "base": "TTC",
+      "quote": "ETH"
+    },
+    "baseId": "ttc",
+    "quoteId": "eth",
+    "baseCurrency": "TittieCoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "zileth",
+    "ccxt": {
+      "symbol": "ZIL/ETH",
+      "base": "ZIL",
+      "quote": "ETH"
+    },
+    "baseId": "zil",
+    "quoteId": "eth",
+    "baseCurrency": "Zilliqa",
+    "quoteCurrency": "Ethereum"
+  }
+]

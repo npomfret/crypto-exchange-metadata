@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bch_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bch_cad",
+    "ccxt": {
+      "symbol": "BCH/CAD",
+      "base": "BCH",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "btc_cad",
+    "ccxt": {
+      "symbol": "BTC/CAD",
+      "base": "BTC",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "btc_usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btg_btc",
+    "ccxt": {
+      "symbol": "BTG/BTC",
+      "base": "BTG",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btg_cad",
+    "ccxt": {
+      "symbol": "BTG/CAD",
+      "base": "BTG",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_cad",
+    "ccxt": {
+      "symbol": "ETH/CAD",
+      "base": "ETH",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "ltc_btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc_cad",
+    "ccxt": {
+      "symbol": "LTC/CAD",
+      "base": "LTC",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Canadian Dollar"
+  }
+]

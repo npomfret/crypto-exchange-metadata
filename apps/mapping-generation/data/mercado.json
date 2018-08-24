@@ -1,0 +1,32 @@
+[
+  {
+    "id": "BRLBCH",
+    "ccxt": {
+      "symbol": "BCH/BRL",
+      "base": "BCH",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "BRLBTC",
+    "ccxt": {
+      "symbol": "BTC/BRL",
+      "base": "BTC",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Brazilian Real"
+  },
+  {
+    "id": "BRLLTC",
+    "ccxt": {
+      "symbol": "LTC/BRL",
+      "base": "LTC",
+      "quote": "BRL"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Brazilian Real"
+  }
+]

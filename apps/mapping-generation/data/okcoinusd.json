@@ -1,0 +1,218 @@
+[
+  {
+    "id": "bch_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bch_eth",
+    "ccxt": {
+      "symbol": "BCH/ETH",
+      "base": "BCH",
+      "quote": "ETH"
+    },
+    "baseId": "bch",
+    "quoteId": "eth",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bch_usd",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseId": "bch",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btc_usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "btc",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "etc_btc",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseId": "etc",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etc_eth",
+    "ccxt": {
+      "symbol": "ETC/ETH",
+      "base": "ETC",
+      "quote": "ETH"
+    },
+    "baseId": "etc",
+    "quoteId": "eth",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "etc_usd",
+    "ccxt": {
+      "symbol": "ETC/USD",
+      "base": "ETC",
+      "quote": "USD"
+    },
+    "baseId": "etc",
+    "quoteId": "usd",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_usd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "eth",
+    "quoteId": "usd",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ltc_btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc_eth",
+    "ccxt": {
+      "symbol": "LTC/ETH",
+      "base": "LTC",
+      "quote": "ETH"
+    },
+    "baseId": "ltc",
+    "quoteId": "eth",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ltc_usd",
+    "ccxt": {
+      "symbol": "LTC/USD",
+      "base": "LTC",
+      "quote": "USD"
+    },
+    "baseId": "ltc",
+    "quoteId": "usd",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "tusd_btc",
+    "ccxt": {
+      "symbol": "TUSD/BTC",
+      "base": "TUSD",
+      "quote": "BTC"
+    },
+    "baseId": "tusd",
+    "quoteId": "btc",
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "tusd_eth",
+    "ccxt": {
+      "symbol": "TUSD/ETH",
+      "base": "TUSD",
+      "quote": "ETH"
+    },
+    "baseId": "tusd",
+    "quoteId": "eth",
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "tusd_usd",
+    "ccxt": {
+      "symbol": "TUSD/USD",
+      "base": "TUSD",
+      "quote": "USD"
+    },
+    "baseId": "tusd",
+    "quoteId": "usd",
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "usdt_btc",
+    "ccxt": {
+      "symbol": "USDT/BTC",
+      "base": "USDT",
+      "quote": "BTC"
+    },
+    "baseId": "usdt",
+    "quoteId": "btc",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "usdt_eth",
+    "ccxt": {
+      "symbol": "USDT/ETH",
+      "base": "USDT",
+      "quote": "ETH"
+    },
+    "baseId": "usdt",
+    "quoteId": "eth",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "usdt_usd",
+    "ccxt": {
+      "symbol": "USDT/USD",
+      "base": "USDT",
+      "quote": "USD"
+    },
+    "baseId": "usdt",
+    "quoteId": "usd",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "US Dollar"
+  }
+]

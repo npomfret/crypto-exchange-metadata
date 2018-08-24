@@ -1,0 +1,206 @@
+[
+  {
+    "id": "11",
+    "ccxt": {
+      "symbol": "ETH/ZAR",
+      "base": "ETH",
+      "quote": "ZAR"
+    },
+    "baseId": "6",
+    "quoteId": "3",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "South African Rand"
+  },
+  {
+    "id": "12",
+    "ccxt": {
+      "symbol": "ETH/NGN",
+      "base": "ETH",
+      "quote": "NGN"
+    },
+    "baseId": "6",
+    "quoteId": "5",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Nigerian Naira"
+  },
+  {
+    "id": "13",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "6",
+    "quoteId": "1",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "14",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "7",
+    "quoteId": "1",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "15",
+    "ccxt": {
+      "symbol": "BCH/ZAR",
+      "base": "BCH",
+      "quote": "ZAR"
+    },
+    "baseId": "7",
+    "quoteId": "3",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "South African Rand"
+  },
+  {
+    "id": "16",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "2",
+    "quoteId": "1",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "17",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseId": "8",
+    "quoteId": "1",
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "18",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseId": "9",
+    "quoteId": "1",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "19",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseId": "10",
+    "quoteId": "1",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "20",
+    "ccxt": {
+      "symbol": "XMR/BTC",
+      "base": "XMR",
+      "quote": "BTC"
+    },
+    "baseId": "11",
+    "quoteId": "1",
+    "baseCurrency": "Monero",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "21",
+    "ccxt": {
+      "symbol": "XMR/ZAR",
+      "base": "XMR",
+      "quote": "ZAR"
+    },
+    "baseId": "11",
+    "quoteId": "3",
+    "baseCurrency": "Monero",
+    "quoteCurrency": "South African Rand"
+  },
+  {
+    "id": "23",
+    "ccxt": {
+      "symbol": "NEO/BTC",
+      "base": "NEO",
+      "quote": "BTC"
+    },
+    "baseId": "13",
+    "quoteId": "1",
+    "baseCurrency": "NEO",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "24",
+    "ccxt": {
+      "symbol": "ADA/ZAR",
+      "base": "ADA",
+      "quote": "ZAR"
+    },
+    "baseId": "14",
+    "quoteId": "3",
+    "baseCurrency": "Cardano",
+    "quoteCurrency": "South African Rand"
+  },
+  {
+    "id": "25",
+    "ccxt": {
+      "symbol": "ADA/BTC",
+      "base": "ADA",
+      "quote": "BTC"
+    },
+    "baseId": "14",
+    "quoteId": "1",
+    "baseCurrency": "Cardano",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "3",
+    "ccxt": {
+      "symbol": "BTC/ZAR",
+      "base": "BTC",
+      "quote": "ZAR"
+    },
+    "baseId": "1",
+    "quoteId": "3",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "South African Rand"
+  },
+  {
+    "id": "4",
+    "ccxt": {
+      "symbol": "BTC/NGN",
+      "base": "BTC",
+      "quote": "NGN"
+    },
+    "baseId": "1",
+    "quoteId": "5",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Nigerian Naira"
+  },
+  {
+    "id": "6",
+    "ccxt": {
+      "symbol": "LTC/ZAR",
+      "base": "LTC",
+      "quote": "ZAR"
+    },
+    "baseId": "2",
+    "quoteId": "3",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "South African Rand"
+  }
+]

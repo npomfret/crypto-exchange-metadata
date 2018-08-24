@@ -1,0 +1,52 @@
+[
+  {
+    "id": "BCH/GBP",
+    "ccxt": {
+      "symbol": "BCH/GBP",
+      "base": "BCH",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "XBT/EUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XBT/GBP",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "XBT/PLN",
+    "ccxt": {
+      "symbol": "BTC/PLN",
+      "base": "BTC",
+      "quote": "PLN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "XBT/USD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  }
+]

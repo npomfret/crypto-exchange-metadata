@@ -1,0 +1,62 @@
+[
+  {
+    "id": "btcusd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ethbtc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethusd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "zecbtc",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zeceth",
+    "ccxt": {
+      "symbol": "ZEC/ETH",
+      "base": "ZEC",
+      "quote": "ETH"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "zecusd",
+    "ccxt": {
+      "symbol": "ZEC/USD",
+      "base": "ZEC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "US Dollar"
+  }
+]

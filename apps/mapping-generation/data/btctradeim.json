@@ -1,0 +1,722 @@
+[
+  {
+    "id": "abtbtc",
+    "ccxt": {
+      "symbol": "ABT/BTC",
+      "base": "ABT",
+      "quote": "BTC"
+    },
+    "baseId": "abt",
+    "quoteId": "btc",
+    "baseCurrency": "Arcblock",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "abtusc",
+    "ccxt": {
+      "symbol": "ABT/USC",
+      "base": "ABT",
+      "quote": "USC"
+    },
+    "baseId": "abt",
+    "quoteId": "usc",
+    "baseCurrency": "Arcblock",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "actbtc",
+    "ccxt": {
+      "symbol": "ACT/BTC",
+      "base": "ACT",
+      "quote": "BTC"
+    },
+    "baseId": "act",
+    "quoteId": "btc",
+    "baseCurrency": "Achain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "actusc",
+    "ccxt": {
+      "symbol": "ACT/USC",
+      "base": "ACT",
+      "quote": "USC"
+    },
+    "baseId": "act",
+    "quoteId": "usc",
+    "baseCurrency": "Achain",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "adeeth",
+    "ccxt": {
+      "symbol": "ADE/ETH",
+      "base": "ADE",
+      "quote": "ETH"
+    },
+    "baseId": "ade",
+    "quoteId": "eth",
+    "baseCurrency": "ADE",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "aidocbtc",
+    "ccxt": {
+      "symbol": "AIDOC/BTC",
+      "base": "AIDOC",
+      "quote": "BTC"
+    },
+    "baseId": "aidoc",
+    "quoteId": "btc",
+    "baseCurrency": "AI Doctor",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "aidocusc",
+    "ccxt": {
+      "symbol": "AIDOC/USC",
+      "base": "AIDOC",
+      "quote": "USC"
+    },
+    "baseId": "aidoc",
+    "quoteId": "usc",
+    "baseCurrency": "AI Doctor",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "bcdbtc",
+    "ccxt": {
+      "symbol": "BCD/BTC",
+      "base": "BCD",
+      "quote": "BTC"
+    },
+    "baseId": "bcd",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcdusc",
+    "ccxt": {
+      "symbol": "BCD/USC",
+      "base": "BCD",
+      "quote": "USC"
+    },
+    "baseId": "bcd",
+    "quoteId": "usc",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "bchbtc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bchusc",
+    "ccxt": {
+      "symbol": "BCH/USC",
+      "base": "BCH",
+      "quote": "USC"
+    },
+    "baseId": "bch",
+    "quoteId": "usc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "bcxbtc",
+    "ccxt": {
+      "symbol": "BCX/BTC",
+      "base": "BCX",
+      "quote": "BTC"
+    },
+    "baseId": "bcx",
+    "quoteId": "btc",
+    "baseCurrency": "BitcoinX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcxusc",
+    "ccxt": {
+      "symbol": "BCX/USC",
+      "base": "BCX",
+      "quote": "USC"
+    },
+    "baseId": "bcx",
+    "quoteId": "usc",
+    "baseCurrency": "BitcoinX",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "bt1btc",
+    "ccxt": {
+      "symbol": "BT1/BTC",
+      "base": "BT1",
+      "quote": "BTC"
+    },
+    "baseId": "bt1",
+    "quoteId": "btc",
+    "baseCurrency": "BT1",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bt2btc",
+    "ccxt": {
+      "symbol": "BT2/BTC",
+      "base": "BT2",
+      "quote": "BTC"
+    },
+    "baseId": "bt2",
+    "quoteId": "btc",
+    "baseCurrency": "BT2 [CST]",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btcusc",
+    "ccxt": {
+      "symbol": "BTC/USC",
+      "base": "BTC",
+      "quote": "USC"
+    },
+    "baseId": "btc",
+    "quoteId": "usc",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "btfbtc",
+    "ccxt": {
+      "symbol": "BTF/BTC",
+      "base": "BTF",
+      "quote": "BTC"
+    },
+    "baseId": "btf",
+    "quoteId": "btc",
+    "baseCurrency": "BTF",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btfusc",
+    "ccxt": {
+      "symbol": "BTF/USC",
+      "base": "BTF",
+      "quote": "USC"
+    },
+    "baseId": "btf",
+    "quoteId": "usc",
+    "baseCurrency": "BTF",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "btpbtc",
+    "ccxt": {
+      "symbol": "BTP/BTC",
+      "base": "BTP",
+      "quote": "BTC"
+    },
+    "baseId": "btp",
+    "quoteId": "btc",
+    "baseCurrency": "BTP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btpusc",
+    "ccxt": {
+      "symbol": "BTP/USC",
+      "base": "BTP",
+      "quote": "USC"
+    },
+    "baseId": "btp",
+    "quoteId": "usc",
+    "baseCurrency": "BTP",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "btwbtc",
+    "ccxt": {
+      "symbol": "BTW/BTC",
+      "base": "BTW",
+      "quote": "BTC"
+    },
+    "baseId": "btw",
+    "quoteId": "btc",
+    "baseCurrency": "BitWhite",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btwusc",
+    "ccxt": {
+      "symbol": "BTW/USC",
+      "base": "BTW",
+      "quote": "USC"
+    },
+    "baseId": "btw",
+    "quoteId": "usc",
+    "baseCurrency": "BitWhite",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "dogebtc",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseId": "doge",
+    "quoteId": "btc",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "dogeusc",
+    "ccxt": {
+      "symbol": "DOGE/USC",
+      "base": "DOGE",
+      "quote": "USC"
+    },
+    "baseId": "doge",
+    "quoteId": "usc",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "elaeth",
+    "ccxt": {
+      "symbol": "ELA/ETH",
+      "base": "ELA",
+      "quote": "ETH"
+    },
+    "baseId": "ela",
+    "quoteId": "eth",
+    "baseCurrency": "Elastos",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "eosbtc",
+    "ccxt": {
+      "symbol": "EOS/BTC",
+      "base": "EOS",
+      "quote": "BTC"
+    },
+    "baseId": "eos",
+    "quoteId": "btc",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eoseth",
+    "ccxt": {
+      "symbol": "EOS/ETH",
+      "base": "EOS",
+      "quote": "ETH"
+    },
+    "baseId": "eos",
+    "quoteId": "eth",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "eosusc",
+    "ccxt": {
+      "symbol": "EOS/USC",
+      "base": "EOS",
+      "quote": "USC"
+    },
+    "baseId": "eos",
+    "quoteId": "usc",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "etcbtc",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseId": "etc",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etceth",
+    "ccxt": {
+      "symbol": "ETC/ETH",
+      "base": "ETC",
+      "quote": "ETH"
+    },
+    "baseId": "etc",
+    "quoteId": "eth",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "etcusc",
+    "ccxt": {
+      "symbol": "ETC/USC",
+      "base": "ETC",
+      "quote": "USC"
+    },
+    "baseId": "etc",
+    "quoteId": "usc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "etfbtc",
+    "ccxt": {
+      "symbol": "ETF/BTC",
+      "base": "ETF",
+      "quote": "BTC"
+    },
+    "baseId": "etf",
+    "quoteId": "btc",
+    "baseCurrency": "ETF",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etfusc",
+    "ccxt": {
+      "symbol": "ETF/USC",
+      "base": "ETF",
+      "quote": "USC"
+    },
+    "baseId": "etf",
+    "quoteId": "usc",
+    "baseCurrency": "ETF",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "ethbtc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethusc",
+    "ccxt": {
+      "symbol": "ETH/USC",
+      "base": "ETH",
+      "quote": "USC"
+    },
+    "baseId": "eth",
+    "quoteId": "usc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "fbtcbtc",
+    "ccxt": {
+      "symbol": "FBTC/BTC",
+      "base": "FBTC",
+      "quote": "BTC"
+    },
+    "baseId": "fbtc",
+    "quoteId": "btc",
+    "baseCurrency": "FBTC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fbtcusc",
+    "ccxt": {
+      "symbol": "FBTC/USC",
+      "base": "FBTC",
+      "quote": "USC"
+    },
+    "baseId": "fbtc",
+    "quoteId": "usc",
+    "baseCurrency": "FBTC",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "hlcbtc",
+    "ccxt": {
+      "symbol": "HLC/BTC",
+      "base": "HLC",
+      "quote": "BTC"
+    },
+    "baseId": "hlc",
+    "quoteId": "btc",
+    "baseCurrency": "HalalChain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "hlceth",
+    "ccxt": {
+      "symbol": "HLC/ETH",
+      "base": "HLC",
+      "quote": "ETH"
+    },
+    "baseId": "hlc",
+    "quoteId": "eth",
+    "baseCurrency": "HalalChain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "hlcusc",
+    "ccxt": {
+      "symbol": "HLC/USC",
+      "base": "HLC",
+      "quote": "USC"
+    },
+    "baseId": "hlc",
+    "quoteId": "usc",
+    "baseCurrency": "HalalChain",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "iotxeth",
+    "ccxt": {
+      "symbol": "IOTX/ETH",
+      "base": "IOTX",
+      "quote": "ETH"
+    },
+    "baseId": "iotx",
+    "quoteId": "eth",
+    "baseCurrency": "IoTeX",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "lbtcbtc",
+    "ccxt": {
+      "symbol": "LBTC/BTC",
+      "base": "LBTC",
+      "quote": "BTC"
+    },
+    "baseId": "lbtc",
+    "quoteId": "btc",
+    "baseCurrency": "Lightning Bitcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "lbtcusc",
+    "ccxt": {
+      "symbol": "LBTC/USC",
+      "base": "LBTC",
+      "quote": "USC"
+    },
+    "baseId": "lbtc",
+    "quoteId": "usc",
+    "baseCurrency": "Lightning Bitcoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "ltcbtc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltceth",
+    "ccxt": {
+      "symbol": "LTC/ETH",
+      "base": "LTC",
+      "quote": "ETH"
+    },
+    "baseId": "ltc",
+    "quoteId": "eth",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ltcusc",
+    "ccxt": {
+      "symbol": "LTC/USC",
+      "base": "LTC",
+      "quote": "USC"
+    },
+    "baseId": "ltc",
+    "quoteId": "usc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "lxtbtc",
+    "ccxt": {
+      "symbol": "LXT/BTC",
+      "base": "LXT",
+      "quote": "BTC"
+    },
+    "baseId": "lxt",
+    "quoteId": "btc",
+    "baseCurrency": "Litex",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "lxteth",
+    "ccxt": {
+      "symbol": "LXT/ETH",
+      "base": "LXT",
+      "quote": "ETH"
+    },
+    "baseId": "lxt",
+    "quoteId": "eth",
+    "baseCurrency": "Litex",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "qbtcbtc",
+    "ccxt": {
+      "symbol": "QBTC/BTC",
+      "base": "QBTC",
+      "quote": "BTC"
+    },
+    "baseId": "qbtc",
+    "quoteId": "btc",
+    "baseCurrency": "QBTC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "qbtcusc",
+    "ccxt": {
+      "symbol": "QBTC/USC",
+      "base": "QBTC",
+      "quote": "USC"
+    },
+    "baseId": "qbtc",
+    "quoteId": "usc",
+    "baseCurrency": "QBTC",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "safebtc",
+    "ccxt": {
+      "symbol": "SAFE/BTC",
+      "base": "SAFE",
+      "quote": "BTC"
+    },
+    "baseId": "safe",
+    "quoteId": "btc",
+    "baseCurrency": "SAFE",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sbtcbtc",
+    "ccxt": {
+      "symbol": "SBTC/BTC",
+      "base": "SBTC",
+      "quote": "BTC"
+    },
+    "baseId": "sbtc",
+    "quoteId": "btc",
+    "baseCurrency": "Super Bitcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sbtcusc",
+    "ccxt": {
+      "symbol": "SBTC/USC",
+      "base": "SBTC",
+      "quote": "USC"
+    },
+    "baseId": "sbtc",
+    "quoteId": "usc",
+    "baseCurrency": "Super Bitcoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "ubtcbtc",
+    "ccxt": {
+      "symbol": "UBTC/BTC",
+      "base": "UBTC",
+      "quote": "BTC"
+    },
+    "baseId": "ubtc",
+    "quoteId": "btc",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ubtcusc",
+    "ccxt": {
+      "symbol": "UBTC/USC",
+      "base": "UBTC",
+      "quote": "USC"
+    },
+    "baseId": "ubtc",
+    "quoteId": "usc",
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "xrpbtc",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseId": "xrp",
+    "quoteId": "btc",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xrpeth",
+    "ccxt": {
+      "symbol": "XRP/ETH",
+      "base": "XRP",
+      "quote": "ETH"
+    },
+    "baseId": "xrp",
+    "quoteId": "eth",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "xrpusc",
+    "ccxt": {
+      "symbol": "XRP/USC",
+      "base": "XRP",
+      "quote": "USC"
+    },
+    "baseId": "xrp",
+    "quoteId": "usc",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Ultimate Secure Cash"
+  },
+  {
+    "id": "ybctbtc",
+    "ccxt": {
+      "symbol": "YBCT/BTC",
+      "base": "YBCT",
+      "quote": "BTC"
+    },
+    "baseId": "ybct",
+    "quoteId": "btc",
+    "baseCurrency": "YBCT",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ybctusc",
+    "ccxt": {
+      "symbol": "YBCT/USC",
+      "base": "YBCT",
+      "quote": "USC"
+    },
+    "baseId": "ybct",
+    "quoteId": "usc",
+    "baseCurrency": "YBCT",
+    "quoteCurrency": "Ultimate Secure Cash"
+  }
+]

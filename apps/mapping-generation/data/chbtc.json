@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bcc_cny",
+    "ccxt": {
+      "symbol": "BCH/CNY",
+      "base": "BCH",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "btc_cny",
+    "ccxt": {
+      "symbol": "BTC/CNY",
+      "base": "BTC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "bts_cny",
+    "ccxt": {
+      "symbol": "BTS/CNY",
+      "base": "BTS",
+      "quote": "CNY"
+    },
+    "baseCurrency": "BitShares",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "etc_cny",
+    "ccxt": {
+      "symbol": "ETC/CNY",
+      "base": "ETC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "eth_cny",
+    "ccxt": {
+      "symbol": "ETH/CNY",
+      "base": "ETH",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "hsr_cny",
+    "ccxt": {
+      "symbol": "HSR/CNY",
+      "base": "HSR",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Hshare",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "ltc_cny",
+    "ccxt": {
+      "symbol": "LTC/CNY",
+      "base": "LTC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "qtum_cny",
+    "ccxt": {
+      "symbol": "QTUM/CNY",
+      "base": "QTUM",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Chinese Yuan"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "audusd",
+    "ccxt": {
+      "symbol": "AUD/USD",
+      "base": "AUD",
+      "quote": "USD"
+    },
+    "baseId": "aud",
+    "quoteId": "usd",
+    "baseCurrency": "Australian Dollar",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "baceth",
+    "ccxt": {
+      "symbol": "BAC/ETH",
+      "base": "BAC",
+      "quote": "ETH"
+    },
+    "baseId": "bac",
+    "quoteId": "eth",
+    "baseCurrency": "BAC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bchbtc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btcaud",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseId": "btc",
+    "quoteId": "aud",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "btccad",
+    "ccxt": {
+      "symbol": "BTC/CAD",
+      "base": "BTC",
+      "quote": "CAD"
+    },
+    "baseId": "btc",
+    "quoteId": "cad",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "btcchf",
+    "ccxt": {
+      "symbol": "BTC/CHF",
+      "base": "BTC",
+      "quote": "CHF"
+    },
+    "baseId": "btc",
+    "quoteId": "chf",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Swiss Franc"
+  },
+  {
+    "id": "btceur",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseId": "btc",
+    "quoteId": "eur",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "btcgbp",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseId": "btc",
+    "quoteId": "gbp",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "btcjpy",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseId": "btc",
+    "quoteId": "jpy",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "btcngn",
+    "ccxt": {
+      "symbol": "BTC/NGN",
+      "base": "BTC",
+      "quote": "NGN"
+    },
+    "baseId": "btc",
+    "quoteId": "ngn",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Nigerian Naira"
+  },
+  {
+    "id": "btcnzd",
+    "ccxt": {
+      "symbol": "BTC/NZD",
+      "base": "BTC",
+      "quote": "NZD"
+    },
+    "baseId": "btc",
+    "quoteId": "nzd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "btcsgd",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseId": "btc",
+    "quoteId": "sgd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "btcusd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "btc",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ethbtc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eurusd",
+    "ccxt": {
+      "symbol": "EUR/USD",
+      "base": "EUR",
+      "quote": "USD"
+    },
+    "baseId": "eur",
+    "quoteId": "usd",
+    "baseCurrency": "Euro",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "gbpusd",
+    "ccxt": {
+      "symbol": "GBP/USD",
+      "base": "GBP",
+      "quote": "USD"
+    },
+    "baseId": "gbp",
+    "quoteId": "usd",
+    "baseCurrency": "British Pound Sterling",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ltcbtc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nzdusd",
+    "ccxt": {
+      "symbol": "NZD/USD",
+      "base": "NZD",
+      "quote": "USD"
+    },
+    "baseId": "nzd",
+    "quoteId": "usd",
+    "baseCurrency": "New Zealand Dollar",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "usdcad",
+    "ccxt": {
+      "symbol": "USD/CAD",
+      "base": "USD",
+      "quote": "CAD"
+    },
+    "baseId": "usd",
+    "quoteId": "cad",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "usdchf",
+    "ccxt": {
+      "symbol": "USD/CHF",
+      "base": "USD",
+      "quote": "CHF"
+    },
+    "baseId": "usd",
+    "quoteId": "chf",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Swiss Franc"
+  },
+  {
+    "id": "usdhkd",
+    "ccxt": {
+      "symbol": "USD/HKD",
+      "base": "USD",
+      "quote": "HKD"
+    },
+    "baseId": "usd",
+    "quoteId": "hkd",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "usdjpy",
+    "ccxt": {
+      "symbol": "USD/JPY",
+      "base": "USD",
+      "quote": "JPY"
+    },
+    "baseId": "usd",
+    "quoteId": "jpy",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "usdngn",
+    "ccxt": {
+      "symbol": "USD/NGN",
+      "base": "USD",
+      "quote": "NGN"
+    },
+    "baseId": "usd",
+    "quoteId": "ngn",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Nigerian Naira"
+  },
+  {
+    "id": "usdsgd",
+    "ccxt": {
+      "symbol": "USD/SGD",
+      "base": "USD",
+      "quote": "SGD"
+    },
+    "baseId": "usd",
+    "quoteId": "sgd",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "xrpbtc",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseId": "xrp",
+    "quoteId": "btc",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  }
+]

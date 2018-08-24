@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTC/JPY",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  }
+]

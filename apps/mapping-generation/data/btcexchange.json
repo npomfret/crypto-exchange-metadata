@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTC/PHP",
+    "ccxt": {
+      "symbol": "BTC/PHP",
+      "base": "BTC",
+      "quote": "PHP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Philippine Peso"
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "ADA",
+    "ccxt": {
+      "symbol": "ADA/KRW",
+      "base": "ADA",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Cardano",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "AE",
+    "ccxt": {
+      "symbol": "AE/KRW",
+      "base": "AE",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Aeternity",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "BCH",
+    "ccxt": {
+      "symbol": "BCH/KRW",
+      "base": "BCH",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "BTC",
+    "ccxt": {
+      "symbol": "BTC/KRW",
+      "base": "BTC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "BTG",
+    "ccxt": {
+      "symbol": "BTG/KRW",
+      "base": "BTG",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "CMT",
+    "ccxt": {
+      "symbol": "CMT/KRW",
+      "base": "CMT",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Comet",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "CTXC",
+    "ccxt": {
+      "symbol": "CTXC/KRW",
+      "base": "CTXC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Cortex",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "DASH",
+    "ccxt": {
+      "symbol": "DASH/KRW",
+      "base": "DASH",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ELF",
+    "ccxt": {
+      "symbol": "ELF/KRW",
+      "base": "ELF",
+      "quote": "KRW"
+    },
+    "baseCurrency": "aelf",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "EOS",
+    "ccxt": {
+      "symbol": "EOS/KRW",
+      "base": "EOS",
+      "quote": "KRW"
+    },
+    "baseCurrency": "EOS",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ETC",
+    "ccxt": {
+      "symbol": "ETC/KRW",
+      "base": "ETC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ETH",
+    "ccxt": {
+      "symbol": "ETH/KRW",
+      "base": "ETH",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ETHOS",
+    "ccxt": {
+      "symbol": "ETHOS/KRW",
+      "base": "ETHOS",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Ethos",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "GNT",
+    "ccxt": {
+      "symbol": "GNT/KRW",
+      "base": "GNT",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Golem",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "GTO",
+    "ccxt": {
+      "symbol": "GTO/KRW",
+      "base": "GTO",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Gifto",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "HSR",
+    "ccxt": {
+      "symbol": "HSR/KRW",
+      "base": "HSR",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Hshare",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ICX",
+    "ccxt": {
+      "symbol": "ICX/KRW",
+      "base": "ICX",
+      "quote": "KRW"
+    },
+    "baseCurrency": "ICON",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "KNC",
+    "ccxt": {
+      "symbol": "KNC/KRW",
+      "base": "KNC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "KingN Coin",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "LRC",
+    "ccxt": {
+      "symbol": "LRC/KRW",
+      "base": "LRC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Loopring",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "LTC",
+    "ccxt": {
+      "symbol": "LTC/KRW",
+      "base": "LTC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "MCO",
+    "ccxt": {
+      "symbol": "MCO/KRW",
+      "base": "MCO",
+      "quote": "KRW"
+    },
+    "baseCurrency": "MCO",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "MITH",
+    "ccxt": {
+      "symbol": "MITH/KRW",
+      "base": "MITH",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Mithril",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "OMG",
+    "ccxt": {
+      "symbol": "OMG/KRW",
+      "base": "OMG",
+      "quote": "KRW"
+    },
+    "baseCurrency": "OmiseGO",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "PAY",
+    "ccxt": {
+      "symbol": "PAY/KRW",
+      "base": "PAY",
+      "quote": "KRW"
+    },
+    "baseCurrency": "TenX",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "POWR",
+    "ccxt": {
+      "symbol": "POWR/KRW",
+      "base": "POWR",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Power Ledger",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "PPT",
+    "ccxt": {
+      "symbol": "PPT/KRW",
+      "base": "PPT",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Populous",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "QTUM",
+    "ccxt": {
+      "symbol": "QTUM/KRW",
+      "base": "QTUM",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "REP",
+    "ccxt": {
+      "symbol": "REP/KRW",
+      "base": "REP",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Augur",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "SNT",
+    "ccxt": {
+      "symbol": "SNT/KRW",
+      "base": "SNT",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Status",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "STEEM",
+    "ccxt": {
+      "symbol": "STEEM/KRW",
+      "base": "STEEM",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Steem",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "STRAT",
+    "ccxt": {
+      "symbol": "STRAT/KRW",
+      "base": "STRAT",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Stratis",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "THETA",
+    "ccxt": {
+      "symbol": "THETA/KRW",
+      "base": "THETA",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Theta Token",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "TRX",
+    "ccxt": {
+      "symbol": "TRX/KRW",
+      "base": "TRX",
+      "quote": "KRW"
+    },
+    "baseCurrency": "TRON",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "VEN",
+    "ccxt": {
+      "symbol": "VEN/KRW",
+      "base": "VEN",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Vechain [Token]",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "WAX",
+    "ccxt": {
+      "symbol": "WAX/KRW",
+      "base": "WAX",
+      "quote": "KRW"
+    },
+    "baseCurrency": "WAX",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "XEM",
+    "ccxt": {
+      "symbol": "XEM/KRW",
+      "base": "XEM",
+      "quote": "KRW"
+    },
+    "baseCurrency": "NEM",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "XMR",
+    "ccxt": {
+      "symbol": "XMR/KRW",
+      "base": "XMR",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Monero",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "XRP",
+    "ccxt": {
+      "symbol": "XRP/KRW",
+      "base": "XRP",
+      "quote": "KRW"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ZEC",
+    "ccxt": {
+      "symbol": "ZEC/KRW",
+      "base": "ZEC",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ZIL",
+    "ccxt": {
+      "symbol": "ZIL/KRW",
+      "base": "ZIL",
+      "quote": "KRW"
+    },
+    "baseCurrency": "Zilliqa",
+    "quoteCurrency": "South Korean Won"
+  },
+  {
+    "id": "ZRX",
+    "ccxt": {
+      "symbol": "ZRX/KRW",
+      "base": "ZRX",
+      "quote": "KRW"
+    },
+    "baseCurrency": "0x",
+    "quoteCurrency": "South Korean Won"
+  }
+]

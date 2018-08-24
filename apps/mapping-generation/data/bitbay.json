@@ -1,0 +1,434 @@
+[
+  {
+    "id": "BCCBTC",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "BCC",
+    "quoteId": "BTC",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BCCEUR",
+    "ccxt": {
+      "symbol": "BCH/EUR",
+      "base": "BCH",
+      "quote": "EUR"
+    },
+    "baseId": "BCC",
+    "quoteId": "EUR",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BCCPLN",
+    "ccxt": {
+      "symbol": "BCH/PLN",
+      "base": "BCH",
+      "quote": "PLN"
+    },
+    "baseId": "BCC",
+    "quoteId": "PLN",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "BCCUSD",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseId": "BCC",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "BTCEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseId": "BTC",
+    "quoteId": "EUR",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTCPLN",
+    "ccxt": {
+      "symbol": "BTC/PLN",
+      "base": "BTC",
+      "quote": "PLN"
+    },
+    "baseId": "BTC",
+    "quoteId": "PLN",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "BTCUSD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "BTC",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "BTGBTC",
+    "ccxt": {
+      "symbol": "BTG/BTC",
+      "base": "BTG",
+      "quote": "BTC"
+    },
+    "baseId": "BTG",
+    "quoteId": "BTC",
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BTGEUR",
+    "ccxt": {
+      "symbol": "BTG/EUR",
+      "base": "BTG",
+      "quote": "EUR"
+    },
+    "baseId": "BTG",
+    "quoteId": "EUR",
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTGPLN",
+    "ccxt": {
+      "symbol": "BTG/PLN",
+      "base": "BTG",
+      "quote": "PLN"
+    },
+    "baseId": "BTG",
+    "quoteId": "PLN",
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "BTGUSD",
+    "ccxt": {
+      "symbol": "BTG/USD",
+      "base": "BTG",
+      "quote": "USD"
+    },
+    "baseId": "BTG",
+    "quoteId": "USD",
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "DASHBTC",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseId": "DASH",
+    "quoteId": "BTC",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "DASHEUR",
+    "ccxt": {
+      "symbol": "DASH/EUR",
+      "base": "DASH",
+      "quote": "EUR"
+    },
+    "baseId": "DASH",
+    "quoteId": "EUR",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "DASHPLN",
+    "ccxt": {
+      "symbol": "DASH/PLN",
+      "base": "DASH",
+      "quote": "PLN"
+    },
+    "baseId": "DASH",
+    "quoteId": "PLN",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "DASHUSD",
+    "ccxt": {
+      "symbol": "DASH/USD",
+      "base": "DASH",
+      "quote": "USD"
+    },
+    "baseId": "DASH",
+    "quoteId": "USD",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ETHBTC",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "ETH",
+    "quoteId": "BTC",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ETHEUR",
+    "ccxt": {
+      "symbol": "ETH/EUR",
+      "base": "ETH",
+      "quote": "EUR"
+    },
+    "baseId": "ETH",
+    "quoteId": "EUR",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ETHPLN",
+    "ccxt": {
+      "symbol": "ETH/PLN",
+      "base": "ETH",
+      "quote": "PLN"
+    },
+    "baseId": "ETH",
+    "quoteId": "PLN",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "ETHUSD",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "ETH",
+    "quoteId": "USD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "GAMEBTC",
+    "ccxt": {
+      "symbol": "GAME/BTC",
+      "base": "GAME",
+      "quote": "BTC"
+    },
+    "baseId": "GAME",
+    "quoteId": "BTC",
+    "baseCurrency": "GameCredits",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "GAMEEUR",
+    "ccxt": {
+      "symbol": "GAME/EUR",
+      "base": "GAME",
+      "quote": "EUR"
+    },
+    "baseId": "GAME",
+    "quoteId": "EUR",
+    "baseCurrency": "GameCredits",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "GAMEPLN",
+    "ccxt": {
+      "symbol": "GAME/PLN",
+      "base": "GAME",
+      "quote": "PLN"
+    },
+    "baseId": "GAME",
+    "quoteId": "PLN",
+    "baseCurrency": "GameCredits",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "GAMEUSD",
+    "ccxt": {
+      "symbol": "GAME/USD",
+      "base": "GAME",
+      "quote": "USD"
+    },
+    "baseId": "GAME",
+    "quoteId": "USD",
+    "baseCurrency": "GameCredits",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "LSKBTC",
+    "ccxt": {
+      "symbol": "LSK/BTC",
+      "base": "LSK",
+      "quote": "BTC"
+    },
+    "baseId": "LSK",
+    "quoteId": "BTC",
+    "baseCurrency": "Lisk",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LSKEUR",
+    "ccxt": {
+      "symbol": "LSK/EUR",
+      "base": "LSK",
+      "quote": "EUR"
+    },
+    "baseId": "LSK",
+    "quoteId": "EUR",
+    "baseCurrency": "Lisk",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "LSKPLN",
+    "ccxt": {
+      "symbol": "LSK/PLN",
+      "base": "LSK",
+      "quote": "PLN"
+    },
+    "baseId": "LSK",
+    "quoteId": "PLN",
+    "baseCurrency": "Lisk",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "LSKUSD",
+    "ccxt": {
+      "symbol": "LSK/USD",
+      "base": "LSK",
+      "quote": "USD"
+    },
+    "baseId": "LSK",
+    "quoteId": "USD",
+    "baseCurrency": "Lisk",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "LTCBTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "LTC",
+    "quoteId": "BTC",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTCEUR",
+    "ccxt": {
+      "symbol": "LTC/EUR",
+      "base": "LTC",
+      "quote": "EUR"
+    },
+    "baseId": "LTC",
+    "quoteId": "EUR",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "LTCPLN",
+    "ccxt": {
+      "symbol": "LTC/PLN",
+      "base": "LTC",
+      "quote": "PLN"
+    },
+    "baseId": "LTC",
+    "quoteId": "PLN",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "LTCUSD",
+    "ccxt": {
+      "symbol": "LTC/USD",
+      "base": "LTC",
+      "quote": "USD"
+    },
+    "baseId": "LTC",
+    "quoteId": "USD",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "XINBTC",
+    "ccxt": {
+      "symbol": "XIN/BTC",
+      "base": "XIN",
+      "quote": "BTC"
+    },
+    "baseId": "XIN",
+    "quoteId": "BTC",
+    "baseCurrency": "Infinity Economics",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XRPBTC",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseId": "XRP",
+    "quoteId": "BTC",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XRPEUR",
+    "ccxt": {
+      "symbol": "XRP/EUR",
+      "base": "XRP",
+      "quote": "EUR"
+    },
+    "baseId": "XRP",
+    "quoteId": "EUR",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XRPPLN",
+    "ccxt": {
+      "symbol": "XRP/PLN",
+      "base": "XRP",
+      "quote": "PLN"
+    },
+    "baseId": "XRP",
+    "quoteId": "PLN",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Polish Zloty"
+  },
+  {
+    "id": "XRPUSD",
+    "ccxt": {
+      "symbol": "XRP/USD",
+      "base": "XRP",
+      "quote": "USD"
+    },
+    "baseId": "XRP",
+    "quoteId": "USD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "US Dollar"
+  }
+]

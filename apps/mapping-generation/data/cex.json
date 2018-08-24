@@ -1,0 +1,302 @@
+[
+  {
+    "id": "BCH/BTC",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BCH/EUR",
+    "ccxt": {
+      "symbol": "BCH/EUR",
+      "base": "BCH",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BCH/GBP",
+    "ccxt": {
+      "symbol": "BCH/GBP",
+      "base": "BCH",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "BCH/USD",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "BTC/EUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTC/GBP",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "BTC/RUB",
+    "ccxt": {
+      "symbol": "BTC/RUB",
+      "base": "BTC",
+      "quote": "RUB"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Russian Ruble"
+  },
+  {
+    "id": "BTC/USD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "BTG/BTC",
+    "ccxt": {
+      "symbol": "BTG/BTC",
+      "base": "BTG",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BTG/EUR",
+    "ccxt": {
+      "symbol": "BTG/EUR",
+      "base": "BTG",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTG/USD",
+    "ccxt": {
+      "symbol": "BTG/USD",
+      "base": "BTG",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "DASH/BTC",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "DASH/EUR",
+    "ccxt": {
+      "symbol": "DASH/EUR",
+      "base": "DASH",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "DASH/GBP",
+    "ccxt": {
+      "symbol": "DASH/GBP",
+      "base": "DASH",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "DASH/USD",
+    "ccxt": {
+      "symbol": "DASH/USD",
+      "base": "DASH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ETH/BTC",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ETH/EUR",
+    "ccxt": {
+      "symbol": "ETH/EUR",
+      "base": "ETH",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ETH/GBP",
+    "ccxt": {
+      "symbol": "ETH/GBP",
+      "base": "ETH",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "ETH/USD",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "GHS/BTC",
+    "ccxt": {
+      "symbol": "GHS/BTC",
+      "base": "GHS",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ghanaian Cedi",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XLM/BTC",
+    "ccxt": {
+      "symbol": "XLM/BTC",
+      "base": "XLM",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Stellar",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XLM/EUR",
+    "ccxt": {
+      "symbol": "XLM/EUR",
+      "base": "XLM",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Stellar",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XLM/USD",
+    "ccxt": {
+      "symbol": "XLM/USD",
+      "base": "XLM",
+      "quote": "USD"
+    },
+    "baseCurrency": "Stellar",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "XRP/BTC",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XRP/EUR",
+    "ccxt": {
+      "symbol": "XRP/EUR",
+      "base": "XRP",
+      "quote": "EUR"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XRP/USD",
+    "ccxt": {
+      "symbol": "XRP/USD",
+      "base": "XRP",
+      "quote": "USD"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ZEC/BTC",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ZEC/EUR",
+    "ccxt": {
+      "symbol": "ZEC/EUR",
+      "base": "ZEC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ZEC/GBP",
+    "ccxt": {
+      "symbol": "ZEC/GBP",
+      "base": "ZEC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "ZEC/USD",
+    "ccxt": {
+      "symbol": "ZEC/USD",
+      "base": "ZEC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "US Dollar"
+  }
+]

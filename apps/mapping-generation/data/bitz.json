@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "777_btc",
+    "ccxt": {
+      "symbol": "777/BTC",
+      "base": "777",
+      "quote": "BTC"
+    },
+    "baseId": "777",
+    "quoteId": "btc",
+    "baseCurrency": "777",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "777_eth",
+    "ccxt": {
+      "symbol": "777/ETH",
+      "base": "777",
+      "quote": "ETH"
+    },
+    "baseId": "777",
+    "quoteId": "eth",
+    "baseCurrency": "777",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "abao_btc",
+    "ccxt": {
+      "symbol": "ABAO/BTC",
+      "base": "ABAO",
+      "quote": "BTC"
+    },
+    "baseId": "abao",
+    "quoteId": "btc",
+    "baseCurrency": "ABAO",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "abao_eth",
+    "ccxt": {
+      "symbol": "ABAO/ETH",
+      "base": "ABAO",
+      "quote": "ETH"
+    },
+    "baseId": "abao",
+    "quoteId": "eth",
+    "baseCurrency": "ABAO",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "aidoc_btc",
+    "ccxt": {
+      "symbol": "AIDOC/BTC",
+      "base": "AIDOC",
+      "quote": "BTC"
+    },
+    "baseId": "aidoc",
+    "quoteId": "btc",
+    "baseCurrency": "AI Doctor",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "aidoc_eth",
+    "ccxt": {
+      "symbol": "AIDOC/ETH",
+      "base": "AIDOC",
+      "quote": "ETH"
+    },
+    "baseId": "aidoc",
+    "quoteId": "eth",
+    "baseCurrency": "AI Doctor",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "apis_btc",
+    "ccxt": {
+      "symbol": "APIS/BTC",
+      "base": "APIS",
+      "quote": "BTC"
+    },
+    "baseId": "apis",
+    "quoteId": "btc",
+    "baseCurrency": "APIS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "apis_eth",
+    "ccxt": {
+      "symbol": "APIS/ETH",
+      "base": "APIS",
+      "quote": "ETH"
+    },
+    "baseId": "apis",
+    "quoteId": "eth",
+    "baseCurrency": "APIS",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ark_btc",
+    "ccxt": {
+      "symbol": "ARK/BTC",
+      "base": "ARK",
+      "quote": "BTC"
+    },
+    "baseId": "ark",
+    "quoteId": "btc",
+    "baseCurrency": "Ark",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "arn_btc",
+    "ccxt": {
+      "symbol": "ARN/BTC",
+      "base": "ARN",
+      "quote": "BTC"
+    },
+    "baseId": "arn",
+    "quoteId": "btc",
+    "baseCurrency": "Aeron",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "atm_btc",
+    "ccxt": {
+      "symbol": "ATM/BTC",
+      "base": "ATM",
+      "quote": "BTC"
+    },
+    "baseId": "atm",
+    "quoteId": "btc",
+    "baseCurrency": "ATMChain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "atm_eth",
+    "ccxt": {
+      "symbol": "ATM/ETH",
+      "base": "ATM",
+      "quote": "ETH"
+    },
+    "baseId": "atm",
+    "quoteId": "eth",
+    "baseCurrency": "ATMChain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bbc_btc",
+    "ccxt": {
+      "symbol": "BBC/BTC",
+      "base": "BBC",
+      "quote": "BTC"
+    },
+    "baseId": "bbc",
+    "quoteId": "btc",
+    "baseCurrency": "TraDove B2BCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bbc_eth",
+    "ccxt": {
+      "symbol": "BBC/ETH",
+      "base": "BBC",
+      "quote": "ETH"
+    },
+    "baseId": "bbc",
+    "quoteId": "eth",
+    "baseCurrency": "TraDove B2BCoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bcd_btc",
+    "ccxt": {
+      "symbol": "BCD/BTC",
+      "base": "BCD",
+      "quote": "BTC"
+    },
+    "baseId": "bcd",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bch_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "bch",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcv_btc",
+    "ccxt": {
+      "symbol": "BCV/BTC",
+      "base": "BCV",
+      "quote": "BTC"
+    },
+    "baseId": "bcv",
+    "quoteId": "btc",
+    "baseCurrency": "BitCapitalVendor",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcv_eth",
+    "ccxt": {
+      "symbol": "BCV/ETH",
+      "base": "BCV",
+      "quote": "ETH"
+    },
+    "baseId": "bcv",
+    "quoteId": "eth",
+    "baseCurrency": "BitCapitalVendor",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bdsg_eth",
+    "ccxt": {
+      "symbol": "BDSG/ETH",
+      "base": "BDSG",
+      "quote": "ETH"
+    },
+    "baseId": "bdsg",
+    "quoteId": "eth",
+    "baseCurrency": "BDSG",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bnty_btc",
+    "ccxt": {
+      "symbol": "BNTY/BTC",
+      "base": "BNTY",
+      "quote": "BTC"
+    },
+    "baseId": "bnty",
+    "quoteId": "btc",
+    "baseCurrency": "Bounty0x",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bnty_eth",
+    "ccxt": {
+      "symbol": "BNTY/ETH",
+      "base": "BNTY",
+      "quote": "ETH"
+    },
+    "baseId": "bnty",
+    "quoteId": "eth",
+    "baseCurrency": "Bounty0x",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "box_btc",
+    "ccxt": {
+      "symbol": "BOX/BTC",
+      "base": "BOX",
+      "quote": "BTC"
+    },
+    "baseId": "box",
+    "quoteId": "btc",
+    "baseCurrency": "ContentBox",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "box_eth",
+    "ccxt": {
+      "symbol": "BOX/ETH",
+      "base": "BOX",
+      "quote": "ETH"
+    },
+    "baseId": "box",
+    "quoteId": "eth",
+    "baseCurrency": "ContentBox",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bstk_btc",
+    "ccxt": {
+      "symbol": "BSTK/BTC",
+      "base": "BSTK",
+      "quote": "BTC"
+    },
+    "baseId": "bstk",
+    "quoteId": "btc",
+    "baseCurrency": "BSTK",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bstk_eth",
+    "ccxt": {
+      "symbol": "BSTK/ETH",
+      "base": "BSTK",
+      "quote": "ETH"
+    },
+    "baseId": "bstk",
+    "quoteId": "eth",
+    "baseCurrency": "BSTK",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "btc_dkkt",
+    "ccxt": {
+      "symbol": "BTC/DKKT",
+      "base": "BTC",
+      "quote": "DKKT"
+    },
+    "baseId": "btc",
+    "quoteId": "dkkt",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "DKKT"
+  },
+  {
+    "id": "btc_usdt",
+    "ccxt": {
+      "symbol": "BTC/USDT",
+      "base": "BTC",
+      "quote": "USDT"
+    },
+    "baseId": "btc",
+    "quoteId": "usdt",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "btg_btc",
+    "ccxt": {
+      "symbol": "BTG/BTC",
+      "base": "BTG",
+      "quote": "BTC"
+    },
+    "baseId": "btg",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Gold",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btn_btc",
+    "ccxt": {
+      "symbol": "BTN/BTC",
+      "base": "BTN",
+      "quote": "BTC"
+    },
+    "baseId": "btn",
+    "quoteId": "btc",
+    "baseCurrency": "BTN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bto_btc",
+    "ccxt": {
+      "symbol": "BTO/BTC",
+      "base": "BTO",
+      "quote": "BTC"
+    },
+    "baseId": "bto",
+    "quoteId": "btc",
+    "baseCurrency": "Bottos",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bto_eth",
+    "ccxt": {
+      "symbol": "BTO/ETH",
+      "base": "BTO",
+      "quote": "ETH"
+    },
+    "baseId": "bto",
+    "quoteId": "eth",
+    "baseCurrency": "Bottos",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "btx_btc",
+    "ccxt": {
+      "symbol": "BTX/BTC",
+      "base": "BTX",
+      "quote": "BTC"
+    },
+    "baseId": "btx",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcore",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btx_eth",
+    "ccxt": {
+      "symbol": "BTX/ETH",
+      "base": "BTX",
+      "quote": "ETH"
+    },
+    "baseId": "btx",
+    "quoteId": "eth",
+    "baseCurrency": "Bitcore",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bz_btc",
+    "ccxt": {
+      "symbol": "BZ/BTC",
+      "base": "BZ",
+      "quote": "BTC"
+    },
+    "baseId": "bz",
+    "quoteId": "btc",
+    "baseCurrency": "Bit-Z Token",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bz_eth",
+    "ccxt": {
+      "symbol": "BZ/ETH",
+      "base": "BZ",
+      "quote": "ETH"
+    },
+    "baseId": "bz",
+    "quoteId": "eth",
+    "baseCurrency": "Bit-Z Token",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "bz_usdt",
+    "ccxt": {
+      "symbol": "BZ/USDT",
+      "base": "BZ",
+      "quote": "USDT"
+    },
+    "baseId": "bz",
+    "quoteId": "usdt",
+    "baseCurrency": "Bit-Z Token",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "cam_btc",
+    "ccxt": {
+      "symbol": "CAM/BTC",
+      "base": "CAM",
+      "quote": "BTC"
+    },
+    "baseId": "cam",
+    "quoteId": "btc",
+    "baseCurrency": "CAM",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cam_eth",
+    "ccxt": {
+      "symbol": "CAM/ETH",
+      "base": "CAM",
+      "quote": "ETH"
+    },
+    "baseId": "cam",
+    "quoteId": "eth",
+    "baseCurrency": "CAM",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cec_bz",
+    "ccxt": {
+      "symbol": "CEC/BZ",
+      "base": "CEC",
+      "quote": "BZ"
+    },
+    "baseId": "cec",
+    "quoteId": "bz",
+    "baseCurrency": "CEC",
+    "quoteCurrency": "Bit-Z Token"
+  },
+  {
+    "id": "cpx_btc",
+    "ccxt": {
+      "symbol": "CPX/BTC",
+      "base": "CPX",
+      "quote": "BTC"
+    },
+    "baseId": "cpx",
+    "quoteId": "btc",
+    "baseCurrency": "Apex",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cpx_eth",
+    "ccxt": {
+      "symbol": "CPX/ETH",
+      "base": "CPX",
+      "quote": "ETH"
+    },
+    "baseId": "cpx",
+    "quoteId": "eth",
+    "baseCurrency": "Apex",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cre_btc",
+    "ccxt": {
+      "symbol": "CRE/BTC",
+      "base": "CRE",
+      "quote": "BTC"
+    },
+    "baseId": "cre",
+    "quoteId": "btc",
+    "baseCurrency": "Cybereits",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cre_eth",
+    "ccxt": {
+      "symbol": "CRE/ETH",
+      "base": "CRE",
+      "quote": "ETH"
+    },
+    "baseId": "cre",
+    "quoteId": "eth",
+    "baseCurrency": "Cybereits",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "cvt_btc",
+    "ccxt": {
+      "symbol": "CVT/BTC",
+      "base": "CVT",
+      "quote": "BTC"
+    },
+    "baseId": "cvt",
+    "quoteId": "btc",
+    "baseCurrency": "CyberVein",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cvt_eth",
+    "ccxt": {
+      "symbol": "CVT/ETH",
+      "base": "CVT",
+      "quote": "ETH"
+    },
+    "baseId": "cvt",
+    "quoteId": "eth",
+    "baseCurrency": "CyberVein",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "dash_btc",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseId": "dash",
+    "quoteId": "btc",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ddn_btc",
+    "ccxt": {
+      "symbol": "DDN/BTC",
+      "base": "DDN",
+      "quote": "BTC"
+    },
+    "baseId": "ddn",
+    "quoteId": "btc",
+    "baseCurrency": "DDN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ddn_eth",
+    "ccxt": {
+      "symbol": "DDN/ETH",
+      "base": "DDN",
+      "quote": "ETH"
+    },
+    "baseId": "ddn",
+    "quoteId": "eth",
+    "baseCurrency": "DDN",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "del_btc",
+    "ccxt": {
+      "symbol": "DEL/BTC",
+      "base": "DEL",
+      "quote": "BTC"
+    },
+    "baseId": "del",
+    "quoteId": "btc",
+    "baseCurrency": "DEL",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "del_eth",
+    "ccxt": {
+      "symbol": "DEL/ETH",
+      "base": "DEL",
+      "quote": "ETH"
+    },
+    "baseId": "del",
+    "quoteId": "eth",
+    "baseCurrency": "DEL",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "dgb_btc",
+    "ccxt": {
+      "symbol": "DGB/BTC",
+      "base": "DGB",
+      "quote": "BTC"
+    },
+    "baseId": "dgb",
+    "quoteId": "btc",
+    "baseCurrency": "DigiByte",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "doge_btc",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseId": "doge",
+    "quoteId": "btc",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "doge_eth",
+    "ccxt": {
+      "symbol": "DOGE/ETH",
+      "base": "DOGE",
+      "quote": "ETH"
+    },
+    "baseId": "doge",
+    "quoteId": "eth",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ecom_eth",
+    "ccxt": {
+      "symbol": "ECOM/ETH",
+      "base": "ECOM",
+      "quote": "ETH"
+    },
+    "baseId": "ecom",
+    "quoteId": "eth",
+    "baseCurrency": "Omnitude",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "eds_eth",
+    "ccxt": {
+      "symbol": "EDS/ETH",
+      "base": "EDS",
+      "quote": "ETH"
+    },
+    "baseId": "eds",
+    "quoteId": "eth",
+    "baseCurrency": "Endorsit",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "eds_usdt",
+    "ccxt": {
+      "symbol": "EDS/USDT",
+      "base": "EDS",
+      "quote": "USDT"
+    },
+    "baseId": "eds",
+    "quoteId": "usdt",
+    "baseCurrency": "Endorsit",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "egcc_btc",
+    "ccxt": {
+      "symbol": "EGCC/BTC",
+      "base": "EGCC",
+      "quote": "BTC"
+    },
+    "baseId": "egcc",
+    "quoteId": "btc",
+    "baseCurrency": "Engine",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "egcc_eth",
+    "ccxt": {
+      "symbol": "EGCC/ETH",
+      "base": "EGCC",
+      "quote": "ETH"
+    },
+    "baseId": "egcc",
+    "quoteId": "eth",
+    "baseCurrency": "Engine",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ekt_btc",
+    "ccxt": {
+      "symbol": "EKT/BTC",
+      "base": "EKT",
+      "quote": "BTC"
+    },
+    "baseId": "ekt",
+    "quoteId": "btc",
+    "baseCurrency": "EDUCare",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eos_btc",
+    "ccxt": {
+      "symbol": "EOS/BTC",
+      "base": "EOS",
+      "quote": "BTC"
+    },
+    "baseId": "eos",
+    "quoteId": "btc",
+    "baseCurrency": "EOS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "esa_eth",
+    "ccxt": {
+      "symbol": "ESA/ETH",
+      "base": "ESA",
+      "quote": "ETH"
+    },
+    "baseId": "esa",
+    "quoteId": "eth",
+    "baseCurrency": "ESA",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "esn_btc",
+    "ccxt": {
+      "symbol": "ESN/BTC",
+      "base": "ESN",
+      "quote": "BTC"
+    },
+    "baseId": "esn",
+    "quoteId": "btc",
+    "baseCurrency": "ESN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "est_btc",
+    "ccxt": {
+      "symbol": "EST/BTC",
+      "base": "EST",
+      "quote": "BTC"
+    },
+    "baseId": "est",
+    "quoteId": "btc",
+    "baseCurrency": "Esports Token",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etc_btc",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseId": "etc",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_dkkt",
+    "ccxt": {
+      "symbol": "ETH/DKKT",
+      "base": "ETH",
+      "quote": "DKKT"
+    },
+    "baseId": "eth",
+    "quoteId": "dkkt",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "DKKT"
+  },
+  {
+    "id": "eth_usdt",
+    "ccxt": {
+      "symbol": "ETH/USDT",
+      "base": "ETH",
+      "quote": "USDT"
+    },
+    "baseId": "eth",
+    "quoteId": "usdt",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "etp_btc",
+    "ccxt": {
+      "symbol": "ETP/BTC",
+      "base": "ETP",
+      "quote": "BTC"
+    },
+    "baseId": "etp",
+    "quoteId": "btc",
+    "baseCurrency": "Metaverse ETP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ext_btc",
+    "ccxt": {
+      "symbol": "EXT/BTC",
+      "base": "EXT",
+      "quote": "BTC"
+    },
+    "baseId": "ext",
+    "quoteId": "btc",
+    "baseCurrency": "Experience Token",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ext_eth",
+    "ccxt": {
+      "symbol": "EXT/ETH",
+      "base": "EXT",
+      "quote": "ETH"
+    },
+    "baseId": "ext",
+    "quoteId": "eth",
+    "baseCurrency": "Experience Token",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "fbee_btc",
+    "ccxt": {
+      "symbol": "FBEE/BTC",
+      "base": "FBEE",
+      "quote": "BTC"
+    },
+    "baseId": "fbee",
+    "quoteId": "btc",
+    "baseCurrency": "FBEE",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fbee_eth",
+    "ccxt": {
+      "symbol": "FBEE/ETH",
+      "base": "FBEE",
+      "quote": "ETH"
+    },
+    "baseId": "fbee",
+    "quoteId": "eth",
+    "baseCurrency": "FBEE",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "fct_btc",
+    "ccxt": {
+      "symbol": "FCT/BTC",
+      "base": "FCT",
+      "quote": "BTC"
+    },
+    "baseId": "fct",
+    "quoteId": "btc",
+    "baseCurrency": "Factom",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fti_btc",
+    "ccxt": {
+      "symbol": "FTI/BTC",
+      "base": "FTI",
+      "quote": "BTC"
+    },
+    "baseId": "fti",
+    "quoteId": "btc",
+    "baseCurrency": "FansTime",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fti_eth",
+    "ccxt": {
+      "symbol": "FTI/ETH",
+      "base": "FTI",
+      "quote": "ETH"
+    },
+    "baseId": "fti",
+    "quoteId": "eth",
+    "baseCurrency": "FansTime",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "gbc_eth",
+    "ccxt": {
+      "symbol": "GBC/ETH",
+      "base": "GBC",
+      "quote": "ETH"
+    },
+    "baseId": "gbc",
+    "quoteId": "eth",
+    "baseCurrency": "Gold Bits Coin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "gse_btc",
+    "ccxt": {
+      "symbol": "GSE/BTC",
+      "base": "GSE",
+      "quote": "BTC"
+    },
+    "baseId": "gse",
+    "quoteId": "btc",
+    "baseCurrency": "GSENetwork",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gse_eth",
+    "ccxt": {
+      "symbol": "GSE/ETH",
+      "base": "GSE",
+      "quote": "ETH"
+    },
+    "baseId": "gse",
+    "quoteId": "eth",
+    "baseCurrency": "GSENetwork",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "gus_btc",
+    "ccxt": {
+      "symbol": "GUS/BTC",
+      "base": "GUS",
+      "quote": "BTC"
+    },
+    "baseId": "gus",
+    "quoteId": "btc",
+    "baseCurrency": "GUS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gus_eth",
+    "ccxt": {
+      "symbol": "GUS/ETH",
+      "base": "GUS",
+      "quote": "ETH"
+    },
+    "baseId": "gus",
+    "quoteId": "eth",
+    "baseCurrency": "GUS",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "gxs_btc",
+    "ccxt": {
+      "symbol": "GXS/BTC",
+      "base": "GXS",
+      "quote": "BTC"
+    },
+    "baseId": "gxs",
+    "quoteId": "btc",
+    "baseCurrency": "GXChain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gxs_dkkt",
+    "ccxt": {
+      "symbol": "GXS/DKKT",
+      "base": "GXS",
+      "quote": "DKKT"
+    },
+    "baseId": "gxs",
+    "quoteId": "dkkt",
+    "baseCurrency": "GXChain",
+    "quoteCurrency": "DKKT"
+  },
+  {
+    "id": "gxs_eth",
+    "ccxt": {
+      "symbol": "GXS/ETH",
+      "base": "GXS",
+      "quote": "ETH"
+    },
+    "baseId": "gxs",
+    "quoteId": "eth",
+    "baseCurrency": "GXChain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "hor_eth",
+    "ccxt": {
+      "symbol": "HOR/ETH",
+      "base": "HOR",
+      "quote": "ETH"
+    },
+    "baseId": "hor",
+    "quoteId": "eth",
+    "baseCurrency": "HOR",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "hpb_btc",
+    "ccxt": {
+      "symbol": "HPB/BTC",
+      "base": "HPB",
+      "quote": "BTC"
+    },
+    "baseId": "hpb",
+    "quoteId": "btc",
+    "baseCurrency": "High Performance Blockchain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "hpb_eth",
+    "ccxt": {
+      "symbol": "HPB/ETH",
+      "base": "HPB",
+      "quote": "ETH"
+    },
+    "baseId": "hpb",
+    "quoteId": "eth",
+    "baseCurrency": "High Performance Blockchain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "hsr_btc",
+    "ccxt": {
+      "symbol": "HSR/BTC",
+      "base": "HSR",
+      "quote": "BTC"
+    },
+    "baseId": "hsr",
+    "quoteId": "btc",
+    "baseCurrency": "Hshare",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "inc_btc",
+    "ccxt": {
+      "symbol": "INC/BTC",
+      "base": "INC",
+      "quote": "BTC"
+    },
+    "baseId": "inc",
+    "quoteId": "btc",
+    "baseCurrency": "Influence Chain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "inc_eth",
+    "ccxt": {
+      "symbol": "INC/ETH",
+      "base": "INC",
+      "quote": "ETH"
+    },
+    "baseId": "inc",
+    "quoteId": "eth",
+    "baseCurrency": "Influence Chain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ink_btc",
+    "ccxt": {
+      "symbol": "INK/BTC",
+      "base": "INK",
+      "quote": "BTC"
+    },
+    "baseId": "ink",
+    "quoteId": "btc",
+    "baseCurrency": "Ink",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ink_eth",
+    "ccxt": {
+      "symbol": "INK/ETH",
+      "base": "INK",
+      "quote": "ETH"
+    },
+    "baseId": "ink",
+    "quoteId": "eth",
+    "baseCurrency": "Ink",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "iov_btc",
+    "ccxt": {
+      "symbol": "IOV/BTC",
+      "base": "IOV",
+      "quote": "BTC"
+    },
+    "baseId": "iov",
+    "quoteId": "btc",
+    "baseCurrency": "Carlive Chain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "iov_eth",
+    "ccxt": {
+      "symbol": "IOV/ETH",
+      "base": "IOV",
+      "quote": "ETH"
+    },
+    "baseId": "iov",
+    "quoteId": "eth",
+    "baseCurrency": "Carlive Chain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ixt_btc",
+    "ccxt": {
+      "symbol": "IXT/BTC",
+      "base": "IXT",
+      "quote": "BTC"
+    },
+    "baseId": "ixt",
+    "quoteId": "btc",
+    "baseCurrency": "IXT",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ixt_eth",
+    "ccxt": {
+      "symbol": "IXT/ETH",
+      "base": "IXT",
+      "quote": "ETH"
+    },
+    "baseId": "ixt",
+    "quoteId": "eth",
+    "baseCurrency": "IXT",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "leo_btc",
+    "ccxt": {
+      "symbol": "LEO/BTC",
+      "base": "LEO",
+      "quote": "BTC"
+    },
+    "baseId": "leo",
+    "quoteId": "btc",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "lovc_eth",
+    "ccxt": {
+      "symbol": "LOVC/ETH",
+      "base": "LOVC",
+      "quote": "ETH"
+    },
+    "baseId": "lovc",
+    "quoteId": "eth",
+    "baseCurrency": "LOVC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "lsk_btc",
+    "ccxt": {
+      "symbol": "LSK/BTC",
+      "base": "LSK",
+      "quote": "BTC"
+    },
+    "baseId": "lsk",
+    "quoteId": "btc",
+    "baseCurrency": "Lisk",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc_btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mco_btc",
+    "ccxt": {
+      "symbol": "MCO/BTC",
+      "base": "MCO",
+      "quote": "BTC"
+    },
+    "baseId": "mco",
+    "quoteId": "btc",
+    "baseCurrency": "MCO",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mco_eth",
+    "ccxt": {
+      "symbol": "MCO/ETH",
+      "base": "MCO",
+      "quote": "ETH"
+    },
+    "baseId": "mco",
+    "quoteId": "eth",
+    "baseCurrency": "MCO",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "moac_eth",
+    "ccxt": {
+      "symbol": "MOAC/ETH",
+      "base": "MOAC",
+      "quote": "ETH"
+    },
+    "baseId": "moac",
+    "quoteId": "eth",
+    "baseCurrency": "MOAC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nam_btc",
+    "ccxt": {
+      "symbol": "NAM/BTC",
+      "base": "NAM",
+      "quote": "BTC"
+    },
+    "baseId": "nam",
+    "quoteId": "btc",
+    "baseCurrency": "NAM COIN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nam_eth",
+    "ccxt": {
+      "symbol": "NAM/ETH",
+      "base": "NAM",
+      "quote": "ETH"
+    },
+    "baseId": "nam",
+    "quoteId": "eth",
+    "baseCurrency": "NAM COIN",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nast_eth",
+    "ccxt": {
+      "symbol": "NAST/ETH",
+      "base": "NAST",
+      "quote": "ETH"
+    },
+    "baseId": "nast",
+    "quoteId": "eth",
+    "baseCurrency": "NAST",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nkc_btc",
+    "ccxt": {
+      "symbol": "NKC/BTC",
+      "base": "NKC",
+      "quote": "BTC"
+    },
+    "baseId": "nkc",
+    "quoteId": "btc",
+    "baseCurrency": "Nework",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nkc_eth",
+    "ccxt": {
+      "symbol": "NKC/ETH",
+      "base": "NKC",
+      "quote": "ETH"
+    },
+    "baseId": "nkc",
+    "quoteId": "eth",
+    "baseCurrency": "Nework",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nmt_btc",
+    "ccxt": {
+      "symbol": "NMT/BTC",
+      "base": "NMT",
+      "quote": "BTC"
+    },
+    "baseId": "nmt",
+    "quoteId": "btc",
+    "baseCurrency": "NMT",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nmt_eth",
+    "ccxt": {
+      "symbol": "NMT/ETH",
+      "base": "NMT",
+      "quote": "ETH"
+    },
+    "baseId": "nmt",
+    "quoteId": "eth",
+    "baseCurrency": "NMT",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "npxs_btc",
+    "ccxt": {
+      "symbol": "NPXS/BTC",
+      "base": "NPXS",
+      "quote": "BTC"
+    },
+    "baseId": "npxs",
+    "quoteId": "btc",
+    "baseCurrency": "Pundi X",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "npxs_eth",
+    "ccxt": {
+      "symbol": "NPXS/ETH",
+      "base": "NPXS",
+      "quote": "ETH"
+    },
+    "baseId": "npxs",
+    "quoteId": "eth",
+    "baseCurrency": "Pundi X",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nuls_btc",
+    "ccxt": {
+      "symbol": "NULS/BTC",
+      "base": "NULS",
+      "quote": "BTC"
+    },
+    "baseId": "nuls",
+    "quoteId": "btc",
+    "baseCurrency": "Nuls",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nuls_eth",
+    "ccxt": {
+      "symbol": "NULS/ETH",
+      "base": "NULS",
+      "quote": "ETH"
+    },
+    "baseId": "nuls",
+    "quoteId": "eth",
+    "baseCurrency": "Nuls",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "nxct_eth",
+    "ccxt": {
+      "symbol": "NXCT/ETH",
+      "base": "NXCT",
+      "quote": "ETH"
+    },
+    "baseId": "nxct",
+    "quoteId": "eth",
+    "baseCurrency": "NXCT",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "oc_btc",
+    "ccxt": {
+      "symbol": "OC/BTC",
+      "base": "OC",
+      "quote": "BTC"
+    },
+    "baseId": "oc",
+    "quoteId": "btc",
+    "baseCurrency": "OceanChain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "oc_eth",
+    "ccxt": {
+      "symbol": "OC/ETH",
+      "base": "OC",
+      "quote": "ETH"
+    },
+    "baseId": "oc",
+    "quoteId": "eth",
+    "baseCurrency": "OceanChain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ocn_btc",
+    "ccxt": {
+      "symbol": "OCN/BTC",
+      "base": "OCN",
+      "quote": "BTC"
+    },
+    "baseId": "ocn",
+    "quoteId": "btc",
+    "baseCurrency": "Odyssey",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ocn_eth",
+    "ccxt": {
+      "symbol": "OCN/ETH",
+      "base": "OCN",
+      "quote": "ETH"
+    },
+    "baseId": "ocn",
+    "quoteId": "eth",
+    "baseCurrency": "Odyssey",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "omg_btc",
+    "ccxt": {
+      "symbol": "OMG/BTC",
+      "base": "OMG",
+      "quote": "BTC"
+    },
+    "baseId": "omg",
+    "quoteId": "btc",
+    "baseCurrency": "OmiseGO",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ong_btc",
+    "ccxt": {
+      "symbol": "ONG/BTC",
+      "base": "ONG",
+      "quote": "BTC"
+    },
+    "baseId": "ong",
+    "quoteId": "btc",
+    "baseCurrency": "ONG",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ont_usdt",
+    "ccxt": {
+      "symbol": "ONT/USDT",
+      "base": "ONT",
+      "quote": "USDT"
+    },
+    "baseId": "ont",
+    "quoteId": "usdt",
+    "baseCurrency": "Ontology",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "otn_btc",
+    "ccxt": {
+      "symbol": "OTN/BTC",
+      "base": "OTN",
+      "quote": "BTC"
+    },
+    "baseId": "otn",
+    "quoteId": "btc",
+    "baseCurrency": "Open Trading Network",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "oxy_btc",
+    "ccxt": {
+      "symbol": "OXY/BTC",
+      "base": "OXY",
+      "quote": "BTC"
+    },
+    "baseId": "oxy",
+    "quoteId": "btc",
+    "baseCurrency": "Oxycoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "part_btc",
+    "ccxt": {
+      "symbol": "PART/BTC",
+      "base": "PART",
+      "quote": "BTC"
+    },
+    "baseId": "part",
+    "quoteId": "btc",
+    "baseCurrency": "Particl",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pay_btc",
+    "ccxt": {
+      "symbol": "PAY/BTC",
+      "base": "PAY",
+      "quote": "BTC"
+    },
+    "baseId": "pay",
+    "quoteId": "btc",
+    "baseCurrency": "TenX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pc_btc",
+    "ccxt": {
+      "symbol": "PC/BTC",
+      "base": "PC",
+      "quote": "BTC"
+    },
+    "baseId": "pc",
+    "quoteId": "btc",
+    "baseCurrency": "Promotion Coin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pc_eth",
+    "ccxt": {
+      "symbol": "PC/ETH",
+      "base": "PC",
+      "quote": "ETH"
+    },
+    "baseId": "pc",
+    "quoteId": "eth",
+    "baseCurrency": "Promotion Coin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pch_btc",
+    "ccxt": {
+      "symbol": "PCH/BTC",
+      "base": "PCH",
+      "quote": "BTC"
+    },
+    "baseId": "pch",
+    "quoteId": "btc",
+    "baseCurrency": "POPCHAIN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pch_eth",
+    "ccxt": {
+      "symbol": "PCH/ETH",
+      "base": "PCH",
+      "quote": "ETH"
+    },
+    "baseId": "pch",
+    "quoteId": "eth",
+    "baseCurrency": "POPCHAIN",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pix_btc",
+    "ccxt": {
+      "symbol": "PIX/BTC",
+      "base": "PIX",
+      "quote": "BTC"
+    },
+    "baseId": "pix",
+    "quoteId": "btc",
+    "baseCurrency": "Lampix",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ply_btc",
+    "ccxt": {
+      "symbol": "PLY/BTC",
+      "base": "PLY",
+      "quote": "BTC"
+    },
+    "baseId": "ply",
+    "quoteId": "btc",
+    "baseCurrency": "PlayCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pnt_btc",
+    "ccxt": {
+      "symbol": "PNT/BTC",
+      "base": "PNT",
+      "quote": "BTC"
+    },
+    "baseId": "pnt",
+    "quoteId": "btc",
+    "baseCurrency": "Penta",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pnt_eth",
+    "ccxt": {
+      "symbol": "PNT/ETH",
+      "base": "PNT",
+      "quote": "ETH"
+    },
+    "baseId": "pnt",
+    "quoteId": "eth",
+    "baseCurrency": "Penta",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pok_btc",
+    "ccxt": {
+      "symbol": "POK/BTC",
+      "base": "POK",
+      "quote": "BTC"
+    },
+    "baseId": "pok",
+    "quoteId": "btc",
+    "baseCurrency": "POK",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pok_eth",
+    "ccxt": {
+      "symbol": "POK/ETH",
+      "base": "POK",
+      "quote": "ETH"
+    },
+    "baseId": "pok",
+    "quoteId": "eth",
+    "baseCurrency": "POK",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pps_btc",
+    "ccxt": {
+      "symbol": "PPS/BTC",
+      "base": "PPS",
+      "quote": "BTC"
+    },
+    "baseId": "pps",
+    "quoteId": "btc",
+    "baseCurrency": "PPS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pps_eth",
+    "ccxt": {
+      "symbol": "PPS/ETH",
+      "base": "PPS",
+      "quote": "ETH"
+    },
+    "baseId": "pps",
+    "quoteId": "eth",
+    "baseCurrency": "PPS",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pra_btc",
+    "ccxt": {
+      "symbol": "PRA/BTC",
+      "base": "PRA",
+      "quote": "BTC"
+    },
+    "baseId": "pra",
+    "quoteId": "btc",
+    "baseCurrency": "ProChain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pra_eth",
+    "ccxt": {
+      "symbol": "PRA/ETH",
+      "base": "PRA",
+      "quote": "ETH"
+    },
+    "baseId": "pra",
+    "quoteId": "eth",
+    "baseCurrency": "ProChain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "put_btc",
+    "ccxt": {
+      "symbol": "PUT/BTC",
+      "base": "PUT",
+      "quote": "BTC"
+    },
+    "baseId": "put",
+    "quoteId": "btc",
+    "baseCurrency": "PutinCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "put_eth",
+    "ccxt": {
+      "symbol": "PUT/ETH",
+      "base": "PUT",
+      "quote": "ETH"
+    },
+    "baseId": "put",
+    "quoteId": "eth",
+    "baseCurrency": "PutinCoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pxc_btc",
+    "ccxt": {
+      "symbol": "Pixiecoin/BTC",
+      "base": "Pixiecoin",
+      "quote": "BTC"
+    },
+    "baseId": "pxc",
+    "quoteId": "btc",
+    "baseCurrency": "Pixiecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pxc_eth",
+    "ccxt": {
+      "symbol": "Pixiecoin/ETH",
+      "base": "Pixiecoin",
+      "quote": "ETH"
+    },
+    "baseId": "pxc",
+    "quoteId": "eth",
+    "baseCurrency": "Pixiecoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "pylnt_btc",
+    "ccxt": {
+      "symbol": "PYLNT/BTC",
+      "base": "PYLNT",
+      "quote": "BTC"
+    },
+    "baseId": "pylnt",
+    "quoteId": "btc",
+    "baseCurrency": "Pylon Network",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "qntu_btc",
+    "ccxt": {
+      "symbol": "QNTU/BTC",
+      "base": "QNTU",
+      "quote": "BTC"
+    },
+    "baseId": "qntu",
+    "quoteId": "btc",
+    "baseCurrency": "QNTU",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "qntu_eth",
+    "ccxt": {
+      "symbol": "QNTU/ETH",
+      "base": "QNTU",
+      "quote": "ETH"
+    },
+    "baseId": "qntu",
+    "quoteId": "eth",
+    "baseCurrency": "QNTU",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "qtum_btc",
+    "ccxt": {
+      "symbol": "QTUM/BTC",
+      "base": "QTUM",
+      "quote": "BTC"
+    },
+    "baseId": "qtum",
+    "quoteId": "btc",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "qtum_usdt",
+    "ccxt": {
+      "symbol": "QTUM/USDT",
+      "base": "QTUM",
+      "quote": "USDT"
+    },
+    "baseId": "qtum",
+    "quoteId": "usdt",
+    "baseCurrency": "Qtum",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "qube_btc",
+    "ccxt": {
+      "symbol": "QUBE/BTC",
+      "base": "QUBE",
+      "quote": "BTC"
+    },
+    "baseId": "qube",
+    "quoteId": "btc",
+    "baseCurrency": "Qube",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "qube_eth",
+    "ccxt": {
+      "symbol": "QUBE/ETH",
+      "base": "QUBE",
+      "quote": "ETH"
+    },
+    "baseId": "qube",
+    "quoteId": "eth",
+    "baseCurrency": "Qube",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "rbf_btc",
+    "ccxt": {
+      "symbol": "RBF/BTC",
+      "base": "RBF",
+      "quote": "BTC"
+    },
+    "baseId": "rbf",
+    "quoteId": "btc",
+    "baseCurrency": "RBF",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rebl_btc",
+    "ccxt": {
+      "symbol": "REBL/BTC",
+      "base": "REBL",
+      "quote": "BTC"
+    },
+    "baseId": "rebl",
+    "quoteId": "btc",
+    "baseCurrency": "REBL",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rebl_eth",
+    "ccxt": {
+      "symbol": "REBL/ETH",
+      "base": "REBL",
+      "quote": "ETH"
+    },
+    "baseId": "rebl",
+    "quoteId": "eth",
+    "baseCurrency": "REBL",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "rntb_eth",
+    "ccxt": {
+      "symbol": "RNTB/ETH",
+      "base": "RNTB",
+      "quote": "ETH"
+    },
+    "baseId": "rntb",
+    "quoteId": "eth",
+    "baseCurrency": "BitRent",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "rrc_btc",
+    "ccxt": {
+      "symbol": "RRC/BTC",
+      "base": "RRC",
+      "quote": "BTC"
+    },
+    "baseId": "rrc",
+    "quoteId": "btc",
+    "baseCurrency": "RRCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rrc_eth",
+    "ccxt": {
+      "symbol": "RRC/ETH",
+      "base": "RRC",
+      "quote": "ETH"
+    },
+    "baseId": "rrc",
+    "quoteId": "eth",
+    "baseCurrency": "RRCoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "sctk_btc",
+    "ccxt": {
+      "symbol": "SCTK/BTC",
+      "base": "SCTK",
+      "quote": "BTC"
+    },
+    "baseId": "sctk",
+    "quoteId": "btc",
+    "baseCurrency": "SCTK",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sctk_eth",
+    "ccxt": {
+      "symbol": "SCTK/ETH",
+      "base": "SCTK",
+      "quote": "ETH"
+    },
+    "baseId": "sctk",
+    "quoteId": "eth",
+    "baseCurrency": "SCTK",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "sexc_eth",
+    "ccxt": {
+      "symbol": "SEXC/ETH",
+      "base": "SEXC",
+      "quote": "ETH"
+    },
+    "baseId": "sexc",
+    "quoteId": "eth",
+    "baseCurrency": "ShareX",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "sgcc_btc",
+    "ccxt": {
+      "symbol": "SGCC/BTC",
+      "base": "SGCC",
+      "quote": "BTC"
+    },
+    "baseId": "sgcc",
+    "quoteId": "btc",
+    "baseCurrency": "Super Game Chain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sgcc_eth",
+    "ccxt": {
+      "symbol": "SGCC/ETH",
+      "base": "SGCC",
+      "quote": "ETH"
+    },
+    "baseId": "sgcc",
+    "quoteId": "eth",
+    "baseCurrency": "Super Game Chain",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "sphtx_btc",
+    "ccxt": {
+      "symbol": "SPHTX/BTC",
+      "base": "SPHTX",
+      "quote": "BTC"
+    },
+    "baseId": "sphtx",
+    "quoteId": "btc",
+    "baseCurrency": "SophiaTX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sss_btc",
+    "ccxt": {
+      "symbol": "SSS/BTC",
+      "base": "SSS",
+      "quote": "BTC"
+    },
+    "baseId": "sss",
+    "quoteId": "btc",
+    "baseCurrency": "Sharechain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "swtc_eth",
+    "ccxt": {
+      "symbol": "SWTC/ETH",
+      "base": "SWTC",
+      "quote": "ETH"
+    },
+    "baseId": "swtc",
+    "quoteId": "eth",
+    "baseCurrency": "Jingtum Tech",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "team_btc",
+    "ccxt": {
+      "symbol": "TEAM/BTC",
+      "base": "TEAM",
+      "quote": "BTC"
+    },
+    "baseId": "team",
+    "quoteId": "btc",
+    "baseCurrency": "TEAM (TokenStars)",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "team_eth",
+    "ccxt": {
+      "symbol": "TEAM/ETH",
+      "base": "TEAM",
+      "quote": "ETH"
+    },
+    "baseId": "team",
+    "quoteId": "eth",
+    "baseCurrency": "TEAM (TokenStars)",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "tky_btc",
+    "ccxt": {
+      "symbol": "TKY/BTC",
+      "base": "TKY",
+      "quote": "BTC"
+    },
+    "baseId": "tky",
+    "quoteId": "btc",
+    "baseCurrency": "THEKEY",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "tky_eth",
+    "ccxt": {
+      "symbol": "TKY/ETH",
+      "base": "TKY",
+      "quote": "ETH"
+    },
+    "baseId": "tky",
+    "quoteId": "eth",
+    "baseCurrency": "THEKEY",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "trx_btc",
+    "ccxt": {
+      "symbol": "TRX/BTC",
+      "base": "TRX",
+      "quote": "BTC"
+    },
+    "baseId": "trx",
+    "quoteId": "btc",
+    "baseCurrency": "TRON",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "trx_eth",
+    "ccxt": {
+      "symbol": "TRX/ETH",
+      "base": "TRX",
+      "quote": "ETH"
+    },
+    "baseId": "trx",
+    "quoteId": "eth",
+    "baseCurrency": "TRON",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "ttt_btc",
+    "ccxt": {
+      "symbol": "TTT/BTC",
+      "base": "TTT",
+      "quote": "BTC"
+    },
+    "baseId": "ttt",
+    "quoteId": "btc",
+    "baseCurrency": "TrustNote",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ttt_eth",
+    "ccxt": {
+      "symbol": "TTT/ETH",
+      "base": "TTT",
+      "quote": "ETH"
+    },
+    "baseId": "ttt",
+    "quoteId": "eth",
+    "baseCurrency": "TrustNote",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "uc_btc",
+    "ccxt": {
+      "symbol": "UC/BTC",
+      "base": "UC",
+      "quote": "BTC"
+    },
+    "baseId": "uc",
+    "quoteId": "btc",
+    "baseCurrency": "UC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "uc_eth",
+    "ccxt": {
+      "symbol": "UC/ETH",
+      "base": "UC",
+      "quote": "ETH"
+    },
+    "baseId": "uc",
+    "quoteId": "eth",
+    "baseCurrency": "UC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "uct_btc",
+    "ccxt": {
+      "symbol": "UCT/BTC",
+      "base": "UCT",
+      "quote": "BTC"
+    },
+    "baseId": "uct",
+    "quoteId": "btc",
+    "baseCurrency": "Ubique Chain Of Things",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "uct_eth",
+    "ccxt": {
+      "symbol": "UCT/ETH",
+      "base": "UCT",
+      "quote": "ETH"
+    },
+    "baseId": "uct",
+    "quoteId": "eth",
+    "baseCurrency": "Ubique Chain Of Things",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "unit_btc",
+    "ccxt": {
+      "symbol": "UNIT/BTC",
+      "base": "UNIT",
+      "quote": "BTC"
+    },
+    "baseId": "unit",
+    "quoteId": "btc",
+    "baseCurrency": "Universal Currency",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "usc_eth",
+    "ccxt": {
+      "symbol": "USC/ETH",
+      "base": "USC",
+      "quote": "ETH"
+    },
+    "baseId": "usc",
+    "quoteId": "eth",
+    "baseCurrency": "Ultimate Secure Cash",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "usdt_dkkt",
+    "ccxt": {
+      "symbol": "USDT/DKKT",
+      "base": "USDT",
+      "quote": "DKKT"
+    },
+    "baseId": "usdt",
+    "quoteId": "dkkt",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "DKKT"
+  },
+  {
+    "id": "vaac_bz",
+    "ccxt": {
+      "symbol": "VAAC/BZ",
+      "base": "VAAC",
+      "quote": "BZ"
+    },
+    "baseId": "vaac",
+    "quoteId": "bz",
+    "baseCurrency": "VAAC",
+    "quoteCurrency": "Bit-Z Token"
+  },
+  {
+    "id": "vct_eth",
+    "ccxt": {
+      "symbol": "VCT/ETH",
+      "base": "VCT",
+      "quote": "ETH"
+    },
+    "baseId": "vct",
+    "quoteId": "eth",
+    "baseCurrency": "ValueCyberToken",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "viu_btc",
+    "ccxt": {
+      "symbol": "VIU/BTC",
+      "base": "VIU",
+      "quote": "BTC"
+    },
+    "baseId": "viu",
+    "quoteId": "btc",
+    "baseCurrency": "Viuly",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "voise_btc",
+    "ccxt": {
+      "symbol": "VOISE/BTC",
+      "base": "VOISE",
+      "quote": "BTC"
+    },
+    "baseId": "voise",
+    "quoteId": "btc",
+    "baseCurrency": "Voise",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "vtc_bz",
+    "ccxt": {
+      "symbol": "VTC/BZ",
+      "base": "VTC",
+      "quote": "BZ"
+    },
+    "baseId": "vtc",
+    "quoteId": "bz",
+    "baseCurrency": "Vertcoin",
+    "quoteCurrency": "Bit-Z Token"
+  },
+  {
+    "id": "vtc_dkkt",
+    "ccxt": {
+      "symbol": "VTC/DKKT",
+      "base": "VTC",
+      "quote": "DKKT"
+    },
+    "baseId": "vtc",
+    "quoteId": "dkkt",
+    "baseCurrency": "Vertcoin",
+    "quoteCurrency": "DKKT"
+  },
+  {
+    "id": "woc_eth",
+    "ccxt": {
+      "symbol": "WOC/ETH",
+      "base": "WOC",
+      "quote": "ETH"
+    },
+    "baseId": "woc",
+    "quoteId": "eth",
+    "baseCurrency": "WOC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "wwb_btc",
+    "ccxt": {
+      "symbol": "WWB/BTC",
+      "base": "WWB",
+      "quote": "BTC"
+    },
+    "baseId": "wwb",
+    "quoteId": "btc",
+    "baseCurrency": "Wowbit",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wwb_eth",
+    "ccxt": {
+      "symbol": "WWB/ETH",
+      "base": "WWB",
+      "quote": "ETH"
+    },
+    "baseId": "wwb",
+    "quoteId": "eth",
+    "baseCurrency": "Wowbit",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "xas_btc",
+    "ccxt": {
+      "symbol": "XAS/BTC",
+      "base": "XAS",
+      "quote": "BTC"
+    },
+    "baseId": "xas",
+    "quoteId": "btc",
+    "baseCurrency": "Asch",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xct_eth",
+    "ccxt": {
+      "symbol": "XCT/ETH",
+      "base": "XCT",
+      "quote": "ETH"
+    },
+    "baseId": "xct",
+    "quoteId": "eth",
+    "baseCurrency": "C-Bit",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "xrb_btc",
+    "ccxt": {
+      "symbol": "NANO/BTC",
+      "base": "NANO",
+      "quote": "BTC"
+    },
+    "baseId": "xrb",
+    "quoteId": "btc",
+    "baseCurrency": "Nano",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zec_btc",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseId": "zec",
+    "quoteId": "btc",
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zgc_btc",
+    "ccxt": {
+      "symbol": "ZGC/BTC",
+      "base": "ZGC",
+      "quote": "BTC"
+    },
+    "baseId": "zgc",
+    "quoteId": "btc",
+    "baseCurrency": "ZGC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zgc_eth",
+    "ccxt": {
+      "symbol": "ZGC/ETH",
+      "base": "ZGC",
+      "quote": "ETH"
+    },
+    "baseId": "zgc",
+    "quoteId": "eth",
+    "baseCurrency": "ZGC",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "zpr_btc",
+    "ccxt": {
+      "symbol": "ZPR/BTC",
+      "base": "ZPR",
+      "quote": "BTC"
+    },
+    "baseId": "zpr",
+    "quoteId": "btc",
+    "baseCurrency": "ZPER",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zpr_eth",
+    "ccxt": {
+      "symbol": "ZPR/ETH",
+      "base": "ZPR",
+      "quote": "ETH"
+    },
+    "baseId": "zpr",
+    "quoteId": "eth",
+    "baseCurrency": "ZPER",
+    "quoteCurrency": "Ethereum"
+  }
+]

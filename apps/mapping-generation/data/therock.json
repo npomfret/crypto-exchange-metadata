@@ -1,0 +1,182 @@
+[
+  {
+    "id": "BCHBTC",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BCHEUR",
+    "ccxt": {
+      "symbol": "BCH/EUR",
+      "base": "BCH",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTCEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTCXRP",
+    "ccxt": {
+      "symbol": "BTC/XRP",
+      "base": "BTC",
+      "quote": "XRP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "XRP"
+  },
+  {
+    "id": "ETHBTC",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ETHEUR",
+    "ccxt": {
+      "symbol": "ETH/EUR",
+      "base": "ETH",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ETHEURN",
+    "ccxt": {
+      "symbol": "ETH/EURN",
+      "base": "ETH",
+      "quote": "EURN"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "EURN"
+  },
+  {
+    "id": "EUREURN",
+    "ccxt": {
+      "symbol": "EUR/EURN",
+      "base": "EUR",
+      "quote": "EURN"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "EURN"
+  },
+  {
+    "id": "EURXRP",
+    "ccxt": {
+      "symbol": "EUR/XRP",
+      "base": "EUR",
+      "quote": "XRP"
+    },
+    "baseCurrency": "Euro",
+    "quoteCurrency": "XRP"
+  },
+  {
+    "id": "FDZETH",
+    "ccxt": {
+      "symbol": "FDZ/ETH",
+      "base": "FDZ",
+      "quote": "ETH"
+    },
+    "baseCurrency": "Friendz",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "LTCBTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTCEUR",
+    "ccxt": {
+      "symbol": "LTC/EUR",
+      "base": "LTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "NOKUETH",
+    "ccxt": {
+      "symbol": "NOK/UETH",
+      "base": "NOK",
+      "quote": "UETH"
+    },
+    "baseCurrency": "Norwegian Krone",
+    "quoteCurrency": "UETH"
+  },
+  {
+    "id": "NOKUEURN",
+    "ccxt": {
+      "symbol": "NOK/UEURN",
+      "base": "NOK",
+      "quote": "UEURN"
+    },
+    "baseCurrency": "Norwegian Krone",
+    "quoteCurrency": "UEURN"
+  },
+  {
+    "id": "PPCBTC",
+    "ccxt": {
+      "symbol": "PPC/BTC",
+      "base": "PPC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Peercoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "PPCEUR",
+    "ccxt": {
+      "symbol": "PPC/EUR",
+      "base": "PPC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Peercoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ZECBTC",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ZECEUR",
+    "ccxt": {
+      "symbol": "ZEC/EUR",
+      "base": "ZEC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Euro"
+  }
+]

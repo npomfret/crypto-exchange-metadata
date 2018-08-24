@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "adcn-btc",
+    "ccxt": {
+      "symbol": "ADCN/BTC",
+      "base": "ADCN",
+      "quote": "BTC"
+    },
+    "baseId": "adcn",
+    "quoteId": "btc",
+    "baseCurrency": "Asiadigicoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "adcn-doge",
+    "ccxt": {
+      "symbol": "ADCN/DOGE",
+      "base": "ADCN",
+      "quote": "DOGE"
+    },
+    "baseId": "adcn",
+    "quoteId": "doge",
+    "baseCurrency": "Asiadigicoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "adcn-ltc",
+    "ccxt": {
+      "symbol": "ADCN/LTC",
+      "base": "ADCN",
+      "quote": "LTC"
+    },
+    "baseId": "adcn",
+    "quoteId": "ltc",
+    "baseCurrency": "Asiadigicoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "adcn-usd",
+    "ccxt": {
+      "symbol": "ADCN/USD",
+      "base": "ADCN",
+      "quote": "USD"
+    },
+    "baseId": "adcn",
+    "quoteId": "usd",
+    "baseCurrency": "Asiadigicoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "adl-btc",
+    "ccxt": {
+      "symbol": "ADL/BTC",
+      "base": "ADL",
+      "quote": "BTC"
+    },
+    "baseId": "adl",
+    "quoteId": "btc",
+    "baseCurrency": "ADL",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "adl-doge",
+    "ccxt": {
+      "symbol": "ADL/DOGE",
+      "base": "ADL",
+      "quote": "DOGE"
+    },
+    "baseId": "adl",
+    "quoteId": "doge",
+    "baseCurrency": "ADL",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "adl-ltc",
+    "ccxt": {
+      "symbol": "ADL/LTC",
+      "base": "ADL",
+      "quote": "LTC"
+    },
+    "baseId": "adl",
+    "quoteId": "ltc",
+    "baseCurrency": "ADL",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "adl-usd",
+    "ccxt": {
+      "symbol": "ADL/USD",
+      "base": "ADL",
+      "quote": "USD"
+    },
+    "baseId": "adl",
+    "quoteId": "usd",
+    "baseCurrency": "ADL",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "alt-btc",
+    "ccxt": {
+      "symbol": "ALT/BTC",
+      "base": "ALT",
+      "quote": "BTC"
+    },
+    "baseId": "alt",
+    "quoteId": "btc",
+    "baseCurrency": "Altcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "alt-doge",
+    "ccxt": {
+      "symbol": "ALT/DOGE",
+      "base": "ALT",
+      "quote": "DOGE"
+    },
+    "baseId": "alt",
+    "quoteId": "doge",
+    "baseCurrency": "Altcoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "alt-ltc",
+    "ccxt": {
+      "symbol": "ALT/LTC",
+      "base": "ALT",
+      "quote": "LTC"
+    },
+    "baseId": "alt",
+    "quoteId": "ltc",
+    "baseCurrency": "Altcoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "alt-usd",
+    "ccxt": {
+      "symbol": "ALT/USD",
+      "base": "ALT",
+      "quote": "USD"
+    },
+    "baseId": "alt",
+    "quoteId": "usd",
+    "baseCurrency": "Altcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "apc-btc",
+    "ccxt": {
+      "symbol": "APC/BTC",
+      "base": "APC",
+      "quote": "BTC"
+    },
+    "baseId": "apc",
+    "quoteId": "btc",
+    "baseCurrency": "APC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "apc-doge",
+    "ccxt": {
+      "symbol": "APC/DOGE",
+      "base": "APC",
+      "quote": "DOGE"
+    },
+    "baseId": "apc",
+    "quoteId": "doge",
+    "baseCurrency": "APC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "apc-ltc",
+    "ccxt": {
+      "symbol": "APC/LTC",
+      "base": "APC",
+      "quote": "LTC"
+    },
+    "baseId": "apc",
+    "quoteId": "ltc",
+    "baseCurrency": "APC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "apc-usd",
+    "ccxt": {
+      "symbol": "APC/USD",
+      "base": "APC",
+      "quote": "USD"
+    },
+    "baseId": "apc",
+    "quoteId": "usd",
+    "baseCurrency": "APC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bbp-btc",
+    "ccxt": {
+      "symbol": "BBP/BTC",
+      "base": "BBP",
+      "quote": "BTC"
+    },
+    "baseId": "bbp",
+    "quoteId": "btc",
+    "baseCurrency": "BiblePay",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bbp-doge",
+    "ccxt": {
+      "symbol": "BBP/DOGE",
+      "base": "BBP",
+      "quote": "DOGE"
+    },
+    "baseId": "bbp",
+    "quoteId": "doge",
+    "baseCurrency": "BiblePay",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bbp-ltc",
+    "ccxt": {
+      "symbol": "BBP/LTC",
+      "base": "BBP",
+      "quote": "LTC"
+    },
+    "baseId": "bbp",
+    "quoteId": "ltc",
+    "baseCurrency": "BiblePay",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bbp-usd",
+    "ccxt": {
+      "symbol": "BBP/USD",
+      "base": "BBP",
+      "quote": "USD"
+    },
+    "baseId": "bbp",
+    "quoteId": "usd",
+    "baseCurrency": "BiblePay",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bcd-btc",
+    "ccxt": {
+      "symbol": "BCD/BTC",
+      "base": "BCD",
+      "quote": "BTC"
+    },
+    "baseId": "bcd",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bcd-doge",
+    "ccxt": {
+      "symbol": "BCD/DOGE",
+      "base": "BCD",
+      "quote": "DOGE"
+    },
+    "baseId": "bcd",
+    "quoteId": "doge",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bcd-ltc",
+    "ccxt": {
+      "symbol": "BCD/LTC",
+      "base": "BCD",
+      "quote": "LTC"
+    },
+    "baseId": "bcd",
+    "quoteId": "ltc",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bcd-usd",
+    "ccxt": {
+      "symbol": "BCD/USD",
+      "base": "BCD",
+      "quote": "USD"
+    },
+    "baseId": "bcd",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin Diamond",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bee-btc",
+    "ccxt": {
+      "symbol": "BEE/BTC",
+      "base": "BEE",
+      "quote": "BTC"
+    },
+    "baseId": "bee",
+    "quoteId": "btc",
+    "baseCurrency": "Bee Token",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bee-doge",
+    "ccxt": {
+      "symbol": "BEE/DOGE",
+      "base": "BEE",
+      "quote": "DOGE"
+    },
+    "baseId": "bee",
+    "quoteId": "doge",
+    "baseCurrency": "Bee Token",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bee-ltc",
+    "ccxt": {
+      "symbol": "BEE/LTC",
+      "base": "BEE",
+      "quote": "LTC"
+    },
+    "baseId": "bee",
+    "quoteId": "ltc",
+    "baseCurrency": "Bee Token",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bee-usd",
+    "ccxt": {
+      "symbol": "BEE/USD",
+      "base": "BEE",
+      "quote": "USD"
+    },
+    "baseId": "bee",
+    "quoteId": "usd",
+    "baseCurrency": "Bee Token",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bitcf-btc",
+    "ccxt": {
+      "symbol": "BITCF/BTC",
+      "base": "BITCF",
+      "quote": "BTC"
+    },
+    "baseId": "bitcf",
+    "quoteId": "btc",
+    "baseCurrency": "First Bitcoin Capital",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bitcf-doge",
+    "ccxt": {
+      "symbol": "BITCF/DOGE",
+      "base": "BITCF",
+      "quote": "DOGE"
+    },
+    "baseId": "bitcf",
+    "quoteId": "doge",
+    "baseCurrency": "First Bitcoin Capital",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bitcf-ltc",
+    "ccxt": {
+      "symbol": "BITCF/LTC",
+      "base": "BITCF",
+      "quote": "LTC"
+    },
+    "baseId": "bitcf",
+    "quoteId": "ltc",
+    "baseCurrency": "First Bitcoin Capital",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bitcf-usd",
+    "ccxt": {
+      "symbol": "BITCF/USD",
+      "base": "BITCF",
+      "quote": "USD"
+    },
+    "baseId": "bitcf",
+    "quoteId": "usd",
+    "baseCurrency": "First Bitcoin Capital",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "biz-btc",
+    "ccxt": {
+      "symbol": "BIZ/BTC",
+      "base": "BIZ",
+      "quote": "BTC"
+    },
+    "baseId": "biz",
+    "quoteId": "btc",
+    "baseCurrency": "BIZ",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "biz-doge",
+    "ccxt": {
+      "symbol": "BIZ/DOGE",
+      "base": "BIZ",
+      "quote": "DOGE"
+    },
+    "baseId": "biz",
+    "quoteId": "doge",
+    "baseCurrency": "BIZ",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "biz-ltc",
+    "ccxt": {
+      "symbol": "BIZ/LTC",
+      "base": "BIZ",
+      "quote": "LTC"
+    },
+    "baseId": "biz",
+    "quoteId": "ltc",
+    "baseCurrency": "BIZ",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "biz-usd",
+    "ccxt": {
+      "symbol": "BIZ/USD",
+      "base": "BIZ",
+      "quote": "USD"
+    },
+    "baseId": "biz",
+    "quoteId": "usd",
+    "baseCurrency": "BIZ",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bon-btc",
+    "ccxt": {
+      "symbol": "BON/BTC",
+      "base": "BON",
+      "quote": "BTC"
+    },
+    "baseId": "bon",
+    "quoteId": "btc",
+    "baseCurrency": "Bonpay",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bon-doge",
+    "ccxt": {
+      "symbol": "BON/DOGE",
+      "base": "BON",
+      "quote": "DOGE"
+    },
+    "baseId": "bon",
+    "quoteId": "doge",
+    "baseCurrency": "Bonpay",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bon-ltc",
+    "ccxt": {
+      "symbol": "BON/LTC",
+      "base": "BON",
+      "quote": "LTC"
+    },
+    "baseId": "bon",
+    "quoteId": "ltc",
+    "baseCurrency": "Bonpay",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bon-usd",
+    "ccxt": {
+      "symbol": "BON/USD",
+      "base": "BON",
+      "quote": "USD"
+    },
+    "baseId": "bon",
+    "quoteId": "usd",
+    "baseCurrency": "Bonpay",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "bq-btc",
+    "ccxt": {
+      "symbol": "BQ/BTC",
+      "base": "BQ",
+      "quote": "BTC"
+    },
+    "baseId": "bq",
+    "quoteId": "btc",
+    "baseCurrency": "bitqy",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bq-doge",
+    "ccxt": {
+      "symbol": "BQ/DOGE",
+      "base": "BQ",
+      "quote": "DOGE"
+    },
+    "baseId": "bq",
+    "quoteId": "doge",
+    "baseCurrency": "bitqy",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "bq-ltc",
+    "ccxt": {
+      "symbol": "BQ/LTC",
+      "base": "BQ",
+      "quote": "LTC"
+    },
+    "baseId": "bq",
+    "quoteId": "ltc",
+    "baseCurrency": "bitqy",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "bq-usd",
+    "ccxt": {
+      "symbol": "BQ/USD",
+      "base": "BQ",
+      "quote": "USD"
+    },
+    "baseId": "bq",
+    "quoteId": "usd",
+    "baseCurrency": "bitqy",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btb-btc",
+    "ccxt": {
+      "symbol": "BTB/BTC",
+      "base": "BTB",
+      "quote": "BTC"
+    },
+    "baseId": "btb",
+    "quoteId": "btc",
+    "baseCurrency": "BitBar",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btb-doge",
+    "ccxt": {
+      "symbol": "BTB/DOGE",
+      "base": "BTB",
+      "quote": "DOGE"
+    },
+    "baseId": "btb",
+    "quoteId": "doge",
+    "baseCurrency": "BitBar",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btb-ltc",
+    "ccxt": {
+      "symbol": "BTB/LTC",
+      "base": "BTB",
+      "quote": "LTC"
+    },
+    "baseId": "btb",
+    "quoteId": "ltc",
+    "baseCurrency": "BitBar",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btb-usd",
+    "ccxt": {
+      "symbol": "BTB/USD",
+      "base": "BTB",
+      "quote": "USD"
+    },
+    "baseId": "btb",
+    "quoteId": "usd",
+    "baseCurrency": "BitBar",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btc-doge",
+    "ccxt": {
+      "symbol": "BTC/DOGE",
+      "base": "BTC",
+      "quote": "DOGE"
+    },
+    "baseId": "btc",
+    "quoteId": "doge",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btc-ltc",
+    "ccxt": {
+      "symbol": "BTC/LTC",
+      "base": "BTC",
+      "quote": "LTC"
+    },
+    "baseId": "btc",
+    "quoteId": "ltc",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btc-usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "btc",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btchc-btc",
+    "ccxt": {
+      "symbol": "BTCHC/BTC",
+      "base": "BTCHC",
+      "quote": "BTC"
+    },
+    "baseId": "btchc",
+    "quoteId": "btc",
+    "baseCurrency": "BTCHC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btchc-doge",
+    "ccxt": {
+      "symbol": "BTCHC/DOGE",
+      "base": "BTCHC",
+      "quote": "DOGE"
+    },
+    "baseId": "btchc",
+    "quoteId": "doge",
+    "baseCurrency": "BTCHC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btchc-ltc",
+    "ccxt": {
+      "symbol": "BTCHC/LTC",
+      "base": "BTCHC",
+      "quote": "LTC"
+    },
+    "baseId": "btchc",
+    "quoteId": "ltc",
+    "baseCurrency": "BTCHC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btchc-usd",
+    "ccxt": {
+      "symbol": "BTCHC/USD",
+      "base": "BTCHC",
+      "quote": "USD"
+    },
+    "baseId": "btchc",
+    "quoteId": "usd",
+    "baseCurrency": "BTCHC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btcs-btc",
+    "ccxt": {
+      "symbol": "BTCS/BTC",
+      "base": "BTCS",
+      "quote": "BTC"
+    },
+    "baseId": "btcs",
+    "quoteId": "btc",
+    "baseCurrency": "Bitcoin Scrypt",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btcs-doge",
+    "ccxt": {
+      "symbol": "BTCS/DOGE",
+      "base": "BTCS",
+      "quote": "DOGE"
+    },
+    "baseId": "btcs",
+    "quoteId": "doge",
+    "baseCurrency": "Bitcoin Scrypt",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btcs-ltc",
+    "ccxt": {
+      "symbol": "BTCS/LTC",
+      "base": "BTCS",
+      "quote": "LTC"
+    },
+    "baseId": "btcs",
+    "quoteId": "ltc",
+    "baseCurrency": "Bitcoin Scrypt",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btcs-usd",
+    "ccxt": {
+      "symbol": "BTCS/USD",
+      "base": "BTCS",
+      "quote": "USD"
+    },
+    "baseId": "btcs",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin Scrypt",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btcz-btc",
+    "ccxt": {
+      "symbol": "BTCZ/BTC",
+      "base": "BTCZ",
+      "quote": "BTC"
+    },
+    "baseId": "btcz",
+    "quoteId": "btc",
+    "baseCurrency": "BitcoinZ",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btcz-doge",
+    "ccxt": {
+      "symbol": "BTCZ/DOGE",
+      "base": "BTCZ",
+      "quote": "DOGE"
+    },
+    "baseId": "btcz",
+    "quoteId": "doge",
+    "baseCurrency": "BitcoinZ",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btcz-ltc",
+    "ccxt": {
+      "symbol": "BTCZ/LTC",
+      "base": "BTCZ",
+      "quote": "LTC"
+    },
+    "baseId": "btcz",
+    "quoteId": "ltc",
+    "baseCurrency": "BitcoinZ",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btcz-usd",
+    "ccxt": {
+      "symbol": "BTCZ/USD",
+      "base": "BTCZ",
+      "quote": "USD"
+    },
+    "baseId": "btcz",
+    "quoteId": "usd",
+    "baseCurrency": "BitcoinZ",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btq-btc",
+    "ccxt": {
+      "symbol": "BTQ/BTC",
+      "base": "BTQ",
+      "quote": "BTC"
+    },
+    "baseId": "btq",
+    "quoteId": "btc",
+    "baseCurrency": "BitQuark",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "btq-doge",
+    "ccxt": {
+      "symbol": "BTQ/DOGE",
+      "base": "BTQ",
+      "quote": "DOGE"
+    },
+    "baseId": "btq",
+    "quoteId": "doge",
+    "baseCurrency": "BitQuark",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "btq-ltc",
+    "ccxt": {
+      "symbol": "BTQ/LTC",
+      "base": "BTQ",
+      "quote": "LTC"
+    },
+    "baseId": "btq",
+    "quoteId": "ltc",
+    "baseCurrency": "BitQuark",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "btq-usd",
+    "ccxt": {
+      "symbol": "BTQ/USD",
+      "base": "BTQ",
+      "quote": "USD"
+    },
+    "baseId": "btq",
+    "quoteId": "usd",
+    "baseCurrency": "BitQuark",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "burst-btc",
+    "ccxt": {
+      "symbol": "BURST/BTC",
+      "base": "BURST",
+      "quote": "BTC"
+    },
+    "baseId": "burst",
+    "quoteId": "btc",
+    "baseCurrency": "Burst",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "burst-doge",
+    "ccxt": {
+      "symbol": "BURST/DOGE",
+      "base": "BURST",
+      "quote": "DOGE"
+    },
+    "baseId": "burst",
+    "quoteId": "doge",
+    "baseCurrency": "Burst",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "burst-ltc",
+    "ccxt": {
+      "symbol": "BURST/LTC",
+      "base": "BURST",
+      "quote": "LTC"
+    },
+    "baseId": "burst",
+    "quoteId": "ltc",
+    "baseCurrency": "Burst",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "burst-usd",
+    "ccxt": {
+      "symbol": "BURST/USD",
+      "base": "BURST",
+      "quote": "USD"
+    },
+    "baseId": "burst",
+    "quoteId": "usd",
+    "baseCurrency": "Burst",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ccrb-btc",
+    "ccxt": {
+      "symbol": "CCRB/BTC",
+      "base": "CCRB",
+      "quote": "BTC"
+    },
+    "baseId": "ccrb",
+    "quoteId": "btc",
+    "baseCurrency": "CryptoCarbon",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ccrb-doge",
+    "ccxt": {
+      "symbol": "CCRB/DOGE",
+      "base": "CCRB",
+      "quote": "DOGE"
+    },
+    "baseId": "ccrb",
+    "quoteId": "doge",
+    "baseCurrency": "CryptoCarbon",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ccrb-ltc",
+    "ccxt": {
+      "symbol": "CCRB/LTC",
+      "base": "CCRB",
+      "quote": "LTC"
+    },
+    "baseId": "ccrb",
+    "quoteId": "ltc",
+    "baseCurrency": "CryptoCarbon",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ccrb-usd",
+    "ccxt": {
+      "symbol": "CCRB/USD",
+      "base": "CCRB",
+      "quote": "USD"
+    },
+    "baseId": "ccrb",
+    "quoteId": "usd",
+    "baseCurrency": "CryptoCarbon",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "cos-btc",
+    "ccxt": {
+      "symbol": "COS/BTC",
+      "base": "COS",
+      "quote": "BTC"
+    },
+    "baseId": "cos",
+    "quoteId": "btc",
+    "baseCurrency": "COS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "cos-doge",
+    "ccxt": {
+      "symbol": "COS/DOGE",
+      "base": "COS",
+      "quote": "DOGE"
+    },
+    "baseId": "cos",
+    "quoteId": "doge",
+    "baseCurrency": "COS",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "cos-ltc",
+    "ccxt": {
+      "symbol": "COS/LTC",
+      "base": "COS",
+      "quote": "LTC"
+    },
+    "baseId": "cos",
+    "quoteId": "ltc",
+    "baseCurrency": "COS",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "cos-usd",
+    "ccxt": {
+      "symbol": "COS/USD",
+      "base": "COS",
+      "quote": "USD"
+    },
+    "baseId": "cos",
+    "quoteId": "usd",
+    "baseCurrency": "COS",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "crw-btc",
+    "ccxt": {
+      "symbol": "CRW/BTC",
+      "base": "CRW",
+      "quote": "BTC"
+    },
+    "baseId": "crw",
+    "quoteId": "btc",
+    "baseCurrency": "Crown",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "crw-doge",
+    "ccxt": {
+      "symbol": "CRW/DOGE",
+      "base": "CRW",
+      "quote": "DOGE"
+    },
+    "baseId": "crw",
+    "quoteId": "doge",
+    "baseCurrency": "Crown",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "crw-ltc",
+    "ccxt": {
+      "symbol": "CRW/LTC",
+      "base": "CRW",
+      "quote": "LTC"
+    },
+    "baseId": "crw",
+    "quoteId": "ltc",
+    "baseCurrency": "Crown",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "crw-usd",
+    "ccxt": {
+      "symbol": "CRW/USD",
+      "base": "CRW",
+      "quote": "USD"
+    },
+    "baseId": "crw",
+    "quoteId": "usd",
+    "baseCurrency": "Crown",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "dash-btc",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseId": "dash",
+    "quoteId": "btc",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "dash-doge",
+    "ccxt": {
+      "symbol": "DASH/DOGE",
+      "base": "DASH",
+      "quote": "DOGE"
+    },
+    "baseId": "dash",
+    "quoteId": "doge",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "dash-ltc",
+    "ccxt": {
+      "symbol": "DASH/LTC",
+      "base": "DASH",
+      "quote": "LTC"
+    },
+    "baseId": "dash",
+    "quoteId": "ltc",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "dash-usd",
+    "ccxt": {
+      "symbol": "DASH/USD",
+      "base": "DASH",
+      "quote": "USD"
+    },
+    "baseId": "dash",
+    "quoteId": "usd",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "deep-btc",
+    "ccxt": {
+      "symbol": "DEEP/BTC",
+      "base": "DEEP",
+      "quote": "BTC"
+    },
+    "baseId": "deep",
+    "quoteId": "btc",
+    "baseCurrency": "DEEP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "deep-doge",
+    "ccxt": {
+      "symbol": "DEEP/DOGE",
+      "base": "DEEP",
+      "quote": "DOGE"
+    },
+    "baseId": "deep",
+    "quoteId": "doge",
+    "baseCurrency": "DEEP",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "deep-ltc",
+    "ccxt": {
+      "symbol": "DEEP/LTC",
+      "base": "DEEP",
+      "quote": "LTC"
+    },
+    "baseId": "deep",
+    "quoteId": "ltc",
+    "baseCurrency": "DEEP",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "deep-usd",
+    "ccxt": {
+      "symbol": "DEEP/USD",
+      "base": "DEEP",
+      "quote": "USD"
+    },
+    "baseId": "deep",
+    "quoteId": "usd",
+    "baseCurrency": "DEEP",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "deus-btc",
+    "ccxt": {
+      "symbol": "DEUS/BTC",
+      "base": "DEUS",
+      "quote": "BTC"
+    },
+    "baseId": "deus",
+    "quoteId": "btc",
+    "baseCurrency": "DeusCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "deus-doge",
+    "ccxt": {
+      "symbol": "DEUS/DOGE",
+      "base": "DEUS",
+      "quote": "DOGE"
+    },
+    "baseId": "deus",
+    "quoteId": "doge",
+    "baseCurrency": "DeusCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "deus-ltc",
+    "ccxt": {
+      "symbol": "DEUS/LTC",
+      "base": "DEUS",
+      "quote": "LTC"
+    },
+    "baseId": "deus",
+    "quoteId": "ltc",
+    "baseCurrency": "DeusCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "deus-usd",
+    "ccxt": {
+      "symbol": "DEUS/USD",
+      "base": "DEUS",
+      "quote": "USD"
+    },
+    "baseId": "deus",
+    "quoteId": "usd",
+    "baseCurrency": "DeusCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "dkd-btc",
+    "ccxt": {
+      "symbol": "DKD/BTC",
+      "base": "DKD",
+      "quote": "BTC"
+    },
+    "baseId": "dkd",
+    "quoteId": "btc",
+    "baseCurrency": "DKD",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "dkd-doge",
+    "ccxt": {
+      "symbol": "DKD/DOGE",
+      "base": "DKD",
+      "quote": "DOGE"
+    },
+    "baseId": "dkd",
+    "quoteId": "doge",
+    "baseCurrency": "DKD",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "dkd-ltc",
+    "ccxt": {
+      "symbol": "DKD/LTC",
+      "base": "DKD",
+      "quote": "LTC"
+    },
+    "baseId": "dkd",
+    "quoteId": "ltc",
+    "baseCurrency": "DKD",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "dkd-usd",
+    "ccxt": {
+      "symbol": "DKD/USD",
+      "base": "DKD",
+      "quote": "USD"
+    },
+    "baseId": "dkd",
+    "quoteId": "usd",
+    "baseCurrency": "DKD",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "doge-btc",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseId": "doge",
+    "quoteId": "btc",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "doge-ltc",
+    "ccxt": {
+      "symbol": "DOGE/LTC",
+      "base": "DOGE",
+      "quote": "LTC"
+    },
+    "baseId": "doge",
+    "quoteId": "ltc",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "doge-usd",
+    "ccxt": {
+      "symbol": "DOGE/USD",
+      "base": "DOGE",
+      "quote": "USD"
+    },
+    "baseId": "doge",
+    "quoteId": "usd",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ebh-btc",
+    "ccxt": {
+      "symbol": "EBH/BTC",
+      "base": "EBH",
+      "quote": "BTC"
+    },
+    "baseId": "ebh",
+    "quoteId": "btc",
+    "baseCurrency": "EBH",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ebh-doge",
+    "ccxt": {
+      "symbol": "EBH/DOGE",
+      "base": "EBH",
+      "quote": "DOGE"
+    },
+    "baseId": "ebh",
+    "quoteId": "doge",
+    "baseCurrency": "EBH",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ebh-ltc",
+    "ccxt": {
+      "symbol": "EBH/LTC",
+      "base": "EBH",
+      "quote": "LTC"
+    },
+    "baseId": "ebh",
+    "quoteId": "ltc",
+    "baseCurrency": "EBH",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ebh-usd",
+    "ccxt": {
+      "symbol": "EBH/USD",
+      "base": "EBH",
+      "quote": "USD"
+    },
+    "baseId": "ebh",
+    "quoteId": "usd",
+    "baseCurrency": "EBH",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ebst-btc",
+    "ccxt": {
+      "symbol": "EBST/BTC",
+      "base": "EBST",
+      "quote": "BTC"
+    },
+    "baseId": "ebst",
+    "quoteId": "btc",
+    "baseCurrency": "eBoost",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ebst-doge",
+    "ccxt": {
+      "symbol": "EBST/DOGE",
+      "base": "EBST",
+      "quote": "DOGE"
+    },
+    "baseId": "ebst",
+    "quoteId": "doge",
+    "baseCurrency": "eBoost",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ebst-ltc",
+    "ccxt": {
+      "symbol": "EBST/LTC",
+      "base": "EBST",
+      "quote": "LTC"
+    },
+    "baseId": "ebst",
+    "quoteId": "ltc",
+    "baseCurrency": "eBoost",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ebst-usd",
+    "ccxt": {
+      "symbol": "EBST/USD",
+      "base": "EBST",
+      "quote": "USD"
+    },
+    "baseId": "ebst",
+    "quoteId": "usd",
+    "baseCurrency": "eBoost",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ert-btc",
+    "ccxt": {
+      "symbol": "ERT/BTC",
+      "base": "ERT",
+      "quote": "BTC"
+    },
+    "baseId": "ert",
+    "quoteId": "btc",
+    "baseCurrency": "ERT",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ert-doge",
+    "ccxt": {
+      "symbol": "ERT/DOGE",
+      "base": "ERT",
+      "quote": "DOGE"
+    },
+    "baseId": "ert",
+    "quoteId": "doge",
+    "baseCurrency": "ERT",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ert-ltc",
+    "ccxt": {
+      "symbol": "ERT/LTC",
+      "base": "ERT",
+      "quote": "LTC"
+    },
+    "baseId": "ert",
+    "quoteId": "ltc",
+    "baseCurrency": "ERT",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ert-usd",
+    "ccxt": {
+      "symbol": "ERT/USD",
+      "base": "ERT",
+      "quote": "USD"
+    },
+    "baseId": "ert",
+    "quoteId": "usd",
+    "baseCurrency": "ERT",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "esrc-btc",
+    "ccxt": {
+      "symbol": "ESRC/BTC",
+      "base": "ESRC",
+      "quote": "BTC"
+    },
+    "baseId": "esrc",
+    "quoteId": "btc",
+    "baseCurrency": "ESRC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "esrc-doge",
+    "ccxt": {
+      "symbol": "ESRC/DOGE",
+      "base": "ESRC",
+      "quote": "DOGE"
+    },
+    "baseId": "esrc",
+    "quoteId": "doge",
+    "baseCurrency": "ESRC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "esrc-ltc",
+    "ccxt": {
+      "symbol": "ESRC/LTC",
+      "base": "ESRC",
+      "quote": "LTC"
+    },
+    "baseId": "esrc",
+    "quoteId": "ltc",
+    "baseCurrency": "ESRC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "esrc-usd",
+    "ccxt": {
+      "symbol": "ESRC/USD",
+      "base": "ESRC",
+      "quote": "USD"
+    },
+    "baseId": "esrc",
+    "quoteId": "usd",
+    "baseCurrency": "ESRC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "etc-btc",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseId": "etc",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etc-doge",
+    "ccxt": {
+      "symbol": "ETC/DOGE",
+      "base": "ETC",
+      "quote": "DOGE"
+    },
+    "baseId": "etc",
+    "quoteId": "doge",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "etc-ltc",
+    "ccxt": {
+      "symbol": "ETC/LTC",
+      "base": "ETC",
+      "quote": "LTC"
+    },
+    "baseId": "etc",
+    "quoteId": "ltc",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "etc-usd",
+    "ccxt": {
+      "symbol": "ETC/USD",
+      "base": "ETC",
+      "quote": "USD"
+    },
+    "baseId": "etc",
+    "quoteId": "usd",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "eth-btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "eth",
+    "quoteId": "btc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth-doge",
+    "ccxt": {
+      "symbol": "ETH/DOGE",
+      "base": "ETH",
+      "quote": "DOGE"
+    },
+    "baseId": "eth",
+    "quoteId": "doge",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "eth-ltc",
+    "ccxt": {
+      "symbol": "ETH/LTC",
+      "base": "ETH",
+      "quote": "LTC"
+    },
+    "baseId": "eth",
+    "quoteId": "ltc",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "eth-usd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "eth",
+    "quoteId": "usd",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ethg-btc",
+    "ccxt": {
+      "symbol": "ETHG/BTC",
+      "base": "ETHG",
+      "quote": "BTC"
+    },
+    "baseId": "ethg",
+    "quoteId": "btc",
+    "baseCurrency": "ETHG",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethg-doge",
+    "ccxt": {
+      "symbol": "ETHG/DOGE",
+      "base": "ETHG",
+      "quote": "DOGE"
+    },
+    "baseId": "ethg",
+    "quoteId": "doge",
+    "baseCurrency": "ETHG",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ethg-ltc",
+    "ccxt": {
+      "symbol": "ETHG/LTC",
+      "base": "ETHG",
+      "quote": "LTC"
+    },
+    "baseId": "ethg",
+    "quoteId": "ltc",
+    "baseCurrency": "ETHG",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ethg-usd",
+    "ccxt": {
+      "symbol": "ETHG/USD",
+      "base": "ETHG",
+      "quote": "USD"
+    },
+    "baseId": "ethg",
+    "quoteId": "usd",
+    "baseCurrency": "ETHG",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "etx-btc",
+    "ccxt": {
+      "symbol": "ETX/BTC",
+      "base": "ETX",
+      "quote": "BTC"
+    },
+    "baseId": "etx",
+    "quoteId": "btc",
+    "baseCurrency": "ETX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "etx-doge",
+    "ccxt": {
+      "symbol": "ETX/DOGE",
+      "base": "ETX",
+      "quote": "DOGE"
+    },
+    "baseId": "etx",
+    "quoteId": "doge",
+    "baseCurrency": "ETX",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "etx-ltc",
+    "ccxt": {
+      "symbol": "ETX/LTC",
+      "base": "ETX",
+      "quote": "LTC"
+    },
+    "baseId": "etx",
+    "quoteId": "ltc",
+    "baseCurrency": "ETX",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "etx-usd",
+    "ccxt": {
+      "symbol": "ETX/USD",
+      "base": "ETX",
+      "quote": "USD"
+    },
+    "baseId": "etx",
+    "quoteId": "usd",
+    "baseCurrency": "ETX",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "evr-btc",
+    "ccxt": {
+      "symbol": "EVR/BTC",
+      "base": "EVR",
+      "quote": "BTC"
+    },
+    "baseId": "evr",
+    "quoteId": "btc",
+    "baseCurrency": "Everus",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "evr-doge",
+    "ccxt": {
+      "symbol": "EVR/DOGE",
+      "base": "EVR",
+      "quote": "DOGE"
+    },
+    "baseId": "evr",
+    "quoteId": "doge",
+    "baseCurrency": "Everus",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "evr-ltc",
+    "ccxt": {
+      "symbol": "EVR/LTC",
+      "base": "EVR",
+      "quote": "LTC"
+    },
+    "baseId": "evr",
+    "quoteId": "ltc",
+    "baseCurrency": "Everus",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "evr-usd",
+    "ccxt": {
+      "symbol": "EVR/USD",
+      "base": "EVR",
+      "quote": "USD"
+    },
+    "baseId": "evr",
+    "quoteId": "usd",
+    "baseCurrency": "Everus",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "fork-btc",
+    "ccxt": {
+      "symbol": "FORK/BTC",
+      "base": "FORK",
+      "quote": "BTC"
+    },
+    "baseId": "fork",
+    "quoteId": "btc",
+    "baseCurrency": "Forkcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "fork-doge",
+    "ccxt": {
+      "symbol": "FORK/DOGE",
+      "base": "FORK",
+      "quote": "DOGE"
+    },
+    "baseId": "fork",
+    "quoteId": "doge",
+    "baseCurrency": "Forkcoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "fork-ltc",
+    "ccxt": {
+      "symbol": "FORK/LTC",
+      "base": "FORK",
+      "quote": "LTC"
+    },
+    "baseId": "fork",
+    "quoteId": "ltc",
+    "baseCurrency": "Forkcoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "fork-usd",
+    "ccxt": {
+      "symbol": "FORK/USD",
+      "base": "FORK",
+      "quote": "USD"
+    },
+    "baseId": "fork",
+    "quoteId": "usd",
+    "baseCurrency": "Forkcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "gary-btc",
+    "ccxt": {
+      "symbol": "GARY/BTC",
+      "base": "GARY",
+      "quote": "BTC"
+    },
+    "baseId": "gary",
+    "quoteId": "btc",
+    "baseCurrency": "President Johnson",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gary-doge",
+    "ccxt": {
+      "symbol": "GARY/DOGE",
+      "base": "GARY",
+      "quote": "DOGE"
+    },
+    "baseId": "gary",
+    "quoteId": "doge",
+    "baseCurrency": "President Johnson",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "gary-ltc",
+    "ccxt": {
+      "symbol": "GARY/LTC",
+      "base": "GARY",
+      "quote": "LTC"
+    },
+    "baseId": "gary",
+    "quoteId": "ltc",
+    "baseCurrency": "President Johnson",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "gary-usd",
+    "ccxt": {
+      "symbol": "GARY/USD",
+      "base": "GARY",
+      "quote": "USD"
+    },
+    "baseId": "gary",
+    "quoteId": "usd",
+    "baseCurrency": "President Johnson",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "gcc24-btc",
+    "ccxt": {
+      "symbol": "GCC24/BTC",
+      "base": "GCC24",
+      "quote": "BTC"
+    },
+    "baseId": "gcc24",
+    "quoteId": "btc",
+    "baseCurrency": "GCC24",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gcc24-doge",
+    "ccxt": {
+      "symbol": "GCC24/DOGE",
+      "base": "GCC24",
+      "quote": "DOGE"
+    },
+    "baseId": "gcc24",
+    "quoteId": "doge",
+    "baseCurrency": "GCC24",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "gcc24-ltc",
+    "ccxt": {
+      "symbol": "GCC24/LTC",
+      "base": "GCC24",
+      "quote": "LTC"
+    },
+    "baseId": "gcc24",
+    "quoteId": "ltc",
+    "baseCurrency": "GCC24",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "gcc24-usd",
+    "ccxt": {
+      "symbol": "GCC24/USD",
+      "base": "GCC24",
+      "quote": "USD"
+    },
+    "baseId": "gcc24",
+    "quoteId": "usd",
+    "baseCurrency": "GCC24",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "gltc-btc",
+    "ccxt": {
+      "symbol": "GLTC/BTC",
+      "base": "GLTC",
+      "quote": "BTC"
+    },
+    "baseId": "gltc",
+    "quoteId": "btc",
+    "baseCurrency": "GLTC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gltc-doge",
+    "ccxt": {
+      "symbol": "GLTC/DOGE",
+      "base": "GLTC",
+      "quote": "DOGE"
+    },
+    "baseId": "gltc",
+    "quoteId": "doge",
+    "baseCurrency": "GLTC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "gltc-ltc",
+    "ccxt": {
+      "symbol": "GLTC/LTC",
+      "base": "GLTC",
+      "quote": "LTC"
+    },
+    "baseId": "gltc",
+    "quoteId": "ltc",
+    "baseCurrency": "GLTC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "gltc-usd",
+    "ccxt": {
+      "symbol": "GLTC/USD",
+      "base": "GLTC",
+      "quote": "USD"
+    },
+    "baseId": "gltc",
+    "quoteId": "usd",
+    "baseCurrency": "GLTC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "gmx-btc",
+    "ccxt": {
+      "symbol": "GMX/BTC",
+      "base": "GMX",
+      "quote": "BTC"
+    },
+    "baseId": "gmx",
+    "quoteId": "btc",
+    "baseCurrency": "GoldMaxCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "gmx-doge",
+    "ccxt": {
+      "symbol": "GMX/DOGE",
+      "base": "GMX",
+      "quote": "DOGE"
+    },
+    "baseId": "gmx",
+    "quoteId": "doge",
+    "baseCurrency": "GoldMaxCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "gmx-ltc",
+    "ccxt": {
+      "symbol": "GMX/LTC",
+      "base": "GMX",
+      "quote": "LTC"
+    },
+    "baseId": "gmx",
+    "quoteId": "ltc",
+    "baseCurrency": "GoldMaxCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "gmx-usd",
+    "ccxt": {
+      "symbol": "GMX/USD",
+      "base": "GMX",
+      "quote": "USD"
+    },
+    "baseId": "gmx",
+    "quoteId": "usd",
+    "baseCurrency": "GoldMaxCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "grc-btc",
+    "ccxt": {
+      "symbol": "GRC/BTC",
+      "base": "GRC",
+      "quote": "BTC"
+    },
+    "baseId": "grc",
+    "quoteId": "btc",
+    "baseCurrency": "GridCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "grc-doge",
+    "ccxt": {
+      "symbol": "GRC/DOGE",
+      "base": "GRC",
+      "quote": "DOGE"
+    },
+    "baseId": "grc",
+    "quoteId": "doge",
+    "baseCurrency": "GridCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "grc-ltc",
+    "ccxt": {
+      "symbol": "GRC/LTC",
+      "base": "GRC",
+      "quote": "LTC"
+    },
+    "baseId": "grc",
+    "quoteId": "ltc",
+    "baseCurrency": "GridCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "grc-usd",
+    "ccxt": {
+      "symbol": "GRC/USD",
+      "base": "GRC",
+      "quote": "USD"
+    },
+    "baseId": "grc",
+    "quoteId": "usd",
+    "baseCurrency": "GridCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "guc-btc",
+    "ccxt": {
+      "symbol": "GUC/BTC",
+      "base": "GUC",
+      "quote": "BTC"
+    },
+    "baseId": "guc",
+    "quoteId": "btc",
+    "baseCurrency": "GUC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "guc-doge",
+    "ccxt": {
+      "symbol": "GUC/DOGE",
+      "base": "GUC",
+      "quote": "DOGE"
+    },
+    "baseId": "guc",
+    "quoteId": "doge",
+    "baseCurrency": "GUC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "guc-ltc",
+    "ccxt": {
+      "symbol": "GUC/LTC",
+      "base": "GUC",
+      "quote": "LTC"
+    },
+    "baseId": "guc",
+    "quoteId": "ltc",
+    "baseCurrency": "GUC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "guc-usd",
+    "ccxt": {
+      "symbol": "GUC/USD",
+      "base": "GUC",
+      "quote": "USD"
+    },
+    "baseId": "guc",
+    "quoteId": "usd",
+    "baseCurrency": "GUC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ilc-btc",
+    "ccxt": {
+      "symbol": "ILC/BTC",
+      "base": "ILC",
+      "quote": "BTC"
+    },
+    "baseId": "ilc",
+    "quoteId": "btc",
+    "baseCurrency": "ILC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ilc-doge",
+    "ccxt": {
+      "symbol": "ILC/DOGE",
+      "base": "ILC",
+      "quote": "DOGE"
+    },
+    "baseId": "ilc",
+    "quoteId": "doge",
+    "baseCurrency": "ILC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ilc-ltc",
+    "ccxt": {
+      "symbol": "ILC/LTC",
+      "base": "ILC",
+      "quote": "LTC"
+    },
+    "baseId": "ilc",
+    "quoteId": "ltc",
+    "baseCurrency": "ILC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ilc-usd",
+    "ccxt": {
+      "symbol": "ILC/USD",
+      "base": "ILC",
+      "quote": "USD"
+    },
+    "baseId": "ilc",
+    "quoteId": "usd",
+    "baseCurrency": "ILC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "javc-btc",
+    "ccxt": {
+      "symbol": "JAVC/BTC",
+      "base": "JAVC",
+      "quote": "BTC"
+    },
+    "baseId": "javc",
+    "quoteId": "btc",
+    "baseCurrency": "JAVC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "javc-doge",
+    "ccxt": {
+      "symbol": "JAVC/DOGE",
+      "base": "JAVC",
+      "quote": "DOGE"
+    },
+    "baseId": "javc",
+    "quoteId": "doge",
+    "baseCurrency": "JAVC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "javc-ltc",
+    "ccxt": {
+      "symbol": "JAVC/LTC",
+      "base": "JAVC",
+      "quote": "LTC"
+    },
+    "baseId": "javc",
+    "quoteId": "ltc",
+    "baseCurrency": "JAVC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "javc-usd",
+    "ccxt": {
+      "symbol": "JAVC/USD",
+      "base": "JAVC",
+      "quote": "USD"
+    },
+    "baseId": "javc",
+    "quoteId": "usd",
+    "baseCurrency": "JAVC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "kpl-btc",
+    "ccxt": {
+      "symbol": "KPL/BTC",
+      "base": "KPL",
+      "quote": "BTC"
+    },
+    "baseId": "kpl",
+    "quoteId": "btc",
+    "baseCurrency": "KPL",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "kpl-doge",
+    "ccxt": {
+      "symbol": "KPL/DOGE",
+      "base": "KPL",
+      "quote": "DOGE"
+    },
+    "baseId": "kpl",
+    "quoteId": "doge",
+    "baseCurrency": "KPL",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "kpl-ltc",
+    "ccxt": {
+      "symbol": "KPL/LTC",
+      "base": "KPL",
+      "quote": "LTC"
+    },
+    "baseId": "kpl",
+    "quoteId": "ltc",
+    "baseCurrency": "KPL",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "kpl-usd",
+    "ccxt": {
+      "symbol": "KPL/USD",
+      "base": "KPL",
+      "quote": "USD"
+    },
+    "baseId": "kpl",
+    "quoteId": "usd",
+    "baseCurrency": "KPL",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "leo-btc",
+    "ccxt": {
+      "symbol": "LEO/BTC",
+      "base": "LEO",
+      "quote": "BTC"
+    },
+    "baseId": "leo",
+    "quoteId": "btc",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "leo-doge",
+    "ccxt": {
+      "symbol": "LEO/DOGE",
+      "base": "LEO",
+      "quote": "DOGE"
+    },
+    "baseId": "leo",
+    "quoteId": "doge",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "leo-ltc",
+    "ccxt": {
+      "symbol": "LEO/LTC",
+      "base": "LEO",
+      "quote": "LTC"
+    },
+    "baseId": "leo",
+    "quoteId": "ltc",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "leo-usd",
+    "ccxt": {
+      "symbol": "LEO/USD",
+      "base": "LEO",
+      "quote": "USD"
+    },
+    "baseId": "leo",
+    "quoteId": "usd",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "linda-btc",
+    "ccxt": {
+      "symbol": "LINDA/BTC",
+      "base": "LINDA",
+      "quote": "BTC"
+    },
+    "baseId": "linda",
+    "quoteId": "btc",
+    "baseCurrency": "Linda",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "linda-doge",
+    "ccxt": {
+      "symbol": "LINDA/DOGE",
+      "base": "LINDA",
+      "quote": "DOGE"
+    },
+    "baseId": "linda",
+    "quoteId": "doge",
+    "baseCurrency": "Linda",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "linda-ltc",
+    "ccxt": {
+      "symbol": "LINDA/LTC",
+      "base": "LINDA",
+      "quote": "LTC"
+    },
+    "baseId": "linda",
+    "quoteId": "ltc",
+    "baseCurrency": "Linda",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "linda-usd",
+    "ccxt": {
+      "symbol": "LINDA/USD",
+      "base": "LINDA",
+      "quote": "USD"
+    },
+    "baseId": "linda",
+    "quoteId": "usd",
+    "baseCurrency": "Linda",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "loyal-btc",
+    "ccxt": {
+      "symbol": "LOYAL/BTC",
+      "base": "LOYAL",
+      "quote": "BTC"
+    },
+    "baseId": "loyal",
+    "quoteId": "btc",
+    "baseCurrency": "LOYAL",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "loyal-doge",
+    "ccxt": {
+      "symbol": "LOYAL/DOGE",
+      "base": "LOYAL",
+      "quote": "DOGE"
+    },
+    "baseId": "loyal",
+    "quoteId": "doge",
+    "baseCurrency": "LOYAL",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "loyal-ltc",
+    "ccxt": {
+      "symbol": "LOYAL/LTC",
+      "base": "LOYAL",
+      "quote": "LTC"
+    },
+    "baseId": "loyal",
+    "quoteId": "ltc",
+    "baseCurrency": "LOYAL",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "loyal-usd",
+    "ccxt": {
+      "symbol": "LOYAL/USD",
+      "base": "LOYAL",
+      "quote": "USD"
+    },
+    "baseId": "loyal",
+    "quoteId": "usd",
+    "baseCurrency": "LOYAL",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ltc-btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "ltc",
+    "quoteId": "btc",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc-doge",
+    "ccxt": {
+      "symbol": "LTC/DOGE",
+      "base": "LTC",
+      "quote": "DOGE"
+    },
+    "baseId": "ltc",
+    "quoteId": "doge",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ltc-usd",
+    "ccxt": {
+      "symbol": "LTC/USD",
+      "base": "LTC",
+      "quote": "USD"
+    },
+    "baseId": "ltc",
+    "quoteId": "usd",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "lux-btc",
+    "ccxt": {
+      "symbol": "Luxmi/BTC",
+      "base": "Luxmi",
+      "quote": "BTC"
+    },
+    "baseId": "lux",
+    "quoteId": "btc",
+    "baseCurrency": "Luxmi",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "lux-doge",
+    "ccxt": {
+      "symbol": "Luxmi/DOGE",
+      "base": "Luxmi",
+      "quote": "DOGE"
+    },
+    "baseId": "lux",
+    "quoteId": "doge",
+    "baseCurrency": "Luxmi",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "lux-ltc",
+    "ccxt": {
+      "symbol": "Luxmi/LTC",
+      "base": "Luxmi",
+      "quote": "LTC"
+    },
+    "baseId": "lux",
+    "quoteId": "ltc",
+    "baseCurrency": "Luxmi",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "lux-usd",
+    "ccxt": {
+      "symbol": "Luxmi/USD",
+      "base": "Luxmi",
+      "quote": "USD"
+    },
+    "baseId": "lux",
+    "quoteId": "usd",
+    "baseCurrency": "Luxmi",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "mass-btc",
+    "ccxt": {
+      "symbol": "MASS/BTC",
+      "base": "MASS",
+      "quote": "BTC"
+    },
+    "baseId": "mass",
+    "quoteId": "btc",
+    "baseCurrency": "MASS",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mass-doge",
+    "ccxt": {
+      "symbol": "MASS/DOGE",
+      "base": "MASS",
+      "quote": "DOGE"
+    },
+    "baseId": "mass",
+    "quoteId": "doge",
+    "baseCurrency": "MASS",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "mass-ltc",
+    "ccxt": {
+      "symbol": "MASS/LTC",
+      "base": "MASS",
+      "quote": "LTC"
+    },
+    "baseId": "mass",
+    "quoteId": "ltc",
+    "baseCurrency": "MASS",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "mass-usd",
+    "ccxt": {
+      "symbol": "MASS/USD",
+      "base": "MASS",
+      "quote": "USD"
+    },
+    "baseId": "mass",
+    "quoteId": "usd",
+    "baseCurrency": "MASS",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "mcap-btc",
+    "ccxt": {
+      "symbol": "MCAP/BTC",
+      "base": "MCAP",
+      "quote": "BTC"
+    },
+    "baseId": "mcap",
+    "quoteId": "btc",
+    "baseCurrency": "MCAP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mcap-doge",
+    "ccxt": {
+      "symbol": "MCAP/DOGE",
+      "base": "MCAP",
+      "quote": "DOGE"
+    },
+    "baseId": "mcap",
+    "quoteId": "doge",
+    "baseCurrency": "MCAP",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "mcap-ltc",
+    "ccxt": {
+      "symbol": "MCAP/LTC",
+      "base": "MCAP",
+      "quote": "LTC"
+    },
+    "baseId": "mcap",
+    "quoteId": "ltc",
+    "baseCurrency": "MCAP",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "mcap-usd",
+    "ccxt": {
+      "symbol": "MCAP/USD",
+      "base": "MCAP",
+      "quote": "USD"
+    },
+    "baseId": "mcap",
+    "quoteId": "usd",
+    "baseCurrency": "MCAP",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "mix-btc",
+    "ccxt": {
+      "symbol": "MIX/BTC",
+      "base": "MIX",
+      "quote": "BTC"
+    },
+    "baseId": "mix",
+    "quoteId": "btc",
+    "baseCurrency": "MIX",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mix-doge",
+    "ccxt": {
+      "symbol": "MIX/DOGE",
+      "base": "MIX",
+      "quote": "DOGE"
+    },
+    "baseId": "mix",
+    "quoteId": "doge",
+    "baseCurrency": "MIX",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "mix-ltc",
+    "ccxt": {
+      "symbol": "MIX/LTC",
+      "base": "MIX",
+      "quote": "LTC"
+    },
+    "baseId": "mix",
+    "quoteId": "ltc",
+    "baseCurrency": "MIX",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "mix-usd",
+    "ccxt": {
+      "symbol": "MIX/USD",
+      "base": "MIX",
+      "quote": "USD"
+    },
+    "baseId": "mix",
+    "quoteId": "usd",
+    "baseCurrency": "MIX",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "mlm-btc",
+    "ccxt": {
+      "symbol": "MLM/BTC",
+      "base": "MLM",
+      "quote": "BTC"
+    },
+    "baseId": "mlm",
+    "quoteId": "btc",
+    "baseCurrency": "MktCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mlm-doge",
+    "ccxt": {
+      "symbol": "MLM/DOGE",
+      "base": "MLM",
+      "quote": "DOGE"
+    },
+    "baseId": "mlm",
+    "quoteId": "doge",
+    "baseCurrency": "MktCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "mlm-ltc",
+    "ccxt": {
+      "symbol": "MLM/LTC",
+      "base": "MLM",
+      "quote": "LTC"
+    },
+    "baseId": "mlm",
+    "quoteId": "ltc",
+    "baseCurrency": "MktCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "mlm-usd",
+    "ccxt": {
+      "symbol": "MLM/USD",
+      "base": "MLM",
+      "quote": "USD"
+    },
+    "baseId": "mlm",
+    "quoteId": "usd",
+    "baseCurrency": "MktCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "moin-btc",
+    "ccxt": {
+      "symbol": "MOIN/BTC",
+      "base": "MOIN",
+      "quote": "BTC"
+    },
+    "baseId": "moin",
+    "quoteId": "btc",
+    "baseCurrency": "Moin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "moin-doge",
+    "ccxt": {
+      "symbol": "MOIN/DOGE",
+      "base": "MOIN",
+      "quote": "DOGE"
+    },
+    "baseId": "moin",
+    "quoteId": "doge",
+    "baseCurrency": "Moin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "moin-ltc",
+    "ccxt": {
+      "symbol": "MOIN/LTC",
+      "base": "MOIN",
+      "quote": "LTC"
+    },
+    "baseId": "moin",
+    "quoteId": "ltc",
+    "baseCurrency": "Moin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "moin-usd",
+    "ccxt": {
+      "symbol": "MOIN/USD",
+      "base": "MOIN",
+      "quote": "USD"
+    },
+    "baseId": "moin",
+    "quoteId": "usd",
+    "baseCurrency": "Moin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "mvdsc-btc",
+    "ccxt": {
+      "symbol": "MVDSC/BTC",
+      "base": "MVDSC",
+      "quote": "BTC"
+    },
+    "baseId": "mvdsc",
+    "quoteId": "btc",
+    "baseCurrency": "MVDSC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "mvdsc-doge",
+    "ccxt": {
+      "symbol": "MVDSC/DOGE",
+      "base": "MVDSC",
+      "quote": "DOGE"
+    },
+    "baseId": "mvdsc",
+    "quoteId": "doge",
+    "baseCurrency": "MVDSC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "mvdsc-ltc",
+    "ccxt": {
+      "symbol": "MVDSC/LTC",
+      "base": "MVDSC",
+      "quote": "LTC"
+    },
+    "baseId": "mvdsc",
+    "quoteId": "ltc",
+    "baseCurrency": "MVDSC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "mvdsc-usd",
+    "ccxt": {
+      "symbol": "MVDSC/USD",
+      "base": "MVDSC",
+      "quote": "USD"
+    },
+    "baseId": "mvdsc",
+    "quoteId": "usd",
+    "baseCurrency": "MVDSC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ndc-btc",
+    "ccxt": {
+      "symbol": "NDC/BTC",
+      "base": "NDC",
+      "quote": "BTC"
+    },
+    "baseId": "ndc",
+    "quoteId": "btc",
+    "baseCurrency": "NEVERDIE",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ndc-doge",
+    "ccxt": {
+      "symbol": "NDC/DOGE",
+      "base": "NDC",
+      "quote": "DOGE"
+    },
+    "baseId": "ndc",
+    "quoteId": "doge",
+    "baseCurrency": "NEVERDIE",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "ndc-ltc",
+    "ccxt": {
+      "symbol": "NDC/LTC",
+      "base": "NDC",
+      "quote": "LTC"
+    },
+    "baseId": "ndc",
+    "quoteId": "ltc",
+    "baseCurrency": "NEVERDIE",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "ndc-usd",
+    "ccxt": {
+      "symbol": "NDC/USD",
+      "base": "NDC",
+      "quote": "USD"
+    },
+    "baseId": "ndc",
+    "quoteId": "usd",
+    "baseCurrency": "NEVERDIE",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "nxt-btc",
+    "ccxt": {
+      "symbol": "NXT/BTC",
+      "base": "NXT",
+      "quote": "BTC"
+    },
+    "baseId": "nxt",
+    "quoteId": "btc",
+    "baseCurrency": "Nxt",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "nxt-doge",
+    "ccxt": {
+      "symbol": "NXT/DOGE",
+      "base": "NXT",
+      "quote": "DOGE"
+    },
+    "baseId": "nxt",
+    "quoteId": "doge",
+    "baseCurrency": "Nxt",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "nxt-ltc",
+    "ccxt": {
+      "symbol": "NXT/LTC",
+      "base": "NXT",
+      "quote": "LTC"
+    },
+    "baseId": "nxt",
+    "quoteId": "ltc",
+    "baseCurrency": "Nxt",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "nxt-usd",
+    "ccxt": {
+      "symbol": "NXT/USD",
+      "base": "NXT",
+      "quote": "USD"
+    },
+    "baseId": "nxt",
+    "quoteId": "usd",
+    "baseCurrency": "Nxt",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "od-btc",
+    "ccxt": {
+      "symbol": "OD/BTC",
+      "base": "OD",
+      "quote": "BTC"
+    },
+    "baseId": "od",
+    "quoteId": "btc",
+    "baseCurrency": "OD",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "od-doge",
+    "ccxt": {
+      "symbol": "OD/DOGE",
+      "base": "OD",
+      "quote": "DOGE"
+    },
+    "baseId": "od",
+    "quoteId": "doge",
+    "baseCurrency": "OD",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "od-ltc",
+    "ccxt": {
+      "symbol": "OD/LTC",
+      "base": "OD",
+      "quote": "LTC"
+    },
+    "baseId": "od",
+    "quoteId": "ltc",
+    "baseCurrency": "OD",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "od-usd",
+    "ccxt": {
+      "symbol": "OD/USD",
+      "base": "OD",
+      "quote": "USD"
+    },
+    "baseId": "od",
+    "quoteId": "usd",
+    "baseCurrency": "OD",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "omni-btc",
+    "ccxt": {
+      "symbol": "OMNI/BTC",
+      "base": "OMNI",
+      "quote": "BTC"
+    },
+    "baseId": "omni",
+    "quoteId": "btc",
+    "baseCurrency": "Omni",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "omni-doge",
+    "ccxt": {
+      "symbol": "OMNI/DOGE",
+      "base": "OMNI",
+      "quote": "DOGE"
+    },
+    "baseId": "omni",
+    "quoteId": "doge",
+    "baseCurrency": "Omni",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "omni-ltc",
+    "ccxt": {
+      "symbol": "OMNI/LTC",
+      "base": "OMNI",
+      "quote": "LTC"
+    },
+    "baseId": "omni",
+    "quoteId": "ltc",
+    "baseCurrency": "Omni",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "omni-usd",
+    "ccxt": {
+      "symbol": "OMNI/USD",
+      "base": "OMNI",
+      "quote": "USD"
+    },
+    "baseId": "omni",
+    "quoteId": "usd",
+    "baseCurrency": "Omni",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "orme-btc",
+    "ccxt": {
+      "symbol": "ORME/BTC",
+      "base": "ORME",
+      "quote": "BTC"
+    },
+    "baseId": "orme",
+    "quoteId": "btc",
+    "baseCurrency": "Ormeus Coin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "orme-doge",
+    "ccxt": {
+      "symbol": "ORME/DOGE",
+      "base": "ORME",
+      "quote": "DOGE"
+    },
+    "baseId": "orme",
+    "quoteId": "doge",
+    "baseCurrency": "Ormeus Coin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "orme-ltc",
+    "ccxt": {
+      "symbol": "ORME/LTC",
+      "base": "ORME",
+      "quote": "LTC"
+    },
+    "baseId": "orme",
+    "quoteId": "ltc",
+    "baseCurrency": "Ormeus Coin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "orme-usd",
+    "ccxt": {
+      "symbol": "ORME/USD",
+      "base": "ORME",
+      "quote": "USD"
+    },
+    "baseId": "orme",
+    "quoteId": "usd",
+    "baseCurrency": "Ormeus Coin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "otx-btc",
+    "ccxt": {
+      "symbol": "OTX/BTC",
+      "base": "OTX",
+      "quote": "BTC"
+    },
+    "baseId": "otx",
+    "quoteId": "btc",
+    "baseCurrency": "Octanox",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "otx-doge",
+    "ccxt": {
+      "symbol": "OTX/DOGE",
+      "base": "OTX",
+      "quote": "DOGE"
+    },
+    "baseId": "otx",
+    "quoteId": "doge",
+    "baseCurrency": "Octanox",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "otx-ltc",
+    "ccxt": {
+      "symbol": "OTX/LTC",
+      "base": "OTX",
+      "quote": "LTC"
+    },
+    "baseId": "otx",
+    "quoteId": "ltc",
+    "baseCurrency": "Octanox",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "otx-usd",
+    "ccxt": {
+      "symbol": "OTX/USD",
+      "base": "OTX",
+      "quote": "USD"
+    },
+    "baseId": "otx",
+    "quoteId": "usd",
+    "baseCurrency": "Octanox",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "pai-btc",
+    "ccxt": {
+      "symbol": "PAI/BTC",
+      "base": "PAI",
+      "quote": "BTC"
+    },
+    "baseId": "pai",
+    "quoteId": "btc",
+    "baseCurrency": "Project Pai",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pai-doge",
+    "ccxt": {
+      "symbol": "PAI/DOGE",
+      "base": "PAI",
+      "quote": "DOGE"
+    },
+    "baseId": "pai",
+    "quoteId": "doge",
+    "baseCurrency": "Project Pai",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "pai-ltc",
+    "ccxt": {
+      "symbol": "PAI/LTC",
+      "base": "PAI",
+      "quote": "LTC"
+    },
+    "baseId": "pai",
+    "quoteId": "ltc",
+    "baseCurrency": "Project Pai",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "pai-usd",
+    "ccxt": {
+      "symbol": "PAI/USD",
+      "base": "PAI",
+      "quote": "USD"
+    },
+    "baseId": "pai",
+    "quoteId": "usd",
+    "baseCurrency": "Project Pai",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "pcs-btc",
+    "ccxt": {
+      "symbol": "PCS/BTC",
+      "base": "PCS",
+      "quote": "BTC"
+    },
+    "baseId": "pcs",
+    "quoteId": "btc",
+    "baseCurrency": "Pabyosi Coin (Special)",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pcs-doge",
+    "ccxt": {
+      "symbol": "PCS/DOGE",
+      "base": "PCS",
+      "quote": "DOGE"
+    },
+    "baseId": "pcs",
+    "quoteId": "doge",
+    "baseCurrency": "Pabyosi Coin (Special)",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "pcs-ltc",
+    "ccxt": {
+      "symbol": "PCS/LTC",
+      "base": "PCS",
+      "quote": "LTC"
+    },
+    "baseId": "pcs",
+    "quoteId": "ltc",
+    "baseCurrency": "Pabyosi Coin (Special)",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "pcs-usd",
+    "ccxt": {
+      "symbol": "PCS/USD",
+      "base": "PCS",
+      "quote": "USD"
+    },
+    "baseId": "pcs",
+    "quoteId": "usd",
+    "baseCurrency": "Pabyosi Coin (Special)",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "pguc-btc",
+    "ccxt": {
+      "symbol": "PGUC/BTC",
+      "base": "PGUC",
+      "quote": "BTC"
+    },
+    "baseId": "pguc",
+    "quoteId": "btc",
+    "baseCurrency": "PGUC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pguc-doge",
+    "ccxt": {
+      "symbol": "PGUC/DOGE",
+      "base": "PGUC",
+      "quote": "DOGE"
+    },
+    "baseId": "pguc",
+    "quoteId": "doge",
+    "baseCurrency": "PGUC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "pguc-ltc",
+    "ccxt": {
+      "symbol": "PGUC/LTC",
+      "base": "PGUC",
+      "quote": "LTC"
+    },
+    "baseId": "pguc",
+    "quoteId": "ltc",
+    "baseCurrency": "PGUC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "pguc-usd",
+    "ccxt": {
+      "symbol": "PGUC/USD",
+      "base": "PGUC",
+      "quote": "USD"
+    },
+    "baseId": "pguc",
+    "quoteId": "usd",
+    "baseCurrency": "PGUC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "phx-btc",
+    "ccxt": {
+      "symbol": "PHX/BTC",
+      "base": "PHX",
+      "quote": "BTC"
+    },
+    "baseId": "phx",
+    "quoteId": "btc",
+    "baseCurrency": "Red Pulse Phoenix",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "phx-doge",
+    "ccxt": {
+      "symbol": "PHX/DOGE",
+      "base": "PHX",
+      "quote": "DOGE"
+    },
+    "baseId": "phx",
+    "quoteId": "doge",
+    "baseCurrency": "Red Pulse Phoenix",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "phx-ltc",
+    "ccxt": {
+      "symbol": "PHX/LTC",
+      "base": "PHX",
+      "quote": "LTC"
+    },
+    "baseId": "phx",
+    "quoteId": "ltc",
+    "baseCurrency": "Red Pulse Phoenix",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "phx-usd",
+    "ccxt": {
+      "symbol": "PHX/USD",
+      "base": "PHX",
+      "quote": "USD"
+    },
+    "baseId": "phx",
+    "quoteId": "usd",
+    "baseCurrency": "Red Pulse Phoenix",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "prc-btc",
+    "ccxt": {
+      "symbol": "PRC/BTC",
+      "base": "PRC",
+      "quote": "BTC"
+    },
+    "baseId": "prc",
+    "quoteId": "btc",
+    "baseCurrency": "PRCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "prc-doge",
+    "ccxt": {
+      "symbol": "PRC/DOGE",
+      "base": "PRC",
+      "quote": "DOGE"
+    },
+    "baseId": "prc",
+    "quoteId": "doge",
+    "baseCurrency": "PRCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "prc-ltc",
+    "ccxt": {
+      "symbol": "PRC/LTC",
+      "base": "PRC",
+      "quote": "LTC"
+    },
+    "baseId": "prc",
+    "quoteId": "ltc",
+    "baseCurrency": "PRCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "prc-usd",
+    "ccxt": {
+      "symbol": "PRC/USD",
+      "base": "PRC",
+      "quote": "USD"
+    },
+    "baseId": "prc",
+    "quoteId": "usd",
+    "baseCurrency": "PRCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "pres-btc",
+    "ccxt": {
+      "symbol": "PRES/BTC",
+      "base": "PRES",
+      "quote": "BTC"
+    },
+    "baseId": "pres",
+    "quoteId": "btc",
+    "baseCurrency": "President Trump",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pres-doge",
+    "ccxt": {
+      "symbol": "PRES/DOGE",
+      "base": "PRES",
+      "quote": "DOGE"
+    },
+    "baseId": "pres",
+    "quoteId": "doge",
+    "baseCurrency": "President Trump",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "pres-ltc",
+    "ccxt": {
+      "symbol": "PRES/LTC",
+      "base": "PRES",
+      "quote": "LTC"
+    },
+    "baseId": "pres",
+    "quoteId": "ltc",
+    "baseCurrency": "President Trump",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "pres-usd",
+    "ccxt": {
+      "symbol": "PRES/USD",
+      "base": "PRES",
+      "quote": "USD"
+    },
+    "baseId": "pres",
+    "quoteId": "usd",
+    "baseCurrency": "President Trump",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "pts-btc",
+    "ccxt": {
+      "symbol": "PTS/BTC",
+      "base": "PTS",
+      "quote": "BTC"
+    },
+    "baseId": "pts",
+    "quoteId": "btc",
+    "baseCurrency": "PitisCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "pts-doge",
+    "ccxt": {
+      "symbol": "PTS/DOGE",
+      "base": "PTS",
+      "quote": "DOGE"
+    },
+    "baseId": "pts",
+    "quoteId": "doge",
+    "baseCurrency": "PitisCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "pts-ltc",
+    "ccxt": {
+      "symbol": "PTS/LTC",
+      "base": "PTS",
+      "quote": "LTC"
+    },
+    "baseId": "pts",
+    "quoteId": "ltc",
+    "baseCurrency": "PitisCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "pts-usd",
+    "ccxt": {
+      "symbol": "PTS/USD",
+      "base": "PTS",
+      "quote": "USD"
+    },
+    "baseId": "pts",
+    "quoteId": "usd",
+    "baseCurrency": "PitisCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "r-btc",
+    "ccxt": {
+      "symbol": "R/BTC",
+      "base": "R",
+      "quote": "BTC"
+    },
+    "baseId": "r",
+    "quoteId": "btc",
+    "baseCurrency": "Revain",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "r-doge",
+    "ccxt": {
+      "symbol": "R/DOGE",
+      "base": "R",
+      "quote": "DOGE"
+    },
+    "baseId": "r",
+    "quoteId": "doge",
+    "baseCurrency": "Revain",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "r-ltc",
+    "ccxt": {
+      "symbol": "R/LTC",
+      "base": "R",
+      "quote": "LTC"
+    },
+    "baseId": "r",
+    "quoteId": "ltc",
+    "baseCurrency": "Revain",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "r-usd",
+    "ccxt": {
+      "symbol": "R/USD",
+      "base": "R",
+      "quote": "USD"
+    },
+    "baseId": "r",
+    "quoteId": "usd",
+    "baseCurrency": "Revain",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "rbies-btc",
+    "ccxt": {
+      "symbol": "RBIES/BTC",
+      "base": "RBIES",
+      "quote": "BTC"
+    },
+    "baseId": "rbies",
+    "quoteId": "btc",
+    "baseCurrency": "Rubies",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rbies-doge",
+    "ccxt": {
+      "symbol": "RBIES/DOGE",
+      "base": "RBIES",
+      "quote": "DOGE"
+    },
+    "baseId": "rbies",
+    "quoteId": "doge",
+    "baseCurrency": "Rubies",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "rbies-ltc",
+    "ccxt": {
+      "symbol": "RBIES/LTC",
+      "base": "RBIES",
+      "quote": "LTC"
+    },
+    "baseId": "rbies",
+    "quoteId": "ltc",
+    "baseCurrency": "Rubies",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "rbies-usd",
+    "ccxt": {
+      "symbol": "RBIES/USD",
+      "base": "RBIES",
+      "quote": "USD"
+    },
+    "baseId": "rbies",
+    "quoteId": "usd",
+    "baseCurrency": "Rubies",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "rev-btc",
+    "ccxt": {
+      "symbol": "REV/BTC",
+      "base": "REV",
+      "quote": "BTC"
+    },
+    "baseId": "rev",
+    "quoteId": "btc",
+    "baseCurrency": "REV",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rev-doge",
+    "ccxt": {
+      "symbol": "REV/DOGE",
+      "base": "REV",
+      "quote": "DOGE"
+    },
+    "baseId": "rev",
+    "quoteId": "doge",
+    "baseCurrency": "REV",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "rev-ltc",
+    "ccxt": {
+      "symbol": "REV/LTC",
+      "base": "REV",
+      "quote": "LTC"
+    },
+    "baseId": "rev",
+    "quoteId": "ltc",
+    "baseCurrency": "REV",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "rev-usd",
+    "ccxt": {
+      "symbol": "REV/USD",
+      "base": "REV",
+      "quote": "USD"
+    },
+    "baseId": "rev",
+    "quoteId": "usd",
+    "baseCurrency": "REV",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "rhfc-btc",
+    "ccxt": {
+      "symbol": "RHFC/BTC",
+      "base": "RHFC",
+      "quote": "BTC"
+    },
+    "baseId": "rhfc",
+    "quoteId": "btc",
+    "baseCurrency": "RHFC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "rhfc-doge",
+    "ccxt": {
+      "symbol": "RHFC/DOGE",
+      "base": "RHFC",
+      "quote": "DOGE"
+    },
+    "baseId": "rhfc",
+    "quoteId": "doge",
+    "baseCurrency": "RHFC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "rhfc-ltc",
+    "ccxt": {
+      "symbol": "RHFC/LTC",
+      "base": "RHFC",
+      "quote": "LTC"
+    },
+    "baseId": "rhfc",
+    "quoteId": "ltc",
+    "baseCurrency": "RHFC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "rhfc-usd",
+    "ccxt": {
+      "symbol": "RHFC/USD",
+      "base": "RHFC",
+      "quote": "USD"
+    },
+    "baseId": "rhfc",
+    "quoteId": "usd",
+    "baseCurrency": "RHFC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "sdc12-btc",
+    "ccxt": {
+      "symbol": "SDC12/BTC",
+      "base": "SDC12",
+      "quote": "BTC"
+    },
+    "baseId": "sdc12",
+    "quoteId": "btc",
+    "baseCurrency": "SDC12",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sdc12-doge",
+    "ccxt": {
+      "symbol": "SDC12/DOGE",
+      "base": "SDC12",
+      "quote": "DOGE"
+    },
+    "baseId": "sdc12",
+    "quoteId": "doge",
+    "baseCurrency": "SDC12",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "sdc12-ltc",
+    "ccxt": {
+      "symbol": "SDC12/LTC",
+      "base": "SDC12",
+      "quote": "LTC"
+    },
+    "baseId": "sdc12",
+    "quoteId": "ltc",
+    "baseCurrency": "SDC12",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "sdc12-usd",
+    "ccxt": {
+      "symbol": "SDC12/USD",
+      "base": "SDC12",
+      "quote": "USD"
+    },
+    "baseId": "sdc12",
+    "quoteId": "usd",
+    "baseCurrency": "SDC12",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "sfi-btc",
+    "ccxt": {
+      "symbol": "SFI/BTC",
+      "base": "SFI",
+      "quote": "BTC"
+    },
+    "baseId": "sfi",
+    "quoteId": "btc",
+    "baseCurrency": "SFI",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sfi-doge",
+    "ccxt": {
+      "symbol": "SFI/DOGE",
+      "base": "SFI",
+      "quote": "DOGE"
+    },
+    "baseId": "sfi",
+    "quoteId": "doge",
+    "baseCurrency": "SFI",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "sfi-ltc",
+    "ccxt": {
+      "symbol": "SFI/LTC",
+      "base": "SFI",
+      "quote": "LTC"
+    },
+    "baseId": "sfi",
+    "quoteId": "ltc",
+    "baseCurrency": "SFI",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "sfi-usd",
+    "ccxt": {
+      "symbol": "SFI/USD",
+      "base": "SFI",
+      "quote": "USD"
+    },
+    "baseId": "sfi",
+    "quoteId": "usd",
+    "baseCurrency": "SFI",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "sgc-btc",
+    "ccxt": {
+      "symbol": "SGC/BTC",
+      "base": "SGC",
+      "quote": "BTC"
+    },
+    "baseId": "sgc",
+    "quoteId": "btc",
+    "baseCurrency": "SGC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sgc-doge",
+    "ccxt": {
+      "symbol": "SGC/DOGE",
+      "base": "SGC",
+      "quote": "DOGE"
+    },
+    "baseId": "sgc",
+    "quoteId": "doge",
+    "baseCurrency": "SGC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "sgc-ltc",
+    "ccxt": {
+      "symbol": "SGC/LTC",
+      "base": "SGC",
+      "quote": "LTC"
+    },
+    "baseId": "sgc",
+    "quoteId": "ltc",
+    "baseCurrency": "SGC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "sgc-usd",
+    "ccxt": {
+      "symbol": "SGC/USD",
+      "base": "SGC",
+      "quote": "USD"
+    },
+    "baseId": "sgc",
+    "quoteId": "usd",
+    "baseCurrency": "SGC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "sib-btc",
+    "ccxt": {
+      "symbol": "SIB/BTC",
+      "base": "SIB",
+      "quote": "BTC"
+    },
+    "baseId": "sib",
+    "quoteId": "btc",
+    "baseCurrency": "SIBCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "sib-doge",
+    "ccxt": {
+      "symbol": "SIB/DOGE",
+      "base": "SIB",
+      "quote": "DOGE"
+    },
+    "baseId": "sib",
+    "quoteId": "doge",
+    "baseCurrency": "SIBCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "sib-ltc",
+    "ccxt": {
+      "symbol": "SIB/LTC",
+      "base": "SIB",
+      "quote": "LTC"
+    },
+    "baseId": "sib",
+    "quoteId": "ltc",
+    "baseCurrency": "SIBCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "sib-usd",
+    "ccxt": {
+      "symbol": "SIB/USD",
+      "base": "SIB",
+      "quote": "USD"
+    },
+    "baseId": "sib",
+    "quoteId": "usd",
+    "baseCurrency": "SIBCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "szc-btc",
+    "ccxt": {
+      "symbol": "SZC/BTC",
+      "base": "SZC",
+      "quote": "BTC"
+    },
+    "baseId": "szc",
+    "quoteId": "btc",
+    "baseCurrency": "SZC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "szc-doge",
+    "ccxt": {
+      "symbol": "SZC/DOGE",
+      "base": "SZC",
+      "quote": "DOGE"
+    },
+    "baseId": "szc",
+    "quoteId": "doge",
+    "baseCurrency": "SZC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "szc-ltc",
+    "ccxt": {
+      "symbol": "SZC/LTC",
+      "base": "SZC",
+      "quote": "LTC"
+    },
+    "baseId": "szc",
+    "quoteId": "ltc",
+    "baseCurrency": "SZC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "szc-usd",
+    "ccxt": {
+      "symbol": "SZC/USD",
+      "base": "SZC",
+      "quote": "USD"
+    },
+    "baseId": "szc",
+    "quoteId": "usd",
+    "baseCurrency": "SZC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "tesla-btc",
+    "ccxt": {
+      "symbol": "TESLA/BTC",
+      "base": "TESLA",
+      "quote": "BTC"
+    },
+    "baseId": "tesla",
+    "quoteId": "btc",
+    "baseCurrency": "TeslaCoilCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "tesla-doge",
+    "ccxt": {
+      "symbol": "TESLA/DOGE",
+      "base": "TESLA",
+      "quote": "DOGE"
+    },
+    "baseId": "tesla",
+    "quoteId": "doge",
+    "baseCurrency": "TeslaCoilCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "tesla-ltc",
+    "ccxt": {
+      "symbol": "TESLA/LTC",
+      "base": "TESLA",
+      "quote": "LTC"
+    },
+    "baseId": "tesla",
+    "quoteId": "ltc",
+    "baseCurrency": "TeslaCoilCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "tesla-usd",
+    "ccxt": {
+      "symbol": "TESLA/USD",
+      "base": "TESLA",
+      "quote": "USD"
+    },
+    "baseId": "tesla",
+    "quoteId": "usd",
+    "baseCurrency": "TeslaCoilCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "toa-btc",
+    "ccxt": {
+      "symbol": "TOA/BTC",
+      "base": "TOA",
+      "quote": "BTC"
+    },
+    "baseId": "toa",
+    "quoteId": "btc",
+    "baseCurrency": "ToaCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "toa-doge",
+    "ccxt": {
+      "symbol": "TOA/DOGE",
+      "base": "TOA",
+      "quote": "DOGE"
+    },
+    "baseId": "toa",
+    "quoteId": "doge",
+    "baseCurrency": "ToaCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "toa-ltc",
+    "ccxt": {
+      "symbol": "TOA/LTC",
+      "base": "TOA",
+      "quote": "LTC"
+    },
+    "baseId": "toa",
+    "quoteId": "ltc",
+    "baseCurrency": "ToaCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "toa-usd",
+    "ccxt": {
+      "symbol": "TOA/USD",
+      "base": "TOA",
+      "quote": "USD"
+    },
+    "baseId": "toa",
+    "quoteId": "usd",
+    "baseCurrency": "ToaCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "trc-btc",
+    "ccxt": {
+      "symbol": "TRC/BTC",
+      "base": "TRC",
+      "quote": "BTC"
+    },
+    "baseId": "trc",
+    "quoteId": "btc",
+    "baseCurrency": "Terracoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "trc-doge",
+    "ccxt": {
+      "symbol": "TRC/DOGE",
+      "base": "TRC",
+      "quote": "DOGE"
+    },
+    "baseId": "trc",
+    "quoteId": "doge",
+    "baseCurrency": "Terracoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "trc-ltc",
+    "ccxt": {
+      "symbol": "TRC/LTC",
+      "base": "TRC",
+      "quote": "LTC"
+    },
+    "baseId": "trc",
+    "quoteId": "ltc",
+    "baseCurrency": "Terracoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "trc-usd",
+    "ccxt": {
+      "symbol": "TRC/USD",
+      "base": "TRC",
+      "quote": "USD"
+    },
+    "baseId": "trc",
+    "quoteId": "usd",
+    "baseCurrency": "Terracoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "uno-btc",
+    "ccxt": {
+      "symbol": "UNO/BTC",
+      "base": "UNO",
+      "quote": "BTC"
+    },
+    "baseId": "uno",
+    "quoteId": "btc",
+    "baseCurrency": "Unobtanium",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "uno-doge",
+    "ccxt": {
+      "symbol": "UNO/DOGE",
+      "base": "UNO",
+      "quote": "DOGE"
+    },
+    "baseId": "uno",
+    "quoteId": "doge",
+    "baseCurrency": "Unobtanium",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "uno-ltc",
+    "ccxt": {
+      "symbol": "UNO/LTC",
+      "base": "UNO",
+      "quote": "LTC"
+    },
+    "baseId": "uno",
+    "quoteId": "ltc",
+    "baseCurrency": "Unobtanium",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "uno-usd",
+    "ccxt": {
+      "symbol": "UNO/USD",
+      "base": "UNO",
+      "quote": "USD"
+    },
+    "baseId": "uno",
+    "quoteId": "usd",
+    "baseCurrency": "Unobtanium",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "usd-btc",
+    "ccxt": {
+      "symbol": "USD/BTC",
+      "base": "USD",
+      "quote": "BTC"
+    },
+    "baseId": "usd",
+    "quoteId": "btc",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "usd-doge",
+    "ccxt": {
+      "symbol": "USD/DOGE",
+      "base": "USD",
+      "quote": "DOGE"
+    },
+    "baseId": "usd",
+    "quoteId": "doge",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "usd-ltc",
+    "ccxt": {
+      "symbol": "USD/LTC",
+      "base": "USD",
+      "quote": "LTC"
+    },
+    "baseId": "usd",
+    "quoteId": "ltc",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "usdt-btc",
+    "ccxt": {
+      "symbol": "USDT/BTC",
+      "base": "USDT",
+      "quote": "BTC"
+    },
+    "baseId": "usdt",
+    "quoteId": "btc",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "usdt-doge",
+    "ccxt": {
+      "symbol": "USDT/DOGE",
+      "base": "USDT",
+      "quote": "DOGE"
+    },
+    "baseId": "usdt",
+    "quoteId": "doge",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "usdt-ltc",
+    "ccxt": {
+      "symbol": "USDT/LTC",
+      "base": "USDT",
+      "quote": "LTC"
+    },
+    "baseId": "usdt",
+    "quoteId": "ltc",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "usdt-usd",
+    "ccxt": {
+      "symbol": "USDT/USD",
+      "base": "USDT",
+      "quote": "USD"
+    },
+    "baseId": "usdt",
+    "quoteId": "usd",
+    "baseCurrency": "Tether",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "vit-btc",
+    "ccxt": {
+      "symbol": "VitalCoin/BTC",
+      "base": "VitalCoin",
+      "quote": "BTC"
+    },
+    "baseId": "vit",
+    "quoteId": "btc",
+    "baseCurrency": "VitalCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "vit-doge",
+    "ccxt": {
+      "symbol": "VitalCoin/DOGE",
+      "base": "VitalCoin",
+      "quote": "DOGE"
+    },
+    "baseId": "vit",
+    "quoteId": "doge",
+    "baseCurrency": "VitalCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "vit-ltc",
+    "ccxt": {
+      "symbol": "VitalCoin/LTC",
+      "base": "VitalCoin",
+      "quote": "LTC"
+    },
+    "baseId": "vit",
+    "quoteId": "ltc",
+    "baseCurrency": "VitalCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "vit-usd",
+    "ccxt": {
+      "symbol": "VitalCoin/USD",
+      "base": "VitalCoin",
+      "quote": "USD"
+    },
+    "baseId": "vit",
+    "quoteId": "usd",
+    "baseCurrency": "VitalCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "vuc-btc",
+    "ccxt": {
+      "symbol": "VUC/BTC",
+      "base": "VUC",
+      "quote": "BTC"
+    },
+    "baseId": "vuc",
+    "quoteId": "btc",
+    "baseCurrency": "Virta Unique Coin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "vuc-doge",
+    "ccxt": {
+      "symbol": "VUC/DOGE",
+      "base": "VUC",
+      "quote": "DOGE"
+    },
+    "baseId": "vuc",
+    "quoteId": "doge",
+    "baseCurrency": "Virta Unique Coin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "vuc-ltc",
+    "ccxt": {
+      "symbol": "VUC/LTC",
+      "base": "VUC",
+      "quote": "LTC"
+    },
+    "baseId": "vuc",
+    "quoteId": "ltc",
+    "baseCurrency": "Virta Unique Coin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "vuc-usd",
+    "ccxt": {
+      "symbol": "VUC/USD",
+      "base": "VUC",
+      "quote": "USD"
+    },
+    "baseId": "vuc",
+    "quoteId": "usd",
+    "baseCurrency": "Virta Unique Coin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "wa-btc",
+    "ccxt": {
+      "symbol": "WA/BTC",
+      "base": "WA",
+      "quote": "BTC"
+    },
+    "baseId": "wa",
+    "quoteId": "btc",
+    "baseCurrency": "WA Space",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wa-doge",
+    "ccxt": {
+      "symbol": "WA/DOGE",
+      "base": "WA",
+      "quote": "DOGE"
+    },
+    "baseId": "wa",
+    "quoteId": "doge",
+    "baseCurrency": "WA Space",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "wa-ltc",
+    "ccxt": {
+      "symbol": "WA/LTC",
+      "base": "WA",
+      "quote": "LTC"
+    },
+    "baseId": "wa",
+    "quoteId": "ltc",
+    "baseCurrency": "WA Space",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "wa-usd",
+    "ccxt": {
+      "symbol": "WA/USD",
+      "base": "WA",
+      "quote": "USD"
+    },
+    "baseId": "wa",
+    "quoteId": "usd",
+    "baseCurrency": "WA Space",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "wc-btc",
+    "ccxt": {
+      "symbol": "WC/BTC",
+      "base": "WC",
+      "quote": "BTC"
+    },
+    "baseId": "wc",
+    "quoteId": "btc",
+    "baseCurrency": "WINCOIN",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wc-doge",
+    "ccxt": {
+      "symbol": "WC/DOGE",
+      "base": "WC",
+      "quote": "DOGE"
+    },
+    "baseId": "wc",
+    "quoteId": "doge",
+    "baseCurrency": "WINCOIN",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "wc-ltc",
+    "ccxt": {
+      "symbol": "WC/LTC",
+      "base": "WC",
+      "quote": "LTC"
+    },
+    "baseId": "wc",
+    "quoteId": "ltc",
+    "baseCurrency": "WINCOIN",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "wc-usd",
+    "ccxt": {
+      "symbol": "WC/USD",
+      "base": "WC",
+      "quote": "USD"
+    },
+    "baseId": "wc",
+    "quoteId": "usd",
+    "baseCurrency": "WINCOIN",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "wop-btc",
+    "ccxt": {
+      "symbol": "WOP/BTC",
+      "base": "WOP",
+      "quote": "BTC"
+    },
+    "baseId": "wop",
+    "quoteId": "btc",
+    "baseCurrency": "WOP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wop-doge",
+    "ccxt": {
+      "symbol": "WOP/DOGE",
+      "base": "WOP",
+      "quote": "DOGE"
+    },
+    "baseId": "wop",
+    "quoteId": "doge",
+    "baseCurrency": "WOP",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "wop-ltc",
+    "ccxt": {
+      "symbol": "WOP/LTC",
+      "base": "WOP",
+      "quote": "LTC"
+    },
+    "baseId": "wop",
+    "quoteId": "ltc",
+    "baseCurrency": "WOP",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "wop-usd",
+    "ccxt": {
+      "symbol": "WOP/USD",
+      "base": "WOP",
+      "quote": "USD"
+    },
+    "baseId": "wop",
+    "quoteId": "usd",
+    "baseCurrency": "WOP",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "wthc-btc",
+    "ccxt": {
+      "symbol": "WTHC/BTC",
+      "base": "WTHC",
+      "quote": "BTC"
+    },
+    "baseId": "wthc",
+    "quoteId": "btc",
+    "baseCurrency": "WTHC",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "wthc-doge",
+    "ccxt": {
+      "symbol": "WTHC/DOGE",
+      "base": "WTHC",
+      "quote": "DOGE"
+    },
+    "baseId": "wthc",
+    "quoteId": "doge",
+    "baseCurrency": "WTHC",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "wthc-ltc",
+    "ccxt": {
+      "symbol": "WTHC/LTC",
+      "base": "WTHC",
+      "quote": "LTC"
+    },
+    "baseId": "wthc",
+    "quoteId": "ltc",
+    "baseCurrency": "WTHC",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "wthc-usd",
+    "ccxt": {
+      "symbol": "WTHC/USD",
+      "base": "WTHC",
+      "quote": "USD"
+    },
+    "baseId": "wthc",
+    "quoteId": "usd",
+    "baseCurrency": "WTHC",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xb-btc",
+    "ccxt": {
+      "symbol": "XB/BTC",
+      "base": "XB",
+      "quote": "BTC"
+    },
+    "baseId": "xb",
+    "quoteId": "btc",
+    "baseCurrency": "XB",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xb-doge",
+    "ccxt": {
+      "symbol": "XB/DOGE",
+      "base": "XB",
+      "quote": "DOGE"
+    },
+    "baseId": "xb",
+    "quoteId": "doge",
+    "baseCurrency": "XB",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xb-ltc",
+    "ccxt": {
+      "symbol": "XB/LTC",
+      "base": "XB",
+      "quote": "LTC"
+    },
+    "baseId": "xb",
+    "quoteId": "ltc",
+    "baseCurrency": "XB",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xb-usd",
+    "ccxt": {
+      "symbol": "XB/USD",
+      "base": "XB",
+      "quote": "USD"
+    },
+    "baseId": "xb",
+    "quoteId": "usd",
+    "baseCurrency": "XB",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xbp-btc",
+    "ccxt": {
+      "symbol": "XBP/BTC",
+      "base": "XBP",
+      "quote": "BTC"
+    },
+    "baseId": "xbp",
+    "quoteId": "btc",
+    "baseCurrency": "BlitzPredict",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xbp-doge",
+    "ccxt": {
+      "symbol": "XBP/DOGE",
+      "base": "XBP",
+      "quote": "DOGE"
+    },
+    "baseId": "xbp",
+    "quoteId": "doge",
+    "baseCurrency": "BlitzPredict",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xbp-ltc",
+    "ccxt": {
+      "symbol": "XBP/LTC",
+      "base": "XBP",
+      "quote": "LTC"
+    },
+    "baseId": "xbp",
+    "quoteId": "ltc",
+    "baseCurrency": "BlitzPredict",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xbp-usd",
+    "ccxt": {
+      "symbol": "XBP/USD",
+      "base": "XBP",
+      "quote": "USD"
+    },
+    "baseId": "xbp",
+    "quoteId": "usd",
+    "baseCurrency": "BlitzPredict",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xbte-btc",
+    "ccxt": {
+      "symbol": "XBTE/BTC",
+      "base": "XBTE",
+      "quote": "BTC"
+    },
+    "baseId": "xbte",
+    "quoteId": "btc",
+    "baseCurrency": "XBTE",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xbte-doge",
+    "ccxt": {
+      "symbol": "XBTE/DOGE",
+      "base": "XBTE",
+      "quote": "DOGE"
+    },
+    "baseId": "xbte",
+    "quoteId": "doge",
+    "baseCurrency": "XBTE",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xbte-ltc",
+    "ccxt": {
+      "symbol": "XBTE/LTC",
+      "base": "XBTE",
+      "quote": "LTC"
+    },
+    "baseId": "xbte",
+    "quoteId": "ltc",
+    "baseCurrency": "XBTE",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xbte-usd",
+    "ccxt": {
+      "symbol": "XBTE/USD",
+      "base": "XBTE",
+      "quote": "USD"
+    },
+    "baseId": "xbte",
+    "quoteId": "usd",
+    "baseCurrency": "XBTE",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xby-btc",
+    "ccxt": {
+      "symbol": "XBY/BTC",
+      "base": "XBY",
+      "quote": "BTC"
+    },
+    "baseId": "xby",
+    "quoteId": "btc",
+    "baseCurrency": "XTRABYTES",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xby-doge",
+    "ccxt": {
+      "symbol": "XBY/DOGE",
+      "base": "XBY",
+      "quote": "DOGE"
+    },
+    "baseId": "xby",
+    "quoteId": "doge",
+    "baseCurrency": "XTRABYTES",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xby-ltc",
+    "ccxt": {
+      "symbol": "XBY/LTC",
+      "base": "XBY",
+      "quote": "LTC"
+    },
+    "baseId": "xby",
+    "quoteId": "ltc",
+    "baseCurrency": "XTRABYTES",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xby-usd",
+    "ccxt": {
+      "symbol": "XBY/USD",
+      "base": "XBY",
+      "quote": "USD"
+    },
+    "baseId": "xby",
+    "quoteId": "usd",
+    "baseCurrency": "XTRABYTES",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xhi-btc",
+    "ccxt": {
+      "symbol": "XHI/BTC",
+      "base": "XHI",
+      "quote": "BTC"
+    },
+    "baseId": "xhi",
+    "quoteId": "btc",
+    "baseCurrency": "HiCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xhi-doge",
+    "ccxt": {
+      "symbol": "XHI/DOGE",
+      "base": "XHI",
+      "quote": "DOGE"
+    },
+    "baseId": "xhi",
+    "quoteId": "doge",
+    "baseCurrency": "HiCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xhi-ltc",
+    "ccxt": {
+      "symbol": "XHI/LTC",
+      "base": "XHI",
+      "quote": "LTC"
+    },
+    "baseId": "xhi",
+    "quoteId": "ltc",
+    "baseCurrency": "HiCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xhi-usd",
+    "ccxt": {
+      "symbol": "XHI/USD",
+      "base": "XHI",
+      "quote": "USD"
+    },
+    "baseId": "xhi",
+    "quoteId": "usd",
+    "baseCurrency": "HiCoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xid-btc",
+    "ccxt": {
+      "symbol": "InternationalDiamond/BTC",
+      "base": "InternationalDiamond",
+      "quote": "BTC"
+    },
+    "baseId": "xid",
+    "quoteId": "btc",
+    "baseCurrency": "InternationalDiamond",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xid-doge",
+    "ccxt": {
+      "symbol": "InternationalDiamond/DOGE",
+      "base": "InternationalDiamond",
+      "quote": "DOGE"
+    },
+    "baseId": "xid",
+    "quoteId": "doge",
+    "baseCurrency": "InternationalDiamond",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xid-ltc",
+    "ccxt": {
+      "symbol": "InternationalDiamond/LTC",
+      "base": "InternationalDiamond",
+      "quote": "LTC"
+    },
+    "baseId": "xid",
+    "quoteId": "ltc",
+    "baseCurrency": "InternationalDiamond",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xid-usd",
+    "ccxt": {
+      "symbol": "InternationalDiamond/USD",
+      "base": "InternationalDiamond",
+      "quote": "USD"
+    },
+    "baseId": "xid",
+    "quoteId": "usd",
+    "baseCurrency": "InternationalDiamond",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xom-btc",
+    "ccxt": {
+      "symbol": "XOM/BTC",
+      "base": "XOM",
+      "quote": "BTC"
+    },
+    "baseId": "xom",
+    "quoteId": "btc",
+    "baseCurrency": "XOM",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xom-doge",
+    "ccxt": {
+      "symbol": "XOM/DOGE",
+      "base": "XOM",
+      "quote": "DOGE"
+    },
+    "baseId": "xom",
+    "quoteId": "doge",
+    "baseCurrency": "XOM",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xom-ltc",
+    "ccxt": {
+      "symbol": "XOM/LTC",
+      "base": "XOM",
+      "quote": "LTC"
+    },
+    "baseId": "xom",
+    "quoteId": "ltc",
+    "baseCurrency": "XOM",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xom-usd",
+    "ccxt": {
+      "symbol": "XOM/USD",
+      "base": "XOM",
+      "quote": "USD"
+    },
+    "baseId": "xom",
+    "quoteId": "usd",
+    "baseCurrency": "XOM",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xot-btc",
+    "ccxt": {
+      "symbol": "XOT/BTC",
+      "base": "XOT",
+      "quote": "BTC"
+    },
+    "baseId": "xot",
+    "quoteId": "btc",
+    "baseCurrency": "Internet of Things",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xot-doge",
+    "ccxt": {
+      "symbol": "XOT/DOGE",
+      "base": "XOT",
+      "quote": "DOGE"
+    },
+    "baseId": "xot",
+    "quoteId": "doge",
+    "baseCurrency": "Internet of Things",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xot-ltc",
+    "ccxt": {
+      "symbol": "XOT/LTC",
+      "base": "XOT",
+      "quote": "LTC"
+    },
+    "baseId": "xot",
+    "quoteId": "ltc",
+    "baseCurrency": "Internet of Things",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xot-usd",
+    "ccxt": {
+      "symbol": "XOT/USD",
+      "base": "XOT",
+      "quote": "USD"
+    },
+    "baseId": "xot",
+    "quoteId": "usd",
+    "baseCurrency": "Internet of Things",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xto-btc",
+    "ccxt": {
+      "symbol": "XTO/BTC",
+      "base": "XTO",
+      "quote": "BTC"
+    },
+    "baseId": "xto",
+    "quoteId": "btc",
+    "baseCurrency": "Tao",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xto-doge",
+    "ccxt": {
+      "symbol": "XTO/DOGE",
+      "base": "XTO",
+      "quote": "DOGE"
+    },
+    "baseId": "xto",
+    "quoteId": "doge",
+    "baseCurrency": "Tao",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xto-ltc",
+    "ccxt": {
+      "symbol": "XTO/LTC",
+      "base": "XTO",
+      "quote": "LTC"
+    },
+    "baseId": "xto",
+    "quoteId": "ltc",
+    "baseCurrency": "Tao",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xto-usd",
+    "ccxt": {
+      "symbol": "XTO/USD",
+      "base": "XTO",
+      "quote": "USD"
+    },
+    "baseId": "xto",
+    "quoteId": "usd",
+    "baseCurrency": "Tao",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "xvgct-btc",
+    "ccxt": {
+      "symbol": "XVGCT/BTC",
+      "base": "XVGCT",
+      "quote": "BTC"
+    },
+    "baseId": "xvgct",
+    "quoteId": "btc",
+    "baseCurrency": "XVGCT",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xvgct-doge",
+    "ccxt": {
+      "symbol": "XVGCT/DOGE",
+      "base": "XVGCT",
+      "quote": "DOGE"
+    },
+    "baseId": "xvgct",
+    "quoteId": "doge",
+    "baseCurrency": "XVGCT",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "xvgct-ltc",
+    "ccxt": {
+      "symbol": "XVGCT/LTC",
+      "base": "XVGCT",
+      "quote": "LTC"
+    },
+    "baseId": "xvgct",
+    "quoteId": "ltc",
+    "baseCurrency": "XVGCT",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "xvgct-usd",
+    "ccxt": {
+      "symbol": "XVGCT/USD",
+      "base": "XVGCT",
+      "quote": "USD"
+    },
+    "baseId": "xvgct",
+    "quoteId": "usd",
+    "baseCurrency": "XVGCT",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "zzc-btc",
+    "ccxt": {
+      "symbol": "ZZC/BTC",
+      "base": "ZZC",
+      "quote": "BTC"
+    },
+    "baseId": "zzc",
+    "quoteId": "btc",
+    "baseCurrency": "ZoZoCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "zzc-doge",
+    "ccxt": {
+      "symbol": "ZZC/DOGE",
+      "base": "ZZC",
+      "quote": "DOGE"
+    },
+    "baseId": "zzc",
+    "quoteId": "doge",
+    "baseCurrency": "ZoZoCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "zzc-ltc",
+    "ccxt": {
+      "symbol": "ZZC/LTC",
+      "base": "ZZC",
+      "quote": "LTC"
+    },
+    "baseId": "zzc",
+    "quoteId": "ltc",
+    "baseCurrency": "ZoZoCoin",
+    "quoteCurrency": "Litecoin"
+  },
+  {
+    "id": "zzc-usd",
+    "ccxt": {
+      "symbol": "ZZC/USD",
+      "base": "ZZC",
+      "quote": "USD"
+    },
+    "baseId": "zzc",
+    "quoteId": "usd",
+    "baseCurrency": "ZoZoCoin",
+    "quoteCurrency": "US Dollar"
+  }
+]

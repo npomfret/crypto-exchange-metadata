@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1",
+    "ccxt": {
+      "symbol": "BTC/THB",
+      "base": "BTC",
+      "quote": "THB"
+    },
+    "baseId": "BTC",
+    "quoteId": "THB",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "11",
+    "ccxt": {
+      "symbol": "CPT/BTC",
+      "base": "CPT",
+      "quote": "BTC"
+    },
+    "baseId": "CPT",
+    "quoteId": "BTC",
+    "baseCurrency": "Cryptaur",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "13",
+    "ccxt": {
+      "symbol": "HYP/BTC",
+      "base": "HYP",
+      "quote": "BTC"
+    },
+    "baseId": "HYP",
+    "quoteId": "BTC",
+    "baseCurrency": "HyperStake",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "14",
+    "ccxt": {
+      "symbol": "PND/BTC",
+      "base": "PND",
+      "quote": "BTC"
+    },
+    "baseId": "PND",
+    "quoteId": "BTC",
+    "baseCurrency": "Pandacoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "15",
+    "ccxt": {
+      "symbol": "XCN/BTC",
+      "base": "XCN",
+      "quote": "BTC"
+    },
+    "baseId": "XCN",
+    "quoteId": "BTC",
+    "baseCurrency": "Cryptonite",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "17",
+    "ccxt": {
+      "symbol": "XPY/BTC",
+      "base": "XPY",
+      "quote": "BTC"
+    },
+    "baseId": "XPY",
+    "quoteId": "BTC",
+    "baseCurrency": "PayCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "18",
+    "ccxt": {
+      "symbol": "LEO/BTC",
+      "base": "LEO",
+      "quote": "BTC"
+    },
+    "baseId": "LEO",
+    "quoteId": "BTC",
+    "baseCurrency": "LEOcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "2",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "LTC",
+    "quoteId": "BTC",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "20",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "ETH",
+    "quoteId": "BTC",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "21",
+    "ccxt": {
+      "symbol": "ETH/THB",
+      "base": "ETH",
+      "quote": "THB"
+    },
+    "baseId": "ETH",
+    "quoteId": "THB",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "22",
+    "ccxt": {
+      "symbol": "DASH/THB",
+      "base": "DASH",
+      "quote": "THB"
+    },
+    "baseId": "DAS",
+    "quoteId": "THB",
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "23",
+    "ccxt": {
+      "symbol": "REP/THB",
+      "base": "REP",
+      "quote": "THB"
+    },
+    "baseId": "REP",
+    "quoteId": "THB",
+    "baseCurrency": "Augur",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "24",
+    "ccxt": {
+      "symbol": "GNO/THB",
+      "base": "GNO",
+      "quote": "THB"
+    },
+    "baseId": "GNO",
+    "quoteId": "THB",
+    "baseCurrency": "Gnosis",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "25",
+    "ccxt": {
+      "symbol": "XRP/THB",
+      "base": "XRP",
+      "quote": "THB"
+    },
+    "baseId": "XRP",
+    "quoteId": "THB",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "26",
+    "ccxt": {
+      "symbol": "OMG/THB",
+      "base": "OMG",
+      "quote": "THB"
+    },
+    "baseId": "OMG",
+    "quoteId": "THB",
+    "baseCurrency": "OmiseGO",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "27",
+    "ccxt": {
+      "symbol": "BCH/THB",
+      "base": "BCH",
+      "quote": "THB"
+    },
+    "baseId": "BCH",
+    "quoteId": "THB",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "28",
+    "ccxt": {
+      "symbol": "EVX/THB",
+      "base": "EVX",
+      "quote": "THB"
+    },
+    "baseId": "EVX",
+    "quoteId": "THB",
+    "baseCurrency": "Everex",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "29",
+    "ccxt": {
+      "symbol": "XZC/THB",
+      "base": "XZC",
+      "quote": "THB"
+    },
+    "baseId": "XZC",
+    "quoteId": "THB",
+    "baseCurrency": "ZCoin",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "3",
+    "ccxt": {
+      "symbol": "NMC/BTC",
+      "base": "NMC",
+      "quote": "BTC"
+    },
+    "baseId": "NMC",
+    "quoteId": "BTC",
+    "baseCurrency": "Namecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "30",
+    "ccxt": {
+      "symbol": "LTC/THB",
+      "base": "LTC",
+      "quote": "THB"
+    },
+    "baseId": "LTC",
+    "quoteId": "THB",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "31",
+    "ccxt": {
+      "symbol": "POW/THB",
+      "base": "POW",
+      "quote": "THB"
+    },
+    "baseId": "POW",
+    "quoteId": "THB",
+    "baseCurrency": "POW",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "32",
+    "ccxt": {
+      "symbol": "ZMN/THB",
+      "base": "ZMN",
+      "quote": "THB"
+    },
+    "baseId": "ZMN",
+    "quoteId": "THB",
+    "baseCurrency": "ZMINE",
+    "quoteCurrency": "Thai Baht"
+  },
+  {
+    "id": "4",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseId": "DOG",
+    "quoteId": "BTC",
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "5",
+    "ccxt": {
+      "symbol": "PPC/BTC",
+      "base": "PPC",
+      "quote": "BTC"
+    },
+    "baseId": "PPC",
+    "quoteId": "BTC",
+    "baseCurrency": "Peercoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "6",
+    "ccxt": {
+      "symbol": "FTC/BTC",
+      "base": "FTC",
+      "quote": "BTC"
+    },
+    "baseId": "FTC",
+    "quoteId": "BTC",
+    "baseCurrency": "Feathercoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "7",
+    "ccxt": {
+      "symbol": "XPM/BTC",
+      "base": "XPM",
+      "quote": "BTC"
+    },
+    "baseId": "XPM",
+    "quoteId": "BTC",
+    "baseCurrency": "Primecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "8",
+    "ccxt": {
+      "symbol": "ZEC/BTC",
+      "base": "ZEC",
+      "quote": "BTC"
+    },
+    "baseId": "ZEC",
+    "quoteId": "BTC",
+    "baseCurrency": "Zcash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "9",
+    "ccxt": {
+      "symbol": "ZET/BTC",
+      "base": "ZET",
+      "quote": "BTC"
+    },
+    "baseId": "ZET",
+    "quoteId": "BTC",
+    "baseCurrency": "Zetacoin",
+    "quoteCurrency": "Bitcoin"
+  }
+]

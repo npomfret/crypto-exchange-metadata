@@ -1,0 +1,74 @@
+[
+  {
+    "id": "BTCTRY",
+    "ccxt": {
+      "symbol": "BTC/TRY",
+      "base": "BTC",
+      "quote": "TRY"
+    },
+    "baseId": "btc",
+    "quoteId": "try",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Turkish Lira"
+  },
+  {
+    "id": "BTCUSDT",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "btc",
+    "quoteId": "usd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ETHTRY",
+    "ccxt": {
+      "symbol": "ETH/TRY",
+      "base": "ETH",
+      "quote": "TRY"
+    },
+    "baseId": "eth",
+    "quoteId": "try",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Turkish Lira"
+  },
+  {
+    "id": "LTCTRY",
+    "ccxt": {
+      "symbol": "LTC/TRY",
+      "base": "LTC",
+      "quote": "TRY"
+    },
+    "baseId": "ltc",
+    "quoteId": "try",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Turkish Lira"
+  },
+  {
+    "id": "USDTTRY",
+    "ccxt": {
+      "symbol": "USD/TTR",
+      "base": "USD",
+      "quote": "TTR"
+    },
+    "baseId": "usd",
+    "quoteId": "ttr",
+    "baseCurrency": "US Dollar",
+    "quoteCurrency": "TTR"
+  },
+  {
+    "id": "XRPTRY",
+    "ccxt": {
+      "symbol": "XRP/TRY",
+      "base": "XRP",
+      "quote": "TRY"
+    },
+    "baseId": "xrp",
+    "quoteId": "try",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Turkish Lira"
+  }
+]

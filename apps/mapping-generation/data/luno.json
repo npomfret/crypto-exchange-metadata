@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ETHXBT",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XBTEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "XBTIDR",
+    "ccxt": {
+      "symbol": "BTC/IDR",
+      "base": "BTC",
+      "quote": "IDR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Indonesian Rupiah"
+  },
+  {
+    "id": "XBTMYR",
+    "ccxt": {
+      "symbol": "BTC/MYR",
+      "base": "BTC",
+      "quote": "MYR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Malaysian Ringgit"
+  },
+  {
+    "id": "XBTNGN",
+    "ccxt": {
+      "symbol": "BTC/NGN",
+      "base": "BTC",
+      "quote": "NGN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Nigerian Naira"
+  },
+  {
+    "id": "XBTZAR",
+    "ccxt": {
+      "symbol": "BTC/ZAR",
+      "base": "BTC",
+      "quote": "ZAR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "South African Rand"
+  }
+]

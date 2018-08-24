@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0x0abdace70d3790235af448c88547603b945604ea/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "DNT/WETH",
+      "base": "DNT",
+      "quote": "WETH"
+    },
+    "baseId": "0x0abdace70d3790235af448c88547603b945604ea",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "district0x",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0x0d8775f648430679a709e98d2b0cb6250d2887ef/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "BAT/WETH",
+      "base": "BAT",
+      "quote": "WETH"
+    },
+    "baseId": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "Basic Attention Token",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "MANA/WETH",
+      "base": "MANA",
+      "quote": "WETH"
+    },
+    "baseId": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "Decentraland",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0x744d70fdbe2ba4cf95131626614a1763df805b9e/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "SNT/WETH",
+      "base": "SNT",
+      "quote": "WETH"
+    },
+    "baseId": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "Status",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0x8f8221afbb33998d8584a2b05749ba73c37a938a/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "REQ/WETH",
+      "base": "REQ",
+      "quote": "WETH"
+    },
+    "baseId": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "Request Network",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "ccxt": {
+      "symbol": "MKR/DAI",
+      "base": "MKR",
+      "quote": "DAI"
+    },
+    "baseId": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "quoteId": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "baseCurrency": "Maker",
+    "quoteCurrency": "Dai"
+  },
+  {
+    "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "ccxt": {
+      "symbol": "WETH/DAI",
+      "base": "WETH",
+      "quote": "DAI"
+    },
+    "baseId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "quoteId": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "baseCurrency": "WETH",
+    "quoteCurrency": "Dai"
+  },
+  {
+    "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "ccxt": {
+      "symbol": "WETH/TUSD",
+      "base": "WETH",
+      "quote": "TUSD"
+    },
+    "baseId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "quoteId": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "baseCurrency": "WETH",
+    "quoteCurrency": "TrueUSD"
+  },
+  {
+    "id": "0xe41d2489571d322189246dafa5ebde1f4699f498/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "ccxt": {
+      "symbol": "ZRX/DAI",
+      "base": "ZRX",
+      "quote": "DAI"
+    },
+    "baseId": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "quoteId": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "baseCurrency": "0x",
+    "quoteCurrency": "Dai"
+  },
+  {
+    "id": "0xe41d2489571d322189246dafa5ebde1f4699f498/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "ZRX/WETH",
+      "base": "ZRX",
+      "quote": "WETH"
+    },
+    "baseId": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "0x",
+    "quoteCurrency": "WETH"
+  },
+  {
+    "id": "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "ccxt": {
+      "symbol": "OCEAN/WETH",
+      "base": "OCEAN",
+      "quote": "WETH"
+    },
+    "baseId": "0xf5ed2dc77f0d1ea7f106ecbd1850e406adc41b51",
+    "quoteId": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "baseCurrency": "OCEAN",
+    "quoteCurrency": "WETH"
+  }
+]

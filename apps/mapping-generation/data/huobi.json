@@ -1,0 +1,22 @@
+[
+  {
+    "id": "btc",
+    "ccxt": {
+      "symbol": "BTC/CNY",
+      "base": "BTC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Chinese Yuan"
+  },
+  {
+    "id": "ltc",
+    "ccxt": {
+      "symbol": "LTC/CNY",
+      "base": "LTC",
+      "quote": "CNY"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Chinese Yuan"
+  }
+]

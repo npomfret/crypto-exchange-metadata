@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bch_btc",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "bch_mxn",
+    "ccxt": {
+      "symbol": "BCH/MXN",
+      "base": "BCH",
+      "quote": "MXN"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "btc_mxn",
+    "ccxt": {
+      "symbol": "BTC/MXN",
+      "base": "BTC",
+      "quote": "MXN"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "eth_btc",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "eth_mxn",
+    "ccxt": {
+      "symbol": "ETH/MXN",
+      "base": "ETH",
+      "quote": "MXN"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "ltc_btc",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ltc_mxn",
+    "ccxt": {
+      "symbol": "LTC/MXN",
+      "base": "LTC",
+      "quote": "MXN"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "tusd_btc",
+    "ccxt": {
+      "symbol": "TUSD/BTC",
+      "base": "TUSD",
+      "quote": "BTC"
+    },
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "tusd_mxn",
+    "ccxt": {
+      "symbol": "TUSD/MXN",
+      "base": "TUSD",
+      "quote": "MXN"
+    },
+    "baseCurrency": "TrueUSD",
+    "quoteCurrency": "Mexican Peso"
+  },
+  {
+    "id": "xrp_btc",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "xrp_mxn",
+    "ccxt": {
+      "symbol": "XRP/MXN",
+      "base": "XRP",
+      "quote": "MXN"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Mexican Peso"
+  }
+]

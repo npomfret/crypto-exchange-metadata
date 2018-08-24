@@ -1,0 +1,182 @@
+[
+  {
+    "id": "Bch/Aud",
+    "ccxt": {
+      "symbol": "BCH/AUD",
+      "base": "BCH",
+      "quote": "AUD"
+    },
+    "baseId": "Bch",
+    "quoteId": "Aud",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "Bch/Nzd",
+    "ccxt": {
+      "symbol": "BCH/NZD",
+      "base": "BCH",
+      "quote": "NZD"
+    },
+    "baseId": "Bch",
+    "quoteId": "Nzd",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "Bch/Usd",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseId": "Bch",
+    "quoteId": "Usd",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "Eth/Aud",
+    "ccxt": {
+      "symbol": "ETH/AUD",
+      "base": "ETH",
+      "quote": "AUD"
+    },
+    "baseId": "Eth",
+    "quoteId": "Aud",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "Eth/Nzd",
+    "ccxt": {
+      "symbol": "ETH/NZD",
+      "base": "ETH",
+      "quote": "NZD"
+    },
+    "baseId": "Eth",
+    "quoteId": "Nzd",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "Eth/Usd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseId": "Eth",
+    "quoteId": "Usd",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "Ltc/Aud",
+    "ccxt": {
+      "symbol": "LTC/AUD",
+      "base": "LTC",
+      "quote": "AUD"
+    },
+    "baseId": "Ltc",
+    "quoteId": "Aud",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "Ltc/Nzd",
+    "ccxt": {
+      "symbol": "LTC/NZD",
+      "base": "LTC",
+      "quote": "NZD"
+    },
+    "baseId": "Ltc",
+    "quoteId": "Nzd",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "Ltc/Usd",
+    "ccxt": {
+      "symbol": "LTC/USD",
+      "base": "LTC",
+      "quote": "USD"
+    },
+    "baseId": "Ltc",
+    "quoteId": "Usd",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "Xbt/Aud",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseId": "Xbt",
+    "quoteId": "Aud",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "Xbt/Nzd",
+    "ccxt": {
+      "symbol": "BTC/NZD",
+      "base": "BTC",
+      "quote": "NZD"
+    },
+    "baseId": "Xbt",
+    "quoteId": "Nzd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "Xbt/Usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseId": "Xbt",
+    "quoteId": "Usd",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "Xrp/Aud",
+    "ccxt": {
+      "symbol": "XRP/AUD",
+      "base": "XRP",
+      "quote": "AUD"
+    },
+    "baseId": "Xrp",
+    "quoteId": "Aud",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "Xrp/Nzd",
+    "ccxt": {
+      "symbol": "XRP/NZD",
+      "base": "XRP",
+      "quote": "NZD"
+    },
+    "baseId": "Xrp",
+    "quoteId": "Nzd",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "Xrp/Usd",
+    "ccxt": {
+      "symbol": "XRP/USD",
+      "base": "XRP",
+      "quote": "USD"
+    },
+    "baseId": "Xrp",
+    "quoteId": "Usd",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "US Dollar"
+  }
+]

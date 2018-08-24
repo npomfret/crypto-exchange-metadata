@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bchaud",
+    "ccxt": {
+      "symbol": "BCH/AUD",
+      "base": "BCH",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "btcaud",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "btcusdt",
+    "ccxt": {
+      "symbol": "BTC/USDT",
+      "base": "BTC",
+      "quote": "USDT"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "dashbtc",
+    "ccxt": {
+      "symbol": "DASH/BTC",
+      "base": "DASH",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Dash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ethaud",
+    "ccxt": {
+      "symbol": "ETH/AUD",
+      "base": "ETH",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ethusdt",
+    "ccxt": {
+      "symbol": "ETH/USDT",
+      "base": "ETH",
+      "quote": "USDT"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Tether"
+  },
+  {
+    "id": "fuelbtc",
+    "ccxt": {
+      "symbol": "FUEL/BTC",
+      "base": "FUEL",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Etherparty",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "hsraud",
+    "ccxt": {
+      "symbol": "HSR/AUD",
+      "base": "HSR",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Hshare",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ltcaud",
+    "ccxt": {
+      "symbol": "LTC/AUD",
+      "base": "LTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ubtcbtc",
+    "ccxt": {
+      "symbol": "UBTC/BTC",
+      "base": "UBTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "United Bitcoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "usdtaud",
+    "ccxt": {
+      "symbol": "USDT/AUD",
+      "base": "USDT",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Tether",
+    "quoteCurrency": "Australian Dollar"
+  }
+]

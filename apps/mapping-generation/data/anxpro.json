@@ -1,0 +1,132 @@
+[
+  {
+    "id": "BTCAUD",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "BTCCAD",
+    "ccxt": {
+      "symbol": "BTC/CAD",
+      "base": "BTC",
+      "quote": "CAD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Canadian Dollar"
+  },
+  {
+    "id": "BTCEUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "BTCGBP",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "BTCHKD",
+    "ccxt": {
+      "symbol": "BTC/HKD",
+      "base": "BTC",
+      "quote": "HKD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hong Kong Dollar"
+  },
+  {
+    "id": "BTCJPY",
+    "ccxt": {
+      "symbol": "BTC/JPY",
+      "base": "BTC",
+      "quote": "JPY"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Japanese Yen"
+  },
+  {
+    "id": "BTCNZD",
+    "ccxt": {
+      "symbol": "BTC/NZD",
+      "base": "BTC",
+      "quote": "NZD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "New Zealand Dollar"
+  },
+  {
+    "id": "BTCSGD",
+    "ccxt": {
+      "symbol": "BTC/SGD",
+      "base": "BTC",
+      "quote": "SGD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Singapore Dollar"
+  },
+  {
+    "id": "BTCUSD",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "DOGEBTC",
+    "ccxt": {
+      "symbol": "DOGE/BTC",
+      "base": "DOGE",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Dogecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTCBTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "STRBTC",
+    "ccxt": {
+      "symbol": "STR/BTC",
+      "base": "STR",
+      "quote": "BTC"
+    },
+    "baseCurrency": "STR",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XRPBTC",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  }
+]

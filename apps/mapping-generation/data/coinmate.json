@@ -1,0 +1,32 @@
+[
+  {
+    "id": "BTC_CZK",
+    "ccxt": {
+      "symbol": "BTC/CZK",
+      "base": "BTC",
+      "quote": "CZK"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Czech Republic Koruna"
+  },
+  {
+    "id": "BTC_EUR",
+    "ccxt": {
+      "symbol": "BTC/EUR",
+      "base": "BTC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "LTC_BTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  }
+]

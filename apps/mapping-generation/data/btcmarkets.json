@@ -1,0 +1,182 @@
+[
+  {
+    "id": "BCH/AUD",
+    "ccxt": {
+      "symbol": "BCH/AUD",
+      "base": "BCH",
+      "quote": "AUD"
+    },
+    "baseId": "BCH",
+    "quoteId": "AUD",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "BCH/BTC",
+    "ccxt": {
+      "symbol": "BCH/BTC",
+      "base": "BCH",
+      "quote": "BTC"
+    },
+    "baseId": "BCH",
+    "quoteId": "BTC",
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "BTC/AUD",
+    "ccxt": {
+      "symbol": "BTC/AUD",
+      "base": "BTC",
+      "quote": "AUD"
+    },
+    "baseId": "BTC",
+    "quoteId": "AUD",
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ETC/AUD",
+    "ccxt": {
+      "symbol": "ETC/AUD",
+      "base": "ETC",
+      "quote": "AUD"
+    },
+    "baseId": "ETC",
+    "quoteId": "AUD",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ETC/BTC",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseId": "ETC",
+    "quoteId": "BTC",
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ETH/AUD",
+    "ccxt": {
+      "symbol": "ETH/AUD",
+      "base": "ETH",
+      "quote": "AUD"
+    },
+    "baseId": "ETH",
+    "quoteId": "AUD",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "ETH/BTC",
+    "ccxt": {
+      "symbol": "ETH/BTC",
+      "base": "ETH",
+      "quote": "BTC"
+    },
+    "baseId": "ETH",
+    "quoteId": "BTC",
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LTC/AUD",
+    "ccxt": {
+      "symbol": "LTC/AUD",
+      "base": "LTC",
+      "quote": "AUD"
+    },
+    "baseId": "LTC",
+    "quoteId": "AUD",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "LTC/BTC",
+    "ccxt": {
+      "symbol": "LTC/BTC",
+      "base": "LTC",
+      "quote": "BTC"
+    },
+    "baseId": "LTC",
+    "quoteId": "BTC",
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "OMG/AUD",
+    "ccxt": {
+      "symbol": "OMG/AUD",
+      "base": "OMG",
+      "quote": "AUD"
+    },
+    "baseId": "OMG",
+    "quoteId": "AUD",
+    "baseCurrency": "OmiseGO",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "OMG/BTC",
+    "ccxt": {
+      "symbol": "OMG/BTC",
+      "base": "OMG",
+      "quote": "BTC"
+    },
+    "baseId": "OMG",
+    "quoteId": "BTC",
+    "baseCurrency": "OmiseGO",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "POWR/AUD",
+    "ccxt": {
+      "symbol": "POWR/AUD",
+      "base": "POWR",
+      "quote": "AUD"
+    },
+    "baseId": "POWR",
+    "quoteId": "AUD",
+    "baseCurrency": "Power Ledger",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "POWR/BTC",
+    "ccxt": {
+      "symbol": "POWR/BTC",
+      "base": "POWR",
+      "quote": "BTC"
+    },
+    "baseId": "POWR",
+    "quoteId": "BTC",
+    "baseCurrency": "Power Ledger",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "XRP/AUD",
+    "ccxt": {
+      "symbol": "XRP/AUD",
+      "base": "XRP",
+      "quote": "AUD"
+    },
+    "baseId": "XRP",
+    "quoteId": "AUD",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Australian Dollar"
+  },
+  {
+    "id": "XRP/BTC",
+    "ccxt": {
+      "symbol": "XRP/BTC",
+      "base": "XRP",
+      "quote": "BTC"
+    },
+    "baseId": "XRP",
+    "quoteId": "BTC",
+    "baseCurrency": "XRP",
+    "quoteCurrency": "Bitcoin"
+  }
+]
