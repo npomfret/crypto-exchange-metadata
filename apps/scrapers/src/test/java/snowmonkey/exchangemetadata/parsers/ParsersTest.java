@@ -29,6 +29,11 @@ public class ParsersTest {
     }
 
     @Test
+    public void bitbay() throws Exception {
+        go(BitbayParser.create());
+    }
+
+    @Test
     public void exmo() throws Exception {
         go(ExmoParser.create());
     }

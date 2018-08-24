@@ -906,98 +906,150 @@
   },
   "bitbay": {
     "trading-fees": {
-      "default": {
+      "DASH/BTC": {
         "taker": "0.1%",
         "maker": "0%"
       },
-      "^\\w{3,4}?-EUR$|^\\w{3,4}-PLN$|^\\w{3,4}-USD$": [
+      "GAME/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "REP/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "GNT/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "BTG/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "XIN/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "NEU/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "ETH/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "LTC/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "BAT/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "ZRX/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "ZEC/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "PAY/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "BCC/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "default": [
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 1250 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <1 250 EUR",
           "taker": "0.43%",
           "maker": "0.30%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 3 750 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <3 750 EUR",
           "taker": "0.42%",
           "maker": "0.29%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 7 500 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <7 500 EUR",
           "taker": "0.41%",
           "maker": "0.28%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 10 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <10 000 EUR",
           "taker": "0.40%",
           "maker": "0.28%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 15 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <15 000 EUR",
           "taker": "0.39%",
           "maker": "0.27%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 20 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <20 000 EUR",
           "taker": "0.38%",
           "maker": "0.26%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 25 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <25 000 EUR",
           "taker": "0.37%",
           "maker": "0.25%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 37 500 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <37 500 EUR",
           "taker": "0.36%",
           "maker": "0.25%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 50 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <50 000 EUR",
           "taker": "0.35%",
           "maker": "0.24%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 75 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <75 000 EUR",
           "taker": "0.34%",
           "maker": "0.23%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 100 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <100 000 EUR",
           "taker": "0.33%",
           "maker": "0.23%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 150 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <150 000 EUR",
           "taker": "0.32%",
           "maker": "0.22%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 200 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <200 000 EUR",
           "taker": "0.31%",
           "maker": "0.21%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 250 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <250 000 EUR",
           "taker": "0.30%",
           "maker": "0.21%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 375 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <375 000 EUR",
           "taker": "0.29%",
           "maker": "0.20%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 500 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <500 000 EUR",
           "taker": "0.28%",
           "maker": "0.19%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 625 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <625 000 EUR",
           "taker": "0.27%",
           "maker": "0.18%"
         },
         {
-          "label": "30 DAY VOLUME IN ANY CURRENCY < 875 000 EUR",
+          "label": "30 DAY VOLUME IN ANY CURRENCY <875 000 EUR",
           "taker": "0.26%",
           "maker": "0.18%"
         },
@@ -1006,826 +1058,89 @@
           "taker": "0.25%",
           "maker": "0.17%"
         }
-      ]
+      ],
+      "UCOM (KZC)/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "LSK/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "XRP/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "FTO/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "OMG/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      },
+      "XMR/BTC": {
+        "taker": "0.1%",
+        "maker": "0%"
+      }
     },
     "deposit-fees": {
-      "default": 0
+      "BAT": 0,
+      "BCC": 0,
+      "BTC": 0,
+      "BTG": 0,
+      "Dash": 0,
+      "ETH": 0,
+      "EUR": 0,
+      "FTO": 0,
+      "GAME": 0,
+      "GNT": 0,
+      "KZC": 0,
+      "LSK": 0,
+      "LTC": 0,
+      "NEU": 0,
+      "OMG": 0,
+      "PAY": 0,
+      "PLN": 0,
+      "REP": 0,
+      "USD": 0,
+      "XIN": 0,
+      "XMR": 0,
+      "XRP": 0,
+      "ZEC": 0,
+      "ZRX": 0
     },
     "withdrawal-fees": {
-      "__notes": "https://bitbay.net/en/fees#withdrawals",
-      "BTC": 0.00045,
-      "LTC": 0.005,
-      "ETH": 0.00126,
-      "LSK": 0.2,
+      "BAT": 8,
       "BCC": 0.0006,
-      "GAME": 0.005,
-      "DASH": 0.001,
+      "BTC": 0.00045,
       "BTG": 0.0008,
+      "DASH": 0.001,
+      "ETH": 0.00126,
+      "EUR": 4,
+      "FTO": 0.2,
+      "GAME": 0.005,
+      "GNT": 3,
       "KZC": 0.0005,
+      "LSK": 0.2,
+      "LTC": 0.005,
+      "NEU": 5,
+      "OMG": 0.1,
+      "PAY": 3,
+      "PLN": {
+        "ATM withdrawal (100 - 1000 PLN)": 10,
+        "ATM withdrawal (2000 PLN)": 20,
+        "Wire bank transfer": 4
+      },
+      "REP": 0.1,
+      "USD": "0.25%",
       "XIN": 2,
+      "XMR": 0.04,
       "XRP": 0.1,
       "ZEC": 0.001,
-      "XMR": 0.04,
-      "PLN": {
-        "Wire bank transfer": 4,
-        "ATM withdrawal (100 - 1000 PLN)": 10,
-        "ATM withdrawal (2000 PLN)": 20
-      },
-      "EUR": 4,
-      "USD": "0.25%"
+      "ZRX": 2
     },
-    "markets": {
-      "BAT-BTC": {
-        "baseCcy": "BAT",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "BAT 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "BAT-EUR": {
-        "baseCcy": "BAT",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "BAT 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BAT-PLN": {
-        "baseCcy": "BAT",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "BAT 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BAT-USD": {
-        "baseCcy": "BAT",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "BAT 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 7
-      },
-      "BCC-BTC": {
-        "baseCcy": "BCC",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "BCC 0.00035",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "BCC-EUR": {
-        "baseCcy": "BCC",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "BCC 0.00035",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BCC-PLN": {
-        "baseCcy": "BCC",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "BCC 0.00035",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BCC-USD": {
-        "baseCcy": "BCC",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "BCC 0.00035",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTC-EUR": {
-        "baseCcy": "BTC",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "BTC 0.00003",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTC-PLN": {
-        "baseCcy": "BTC",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "BTC 0.00003",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTC-USD": {
-        "baseCcy": "BTC",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "BTC 0.00003",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTG-BTC": {
-        "baseCcy": "BTG",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "BTG 0.00045",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "BTG-EUR": {
-        "baseCcy": "BTG",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "BTG 0.00045",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTG-PLN": {
-        "baseCcy": "BTG",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "BTG 0.00045",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "BTG-USD": {
-        "baseCcy": "BTG",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "BTG 0.00045",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "DASH-BTC": {
-        "baseCcy": "DASH",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "DASH 0.00045",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "DASH-EUR": {
-        "baseCcy": "DASH",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "DASH 0.00045",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "DASH-PLN": {
-        "baseCcy": "DASH",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "DASH 0.00045",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "DASH-USD": {
-        "baseCcy": "DASH",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "DASH 0.00045",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ETH-BTC": {
-        "baseCcy": "ETH",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "ETH 0.00045",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "ETH-EUR": {
-        "baseCcy": "ETH",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "ETH 0.00045",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ETH-PLN": {
-        "baseCcy": "ETH",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "ETH 0.00045",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ETH-USD": {
-        "baseCcy": "ETH",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "ETH 0.00045",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "FTO-BTC": {
-        "baseCcy": "FTO",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "FTO 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "FTO-EUR": {
-        "baseCcy": "FTO",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "FTO 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "FTO-PLN": {
-        "baseCcy": "FTO",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "FTO 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "FTO-USD": {
-        "baseCcy": "FTO",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "FTO 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GAME-BTC": {
-        "baseCcy": "GAME",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "GAME 0.05",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "GAME-EUR": {
-        "baseCcy": "GAME",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "GAME 0.05",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GAME-PLN": {
-        "baseCcy": "GAME",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "GAME 0.05",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GAME-USD": {
-        "baseCcy": "GAME",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "GAME 0.05",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GNT-BTC": {
-        "baseCcy": "GNT",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "GNT 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "GNT-EUR": {
-        "baseCcy": "GNT",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "GNT 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GNT-PLN": {
-        "baseCcy": "GNT",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "GNT 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "GNT-USD": {
-        "baseCcy": "GNT",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "GNT 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "KZC-BTC": {
-        "baseCcy": "KZC",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "KZC 0.025",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "KZC-EUR": {
-        "baseCcy": "KZC",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "KZC 0.025",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "KZC-PLN": {
-        "baseCcy": "KZC",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "KZC 0.025",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "KZC-USD": {
-        "baseCcy": "KZC",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "KZC 0.025",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LSK-BTC": {
-        "baseCcy": "LSK",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "LSK 0.025",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "LSK-EUR": {
-        "baseCcy": "LSK",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "LSK 0.025",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LSK-PLN": {
-        "baseCcy": "LSK",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "LSK 0.025",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LSK-USD": {
-        "baseCcy": "LSK",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "LSK 0.025",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LTC-BTC": {
-        "baseCcy": "LTC",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "LTC 0.0025",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "LTC-EUR": {
-        "baseCcy": "LTC",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "LTC 0.0025",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LTC-PLN": {
-        "baseCcy": "LTC",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "LTC 0.0025",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "LTC-USD": {
-        "baseCcy": "LTC",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "LTC 0.0025",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "OMG-BTC": {
-        "baseCcy": "OMG",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "OMG 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "OMG-EUR": {
-        "baseCcy": "OMG",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "OMG 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "OMG-PLN": {
-        "baseCcy": "OMG",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "OMG 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "OMG-USD": {
-        "baseCcy": "OMG",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "OMG 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "PAY-BTC": {
-        "baseCcy": "PAY",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "PAY 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "PAY-EUR": {
-        "baseCcy": "PAY",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "PAY 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "PAY-PLN": {
-        "baseCcy": "PAY",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "PAY 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "PAY-USD": {
-        "baseCcy": "PAY",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "PAY 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "REP-BTC": {
-        "baseCcy": "REP",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "REP 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "REP-EUR": {
-        "baseCcy": "REP",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "REP 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 1
-      },
-      "REP-PLN": {
-        "baseCcy": "REP",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "REP 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "REP-USD": {
-        "baseCcy": "REP",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "REP 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XIN-BTC": {
-        "baseCcy": "XIN",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "XIN 1",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 7,
-        "quantity-precision": 8
-      },
-      "XIN-EUR": {
-        "baseCcy": "XIN",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "XIN 1",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XIN-PLN": {
-        "baseCcy": "XIN",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "XIN 1",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XIN-USD": {
-        "baseCcy": "XIN",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "XIN 1",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XMR-BTC": {
-        "baseCcy": "XMR",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "XMR 0.025",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "XMR-EUR": {
-        "baseCcy": "XMR",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "XMR 0.025",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XMR-PLN": {
-        "baseCcy": "XMR",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "XMR 0.025",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XMR-USD": {
-        "baseCcy": "XMR",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "XMR 0.025",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XRP-BTC": {
-        "baseCcy": "XRP",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "XRP 0.2",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "XRP-EUR": {
-        "baseCcy": "XRP",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "XRP 0.2",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XRP-PLN": {
-        "baseCcy": "XRP",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "XRP 0.2",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "XRP-USD": {
-        "baseCcy": "XRP",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "XRP 0.2",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZEC-BTC": {
-        "baseCcy": "ZEC",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "ZEC 0.025",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "ZEC-EUR": {
-        "baseCcy": "ZEC",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "ZEC 0.025",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZEC-PLN": {
-        "baseCcy": "ZEC",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "ZEC 0.025",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZEC-USD": {
-        "baseCcy": "ZEC",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "ZEC 0.025",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZRX-BTC": {
-        "baseCcy": "ZRX",
-        "counterCcy": "BTC",
-        "minimum-order-size": {
-          "bid": "ZRX 0.25",
-          "ask": "BTC 0.00003"
-        },
-        "price-precision": 8,
-        "quantity-precision": 8
-      },
-      "ZRX-EUR": {
-        "baseCcy": "ZRX",
-        "counterCcy": "EUR",
-        "minimum-order-size": {
-          "bid": "ZRX 0.25",
-          "ask": "EUR 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZRX-PLN": {
-        "baseCcy": "ZRX",
-        "counterCcy": "PLN",
-        "minimum-order-size": {
-          "bid": "ZRX 0.25",
-          "ask": "PLN 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      },
-      "ZRX-USD": {
-        "baseCcy": "ZRX",
-        "counterCcy": "USD",
-        "minimum-order-size": {
-          "bid": "ZRX 0.25",
-          "ask": "USD 0.1"
-        },
-        "price-precision": 2,
-        "quantity-precision": 8
-      }
-    }
+    "markets": {}
   },
   "bitfinex": {
     "trading-fees": {

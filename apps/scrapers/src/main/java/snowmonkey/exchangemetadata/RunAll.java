@@ -6,6 +6,7 @@ import snowmonkey.exchangemetadata.parsers.AnxproParser;
 import snowmonkey.exchangemetadata.parsers.BinanceParser;
 import snowmonkey.exchangemetadata.parsers.BitZParser;
 import snowmonkey.exchangemetadata.parsers.BitbankParser;
+import snowmonkey.exchangemetadata.parsers.BitbayParser;
 import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
 import snowmonkey.exchangemetadata.parsers.CoinexParser;
 import snowmonkey.exchangemetadata.parsers.CryptopiaParser;
@@ -34,7 +35,8 @@ public class RunAll {
 //            parsers.add(AnxproParser.create());
 //            parsers.add(BinanceParser.create());
 //            parsers.add(BitZParser.create());
-            parsers.add(BitbankParser.create());
+//            parsers.add(BitbankParser.create());
+            parsers.add(BitbayParser.create());
 //            parsers.add(CoinexParser.create());
 //            parsers.add(CoinFalconParser.create());
 //            parsers.add(CryptopiaParser.create());
