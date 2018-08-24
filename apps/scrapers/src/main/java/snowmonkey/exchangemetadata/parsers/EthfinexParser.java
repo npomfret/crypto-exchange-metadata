@@ -4,7 +4,6 @@ import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
-import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -25,7 +24,7 @@ public class EthfinexParser implements Parser {
     }
 
     @Override
-    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
+    public ExchangeMetadata generateExchangeMetadata() throws Exception {
         Source source = readWebpage("https://www.ethfinex.com/fees");
         List<Element> tables = source.getAllElements("table");
 

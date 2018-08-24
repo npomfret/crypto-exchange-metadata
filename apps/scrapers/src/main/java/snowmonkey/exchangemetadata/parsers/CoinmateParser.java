@@ -3,16 +3,12 @@ package snowmonkey.exchangemetadata.parsers;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
-import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -28,7 +24,7 @@ public class CoinmateParser implements Parser {
     }
 
     @Override
-    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
+    public ExchangeMetadata generateExchangeMetadata() throws Exception {
         TradingFees tradingFees = new TradingFees();
         TransferFees depositFees = new TransferFees();
         TransferFees withdrawalFees = new TransferFees();

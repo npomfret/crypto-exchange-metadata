@@ -28,7 +28,7 @@
     <meta name="theme-color" content="#ffffff">
     
 
-    <link href="/static/styles.min.css?release=1535032889" rel="stylesheet"  type="text/css">
+    <link href="/static/styles.min.css?release=1535033443" rel="stylesheet"  type="text/css">
 
 
     <script src="/static/js/vendors/modernizr.js"></script>
@@ -43,7 +43,7 @@
 Settings={}; User={}; 
 Settings.lang="en"; 
 Settings.pusher_key='be4b37b7434968bb1e17'; 
-Settings.release='1535032889'; 
+Settings.release='1535033443'; 
 Settings.websocket_transport='centrifugo'; 
 Settings.socketio_server=''; 
 Settings.ws_nginx_server='api.exmo.com'; 
@@ -53,13 +53,13 @@ Settings.default_para='BTC_RUB';
 Settings.reload_chart=300000; 
 Settings.comission=0.2; 
 Settings.captcha=1; 
-Settings.HMAC_token='1ac4ad1306ffbea618178248bd8a1bbef408733db0f2e0e3d330aafe0676a30b' 
-Settings.request_time='1535123659' 
+Settings.HMAC_token='a3c644d6e726d218abae3fbab4752df9bf8743da3dc6a3b333a8cb4d77105629' 
+Settings.request_time='1535127489' 
 Settings.centrifugo_url='https://ws.exmoney.com' 
-Settings.centrifugo_user_id='5b8020cb86c69' 
+Settings.centrifugo_user_id='5b802fc1cf6ab' 
 Settings.lang='en'; 
-Settings.online=5413;
-Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"\u0414\u043e\u043b\u043b\u0430\u0440"},"EUR":{"id":12,"name":"EUR","isFiat":true,"description":"\u0415\u0432\u0440\u043e"},"RUB":{"id":6,"name":"RUB","isFiat":true,"description":"\u0420\u0443\u0431\u043b\u044c"},"PLN":{"id":32,"name":"PLN","isFiat":true,"description":"Polish z\u0142oty"},"UAH":{"id":23,"name":"UAH","isFiat":true,"description":"Hryvnia"},"BTC":{"id":7,"name":"BTC","isFiat":false,"description":"Bitcoin"},"LTC":{"id":9,"name":"LTC","isFiat":false,"description":"Litecoin"},"DOGE":{"id":13,"name":"DOGE","isFiat":false,"description":"Dogecoin"},"DASH":{"id":21,"name":"DASH","isFiat":false,"description":"Dash"},"ETH":{"id":22,"name":"ETH","isFiat":false,"description":"Ethereum"},"WAVES":{"id":24,"name":"WAVES","isFiat":false,"description":"Waves"},"ZEC":{"id":25,"name":"ZEC","isFiat":false,"description":"Zcash"},"USDT":{"id":26,"name":"USDT","isFiat":false,"description":"Tether"},"XMR":{"id":27,"name":"XMR","isFiat":false,"description":"Monero"},"XRP":{"id":28,"name":"XRP","isFiat":false,"description":"Ripple"},"KICK":{"id":29,"name":"KICK","isFiat":false,"description":"KickCoin"},"ETC":{"id":30,"name":"ETC","isFiat":false,"description":"Ethereum Classic"},"BCH":{"id":31,"name":"BCH","isFiat":false,"description":"Bitcoin Cash"},"BTG":{"id":33,"name":"BTG","isFiat":false,"description":"Bitcoin Gold"},"EOS":{"id":34,"name":"EOS","isFiat":false,"description":"EOS"},"HBZ":{"id":35,"name":"HBZ","isFiat":false,"description":"Helbiz"},"BTCZ":{"id":36,"name":"BTCZ","isFiat":false,"description":"BitcoinZ"},"DXT":{"id":37,"name":"DXT","isFiat":false,"description":"Datawallet"},"STQ":{"id":38,"name":"STQ","isFiat":false,"description":"Storiqa"},"XLM":{"id":39,"name":"XLM","isFiat":false,"description":"Stellar"},"MNX":{"id":40,"name":"MNX","isFiat":false,"description":"MinexCoin"},"OMG":{"id":41,"name":"OMG","isFiat":false,"description":"OmiseGO"},"TRX":{"id":42,"name":"TRX","isFiat":false,"description":"TRON"},"ADA":{"id":43,"name":"ADA","isFiat":false,"description":"ADA"},"INK":{"id":44,"name":"INK","isFiat":false,"description":"INK"}}; 
+Settings.online=5272;
+Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"US dollar"},"EUR":{"id":12,"name":"EUR","isFiat":true,"description":"Euro"},"RUB":{"id":6,"name":"RUB","isFiat":true,"description":"Ruble"},"PLN":{"id":32,"name":"PLN","isFiat":true,"description":"Polish z\u0142oty"},"UAH":{"id":23,"name":"UAH","isFiat":true,"description":"Hryvnia"},"BTC":{"id":7,"name":"BTC","isFiat":false,"description":"Bitcoin"},"LTC":{"id":9,"name":"LTC","isFiat":false,"description":"Litecoin"},"DOGE":{"id":13,"name":"DOGE","isFiat":false,"description":"Dogecoin"},"DASH":{"id":21,"name":"DASH","isFiat":false,"description":"Dash"},"ETH":{"id":22,"name":"ETH","isFiat":false,"description":"Ethereum"},"WAVES":{"id":24,"name":"WAVES","isFiat":false,"description":"Waves"},"ZEC":{"id":25,"name":"ZEC","isFiat":false,"description":"Zcash"},"USDT":{"id":26,"name":"USDT","isFiat":false,"description":"Tether"},"XMR":{"id":27,"name":"XMR","isFiat":false,"description":"Monero"},"XRP":{"id":28,"name":"XRP","isFiat":false,"description":"Ripple"},"KICK":{"id":29,"name":"KICK","isFiat":false,"description":"KickCoin"},"ETC":{"id":30,"name":"ETC","isFiat":false,"description":"Ethereum Classic"},"BCH":{"id":31,"name":"BCH","isFiat":false,"description":"Bitcoin Cash"},"BTG":{"id":33,"name":"BTG","isFiat":false,"description":"Bitcoin Gold"},"EOS":{"id":34,"name":"EOS","isFiat":false,"description":"EOS"},"HBZ":{"id":35,"name":"HBZ","isFiat":false,"description":"Helbiz"},"BTCZ":{"id":36,"name":"BTCZ","isFiat":false,"description":"BitcoinZ"},"DXT":{"id":37,"name":"DXT","isFiat":false,"description":"Datawallet"},"STQ":{"id":38,"name":"STQ","isFiat":false,"description":"Storiqa"},"XLM":{"id":39,"name":"XLM","isFiat":false,"description":"Stellar"},"MNX":{"id":40,"name":"MNX","isFiat":false,"description":"MinexCoin"},"OMG":{"id":41,"name":"OMG","isFiat":false,"description":"OmiseGO"},"TRX":{"id":42,"name":"TRX","isFiat":false,"description":"TRON"},"ADA":{"id":43,"name":"ADA","isFiat":false,"description":"ADA"},"INK":{"id":44,"name":"INK","isFiat":false,"description":"INK"}}; 
 </script>
 <div class="container ">
     <!--Header-->
@@ -198,9 +198,9 @@ Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"\u0
             <div class="user_default_lang"><div class="user_default_lang_active en">en</div><div class="user_default_lang_drop"><ul class="lang_list"><li><a href="/en?change_lang" class="en">English</a></li><li><a href="/es?change_lang" class="es">Español</a></li><li><a href="/fr?change_lang" class="fr">Français</a></li><li><a href="/de?change_lang" class="de">Deutsch</a></li><li><a href="/it?change_lang" class="it">Italiano</a></li><li><a href="/pt?change_lang" class="pt">Português</a></li><li><a href="/ro?change_lang" class="ro">Română</a></li><li><a href="/zh?change_lang" class="zh">中文</a></li><li><a href="/ru?change_lang" class="ru">Русский</a></li><li><a href="/uk?change_lang" class="uk">Українська</a></li><li><a href="/pl?change_lang" class="pl">Polski</a></li><li><a class="empty-element" href="" onclick="return false;">&nbsp;</a></li></ul></div></div>
 
             <div class="footer_head_text">
-                <span class="white_text">31290</span> <span class="gray_text">Active Traders</span>
+                <span class="white_text">31206</span> <span class="gray_text">Active Traders</span>
                 &nbsp;
-                <span class="white_text">3281 BTC</span> <span class="gray_text">24h Volume</span>
+                <span class="white_text">3300 BTC</span> <span class="gray_text">24h Volume</span>
             </div>
 
         </div>
@@ -398,8 +398,8 @@ Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"\u0
 
 <div class="notifications"></div>
 
-<script type="text/javascript" src="/static/script.min.js?release=1535032889"></script>
-<script type="text/javascript" src="/static/js/lang/en.js?release=1535032889"></script>
+<script type="text/javascript" src="/static/script.min.js?release=1535033443"></script>
+<script type="text/javascript" src="/static/js/lang/en.js?release=1535033443"></script>
 
 
 <!-- Yandex.Metrika counter -->
@@ -488,5 +488,5 @@ Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"\u0
 <noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/2346b31f643c4a27bcfcb6ba9990224a/pixel?tag=ViewContent&noscript=1"/></noscript>
 <!-- End of Quora Pixel Code -->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba82139332","applicationID":"53504979","transactionName":"YFEAMEBYDxZXVkBeVlkbNxZbFggLUlBMGUlfRA==","queueTime":0,"applicationTime":188,"atts":"TBYDRghCHBg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba82139332","applicationID":"53505456","transactionName":"YFEAMEBYDxZXVkBeVlkbNxZbFggLUlBMGUlfRA==","queueTime":0,"applicationTime":181,"atts":"TBYDRghCHBg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

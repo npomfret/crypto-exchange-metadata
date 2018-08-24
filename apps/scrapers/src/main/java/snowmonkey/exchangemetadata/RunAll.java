@@ -2,6 +2,7 @@ package snowmonkey.exchangemetadata;
 
 import com.google.gson.JsonObject;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
+import snowmonkey.exchangemetadata.parsers.AnxproParser;
 import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
 import snowmonkey.exchangemetadata.parsers.CoinexParser;
 import snowmonkey.exchangemetadata.parsers.CryptopiaParser;
@@ -27,6 +28,7 @@ public class RunAll {
         public static Parsers create() {
 
             Parsers parsers = new Parsers();
+            parsers.add(AnxproParser.create());
             parsers.add(ExmoParser.create());
             parsers.add(CoinexParser.create());
             parsers.add(CoinFalconParser.create());
@@ -59,7 +61,7 @@ public class RunAll {
 
             SymbolMapping symbolMapping = SymbolMapping.create(exchangeId);
 
-            exchanges.add(parser.exchangeId(), parser.generateExchangeMetadata(symbolMapping).toJson());
+            exchanges.add(parser.exchangeId(), parser.generateExchangeMetadata().toJson());
         }
 
         JsonObject output = new JsonObject();

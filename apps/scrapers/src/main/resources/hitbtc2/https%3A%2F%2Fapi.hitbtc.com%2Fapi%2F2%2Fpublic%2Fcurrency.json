@@ -1535,7 +1535,7 @@
     "payinEnabled": false,
     "payinPaymentId": false,
     "payinConfirmations": 2,
-    "payoutEnabled": false,
+    "payoutEnabled": true,
     "payoutIsPaymentId": false,
     "transferEnabled": true,
     "delisted": false,
@@ -4353,7 +4353,7 @@
     "payinEnabled": true,
     "payinPaymentId": false,
     "payinConfirmations": 2,
-    "payoutEnabled": false,
+    "payoutEnabled": true,
     "payoutIsPaymentId": false,
     "transferEnabled": true,
     "delisted": false,
@@ -5658,19 +5658,6 @@
     "transferEnabled": true,
     "delisted": false,
     "payoutFee": "3334"
-  },
-  {
-    "id": "NLC2",
-    "fullName": "NoLimitCoin",
-    "crypto": true,
-    "payinEnabled": false,
-    "payinPaymentId": false,
-    "payinConfirmations": 2,
-    "payoutEnabled": false,
-    "payoutIsPaymentId": false,
-    "transferEnabled": false,
-    "delisted": false,
-    "payoutFee": "250.02"
   },
   {
     "id": "CENNZ",

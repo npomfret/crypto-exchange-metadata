@@ -4,7 +4,6 @@ import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
-import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -25,7 +24,7 @@ public class OkexParser implements Parser {
     }
 
     @Override
-    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
+    public ExchangeMetadata generateExchangeMetadata() throws Exception {
         TradingFees tradingFees = new TradingFees();
 
         // https://support.okex.com/hc/en-us/articles/360000141391-Service-Fees

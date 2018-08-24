@@ -12,7 +12,11 @@ public interface Parser {
      */
     String exchangeId();
 
-    ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception;
+    ExchangeMetadata generateExchangeMetadata() throws Exception;
+
+    default SymbolMapping symbolMapping() {
+        return SymbolMapping.create(exchangeId());
+    }
 
     default JsonElement readJson(String uri) {
         return new ResourceGetter(exchangeId()).readJson(uri);

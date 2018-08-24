@@ -4,7 +4,6 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
-import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -25,7 +24,7 @@ public class CryptopiaParser implements Parser {
     }
 
     @Override
-    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
+    public ExchangeMetadata generateExchangeMetadata() throws Exception {
         TradingFees tradingFees = new TradingFees();
         TransferFees depositFees = new TransferFees();
         depositFees.addDefaultFee(Fee.parse("0"));//can't find a deposit fee, assume its zero

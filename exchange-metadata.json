@@ -1,43 +1,68 @@
 {
   "anxpro": {
-    "deposit-fees": {
-      "default": 0
-    },
-    "withdrawal-fees": {
-      "HKD": {
-        "Bank Wire": {
-          "fixed": 250,
-          "rate": "1.00%"
-        },
-        "HK Local Bank Transfer": {
-          "fixed": 55,
-          "rate": "1.00%"
-        }
-      },
-      "USD": "n/a",
-      "GBP": "n/a",
-      "EUR": "n/a",
-      "JPY": "n/a",
-      "CAD": "n/a",
-      "AUD": "n/a",
-      "SGD": "n/a",
-      "ANX": 0.1,
-      "ATENC": 0.1,
-      "BTC": 0.002,
-      "DOGE": 0.1,
-      "ETH": 0.005,
-      "GNT": 0.001,
-      "LTC": 0.02,
-      "OAX": 0.001,
-      "START": 0.1,
-      "STR": 1,
-      "XRP": 1
-    },
     "trading-fees": {
       "default": {
         "taker": "0.2%",
         "maker": "0.1%"
       }
+    },
+    "deposit-fees": {
+      "ANX": "n/a",
+      "ATENC": "n/a",
+      "BTC": 0,
+      "CAD": "n/a",
+      "CNY": "n/a",
+      "DOGE": 0,
+      "EGD": "n/a",
+      "ETH": 0,
+      "EUR": "n/a",
+      "GBP": "n/a",
+      "GNT": "n/a",
+      "HKD": "n/a",
+      "LTC": 0,
+      "NMC": "n/a",
+      "OAX": 0,
+      "PPC": "n/a",
+      "START": 0,
+      "STR": "n/a",
+      "USD": "n/a",
+      "XRP": 0
+    },
+    "withdrawal-fees": {
+      "ANX": "n/a",
+      "ATENC": "n/a",
+      "AUD": "n/a",
+      "BTC": 0.002,
+      "CAD": "n/a",
+      "CHF": "n/a",
+      "CNY": "n/a",
+      "DOGE": 0.1,
+      "EGD": "n/a",
+      "ETH": 0.005,
+      "EUR": "n/a",
+      "GBP": "n/a",
+      "GNT": 0.001,
+      "HKD": {
+        "BANK_WIRE": {
+          "rate": "1%",
+          "fixed": 250
+        },
+        "HKG_BANK_TRANSFER": {
+          "rate": "1%",
+          "fixed": 55
+        }
+      },
+      "JPY": "n/a",
+      "LTC": 0.02,
+      "NMC": "n/a",
+      "NZD": "n/a",
+      "OAX": 0.001,
+      "PPC": "n/a",
+      "SGD": "n/a",
+      "START": 0.1,
+      "STR": 1,
+      "USD": "n/a",
+      "XRP": 1
     },
     "markets": {
       "ATENCAUD": {

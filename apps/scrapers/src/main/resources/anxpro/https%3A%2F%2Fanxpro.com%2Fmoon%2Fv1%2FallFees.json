@@ -1,0 +1,708 @@
+{
+  "timestamp": "1535127633102",
+  "data": [
+    {
+      "cashs": [
+        "HKD",
+        "USD",
+        "EUR",
+        "GBP",
+        "CHF",
+        "AUD",
+        "CAD",
+        "NZD",
+        "SGD",
+        "JPY",
+        "CNY"
+      ],
+      "coins": [
+        "ANX",
+        "ATENC",
+        "BTC",
+        "DOGE",
+        "EGD",
+        "ETH",
+        "GNT",
+        "LTC",
+        "NMC",
+        "OAX",
+        "PPC",
+        "START",
+        "STR",
+        "XRP"
+      ],
+      "fiatDeposit": {
+        "HKD": {
+          "CASH_DEPOSIT": {
+            "max": 100000.00,
+            "min": 100.00,
+            "feeAbs": 0,
+            "feePer": 0
+          }
+        },
+        "USD": {
+          "BANK_WIRE": {
+            "max": 100000000.00,
+            "min": 100.00,
+            "feeAbs": 0,
+            "feePer": 0
+          }
+        },
+        "EUR": {
+          "BANK_WIRE": {
+            "max": 10000000,
+            "min": 100.00,
+            "feeAbs": 0,
+            "feePer": 0
+          }
+        },
+        "GBP": {
+          "BANK_WIRE": {
+            "max": 100000.00,
+            "min": 200.00,
+            "feeAbs": 0,
+            "feePer": 0
+          }
+        },
+        "CAD": {
+          "BANK_WIRE": {
+            "max": 10000000,
+            "min": 100.00,
+            "feeAbs": 0,
+            "feePer": 0
+          }
+        },
+        "CNY": {
+          "CHINA_UNIONPAY": {
+            "max": 1000.00,
+            "min": 10.00,
+            "feeAbs": 0,
+            "feePer": 0.04000000
+          }
+        }
+      },
+      "fiatWithdrawal": {
+        "HKD": {
+          "BANK_WIRE": {
+            "maxTrusted": 2000000.00,
+            "maxPartner": 30000000.00,
+            "max": 250000.00,
+            "min": 800.00000000,
+            "feeAbs": 250.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 2000000.00,
+            "maxPartner": 30000000.00,
+            "max": 250000.00,
+            "min": 800.00000000,
+            "feeAbs": 55.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "USD": {
+          "BANK_WIRE": {
+            "maxTrusted": 250000.00,
+            "maxPartner": 7000000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 25.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 250000.00,
+            "maxPartner": 7000000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "EUR": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 100000.00,
+            "min": 80.00000000,
+            "feeAbs": 20.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 100000.00,
+            "min": 80.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "GBP": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 80.00000000,
+            "feeAbs": 15.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 80.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "CHF": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 20.00000000,
+            "feePer": 0.0050
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0050
+          }
+        },
+        "AUD": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 25.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "CAD": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 50.00000000,
+            "feeAbs": 25.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 50.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "NZD": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 30.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "SGD": {
+          "BANK_WIRE": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 30.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 50000.00,
+            "maxPartner": 100000.00,
+            "max": 10000.00,
+            "min": 100.00000000,
+            "feeAbs": 5.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "JPY": {
+          "BANK_WIRE": {
+            "maxTrusted": 10000000.00,
+            "maxPartner": 100000.00,
+            "max": 1000000.00,
+            "min": 10000.00000000,
+            "feeAbs": 2600.00000000,
+            "feePer": 0.0100
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 10000000.00,
+            "maxPartner": 100000.00,
+            "max": 1000000.00,
+            "min": 10000.00000000,
+            "feeAbs": 500.00000000,
+            "feePer": 0.0100
+          }
+        },
+        "CNY": {
+          "BANK_WIRE": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 1000000.00,
+            "max": 100000.00,
+            "min": 600.00000000,
+            "feeAbs": 200.00000000,
+            "feePer": 0.0050
+          },
+          "HKG_BANK_TRANSFER": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 1000000.00,
+            "max": 100000.00,
+            "min": 600.00000000,
+            "feeAbs": 25.00000000,
+            "feePer": 0.0050
+          }
+        }
+      },
+      "coinDeposit": {
+        "ANX": {
+          "min": 1.00000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "ATENC": {
+          "min": 1.0000000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "BTC": {
+          "min": 0.02000000,
+          "maxUnverified": 100.00,
+          "maxVerified": 1000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "DOGE": {
+          "min": 10.00000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "EGD": {
+          "min": 0.00100000,
+          "maxUnverified": 400.00,
+          "maxVerified": 1500.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "ETH": {
+          "min": 0.01000000,
+          "maxUnverified": 100.00,
+          "maxVerified": 10000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "GNT": {
+          "min": 0.0100000000,
+          "maxUnverified": 1000.00,
+          "maxVerified": 10000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "LTC": {
+          "min": 0.10000000,
+          "maxUnverified": 100.00,
+          "maxVerified": 1000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "NMC": {
+          "min": 1.00000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "OAX": {
+          "min": 0.0100000000,
+          "maxUnverified": 0,
+          "maxVerified": 20000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "PPC": {
+          "min": 1.0000000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "START": {
+          "min": 1.0000000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "STR": {
+          "min": 200.00000000,
+          "maxUnverified": 0,
+          "maxVerified": 0,
+          "feeAbs": 0,
+          "feePer": 0
+        },
+        "XRP": {
+          "min": 25.00000000,
+          "maxUnverified": 10000.00,
+          "maxVerified": 1000000.00,
+          "feeAbs": 0,
+          "feePer": 0
+        }
+      },
+      "coinWithdrawal": {
+        "ANX": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 10000.00,
+            "maxPartner": 100000.00,
+            "min": 1.00000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 50000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 10000.00,
+            "maxPartner": 100000.00,
+            "min": 1.00000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 50000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "ATENC": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 1000.00,
+            "maxPartner": 1000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 100.00,
+            "maxVerified": 100.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 1000.00,
+            "maxPartner": 1000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 100.00,
+            "maxVerified": 100.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "BTC": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 100.00,
+            "maxPartner": 500.00,
+            "min": 0.02000000,
+            "maxUnverified": 2.00,
+            "maxVerified": 20.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.00200000
+          },
+          "EMAIL": {
+            "maxTrusted": 100.00,
+            "maxPartner": 500.00,
+            "min": 0.02000000,
+            "maxUnverified": 2.00,
+            "maxVerified": 20.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "DOGE": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 100000000.00,
+            "maxPartner": 100000000.00,
+            "min": 10.00000000,
+            "maxUnverified": 20000000.00,
+            "maxVerified": 50000000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 100000000.00,
+            "maxPartner": 100000000.00,
+            "min": 10.00000000,
+            "maxUnverified": 20000000.00,
+            "maxVerified": 50000000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "EGD": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 8000.00,
+            "maxPartner": 80000.00,
+            "min": 0.00100000,
+            "maxUnverified": 80.00,
+            "maxVerified": 800.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.00010000
+          },
+          "EMAIL": {
+            "maxTrusted": 8000.00,
+            "maxPartner": 80000.00,
+            "min": 0.00100000,
+            "maxUnverified": 80.00,
+            "maxVerified": 800.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "ETH": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 1500.00,
+            "maxPartner": 1500.00,
+            "min": 0.01000000,
+            "maxUnverified": 200.00,
+            "maxVerified": 750.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.00500000
+          },
+          "EMAIL": {
+            "maxTrusted": 1500.00,
+            "maxPartner": 1500.00,
+            "min": 0.01000000,
+            "maxUnverified": 200.00,
+            "maxVerified": 750.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "GNT": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 40000.00,
+            "maxPartner": 40000.00,
+            "min": 0.0100000000,
+            "maxUnverified": 180000.00,
+            "maxVerified": 400000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.00100000
+          },
+          "EMAIL": {
+            "maxTrusted": 40000.00,
+            "maxPartner": 40000.00,
+            "min": 0.0100000000,
+            "maxUnverified": 180000.00,
+            "maxVerified": 400000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "LTC": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 4000.00,
+            "maxPartner": 8000.00,
+            "min": 0.10000000,
+            "maxUnverified": 500.00,
+            "maxVerified": 1000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.02000000
+          },
+          "EMAIL": {
+            "maxTrusted": 4000.00,
+            "maxPartner": 8000.00,
+            "min": 0.10000000,
+            "maxUnverified": 500.00,
+            "maxVerified": 1000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "NMC": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 10000000.00,
+            "min": 1.00000000,
+            "maxUnverified": 10000.00,
+            "maxVerified": 10000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 10000000.00,
+            "min": 1.00000000,
+            "maxUnverified": 10000.00,
+            "maxVerified": 10000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "OAX": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 500000.00,
+            "maxPartner": 500000.00,
+            "min": 0.0100000000,
+            "maxUnverified": 100000.00,
+            "maxVerified": 200000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.00100000
+          },
+          "EMAIL": {
+            "maxTrusted": 500000.00,
+            "maxPartner": 500000.00,
+            "min": 0.0100000000,
+            "maxUnverified": 100000.00,
+            "maxVerified": 200000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "PPC": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 100000.00,
+            "maxPartner": 100000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 10000.00,
+            "maxVerified": 10000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 100000.00,
+            "maxPartner": 100000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 10000.00,
+            "maxVerified": 10000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "START": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 4000000.00,
+            "maxPartner": 4000000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 500000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0.10000000
+          },
+          "EMAIL": {
+            "maxTrusted": 4000000.00,
+            "maxPartner": 4000000.00,
+            "min": 1.0000000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 500000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "STR": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 2000000.00,
+            "maxPartner": 2000000.00,
+            "min": 200.00000000,
+            "maxUnverified": 2000000.00,
+            "maxVerified": 5000000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 1.00000000
+          },
+          "EMAIL": {
+            "maxTrusted": 2000000.00,
+            "maxPartner": 2000000.00,
+            "min": 200.00000000,
+            "maxUnverified": 2000000.00,
+            "maxVerified": 5000000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        },
+        "XRP": {
+          "CRYPTOCOIN": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 1000000.00,
+            "min": 25.00000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 500000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 1.00000000
+          },
+          "EMAIL": {
+            "maxTrusted": 1000000.00,
+            "maxPartner": 1000000.00,
+            "min": 25.00000000,
+            "maxUnverified": 50000.00,
+            "maxVerified": 500000.00,
+            "feeAbs": 0,
+            "feePer": 0,
+            "networkFee": 0
+          }
+        }
+      },
+      "defaultCcy": "BTC",
+      "tradingFee": {
+        "incomingOrderFeePer": 0.2000,
+        "restingOrderFeePer": 0.1000,
+        "sellIncomingOrderFeePer": 0.2000,
+        "sellRestingOrderFeePer": 0.1000
+      },
+      "spreadFee": {
+        "sellFee": 0.0300,
+        "buyFee": 0.0400
+      }
+    }
+  ],
+  "event": "allFees"
+}

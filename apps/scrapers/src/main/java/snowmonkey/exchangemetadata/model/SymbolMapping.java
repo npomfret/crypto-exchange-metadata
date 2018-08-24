@@ -11,9 +11,13 @@ public class SymbolMapping {
     public SymbolMapping(JsonArray mappings) {
     }
 
-    public static SymbolMapping create(String exchangeId) throws IOException {
-        Path mappingFile = Paths.get("../mapping-generation/data/" + exchangeId + ".json");
-        JsonArray mappings = BitsAndBobs.readJsonArray(mappingFile);
-        return new SymbolMapping(mappings);
+    public static SymbolMapping create(String exchangeId) {
+        try {
+            Path mappingFile = Paths.get("../mapping-generation/data/" + exchangeId + ".json");
+            JsonArray mappings = BitsAndBobs.readJsonArray(mappingFile);
+            return new SymbolMapping(mappings);
+        } catch (IOException e) {
+            throw new IllegalStateException("cannot load symbols for " + exchangeId, e);
+        }
     }
 }
