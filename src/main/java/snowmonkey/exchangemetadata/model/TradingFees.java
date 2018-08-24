@@ -49,7 +49,7 @@ public class TradingFees {
         addFee("default", takerFee, makerFee, label);
     }
 
-    private void addFee(String marketName, Fee takerFee, Fee makerFee, String label) {
+    public void addFee(String marketName, Fee takerFee, Fee makerFee, String label) {
         if (!fees.containsKey(marketName))
             fees.put(marketName, new ArrayList<>());
 

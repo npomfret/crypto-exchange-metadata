@@ -1,0 +1,138 @@
+[
+  {
+    "feeZones": [
+      {
+        "makerFeeValue": 0.05,
+        "takerFeeValue": 0.15,
+        "tradingVolume": 10000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.04,
+        "takerFeeValue": 0.14,
+        "tradingVolume": 100000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.03,
+        "takerFeeValue": 0.13,
+        "tradingVolume": 250000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.02,
+        "takerFeeValue": 0.12,
+        "tradingVolume": 500000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0,
+        "takerFeeValue": 0.11,
+        "tradingVolume": 1000000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": -0.05,
+        "takerFeeValue": 0.1,
+        "tradingVolume": 3000000,
+        "applyMakerReferral": false,
+        "applyTakerReferral": false
+      },
+      {
+        "makerFeeValue": -0.08,
+        "takerFeeValue": 0.09,
+        "tradingVolume": null,
+        "applyMakerReferral": false,
+        "applyTakerReferral": false
+      }
+    ],
+    "name": "Promotional",
+    "currencyPairs": [
+      {
+        "id": 3,
+        "name": "LTC/BTC"
+      },
+      {
+        "id": 4,
+        "name": "BCH/BTC"
+      },
+      {
+        "id": 5,
+        "name": "LTC/EUR"
+      },
+      {
+        "id": 6,
+        "name": "LTC/CZK"
+      }
+    ]
+  },
+  {
+    "feeZones": [
+      {
+        "makerFeeValue": 0.12,
+        "takerFeeValue": 0.25,
+        "tradingVolume": 10000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.11,
+        "takerFeeValue": 0.23,
+        "tradingVolume": 100000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.1,
+        "takerFeeValue": 0.21,
+        "tradingVolume": 250000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.08,
+        "takerFeeValue": 0.2,
+        "tradingVolume": 500000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0.05,
+        "takerFeeValue": 0.15,
+        "tradingVolume": 1000000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": 0,
+        "takerFeeValue": 0.1,
+        "tradingVolume": 3000000,
+        "applyMakerReferral": true,
+        "applyTakerReferral": true
+      },
+      {
+        "makerFeeValue": -0.05,
+        "takerFeeValue": 0.06,
+        "tradingVolume": null,
+        "applyMakerReferral": false,
+        "applyTakerReferral": false
+      }
+    ],
+    "name": "Standard",
+    "currencyPairs": [
+      {
+        "id": 1,
+        "name": "BTC/EUR"
+      },
+      {
+        "id": 2,
+        "name": "BTC/CZK"
+      }
+    ]
+  }
+]

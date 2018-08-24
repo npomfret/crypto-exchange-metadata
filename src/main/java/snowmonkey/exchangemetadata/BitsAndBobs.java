@@ -2,6 +2,7 @@ package snowmonkey.exchangemetadata;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
@@ -13,6 +14,7 @@ import net.htmlparser.jericho.Source;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.Reader;
 import java.math.BigDecimal;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -76,9 +78,16 @@ public class BitsAndBobs {
         System.out.println(body);
 
     }
+
     public static JsonObject readJson(Path path) throws IOException {
         try (BufferedReader reader = Files.newBufferedReader(path)) {
             return new JsonParser().parse(reader).getAsJsonObject();
+        }
+    }
+
+    public static JsonArray readJsonArray(Path path) throws IOException {
+        try (BufferedReader reader = Files.newBufferedReader(path)) {
+            return new JsonParser().parse(reader).getAsJsonArray();
         }
     }
 
