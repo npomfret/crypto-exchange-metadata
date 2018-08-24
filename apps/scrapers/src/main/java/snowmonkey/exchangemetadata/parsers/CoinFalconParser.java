@@ -2,7 +2,6 @@ package snowmonkey.exchangemetadata.parsers;
 
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
@@ -28,7 +27,7 @@ public class CoinFalconParser implements Parser {
 
     @Override
     public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
-        Source source = BitsAndBobs.getPage("https://coinfalcon.com/fees");
+        Source source = readWebpage("https://coinfalcon.com/fees");
         List<Element> tables = source.getAllElements("table");
 
         TradingFees tradingFees = new TradingFees();

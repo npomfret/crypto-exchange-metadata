@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fee - The Leading Global Bitcoin Exchange | OKEx - The Leading Global Bitcoin/Ethereum/Litecoin Exchange</title>
+    <meta charset="UTF-8">
+    
+    
+    <meta name="baidu-site-verification" content="UzSnoBK8wI"/>
+    <meta name="keywords" content="btc,bitcoin,buy bitcoin,bitcoin exchange,bitcoin price,eth,ethereum,ltc,litecoin,eos,qtum,neo,ripple,etc"/>
+    <meta name="description" content="OKEx is the leading global bitcoin exchange. Secured with bank-level SSL encryption and cold storage. Distributed servers for high-speed bitcoin trading based on real-time data. OKEx provides top level digital currency trading services for bitcoin, litecoin,ethereum,ripple,eos and more."/>
+    <link rel="shortcut icon" href="https://img.bafang.com/cdn/assets/imgs/MjAxODg/D91A7323087D31A588E0D2A379DD7747.png"  type="image/png"/>
+    <link rel="alternate" href="https://www.okex.com/" hreflang="x-default" />
+    <link rel="alternate" href="https://www.okex.com/lang/en-US/" hreflang="en-us" />
+    <link rel="alternate" href="https://www.okex.com/lang/zh-CN/" hreflang="zh-cn" />
+    <link rel="alternate" href="https://www.okex.com/lang/zh-HK/" hreflang="zh-hk" />
+    <link rel="stylesheet" type="text/css" href="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/css/resetBase.css" />
+    <link rel="stylesheet" type="text/css" href="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/css/header.css" />
+    <link rel="stylesheet" type="text/css" href="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/css/footer.css" />
+    
+    
+    <link rel="stylesheet" type="text/css" href="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/font/iconfont.css" />
+    <link rel="stylesheet" type="text/css" href="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/css/pages/products/fee.css">
+    <script src="https://img.bafang.com/cdn/assets/okfe/libs/jquery/jquery1.12.4.min.js"></script>
+    <script src="https://img.bafang.com/cdn/assets/okfe/libs/jquery/jquery.cookie-1.4.1.js"></script>
+    <script src="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/js/tools/ajax.js"></script>
+    <script src="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/js/tools/util.js"></script>
+</head>
+<body>
+<div>
+    
+    <div id="headerContainer" class="header">
+        
+    <div class="header-wrap okex">
+            <div class="header-nav">
+                <div class="box">
+                <span class="switch-site"><span>OKEX.COM<i class="icon iconfont icon-spread"></i></span>
+                    <div class="drop-down-list">
+                        <a class="item" href="https://www.okcoin.com">OKCOIN.COM</a>
+                    </div>
+                </span>
+                    <span class="more-list">
+                    <a class="more-link" href="/account/users/support">Feedback</a>
+                    <a class="more-link" id="headerApi" href="">API</a>
+                    <a class="more-link" href="/okcapital">OK Blockchain Capital</a>
+                    <a class="more-link" href="/activity/okbBoss">OKB</a>
+                    <a class="more-link" id="partner" href="javascript:void(0);">Global Partners</a>
+                    <a class="more-link" href="/vote/professionInvestor">Prime Investors</a>
+                    <a class="more-link" href="/vote/index">Listing Vote</a>
+                    <a class="more-link" href="/pages/products/openExchange.html">OK Partner Exchange</a>
+                </span>
+                    <span class="notice">
+                    <span>
+                        <span class="notice-icon-box">
+                            <span class="notice-new hide"></span><i class="icon iconfont icon-notice"></i>
+                        </span>
+                    </span>
+                    <div class="drop-down-list">
+                        <div class="notice-box">
+                            <div class="notice-title">Announcements</div>
+                            <div class="notice-list"></div>
+                            <a id="more-news" class="notice-more">More</a>
+                        </div>
+                    </div>
+                </span>
+                    <span class="download-app">
+                    <span>Download App</span><i class="icon iconfont icon-spread"></i>
+                    <div class="drop-down-list">
+                        <div class="download-box">
+                            <div class="qr-box">
+                                <div class="text">Download App</div>
+                                <img src="https://img.bafang.com/cdn/assets/imgs/MjAxODg/F9F7B03D9E538B520042FF6BB843D78D.png" alt="" class="qr-code-img"/><br/>
+                                <a href="http://okex.legendh5.com/h5/okex-download.html" class="to-beta"><span>Try the beta app</span> &gt;</a>
+                            </div>
+                            <div class="pc-box">
+                                <div class="text">Desktop Client Downloads</div>
+                                <a href="http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx.dmg" class="download-btn"><i class="icon iconfont icon-mac"></i>Mac</a><br/>
+                                <a href="http://upgradeapp.oss-cn-hangzhou.aliyuncs.com/upgradeapp/OKEx_Setup.exe" class="download-btn"><i class="icon iconfont icon-win"></i>Windows</a>
+                            </div>
+                        </div>
+                    </div>
+                </span>
+                    <span class="about-us">
+                    <span>Social</span><i class="icon iconfont icon-spread"></i>
+                    <div class="drop-down-list">
+                        <a class="item" href="https://www.facebook.com/OKExOfficial/?ref=br_tf" target="_blank"><i class="icon iconfont icon-facebook icon-about-us"></i> <span class="text">Facebook</span></a>
+                        <br/>
+                        <a class="item" href="https://twitter.com/OKEx_" target="_blank"><i class="icon iconfont icon-twitter icon-about-us"></i> <span class="text">Twitter</span></a>
+                        <br/>
+                        <a class="item telegram" href="" target="_blank"><i class="icon iconfont icon-Telegram icon-about-us"></i> <span class="text">Telegram</span></a>
+                        <br/>
+                        <a class="item" href="https://medium.com/okex-blog" target="_blank"><i class="icon iconfont icon-medium icon-about-us"></i> <span class="text">Medium</span></a>
+                        <br/>
+                        <a class="item" href="https://support.okex.com/hc/zh-cn/articles/360000566692" target="_blank"><i class="icon iconfont icon-WeChat icon-about-us"></i> <span class="text">WeChat</span></a>
+                        <br/>
+                        <a class="item" href="https://support.okex.com/hc/en-us/articles/360011691711" target="_blank"><i class="icon iconfont icon-groupchat icon-about-us"></i> <span class="text">WeChat Group</span></a>
+                        <br/>
+                        <a class="item" href="https://weibo.com/bafanghuzhu" target="_blank"><i class="icon iconfont icon-weibo icon-about-us"></i> <span class="text">Weibo</span></a>
+                        <br/>
+                    </div>
+                </span>
+                </div>
+            </div>
+            <div class="header-main">
+                <a class="logo-wrap" href="/">
+                    <svg class="icon" aria-hidden="true" style="width: 102px; height: 136px; top: -37px; position: absolute;">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-okex-logo"></use>
+                    </svg>
+                </a>
+                <ul class="nav-wrap">
+                    <li><a class="" data-key="/marketlist" href="/marketList">Charts</a></li>
+                    <li id="c2c"><a class="" data-key="otc">Fiat to Token</a></li>
+                    <li id="nologinSpot"><a class="" data-key="/trade" data-exclusive="spot,future" href="/trade">Token Trading</a></li>
+                    <li id="nologinfuture"><a class="" data-key="futuretrade" href="/futureTrade">Futures</a></li>
+                    <li id="trade" style="position: relative;display: none;">
+                        <a href="/spot/trade" data-key="/spot/"  class="tab">Token Trading</a>
+                        <span id="spotArrow" class="user-arrow"><i class="icon iconfont icon-Unfold"></i></span>
+                        <div id="spotList">
+                            <div class="user-info-extend">
+                                <a href="/spot/trade">Classic Trading</a>
+                                <a href="/spot/full" target="_blank">Full-Screen Trading</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="future" style="position:relative;display: none;">
+                        <a href="/future/trade" data-key="/future/" class="tab">Futures</a>
+                        <span id="futureArrow" class="user-arrow"><i class="icon iconfont icon-Unfold"></i></span>
+                        <div id="futureList">
+                            <div class="user-info-extend">
+                                <a href="/future/trade">Classic Trading</a>
+                                <a href="/future/full" target="_blank">Full-Screen Trading</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li id="etf"><a class="" data-key="ett">Index Tracker</a></li>
+                </ul>
+                <div class="user-no-login" style="display: none;">
+                    <a class="user-register" href="/account/register">Sign Up</a>
+                    <a class="user-login" href="/account/login">Login</a>
+                </div>
+                <div class="user-wrap" style="display: none;">
+                    <div class="user-info"></div>
+                    <span class="user-arrow"><i class="icon iconfont icon-Unfold"></i></span>
+                    <div class="user-info-extend">
+                        <a href="/account/users">Settings</a>
+                        <a href="/account/users/security">Security</a>
+                        <span class="logout">Logout</span>
+                    </div>
+                </div>
+                <a class="user-balance" data-key="account/balance" href="/account/balance" style="display: none;">Account</a>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<div id="container" class="container">
+    <div class="fee-main">
+        <div class="tab-head">
+            <ul id="tabList" class="clear">
+                <li class="active">Standard fee schedule</li>
+                <li>Token Loan Service - Interest Rate</li>
+                <li>Market maker program</li>
+            </ul>
+        </div>
+        <div id="feeMainContent" class="fee-main-content">
+            <!--标准费率-->
+            <div class="standard-fee">
+                <h2>Trading Fees</h2>
+                <p class="margin-top-16">OKEx offers a volume-based maker-taker fee schedule. We calculate your trading volume every day and adjust your fees according to the chart below:</p>
+                <table class="margin-top-24" border="1" cellspacing="0">
+                    <thead>
+                    <tr>
+                        <th class="width73" rowspan="2">Tier</th>
+                        <th class="width363" colspan="3">Spot Trading</th>
+                        <th class="width363" colspan="3">Futures Trading	</th>
+                        <th class="width119" rowspan="2">24hr Withdrawal Limit (BTC)</th>
+                    </tr>
+                    <tr>
+                        <th>30day Trading Volume (BTC)	</th>
+                        <th>Maker Fee</th>
+                        <th>Taker Fee</th>
+                        <th>30day Trading Volume (BTC)	</th>
+                        <th>Maker Fee</th>
+                        <th>Taker Fee</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Lv1</td>
+                        <td>< 600</td>
+                        <td>0.15%</td>
+                        <td>0.2%</td>
+                        <td>< 10000</td>
+                        <td>0.03%</td>
+                        <td>0.05%</td>
+                        <td>100</td>
+                    </tr>
+                    <tr>
+                        <td>Lv2</td>
+                        <td>≥ 600</td>
+                        <td>0.14%</td>
+                        <td>0.19%</td>
+                        <td>≥ 10000</td>
+                        <td>0.025%</td>
+                        <td>0.045%</td>
+                        <td>150</td>
+                    </tr>
+                    <tr>
+                        <td>Lv3</td>
+                        <td>≥ 1200</td>
+                        <td>0.13%</td>
+                        <td>0.18%</td>
+                        <td>≥ 20000</td>
+                        <td>0.02%</td>
+                        <td>0.04%</td>
+                        <td>200</td>
+                    </tr>
+                    <tr>
+                        <td>Lv4</td>
+                        <td>≥ 2400</td>
+                        <td>0.12%</td>
+                        <td>0.17%</td>
+                        <td>≥ 30000</td>
+                        <td>0.015%</td>
+                        <td>0.035%</td>
+                        <td>250</td>
+                    </tr>
+                    <tr>
+                        <td>Lv5</td>
+                        <td>≥ 12000</td>
+                        <td>0.11%</td>
+                        <td>0.15%</td>
+                        <td>≥ 60000</td>
+                        <td>0.01%</td>
+                        <td>0.03%</td>
+                        <td>300</td>
+                    </tr>
+                    <tr>
+                        <td>Lv6</td>
+                        <td>≥ 24000</td>
+                        <td>0.08%</td>
+                        <td>0.11%</td>
+                        <td>≥ 100000</td>
+                        <td>0.005%</td>
+                        <td>0.025%</td>
+                        <td>400</td>
+                    </tr>
+                    <tr>
+                        <td>Lv7</td>
+                        <td>≥ 60000</td>
+                        <td>0.05%</td>
+                        <td>0.08%</td>
+                        <td>≥ 200000</td>
+                        <td>0%</td>
+                        <td>0.02%</td>
+                        <td>500</td>
+                    </tr>
+                    <tr>
+                        <td>Lv8</td>
+                        <td>≥ 120000</td>
+                        <td>0.02%</td>
+                        <td>0.05%</td>
+                        <td>≥ 300000</td>
+                        <td>-0.01%</td>
+                        <td>0.02%</td>
+                        <td>1000</td>
+                    </tr>
+                    </tbody>
+                </table>
+                <p class="margin-top-16">To be eligible for a tier, you are only required to meet the minimum trading volume requirements of either Futures or Spot. Example: Your Spot Trading volume in the last 30 days is 1,000 BTC (Rank2) and Futures trading volume is 2,1000 BTC (Rank3), you are then eligible as a Rank3 user and can enjoy the discounted fees of the tier for both Futures and Spot Trading.</p>
+                <dl>
+                    <dt>Spot Trading</dt>
+                    <dd>30-day Spot Trading volume: Our system will record the transactions according to the prices (in quote currencies) at that time. Then every 24 hours at 00:00 UTC+8, it will calculate the total trading volume in BTC equivalent.</dd>
+                    <dd>Example: If you have traded OMG/BTC, XUC/BTC, BTC/USDT, LTC/ETH and BCH/USDT, our system will record the transactions in BTC, ETH, USDT according to the prices at that time. Then at 0:00 UTC+8, it will calculate the total trading volume of BTC, ETH and USDT in BTC equivalent.</dd>
+                </dl>
+                <dl>
+                    <dt>Futures Trading	</dt>
+                    <dd>30-day Futures Trading volume: Similarly, our system will record all positions opened or closed in USD equivalent, according to the prices at that time (contract face value). Then every 24 hours at 00:00 UTC+8, it will calculate the total trading volume in BTC equivalent, according to the avg. exchange rate of USD to BTC of the last 30 days.</dd>
+                    <dd>Example: Let’s say you traded BTC, ETH and EOS futures yesterday. Our system will record all the contracts in USD equivalent (contract face value). Then today at 00:00 UTC+8, it will calculate your total trading volume in BTC equivalent, according to the avg. exchange rate of USD to BTC of the last 30 days.</dd>
+                </dl>
+                <dl>
+                    <dt>Create order</dt>
+                    <dd>Maker orders are &quot;passive&quot; limit orders posted on the order book prior to the trade.</dd>
+                    <dd>Example: If the current market price is 1000USD and you created a 999USD maker order, the order will not be filled. Instead it will be posted on the order book, allowing others to take the order. Once the order is filled, maker will pay the maker fee and taker will pay the taker fee.</dd>
+                </dl>
+                <dl>
+                    <dt>Delivery</dt>
+                    <dd>Futures settlement fee is not affected by the users tier (0.015% for BTC, 0.05% for other tokens); No fee is charged for forced liquidation.</dd>
+                </dl>
+                <dl>
+                    <dt>24hr Withdrawal Limit</dt>
+                    <dd>24hr withdrawal limit: The limit of withdrawing all your digital assets in the account for the day in BTC equivalent. You may contact our customer service manager if you wish to increase the limit.</dd>
+                    <dd>Example: A tier 1 user has a withdrawal limit of 100 BTC equivalent, after withdrawing 50 BTC, 25 BTC worth of OMG and 15 BTC worth of XUC, the user will have a withdrawal limit balance of 10 BTC. Thus, withdrawing 20 BTC worth of XRP must wait until the next day, or he will have to contact customer service to request for increasing the limit.</dd>
+                    <dd>The 24hr withdrawal limit differs based on the users KYC (KYC 1 ≤2BTC, KYC 2 ≤100BTC).</dd>
+                </dl>
+                <dl>
+                    <dt>A guide to market making with master and sub accounts</dt>
+                    <dd>The master account’s tier is determined according to the total 30day trading volume of all master and sub accounts. Sub account’s tier will be the same as its master account’s.</dd>
+                </dl>
+            </div>
+            <!--借币费率-->
+            <div class="margin-fee">
+                <h2>Token Loan Service - Interest Rate</h2>
+                <table class="margin-top-24">
+                    <tr>
+                        <td class="thead">Token</td>
+                        <td>BTC</td>
+                        <td>USDT</td>
+                        <td>ETH</td>
+                        <td>BCH</td>
+                        <td>XRP</td>
+                        <td>LTC</td>
+                        <td>ETC</td>
+                        <td>QTUM</td>
+                        <td>IOST</td>
+                    </tr>
+                    <tr>
+                        <td class="thead">Daily Interest Rate</td>
+                        <td>0.1%</td>
+                        <td>0.1%</td>
+                        <td>0.1%</td>
+                        <td>0.02%</td>
+                        <td>0.02%</td>
+                        <td>0.02%</td>
+                        <td>0.02%</td>
+                        <td>0.02%</td>
+                        <td>0.02%</td>
+                    </tr>
+                </table>
+                <p class="tips">Remarks:Interest begins to accrue as soon as tokens are borrowed. It will continue to accrue every 24 hours (no interest will be accrued for that day if less than 24 hours).Unpaid interest will be compounded every 15 days.</p>
+                <h2 class="margin-top-40">Available Loan Amount</h2>
+                <p class="margin-top-16">The available loan amount can be 2X of your account balance of the trading pair, or the maximum loan amount listed above, depending on which value is smaller.</p>
+                <table class="margin-top-24">
+                    <thead>
+                    <tr>
+                        <th>Trading Pair</th>
+                        <th>Base Token</th>
+                        <th>Quote Token</th>
+                    </tr>
+                    </thead>
+                    <tr>
+                        <td>BTC/USDT</td>
+                        <td>100 BTC</td>
+                        <td>600000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>ETH/USDT</td>
+                        <td>600 ETH</td>
+                        <td>300000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>XRP/USDT</td>
+                        <td>600000 XRP</td>
+                        <td>600000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>BCH/USDT</td>
+                        <td>500 BCH</td>
+                        <td>300000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>LTC/USDT</td>
+                        <td>2500 LTC</td>
+                        <td>300000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>ETC/USDT</td>
+                        <td>5000 ETC</td>
+                        <td>60000 USDT</td>
+                    </tr>
+                    <tr>
+                        <td>ETH/BTC</td>
+                        <td>600 ETH</td>
+                        <td>100 BTC</td>
+                    </tr>
+                    <tr>
+                        <td>ETC/BTC</td>
+                        <td>5000 ETC</td>
+                        <td>10 BTC</td>
+                    </tr>
+                    <tr>
+                        <td>QTUM/BTC</td>
+                        <td>5000 QTUM</td>
+                        <td>10 BTC</td>
+                    </tr>
+                    <tr>
+                        <td>IOST/BTC</td>
+                        <td>2000000 IOST</td>
+                        <td>10 BTC</td>
+                    </tr>
+                </table>
+                <h3 class="margin-top-16">For example:</h3>
+                <p class="margin-top-16">1.User A has 400,000 USDT in his BTC/USDT account. 2X of his balance is 800,000 USDT. Therefore, the available loan amount is 600,000 USDT (max loan amount).</p>
+                <p class="margin-top-16">2.User B has 200,000 USDT in her BTC/USDT account. 2X of her balance is 400,000 UDST. Therefore, the available loan amount is 400,000 USDT. </p>
+                <p class="tips margin-bottom-30">Remarks:The maximum loan amount is calculated separately in different trading pairs. Even if you have borrowed 600,000 USDT in the BTC/USDT trading pair, you can still borrow another 600,000 USDT in the XRP/USDT trading pair.To minimize your risk, we also consider other factors when calculating your available loan amount. The final amount should be the value stated in the borrowing page.</p>
+            </div>
+            <!--市商费率-->
+            <div class="market-making-fee">
+                <h2>Market maker program</h2>
+                <p class="margin-top-16">Aside from tiered-volume fees discount, our market maker program specifically rewards traders who intend to provide consistent liquidity and competitive bid-ask spread.Once the market maker application is successful, it will be effective from 00:00 the next day.  To become a market maker, you need your tier higher than Lv2 or your total spot account balance greater than 100BTC equivalent.You can get extra fee rebate if the token team participates in our market maker extra rebate program.</p>
+                <table class="margin-top-24">
+                    <thead>
+                    <tr>
+                        <th>Tier</th>
+                        <th>Liquidity Index</th>
+                        <th>Maker Fees Rebate %</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Rank1</td>
+                        <td>≥ 50</td>
+                        <td>10%</td>
+                    </tr>
+                    <tr>
+                        <td>Rank2</td>
+                        <td>≥ 500</td>
+                        <td>20%</td>
+                    </tr>
+                    <tr>
+                        <td>Rank3</td>
+                        <td>≥ 5000</td>
+                        <td>30%</td>
+                    </tr>
+                    <tr>
+                        <td>Rank4</td>
+                        <td>≥ 10000</td>
+                        <td>40%</td>
+                    </tr>
+                    <tr>
+                        <td>Rank5</td>
+                        <td>≥ 50000</td>
+                        <td>50%</td>
+                    </tr>
+                    </tbody>
+                </table>
+                <p class="margin-top-16">Note that as a Market Maker, your accounts liquidity index must meet the minimum requirement (Rank1) at all times. Otherwise, your account will be downgraded to standard account without fee reimbursement. A new application will be needed to become a Market Maker again.</p>
+                <dl>
+                    <dt>Measurement of Market Maker Performance</dt>
+                    <dt style="font-size: 18px;">Liquidity Multiplier</dt>
+                    <dd>The rationale of having a liquidity multiplier as a coefficient on computing the liquidity index is to reward the maker orders posted as near as the best bid/offer and thus put lesser weight on the resting market depth posted far from the top of the book. It’s a necessary component on measuring as well as incentivize market maker to provide quality liquidity that eventually resulting a better market structure.</dd>
+                    <dd class="margin-top-8">The computation of liquidity multiplier adopts the following principles:</dd>
+                    <ol class="princeple margin-top-8">
+                        <li>The multiplier is weighted scoring system on the order size placed on the book – the closer to the top of the book, the higher of the allocated weights.</li>
+                        <li>The multiplier would ONLY consider the resting orders posted 30% from the current best bid and offer price of the market.</li>
+                        <li>Formulae on liquidity multiplier = Quoted Amount * Last Trade Price * [1- abs(Quoted Price / Last Trade Price -1) * weighted parameter] *  User’s Contribution Ratio * BTC Value to Base Currency.</li>
+                        <li>In this case, users’ quoting price would be adjusted by comparing the last trade price with a weighted parameter defined by our system. Hence, more distant from the top of the book, bigger discount applies on quoting price.</li>
+                        <li>The above outcome would be multiplied by the current contribution ratio, which is computed as a comparison on Users’ aggregated posted orders vs. Total aggregated posted orders in effective range. In that case, if you contribute a bigger liquidity to the order book of the particular token pair, you would have earned a better multiplier and hence enjoying more rebates. This is particular useful if you decide the make market for token which has lesser liquidity.</li>
+                        <li>Finally, we translate the outcomes in BTC value for the calculation of liquidity index.</li>
+                    </ol>
+                </dl>
+                <dl>
+                    <dt style="font-size: 18px;">Liquidity Index</dt>
+                    <ol class="princeple margin-top-8">
+                        <li>Liquidity Index is a snapshotted value on a fixed-time interval recording your quoted liquidity on the book from 00:00 (UTC +8).</li>
+                        <li>Each token pairs would earn a unique liquidity index. In that case, if you make market for multiple pairs, you would likely to receive rebate at multiple rate according to the respective liquidity index of each pair. Be noted that there is a minimum value on liquidity index.</li>
+                        <li>Formula: Liquidity Index = Liquidity multiplier / User’s Best Bid-Ask Spread.</li>
+                        <li>User’s Best Bid-Ask Spread is a value of users’ posted bid-ask spread relative to last trade price.</li>
+                        <li>Sum all liquidity multiplier on a single-side and take the smaller value as the numerator.</li>
+                        <li>You have to maintain the obligation of being a market maker by providing consistent liquidity to the orderbook over 50% of time in order to be eligible for a rebate on maker fees.</li>
+                    </ol>
+                </dl>
+                <dl>
+                    <dt style="font-size: 18px;">Additional Clarification</dt>
+                    <ol class="princeple margin-top-8">
+                        <li>The algorithm of liquidity multiplier and liquidity index shall be subjected to change over time according to the market situation.</li>
+                        <li>Market maker rebate is a reimbursement from the maker fee charged of your current eligible fee tiers. Therefore, if you are currently a Lv5 account in which are paying 0.11% as a maker, at the same time you are very active market maker on QTUM/BTC and achieved a Rank5 on liquidity index, you would only need pay 0.055% on all filled maker order on QTUM/BTC.</li>
+                        <li>Market maker performance report would be available on a daily basis which would illustrate the token pair(s) you had traded, liquidity index derived by your yesterday’s market making activities, as well as the rebated % and amounts.</li>
+                    </ol>
+                </dl>
+                <p class="margin-top-16">Example: User A’s GAS/USDT market making summary,the latest price is 100</p>
+                <table class="margin-top-24">
+                    <thead>
+                    <tr>
+                        <th>Multiplier</th>
+                        <th>Amount</th>
+                        <th>Buy Price</th>
+                        <th>Sell Price</th>
+                        <th>Amount</th>
+                        <th>Multiplier</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr class="bg-grey">
+                        <td></td>
+                        <td></td>
+                        <td>95</td>
+                        <td>105</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>13.4</td>
+                        <td>20</td>
+                        <td>90</td>
+                        <td>110</td>
+                        <td>30</td>
+                        <td>20.1</td>
+                    </tr>
+                    <tr>
+                        <td>10.2</td>
+                        <td>30</td>
+                        <td>80</td>
+                        <td>120</td>
+                        <td>100</td>
+                        <td>34</td>
+                    </tr>
+                    <tr class="bg-grey">
+                        <td></td>
+                        <td></td>
+                        <td>78</td>
+                        <td>124</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>500</td>
+                        <td>70</td>
+                        <td>130</td>
+                        <td>200</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>0</td>
+                        <td>300</td>
+                        <td>60</td>
+                        <td>150</td>
+                        <td>500</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>28.6</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>56.1</td>
+                    </tr>
+                    </tbody>
+                </table>
+                <p class="margin-top-24">Liquidity multiplier is 28.6, bid-ask spread is 20%, hence liquidity index is 143.</p>
+                <dl>
+                    <dt>Market making with master and sub accounts</dt>
+                    <dd>Only master account can submit the market maker application. But sub accounts can also enjoy the privileges and contribute to the liquidity index. The total liquidity index is determined by adding up the scores of all accounts.</dd>
+                </dl>
+                <dl>
+                    <dt>About Market Maker Extra Rebate Program</dt>
+                    <dd>Token teams may participate in the program to provide tokens as rewards for adding liquidity. Market maker can not only earn fee reimbursement but also extra rebate by market making. The higher the MM tier you are, the more extra rebate you get, while supplies last.</dd>
+                    <dd>For example: If your MM tier is 4, then your fee reimbursement is 40%. Let’s say the ACT extra rebate for the trading pair ACT/BTC for this tier is 50%, and the fee you are charged for today’s trading is 1000ACT, then the extra rebate you can get will be: 1000ACT * 40% * 50% = 200ACT.</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+    <script>
+        jQuery('#tabList li').on('click', function () {
+            var index = jQuery(this).index();
+            jQuery(this).addClass('active').siblings().removeClass('active');
+            jQuery('#feeMainContent div').eq(index).show().siblings().hide();
+        })
+
+        //获取url中的参数
+        function getUrlParam(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); // 构造一个含有目标参数的正则表达式对象
+            var r = window.location.search.substr(1).match(reg);  // 匹配目标参数
+            if (r !== null) {
+                return unescape(r[2]);
+            }
+            return null; // 返回参数值
+        }
+        var tabIndex = getUrlParam('tabIndex');
+        jQuery('#tabList li').eq(Number(tabIndex)).click()
+    </script>
+</div>
+<div>
+    
+    <div id="footerContainer" class="footer-container okex">
+        
+        <div class="footer-main clear">
+            <div class="footer-left">
+                <svg id="okLogo" class="icon" aria-hidden="true" style="width: 110px; height: 136px; top: -47px; position: absolute;">
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-okex-logo-Navigation"></use>
+                </svg>
+                <div class="list">
+                    <div>
+                        <span class="icon-down-text">All trading products offered through OKEx should be considered HIGH RISK.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-right">
+                <ul class="clear">
+                    <li class="list">
+                        <span class="title">About Us</span>
+                        <div>
+                            <a class="link" href="/pages/company/about.html">Our Company</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/team.html">Our Team</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/recruit.html">Join Us</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/contactUs.html">Contact Us</a>
+                        </div>
+                        <div>
+                            <a class="link list-token">Token Listing</a>
+                        </div>
+                    </li>
+                    <li class="list">
+                        <span class="title">Customer Support</span>
+                        <div>
+                            <a class="link" href="/account/users/support">Feedback</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/products/fees.html">Fee</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/termsService.html">Terms of Service</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/riskDisclosures.html">Disclosures</a>
+                        </div>
+                        <div>
+                            <a class="link" href="/pages/company/privacy.html">Privacy Policy</a>
+                        </div>
+                    </li>
+                    <li class="list">
+                        <span class="title">Contact Us</span>
+                        <div>
+                        <span class="icon-list">
+                            <a href="https://www.facebook.com/OKExOfficial/?ref=br_tf" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-facebook"></i></a>
+                            <a href="https://twitter.com/OKEx_" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-twitter"></i></a>
+                            <a href="https://0.plus/sp/okexofficial_cn" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-biyong"></i></a>
+                            <a href="" class="icon-some-chat telegram" target="_blank"><i class="icon iconfont icon-Telegram"></i></a>
+                            <a href="https://medium.com/okex-blog" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-medium"></i></a>
+                            <a href="https://support.okex.com/hc/zh-cn/articles/360000566692" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-WeChat"></i></a>
+                            <a href="https://weibo.com/bafanghuzhu" class="icon-some-chat" target="_blank"><i class="icon iconfont icon-weibo"></i></a>
+                        </span>
+                        </div>
+                        <div>
+                            <span class="no_link">Tel:</span>
+                            <span class="no_link light-white">+852 5808 5768（24/7）</span>
+                        </div>
+                        <div>
+                            <span class="no_link">CS email(International):</span>
+                            <span class="no_link light-white"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="265553565649545266494d435e0845494b">[email&#160;protected]</a></span>
+                        </div>
+                        <div>
+                            <span class="no_link">Correspondence Address: 255 Gloucester Road, Causeway Bay</span>
+                        </div>
+                    </li>
+                    <li class="list">
+                        <span class="title">Language</span>
+                        <div id="languageBox" class="language-box">
+                            <div id="language" class="language">
+                                <span class="text"></span>
+                                <i class="icon iconfont icon-Unfold"></i>
+                            </div>
+                            <ul id="languageList" class="language-list"></ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="footer-link">
+            <div class="link-line">
+                <span class="title">Additional Links:</span>
+                <a class="text" href="https://www.bizhihui.vip/">bizhihui</a>
+                <a class="text" href="http://www.yikuaiyingbi.com/">yikuaiyingbi</a>
+                <a class="text" href="http://tokenonly.cn/">TokenOnly</a>
+                <a class="text" href="http://www.huoxing24.com/">Huoxing</a>
+                <a class="text" href="http://www.aicoin.com" target="_blank">AlCoin</a>
+                <a class="text" href="http://bcsky.pro/" target="_blank">bcsky</a>
+                <a class="text" href="https://www.hecaijing.com" target="_blank">hecaijing</a>
+                <a class="text" href="http://www.bitkan.com" target="_blank">BitKan</a>
+                <a class="text" href="https://www.pandaminer.com/okex" target="_blank">PandaMiner</a>
+                <a class="text" href="http://www.cybtc.com" target="_blank">CYBTC</a>
+                <a class="text" href="http://www.wanbizu.com" target="_blank">WanBiZu</a>
+                <a class="text" href="http://www.blockvalue.com" target="_blank">BlockValue</a>
+                <a class="text" href="http://www.chainfor.com" target="_blank">Chainfo</a>
+                <a class="text" href="http://www.btc126.com" target="_blank">BTC126</a>
+                <a class="text" href="https://www.atoken.com" target="_blank">Atoken</a>
+                <a class="text" href="http://www.qukuaiwang.com.cn" target="_blank">QuKuaiWang</a>
+                <a class="text" href="http://www.feixiaohao.com" target="_blank">FeiXiaoHao</a>
+                <a class="text" href="https://www.coingogo.com" target="_blank">Coingogo</a>
+                <a class="text" href="http://app.mytoken.io" target="_blank">MyToken</a>
+                <a class="text" href="https://www.7234.cn" target="_blank">Lianshijie</a>
+                <a class="text" href="http://www.bibaodao.com" target="_blank">Bibaodao</a>
+                <a class="text" href="http://ethbtc.org" target="_blank">ETHBTC</a>
+                <a class="text" href="http://biqushi.cn/" target="_blank">biqushi</a>
+                <a class="text" href="http://chainnews.com/" target="_blank">chainnews</a>
+                <a class="text" href="http://www.btc798.com" target="_blank">btc798</a>
+                <a class="text" href="http://www.haob.cc" target="_blank">haob</a>
+                <a class="text" href="http://www.5bite.com" target="_blank">bite5</a>
+                <a class="text" href="http://www.qukuainews.cn" target="_blank">qukuainews</a>
+                <a class="text" href="http://www.jgy.com" target="_blank">jgy</a>
+                <a class="text" href="http://www.bitejie.net" target="_blank">bitejie</a>
+                <a class="text" href="http://www.wabi.com" target="_blank">wabi</a>
+                <a class="text" id="btc8" href="" target="_blank">8btc</a>
+                <a class="text" href="https://www.chainwhy.com" target="_blank">chainwhy</a>
+                <a class="text" href="http://www.weilaicaijing.com/" target="_blank">Weilai</a>
+                <a class="text" href="http://www.btc38.com/" target="_blank">btc38</a>
+                <a class="text" href="http://www.bareas.com/" target="_blank">bareas</a>
+                <a class="text" href="http://www.tokenpapa.com" target="_blank">tokenpapa</a>
+                <a class="text" href="https://www.ihuoqiu.com/" target="_blank">ihuoqiu</a>
+                <a class="text" href="http://www.jinniu.cn/" target="_blank">jinniu</a>
+                <a class="text" href="https://www.vvpool.com/" target="_blank">VVPool</a>
+                <a class="text" href="http://miner.tools/" target="_blank">Miner.Tools</a>
+                <a class="text" href="https://www.f2pool.com/" target="_blank">F2Pool</a>
+                <a class="text" href="https://cobo.com/" target="_blank">Cobo</a>
+                <a class="text" href="http://www.gongxiangcj.com/" target="_blank">Gongxiangcj</a>
+                <a class="text" href="http://www.fn.com/" target="_blank">FN</a>
+                <a class="text" href="https://block.cc/ " target="_blank">Block.cc</a>
+                <a class="text" href="http://www.haitunbc.com/" target="_blank">haitunbc</a>
+                <a class="text" href="http://www.bcfans.com/" target="_blank">bcfans</a>
+                <a class="text" href="http://www.bishequ.com/" target="_blank">bishequ</a>
+                <a class="text" href="http://bixiaobai.com/" target="_blank">bixiaobai</a>
+                <a class="text" href="http://biyiye.com/" target="_blank">biyiye</a>
+                <a class="text" href="http://www.block360.pro/" target="_blank">block360</a>
+                <a class="text" href="http://btweek.com/" target="_blank">bteek</a>
+                <a class="text" href="http://www.dayqkl.com/" target="_blank">dayqkl</a>
+                <a class="text" href="https://www.tuoluocaijing.cn/" target="_blank">tuoluocaijing</a>
+                <a class="text" href="https://stock.gucheng.com/" target="_blank">gucheng</a>
+                <a class="text" href="https://coinbull.one/" target="_blank">coinbull</a>
+                <a class="text" href="http://www.blockcircles.cn/" target="_blank">blockcircles</a>
+                <a class="text" href="http://qianba.com/" target="_blank">qianba</a>
+                <a class="text" href="http://www.btc789.com/" target="_blank">btc789</a>
+                <a class="text" href="http://btblt.com/" target="_blank">btblt</a>
+                <a class="text" href="http://liandongbaike.com/" target="_blank">liandongbaike</a>
+                <a class="text" href="https://www.biask.com/" target="_blank">biask</a>
+                <a class="text" href="https://www.btcside.com/" target="_blank">btcside</a>
+                <a class="text" href="http://gscaijing.com/" target="_blank">gscaijing</a>
+                <a class="text" href="http://www.niubafa.com/" target="_blank">niubafa</a>
+                <a class="text" href="https://www.kg.com/" target="_blank">kg.com</a>
+                <a class="text" href="http://www.o-o-o.link/" target="_blank">o-o-o</a>
+                <a class="text" href="http://www.tuoniaox.com/" target="_blank">tuoniaox</a>
+                <a class="text" href="https://www.bitansuo.com/" target="_blank">bitansuo</a>
+                <a class="text" href="http://www.budao24.com" target="_blank">budao24</a>
+                <a class="text" target="_blank" id="voilt" style="display: none">Vault</a>
+                <a class="text" target="_blank" id="wallet" style="display: none">Wallet</a>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <span>&copy;2014-2018 OKEX.com. All Rights Reserved</span>
+        </div>
+
+    </div>
+
+</div>
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/js/common.js"></script>
+    
+    <script src="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/font/iconfont.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115738092-1"></script>
+    <script src="https://img.bafang.com/cdn/assets/okfe/seo-ex/1.0.12/js/statistics.js"></script>
+    
+    <script>
+        /*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="okexcshelp.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
+        /*]]>*/
+    </script>
+
+
+</body>
+</html>

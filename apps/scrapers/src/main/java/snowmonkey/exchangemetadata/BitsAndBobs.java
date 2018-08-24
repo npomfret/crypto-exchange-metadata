@@ -14,7 +14,6 @@ import net.htmlparser.jericho.Source;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.Reader;
 import java.math.BigDecimal;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -36,18 +35,6 @@ public class BitsAndBobs {
         return source;
     }
 
-    public static JsonObject getJson(String uri) throws IOException, InterruptedException {
-        return getJson(URI.create(uri));
-    }
-
-    public static JsonObject getJson(URI uri) throws IOException, InterruptedException {
-        return getJsonElement(uri).getAsJsonObject();
-    }
-
-    public static JsonElement getJsonElement(URI uri) throws IOException, InterruptedException {
-        return new JsonParser().parse(doGet(uri));
-    }
-
     public static String doGet(URI uri) throws IOException, InterruptedException {
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(uri)
@@ -63,22 +50,6 @@ public class BitsAndBobs {
         return response.body();
     }
 
-    public static void main(String[] args) throws Exception {
-        String uri ="https://www.okcoin.com/api/v1/withdraw_info.do";
-        HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create(uri))
-                .POST(HttpRequest.BodyPublisher.noBody())
-                .build();
-
-        HttpResponse<String> response = HttpClient.newBuilder()
-                .build()
-                .send(request, HttpResponse.BodyHandler.asString());
-
-        String body = response.body();
-        System.out.println(body);
-
-    }
-
     public static JsonObject readJson(Path path) throws IOException {
         try (BufferedReader reader = Files.newBufferedReader(path)) {
             return new JsonParser().parse(reader).getAsJsonObject();
@@ -91,13 +62,9 @@ public class BitsAndBobs {
         }
     }
 
-    public static JsonObject readJson(String url) throws IOException {
-        return readJson(new URL(url));
-    }
-
-    public static JsonObject readJson(URL url) throws IOException {
+    public static JsonElement readJson(URL url) throws IOException {
         try (BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream()))) {
-            return new JsonParser().parse(in).getAsJsonObject();
+            return new JsonParser().parse(in);
         }
     }
 

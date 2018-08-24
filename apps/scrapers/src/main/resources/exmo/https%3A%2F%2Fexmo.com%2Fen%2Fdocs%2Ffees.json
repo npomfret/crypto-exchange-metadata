@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    
+    <meta name="viewport" content="width=1180, maximum-scale=4.0, user-scalable=yes">
+    <title>Bitcoin Exchange Fees at Exmo</title>
+    <meta name="description" content="Bitcoin Exchange Fees at Exmo. BTC, LTC, DOGE, PPC, VTC as well as USD, EUR, RUB fee exchange rates" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/img/favicon2/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/img/favicon2/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/img/favicon2/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/img/favicon2/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/img/favicon2/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/img/favicon2/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/img/favicon2/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/img/favicon2/android-icon-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicon2/apple-touch-icon-512x512.png">
+
+    <link rel="shortcut icon" type="image/png" sizes="192x192"  href="/static/img/favicon2/android-icon-192x192.png">
+    <link rel="shortcut icon" type="image/png" sizes="96x96" href="/static/img/favicon2/favicon-96x96.png">
+    <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+
+    <meta name="msapplication-config" content="/browserconfig.xml" />
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/static/img/favicon2/apple-touch-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    
+
+    <link href="/static/styles.min.css?release=1535032889" rel="stylesheet"  type="text/css">
+
+
+    <script src="/static/js/vendors/modernizr.js"></script>
+    <script src="/static/js/vendors/jquery.min.js"></script>
+    <script src="/static/js/vendors/pushstream.js"></script>
+    <script src="/static/js/vendors/angular.min.js"></script>
+    <script src="/static/js/errorHandlers.js"></script>
+
+</head>
+<body class="lang_en bg_gray not_signed_mod" ng-app="App">
+<script>
+Settings={}; User={}; 
+Settings.lang="en"; 
+Settings.pusher_key='be4b37b7434968bb1e17'; 
+Settings.release='1535032889'; 
+Settings.websocket_transport='centrifugo'; 
+Settings.socketio_server=''; 
+Settings.ws_nginx_server='api.exmo.com'; 
+Settings.development=0; 
+Settings.chat_max_msgs_in_window=100; 
+Settings.default_para='BTC_RUB'; 
+Settings.reload_chart=300000; 
+Settings.comission=0.2; 
+Settings.captcha=1; 
+Settings.HMAC_token='1ac4ad1306ffbea618178248bd8a1bbef408733db0f2e0e3d330aafe0676a30b' 
+Settings.request_time='1535123659' 
+Settings.centrifugo_url='https://ws.exmoney.com' 
+Settings.centrifugo_user_id='5b8020cb86c69' 
+Settings.lang='en'; 
+Settings.online=5413;
+Settings.currencies={"USD":{"id":8,"name":"USD","isFiat":true,"description":"\u0414\u043e\u043b\u043b\u0430\u0440"},"EUR":{"id":12,"name":"EUR","isFiat":true,"description":"\u0415\u0432\u0440\u043e"},"RUB":{"id":6,"name":"RUB","isFiat":true,"description":"\u0420\u0443\u0431\u043b\u044c"},"PLN":{"id":32,"name":"PLN","isFiat":true,"description":"Polish z\u0142oty"},"UAH":{"id":23,"name":"UAH","isFiat":true,"description":"Hryvnia"},"BTC":{"id":7,"name":"BTC","isFiat":false,"description":"Bitcoin"},"LTC":{"id":9,"name":"LTC","isFiat":false,"description":"Litecoin"},"DOGE":{"id":13,"name":"DOGE","isFiat":false,"description":"Dogecoin"},"DASH":{"id":21,"name":"DASH","isFiat":false,"description":"Dash"},"ETH":{"id":22,"name":"ETH","isFiat":false,"description":"Ethereum"},"WAVES":{"id":24,"name":"WAVES","isFiat":false,"description":"Waves"},"ZEC":{"id":25,"name":"ZEC","isFiat":false,"description":"Zcash"},"USDT":{"id":26,"name":"USDT","isFiat":false,"description":"Tether"},"XMR":{"id":27,"name":"XMR","isFiat":false,"description":"Monero"},"XRP":{"id":28,"name":"XRP","isFiat":false,"description":"Ripple"},"KICK":{"id":29,"name":"KICK","isFiat":false,"description":"KickCoin"},"ETC":{"id":30,"name":"ETC","isFiat":false,"description":"Ethereum Classic"},"BCH":{"id":31,"name":"BCH","isFiat":false,"description":"Bitcoin Cash"},"BTG":{"id":33,"name":"BTG","isFiat":false,"description":"Bitcoin Gold"},"EOS":{"id":34,"name":"EOS","isFiat":false,"description":"EOS"},"HBZ":{"id":35,"name":"HBZ","isFiat":false,"description":"Helbiz"},"BTCZ":{"id":36,"name":"BTCZ","isFiat":false,"description":"BitcoinZ"},"DXT":{"id":37,"name":"DXT","isFiat":false,"description":"Datawallet"},"STQ":{"id":38,"name":"STQ","isFiat":false,"description":"Storiqa"},"XLM":{"id":39,"name":"XLM","isFiat":false,"description":"Stellar"},"MNX":{"id":40,"name":"MNX","isFiat":false,"description":"MinexCoin"},"OMG":{"id":41,"name":"OMG","isFiat":false,"description":"OmiseGO"},"TRX":{"id":42,"name":"TRX","isFiat":false,"description":"TRON"},"ADA":{"id":43,"name":"ADA","isFiat":false,"description":"ADA"},"INK":{"id":44,"name":"INK","isFiat":false,"description":"INK"}}; 
+</script>
+<div class="container ">
+    <!--Header-->
+<header class="header row" ng-controller="TopPanelCtrl">
+    <div class="section_inner">
+        <div class="info_block"><a href="/en/" class="logo"></a></div>
+        <nav class="nav">
+            <ul class="menu">
+                <li><a href="/en/trade" class="">Buy & Sell</a></li>
+<li><a href="/en/exchange" class="">Exchange</a></li>
+<li><a href="/en/news" class="">News</a></li>
+<!--<li><a target="_blank" href="https://crowdsale.exmo.com/en/?utm_source=exmo&utm_medium=exmo_site&utm_campaign=crowdsale">EXMO coin</a></li>-->
+
+            </ul>
+        </nav>
+        <div class="user_block user_default">
+
+    
+
+    <div class="user_default_lang"><div class="user_default_lang_active en">en</div><div class="user_default_lang_drop"><ul class="lang_list"><li><a href="/en?change_lang" class="en">English</a></li><li><a href="/es?change_lang" class="es">Español</a></li><li><a href="/fr?change_lang" class="fr">Français</a></li><li><a href="/de?change_lang" class="de">Deutsch</a></li><li><a href="/it?change_lang" class="it">Italiano</a></li><li><a href="/pt?change_lang" class="pt">Português</a></li><li><a href="/ro?change_lang" class="ro">Română</a></li><li><a href="/zh?change_lang" class="zh">中文</a></li><li><a href="/ru?change_lang" class="ru">Русский</a></li><li><a href="/uk?change_lang" class="uk">Українська</a></li><li><a href="/pl?change_lang" class="pl">Polski</a></li></ul></div></div>
+    <div class="user_block_support" ng-click="changePage('/en/support')">Support</div>
+    <a href="/en/login" class="btn_header btn_authorization">Sign In</a>
+    <a href="/en/register" class="btn_header btn_registration">Registration</a>
+</div>
+
+    </div>
+</header>
+<!--end Header-->
+
+    <!--PARTIAL = doc_fees-->
+<div class="section_black" data-ng-controller="FeesCtrl">
+    <!--Title block-->
+    <div class="top_block_black row">
+        <div class="section_inner">
+            <div class="row">
+                <h2 class="top_block_black_text">Fees &amp; Limits</h2>
+                <div class="top_btns">
+                    <div class="btn_group">
+                        <script></script>
+                        <div class="btn_group_currency" id="currency_buttons_filter">
+                            <button class="btn btn_small_black">All Currencies</button><button class="btn btn_small_black">USD</button><button class="btn btn_small_black">EUR</button><button class="btn btn_small_black">RUB</button><button class="btn btn_small_black">PLN</button><button class="btn btn_small_black">UAH</button><button class="btn btn_small_black">Cryptocurrency</button>
+                        </div>
+
+                        <div class="btn_group_commision black_select small_select" id="groups_view_filter">
+                            <div class="select_emul"><div class="select_emul_selected">Fees &amp; Limits</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!--end title block-->
+    <!--Main block-->
+    <div class="row section_inner content_single">
+        <div class="row show_hide_block comm_block">
+            <h1 class="best_display_mode">Bitcoin Exchange Fees</h1><div class="best_display_mode"></div>
+            <p class="title_exlarge mb_medium">Fees</p>
+            <div class="table_block">
+                <table class="table table_fees">
+                    <tbody>
+                    <tr class="table_header">
+                        <td class="th_fees_1">Payment Method</td>
+                        <td class="th_fees_2">Deposit Fees</td>
+                        <td class="th_fees_3">Withdrawal Fees</td>
+                    </tr>
+
+                    <tr class="table_body">
+                        <td class="th_fees_1">Fee for the deal</td>
+                        <td class="th_fees_2" colspan="2">0.2%</td>
+                    </tr>
+
+                    <tr class="table_body feegroup"
+                        ng-class="'feegroup_' + group.group"
+                        ng-repeat-start="group in fees">
+
+                        <td class="th_fees_1 fees_subtitle" colspan="3" ng-bind="group.title"></td>
+                    </tr>
+                    <tr class="table_body feegroup"
+                        ng-repeat-end=""
+                        ng-repeat="item in group.items"
+                        ng-class="'feegroup_' + group.group">
+
+                        <td class="th_fees_1" ng-bind="item.prov"></td>
+                        <td class="th_fees_2" ng-bind="item.dep"></td>
+                        <td class="th_fees_3" ng-bind="item.wd"></td>
+                    </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="row show_hide_block limits_block">
+            <p class="title_exlarge mb_medium">Limits</p>
+            <div class="table_block">
+                <table class="table table_limits">
+                    <tbody>
+                    <tr class="table_header">
+                        <td class="th_limit_1">Currency pair</td>
+                        <td class="th_limit_2">Min Quantity</td>
+                        <td class="th_limit_3">Max Quantity</td>
+                        <td class="th_limit_4">Min Price</td>
+                        <td class="th_limit_5">Max Price</td>
+                        <td class="th_limit_6">Min Amount</td>
+                        <td class="th_limit_7">Max Amount</td>
+                    </tr>
+
+                    <tr class="table_body" ng-repeat="item in limits">
+                        <td class="th_limit_1" ng-bind="item.pair"></td>
+                        <td class="th_limit_2" ng-bind="item.min_q"></td>
+                        <td class="th_limit_3" ng-bind="item.max_q"></td>
+                        <td class="th_limit_4" ng-bind="item.min_p"></td>
+                        <td class="th_limit_5" ng-bind="item.max_p"></td>
+                        <td class="th_limit_6" ng-bind="item.min_a"></td>
+                        <td class="th_limit_7" ng-bind="item.max_a"></td>
+                    </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!--end main block-->
+</div>
+
+
+
+    <!--Footer-->
+
+<footer class="footer">
+    <div class="section_inner_footer">
+        <div class="row footer_head">
+            <a href="/en/" class="footer_logo"></a>
+
+            <div class="user_default_lang"><div class="user_default_lang_active en">en</div><div class="user_default_lang_drop"><ul class="lang_list"><li><a href="/en?change_lang" class="en">English</a></li><li><a href="/es?change_lang" class="es">Español</a></li><li><a href="/fr?change_lang" class="fr">Français</a></li><li><a href="/de?change_lang" class="de">Deutsch</a></li><li><a href="/it?change_lang" class="it">Italiano</a></li><li><a href="/pt?change_lang" class="pt">Português</a></li><li><a href="/ro?change_lang" class="ro">Română</a></li><li><a href="/zh?change_lang" class="zh">中文</a></li><li><a href="/ru?change_lang" class="ru">Русский</a></li><li><a href="/uk?change_lang" class="uk">Українська</a></li><li><a href="/pl?change_lang" class="pl">Polski</a></li><li><a class="empty-element" href="" onclick="return false;">&nbsp;</a></li></ul></div></div>
+
+            <div class="footer_head_text">
+                <span class="white_text">31290</span> <span class="gray_text">Active Traders</span>
+                &nbsp;
+                <span class="white_text">3281 BTC</span> <span class="gray_text">24h Volume</span>
+            </div>
+
+        </div>
+
+        <div class="row footer_body gray_text">
+            <div class="col span3">
+                <div class="row footer_menu_title">Subscribe</div>
+                <div class="row soc_med">
+                    <ul class="soc_med_list">
+                        <li><a target="_blank" href="https://t.me/exmo_official" class="soc_med_tel">Telegram<br>6183 Subscribers</a></li>
+                        <li><a target="_blank" href="https://twitter.com/Exmo_com" class="soc_med_tw">Twitter<br>13328 Subscribers</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/exmo.market" class="soc_med_fb">Facebook<br>19052 Subscribers</a></li>
+                        
+                    </ul>
+                </div>
+
+            </div>
+            <div class="col span9">
+                <div class="col span3">
+                    <div class="row footer_menu_title">Products</div>
+                    <div class="row">
+                        <ul class="footer_menu_1">
+                            <li><a href="/en/wallet">Finance</a></li>
+                            <li><a href="/en/trade">Buy & Sell</a></li>
+                            <li><a href="/en/api">API</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col span3">
+                    <div class="row footer_menu_title">Information</div>
+                    <div class="row">
+                        <ul class="footer_menu_2">
+                            <li><a href="/en/support">Customer support</a></li>
+                            <li><a href="/en/support">EXMOWIKI</a></li>
+                            <li><a href="/en/docs/fees">Fees &amp; Limits</a></li>
+                            <li><a href="/en/referal_program">Referral Program</a></li>
+                            <li><a href="/en/cashback">Cashback</a></li>
+                            <li><a href="/en/articles">About Bitcoin</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col span3">
+                    <div class="row footer_menu_title">Company</div>
+                    <div class="row">
+                        <ul class="footer_menu_3">
+                            <li><a href="/en/contacts">Contacts</a></li>
+                            <li><a href="/en/news">News</a></li>
+                            <li><a href="/en/careers">Employment</a></li>
+                            <li><a href="/en/about_us">About Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col span3">
+                    <div class="row footer_menu_title">Legal Documents</div>
+                    <div class="row">
+                        <ul class="footer_menu_4">
+                            <li><a href="/en/docs/agreement/">User agreement</a></li>
+                            <li><a href="/en/docs/aml">AML Policy</a></li>
+                            <li><a href="/en/docs/privacy_policy">Privacy policy</a></li>
+                            <li><a href="/en/docs/crosschain_recovery">Cross-chain recovery policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div class="row footer_bottom">
+        <div class="section_inner_footer">
+            <div class="footer_bottom_text1">
+                Copyright © EXMO FINANCE LLP 2013 - 2018<br>
+                49 Station Road, Polegate, England
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<!--end footer-->
+
+</div>
+
+<!--ALERT============================================================================================================-->
+<div ng-controller="AlertCtrl">
+
+
+    <!--Popup Message-->
+    <div class="popup_container" id="popup_msg_container" style="display: none">
+        <div class="gl_table text_center">
+            <div class="gl_table-cell">
+                <div class="popup popup-msg">
+                    <div class="popup_title">Notification</div>
+                    <div class="popup_body">
+                        <p class="modal_text"></p>
+                        <p class="modal_text_optional"></p>
+
+
+                        <div class="popup_controls">
+                            <button class="btn btn_medium btn_apply" ng-click="Alert.maction()">OK</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Popup Question-->
+    <div class="popup_container" id="popup_question_container" style="display: none">
+        <div class="gl_table text_center">
+            <div class="gl_table-cell">
+                <div class="popup popup-msg">
+                    <!--<a class="popup_close" href="#" id="popup_close_msg" ng-click="Alert.qaction(false)"></a>-->
+                    <div class="popup_title">Question</div>
+                    <div class="popup_body">
+                        <p class="modal_text"></p>
+                        <p class="modal_text_optional"></p>
+
+
+                        <div class="popup_controls">
+                            <button class="btn btn_medium btn_apply" ng-click="Alert.qaction(true)">Yes</button>
+                            <button class="btn btn_medium btn_apply" ng-click="Alert.qaction(false)">No</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Popup Confirmation-->
+    <div class="popup_container" id="popup_confirm_container" style="display: none">
+        <div class="gl_table text_center">
+            <div class="gl_table-cell">
+                <div class="popup popup-confirm">
+                    <div class="popup_title">Confirm operation</div>
+                    <div class="popup_body">
+                        <p>
+                            To confirm the operation
+                            enter the two-factor authentication code:
+                        </p>
+
+
+                        <div class="row popup_controls_confirm">
+                            <div class="row">
+                                <input class="input_std" type="text" name="kod" placeholder="Code">
+                            </div>
+                            <div class="row popup_controls_confirm_btns">
+                                <button class="btn btn_medium btn_apply" ng-click="Alert.totp_action(true)">Yes</button>
+                                <button class="btn btn_medium btn_apply" ng-click="Alert.totp_action(false)">No</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Popup Password Confirmation-->
+    <div class="popup_container" id="popup_confirm_pwd_container" style="display: none">
+        <div class="gl_table text_center">
+            <div class="gl_table-cell">
+                <div class="popup popup-confirm">
+                    <div class="popup_title">Confirm operation</div>
+                    <div class="popup_body">
+                        <p>
+                            To confirm the operation
+                            enter password:
+                        </p>
+
+
+                        <div class="row popup_controls_confirm">
+                            <div class="row">
+                                <input class="input_std" type="password" name="kod" placeholder="Password">
+                            </div>
+                            <div class="row popup_controls_confirm_btns">
+                                <button class="btn btn_medium btn_apply" ng-click="Alert.pwd_action(true)">Yes</button>
+                                <button class="btn btn_medium btn_apply" ng-click="Alert.pwd_action(false)">No</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="notifications"></div>
+
+<script type="text/javascript" src="/static/script.min.js?release=1535032889"></script>
+<script type="text/javascript" src="/static/js/lang/en.js?release=1535032889"></script>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter23948095 = new Ya.Metrika({id: 23948095,
+                    webvisor: true,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    trackHash: true});
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () {
+                    n.parentNode.insertBefore(s, n);
+                };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+    <div><img src="//mc.yandex.ru/watch/23948095" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- VK Pixel Code -->
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-155477-i4M0i';</script>
+<!-- End VK Pixel Code -->
+
+<!-- GA counter -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-48018114-1', 'auto');
+    ga('create', 'UA-48018114-2', 'auto', {'name': 'newTracker'});  // New tracker.
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+    ga('newTracker.send', 'pageview'); // Send page view for new tracker.
+
+</script>
+<!-- /GA counter -->
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1944514822431437');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1944514822431437&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+    !function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+    qp('init', '2346b31f643c4a27bcfcb6ba9990224a');
+    qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/2346b31f643c4a27bcfcb6ba9990224a/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ba82139332","applicationID":"53504979","transactionName":"YFEAMEBYDxZXVkBeVlkbNxZbFggLUlBMGUlfRA==","queueTime":0,"applicationTime":188,"atts":"TBYDRghCHBg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

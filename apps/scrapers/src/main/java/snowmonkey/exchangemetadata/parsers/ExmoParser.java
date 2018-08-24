@@ -5,7 +5,6 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
@@ -33,13 +32,15 @@ public class ExmoParser implements Parser {
     @Override
     public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
-        String tradingFee = WebPageParser.parseTradingFee();
+        Source page = readWebpage("https://exmo.com/en/docs/fees");
+        String tradingFee = WebPageParser.parseTradingFee(page);
         tradingFees.addDefaultFee(parseFee(tradingFee).get());
 
         TransferFees depositFees = new TransferFees();
         TransferFees withdrawalFees = new TransferFees();
 
-        JsonObject jsonObject = BitsAndBobs.readJson("https://exmo.com/ctrl/feesAndLimits");
+        JsonObject jsonObject = readJson("https://exmo.com/ctrl/feesAndLimits").getAsJsonObject();
+
         JsonArray asJsonArray = jsonObject.get("data").getAsJsonObject().get("fees").getAsJsonArray();
         for (JsonElement jsonElement : asJsonArray) {
             JsonObject obj = jsonElement.getAsJsonObject();
@@ -88,8 +89,7 @@ public class ExmoParser implements Parser {
             TRADING_FEE
         }
 
-        public static String parseTradingFee() throws InterruptedException, IOException, URISyntaxException {
-            Source source = BitsAndBobs.getPage("https://exmo.com/en/docs/fees");
+        public static String parseTradingFee(Source source) throws InterruptedException, IOException, URISyntaxException {
 
             Mode mode = null;
 

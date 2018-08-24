@@ -2,7 +2,6 @@ package snowmonkey.exchangemetadata.parsers;
 
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
@@ -30,7 +29,7 @@ public class OkexParser implements Parser {
         TradingFees tradingFees = new TradingFees();
 
         // https://support.okex.com/hc/en-us/articles/360000141391-Service-Fees
-        Source source = BitsAndBobs.getPage("https://www.okex.com/pages/products/fees.html");
+        Source source = readWebpage("https://www.okex.com/pages/products/fees.html");
 
         List<Element> tables = source.getElementById("feeMainContent").getAllElements("table");
         Element feeTable = tables.get(0);

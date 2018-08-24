@@ -9,10 +9,7 @@ import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
 import java.math.BigDecimal;
-import java.net.URI;
 import java.util.HashMap;
-
-import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
 
 public class CryptopiaParser implements Parser {
     public CryptopiaParser() {
@@ -36,7 +33,7 @@ public class CryptopiaParser implements Parser {
         TransferFees withdrawalFees = new TransferFees();
 
         {
-            JsonObject response = getJson(URI.create("https://www.cryptopia.co.nz/api/GetCurrencies"));
+            JsonObject response = this.readJson("https://www.cryptopia.co.nz/api/GetCurrencies").getAsJsonObject();
             for (JsonElement item : response.getAsJsonArray("Data")) {
                 JsonObject obj = item.getAsJsonObject();
                 String ccy = obj.getAsJsonPrimitive("Symbol").getAsString();
@@ -46,7 +43,7 @@ public class CryptopiaParser implements Parser {
         }
 
         {
-            JsonObject response = getJson(URI.create("https://www.cryptopia.co.nz/api/GetTradePairs"));
+            JsonObject response = this.readJson("https://www.cryptopia.co.nz/api/GetTradePairs").getAsJsonObject();
             for (JsonElement item : response.getAsJsonArray("Data")) {
                 JsonObject obj = item.getAsJsonObject();
                 String feeText = obj.getAsJsonPrimitive("TradeFee").getAsBigDecimal().stripTrailingZeros().toPlainString() + "%";

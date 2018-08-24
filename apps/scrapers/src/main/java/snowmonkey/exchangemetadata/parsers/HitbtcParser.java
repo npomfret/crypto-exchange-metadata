@@ -22,7 +22,7 @@ public class HitbtcParser implements Parser {
 
     @Override
     public String exchangeId() {
-        return "hitbtc";
+        return "hitbtc2";
     }
 
     @Override
@@ -36,7 +36,7 @@ public class HitbtcParser implements Parser {
         depositFees.addFee("ETH", Fee.parse("0.003"));// hardcoded because can't find in an api call
 
         TransferFees withdrawalFees = new TransferFees();
-        for (JsonElement jsonElement : BitsAndBobs.getJsonElement(URI.create("https://api.hitbtc.com/api/2/public/currency")).getAsJsonArray()) {
+        for (JsonElement jsonElement : this.readJson("https://api.hitbtc.com/api/2/public/currency").getAsJsonArray()) {
             JsonObject obj = jsonElement.getAsJsonObject();
             String ccy = obj.getAsJsonPrimitive("id").getAsString();
             boolean delisted = obj.getAsJsonPrimitive("delisted").getAsBoolean();

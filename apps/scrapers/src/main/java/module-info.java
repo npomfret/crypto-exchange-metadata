@@ -1,4 +1,4 @@
-module com.baeldung.java9.httpclient {
+module snowmonkey.exchangemetadata {
     requires jdk.incubator.httpclient;
     requires jericho.html;
     requires gson;

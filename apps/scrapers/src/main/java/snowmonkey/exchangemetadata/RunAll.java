@@ -1,6 +1,5 @@
 package snowmonkey.exchangemetadata;
 
-import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
@@ -18,7 +17,6 @@ import java.io.BufferedWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -50,7 +48,7 @@ public class RunAll {
         System.out.println(Paths.get(".").toAbsolutePath());
 
         Path outputFile = Paths.get("../../exchange-metadata.json");
-        if(!Files.exists(outputFile))
+        if (!Files.exists(outputFile))
             throw new IllegalStateException();
 
         JsonObject exchanges = BitsAndBobs.readJson(outputFile);
@@ -59,9 +57,7 @@ public class RunAll {
         for (Parser parser : parsers.map.values()) {
             String exchangeId = parser.exchangeId();
 
-            Path mappingFile = Paths.get("../mapping-generation/data/" + exchangeId + ".json");
-            JsonArray mappings = BitsAndBobs.readJsonArray(mappingFile);
-            SymbolMapping symbolMapping = new SymbolMapping(mappings);
+            SymbolMapping symbolMapping = SymbolMapping.create(exchangeId);
 
             exchanges.add(parser.exchangeId(), parser.generateExchangeMetadata(symbolMapping).toJson());
         }
@@ -73,4 +69,5 @@ public class RunAll {
             writer.append(BitsAndBobs.prettyPrint(output));
         }
     }
+
 }

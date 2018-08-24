@@ -7,6 +7,7 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -19,19 +20,20 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
 
-public class CoinmateParser {
+public class CoinmateParser implements Parser {
 
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata metadata = run();
-        System.out.println(BitsAndBobs.prettyPrint(metadata.toJson()));
+    @Override
+    public String exchangeId() {
+        return "coinmate";
     }
 
-    public static ExchangeMetadata run() throws URISyntaxException, IOException, InterruptedException {
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
         TransferFees depositFees = new TransferFees();
         TransferFees withdrawalFees = new TransferFees();
 
-        Source page = BitsAndBobs.getPage("https://coinmate.io/fees");
+//        Source page = BitsAndBobs.getPage("https://coinmate.io/fees");//does not work
 
         Path path = Paths.get("src/main/resources/coinmate/tradeFeeValues.json");//downloaded via browser
 

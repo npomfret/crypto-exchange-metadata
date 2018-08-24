@@ -4,7 +4,6 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
@@ -14,7 +13,7 @@ import snowmonkey.exchangemetadata.model.TransferFees;
 import java.util.HashMap;
 import java.util.List;
 
-import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
+import static snowmonkey.exchangemetadata.BitsAndBobs.getPage;
 
 public class GatecoinParser implements Parser {
     public GatecoinParser() {
@@ -31,7 +30,7 @@ public class GatecoinParser implements Parser {
 
     @Override
     public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
-        Source source = BitsAndBobs.getPage("https://gatecoin.com/feeschedule/");
+        Source source = getPage("https://gatecoin.com/feeschedule/");
 
         TradingFees tradingFees = new TradingFees();
 
@@ -47,7 +46,8 @@ public class GatecoinParser implements Parser {
         TransferFees depositFees = new TransferFees();
         TransferFees withdrawalFees = new TransferFees();
 
-        JsonObject response = getJson("https://api.gatecoin.com/Reference/Currencies");
+        JsonObject response = this.readJson("https://api.gatecoin.com/Reference/Currencies").getAsJsonObject();
+
         for (JsonElement currency : response.getAsJsonArray("currencies")) {
             String ccy = currency.getAsJsonObject().getAsJsonPrimitive("code").getAsString();
             boolean withdrawalsEnabled = currency.getAsJsonObject().getAsJsonPrimitive("withdrawalsEnabled").getAsBoolean();

@@ -3,7 +3,6 @@ package snowmonkey.exchangemetadata.parsers;
 import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
 import snowmonkey.exchangemetadata.model.SymbolMapping;
@@ -13,7 +12,7 @@ import snowmonkey.exchangemetadata.model.TransferFees;
 import java.util.HashMap;
 import java.util.List;
 
-import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
+import static snowmonkey.exchangemetadata.BitsAndBobs.getPage;
 
 public class YobitParser implements Parser {
     public YobitParser() {
@@ -30,14 +29,14 @@ public class YobitParser implements Parser {
 
     @Override
     public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
-        Source source = BitsAndBobs.getPage("https://www.yobit.net/en/fees/");
+        Source source = getPage("https://www.yobit.net/en/fees/");
 
         TradingFees tradingFees = new TradingFees();
         TransferFees depositFees = new TransferFees();
         TransferFees withdrawalFees = new TransferFees();
 
         {
-            JsonObject response = getJson("https://yobit.net/api/3/info");
+            JsonObject response = this.readJson("https://yobit.net/api/3/info").getAsJsonObject();
             JsonObject pairs = response.getAsJsonObject("pairs");
             for (String market : pairs.keySet()) {
                 JsonObject item = pairs.getAsJsonObject(market);
