@@ -18,7 +18,9 @@ import java.nio.file.Paths;
 
 public class RunAll {
     public static void main(String[] args) throws Exception {
-        Path path = Paths.get("exchange-metadata.json");
+        Path path = Paths.get("../../exchange-metadata.json");
+        if(!Files.exists(path))
+            throw new IllegalStateException();
 
         JsonObject exchanges = BitsAndBobs.readJson(path);
 
