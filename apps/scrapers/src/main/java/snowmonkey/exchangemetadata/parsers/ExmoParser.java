@@ -8,6 +8,7 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -16,9 +17,21 @@ import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.Optional;
 
-public class ExmoParser {
+public class ExmoParser implements Parser {
+    public ExmoParser() {
+    }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new ExmoParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "exmo";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
         String tradingFee = WebPageParser.parseTradingFee();
         tradingFees.addDefaultFee(parseFee(tradingFee).get());

@@ -1,29 +1,32 @@
 package snowmonkey.exchangemetadata.parsers;
 
-import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
 import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.List;
 
-import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
-
-public class OkexParser {
-
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata metadata = run();
-        System.out.println(BitsAndBobs.prettyPrint(metadata.toJson()));
+public class OkexParser implements Parser {
+    public OkexParser() {
     }
 
-    public static ExchangeMetadata run() throws URISyntaxException, IOException, InterruptedException {
+    public static Parser create() {
+        return new OkexParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "okex";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
 
         // https://support.okex.com/hc/en-us/articles/360000141391-Service-Fees

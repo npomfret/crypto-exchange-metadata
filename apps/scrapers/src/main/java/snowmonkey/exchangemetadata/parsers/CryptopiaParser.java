@@ -2,9 +2,9 @@ package snowmonkey.exchangemetadata.parsers;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
@@ -14,15 +14,21 @@ import java.util.HashMap;
 
 import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
 
-public class CryptopiaParser {
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata exchangeMetadata = run();
-
-        System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
+public class CryptopiaParser implements Parser {
+    public CryptopiaParser() {
     }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new CryptopiaParser();
+    }
 
+    @Override
+    public String exchangeId() {
+        return "cryptopia";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
         TransferFees depositFees = new TransferFees();
         depositFees.addDefaultFee(Fee.parse("0"));//can't find a deposit fee, assume its zero

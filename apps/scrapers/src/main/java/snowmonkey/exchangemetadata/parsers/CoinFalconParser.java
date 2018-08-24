@@ -5,20 +5,29 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
 import java.util.HashMap;
 import java.util.List;
 
-public class CoinFalconParser {
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata exchangeMetadata = run();
+public class CoinFalconParser implements Parser {
 
-        System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
+    public CoinFalconParser() {
     }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new CoinFalconParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "coinfalcon";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         Source source = BitsAndBobs.getPage("https://coinfalcon.com/fees");
         List<Element> tables = source.getAllElements("table");
 

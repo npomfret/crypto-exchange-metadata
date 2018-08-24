@@ -5,22 +5,28 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.List;
 
-public class CoinexParser {
-
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata metadata = run();
-        System.out.println(BitsAndBobs.prettyPrint(metadata.toJson()));
+public class CoinexParser implements Parser {
+    public CoinexParser() {
     }
 
-    public static ExchangeMetadata run() throws URISyntaxException, IOException, InterruptedException {
+    public static Parser create() {
+        return new CoinexParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "coinex";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         Source source = BitsAndBobs.getPage("https://www.coinex.com/fees");
 
         TradingFees tradingFees = new TradingFees();
@@ -65,4 +71,5 @@ public class CoinexParser {
 
         return Fee.parse(feeText);
     }
+
 }

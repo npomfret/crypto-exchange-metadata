@@ -1,6 +1,5 @@
 package snowmonkey.exchangemetadata.parsers;
 
-import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import net.htmlparser.jericho.Element;
@@ -8,23 +7,30 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.net.URI;
 import java.util.HashMap;
 import java.util.List;
 
 import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
 
-public class GatecoinParser {
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata exchangeMetadata = run();
-
-        System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
+public class GatecoinParser implements Parser {
+    public GatecoinParser() {
     }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new GatecoinParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "gatecoin";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         Source source = BitsAndBobs.getPage("https://gatecoin.com/feeschedule/");
 
         TradingFees tradingFees = new TradingFees();
@@ -50,7 +56,7 @@ public class GatecoinParser {
 
             {
                 Fee fee;
-                if(!withdrawalsEnabled) {
+                if (!withdrawalsEnabled) {
                     fee = Fee.NOT_AVAILABLE;
                 } else {
                     fee = Fee.parse(withdrawalFeeText);
@@ -60,7 +66,7 @@ public class GatecoinParser {
 
             {
                 Fee fee;
-                if(!depositsEnabled) {
+                if (!depositsEnabled) {
                     fee = Fee.NOT_AVAILABLE;
                 } else {
                     fee = Fee.ZERO_FIXED;//assume no deposit fees

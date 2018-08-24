@@ -10922,23 +10922,23 @@
       "ZRX": 0
     },
     "withdrawal-fees": {
-      "BBN": 220,
+      "BBN": 180,
       "BCH": 0,
       "BTC": 0.0001,
-      "BTM": 17,
+      "BTM": 16,
       "BTV": 0.001,
       "CARD": 1100,
       "CDY": 5,
-      "CET": 78,
+      "CET": 83,
       "CMT": 37,
-      "CNN": 5000,
+      "CNN": 5200,
       "CODY": 510,
-      "CTXC": 4.9,
+      "CTXC": 7.3,
       "DACC": 3300,
       "DASH": 0.001,
       "DCR": 0.01,
       "DOGE": 1,
-      "EGT": 1000,
+      "EGT": 1200,
       "EOS": 0.56,
       "EOSDAC": 22,
       "ETC": 0.01,
@@ -10946,40 +10946,40 @@
       "GNT": 16,
       "HOT": 4700,
       "HSR": 0.005,
-      "HYDRO": 970,
-      "KAN": 540,
-      "LFT": 37,
-      "LOOM": 33,
+      "HYDRO": 900,
+      "KAN": 530,
+      "LFT": 39,
+      "LOOM": 34,
       "LTC": 0.001,
       "MGD": 0.01,
       "MT": 650,
       "NANO": 0,
-      "NASH": 4200,
+      "NASH": 3900,
       "NEO": 0,
-      "NOBS": 4600,
-      "OLT": 270,
-      "OMG": 0.75,
+      "NOBS": 5900,
+      "OLT": 290,
+      "OMG": 0.76,
       "QTUM": 0.01,
-      "RHOC": 7.0,
+      "RHOC": 7.1,
       "SC": 30,
-      "SEELE": 83,
+      "SEELE": 94,
       "SEER": 1400,
-      "SOP": 470,
-      "TCT": 93,
-      "THPC": 2500,
+      "SOP": 460,
+      "TCT": 92,
+      "THPC": 2600,
       "TRX": 0.1,
       "USDT": 1,
       "VET": 2.0,
-      "VITE": 130,
+      "VITE": 65,
       "WHC": 0,
-      "WINGS": 22,
+      "WINGS": 18,
       "XMC": 0.04,
       "XMR": 0.04,
       "XMV": 0.4,
       "XRP": 0.15,
       "ZEC": 0.001,
-      "ZIL": 81,
-      "ZRX": 4.0
+      "ZIL": 77,
+      "ZRX": 3.9
     },
     "markets": {}
   },
@@ -11177,10 +11177,6 @@
         "maker": "0.2%"
       },
       "SCT/BTC": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
-      "SBC/LTC": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
@@ -12065,10 +12061,6 @@
         "maker": "0.2%"
       },
       "UIS/BTC": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
-      "IZE/BTC": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
@@ -13548,10 +13540,6 @@
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "DIRTY/BTC": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
       "CAR/DOGE": {
         "taker": "0.2%",
         "maker": "0.2%"
@@ -14072,10 +14060,6 @@
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "SBC/DOGE": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
       "NAV/NZDT": {
         "taker": "0.2%",
         "maker": "0.2%"
@@ -14297,10 +14281,6 @@
         "maker": "0.2%"
       },
       "GCC/BTC": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
-      "LFTC/LTC": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
@@ -15452,10 +15432,6 @@
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "DIRTY/DOGE": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
       "NAMO/LTC": {
         "taker": "0.2%",
         "maker": "0.2%"
@@ -16268,10 +16244,6 @@
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "IZE/LTC": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
       "POST/BTC": {
         "taker": "0.2%",
         "maker": "0.2%"
@@ -16445,10 +16417,6 @@
         "maker": "0.2%"
       },
       "AC/DOGE": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
-      "LFTC/DOGE": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
@@ -17428,10 +17396,6 @@
         "taker": "0.2%",
         "maker": "0.2%"
       },
-      "IZE/DOGE": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
       "MNE/DOGE": {
         "taker": "0.2%",
         "maker": "0.2%"
@@ -17541,10 +17505,6 @@
         "maker": "0.2%"
       },
       "GAME/DOGE": {
-        "taker": "0.2%",
-        "maker": "0.2%"
-      },
-      "SBC/BTC": {
         "taker": "0.2%",
         "maker": "0.2%"
       },
@@ -18284,7 +18244,6 @@
       "DIBC": 1200,
       "DIM": 100,
       "DIME": 0.0001,
-      "DIRTY": 0.0001,
       "DIVX": 3,
       "DNA": 60,
       "DNR": 0.01,
@@ -18403,9 +18362,7 @@
       "ITI": 0.01,
       "IVY": 0.01,
       "IXC": 0.0001,
-      "IZE": 0.01,
       "JIN": 0.01,
-      "KARM": 1,
       "KASH": 0.01,
       "KAYI": 0.01,
       "KBR": 3000,
@@ -18578,7 +18535,6 @@
       "RYO": 0.03,
       "SAGA": 0.01,
       "SAND": 0.01,
-      "SBC": 0.0005,
       "SCL": 30,
       "SCT": 40,
       "SDRN": 1000,
@@ -19071,6 +19027,7 @@
       "AUC": 0,
       "AVT": 0,
       "BAT": 0,
+      "BBN": 0,
       "BFT": 0,
       "BNT": 0,
       "BTC": 0,
@@ -19081,6 +19038,7 @@
       "DAD": 0,
       "DAI": 0,
       "DATA": 0,
+      "DGX": 0,
       "DTA": 0,
       "DTH": 0,
       "EDO": 0,
@@ -19104,6 +19062,7 @@
       "MTO": 0,
       "NCA": 0,
       "NEC": 0,
+      "NIO": 0,
       "ODE": 0,
       "OMG": 0,
       "ORS": 0,
@@ -19137,26 +19096,28 @@
     "withdrawal-fees": {
       "ABS": 35.616,
       "AGI": 14.868,
-      "AID": 11.95,
+      "AID": 8.1873,
       "AIO": 1.4409,
       "ANT": 0.67213,
       "ATM": 58.991,
       "AUC": 9.4406,
       "AVT": 1.4799,
       "BAT": 3.9705,
+      "BBN": 9.0302,
       "BFT": 13.609,
       "BNT": 0.50695,
       "BTC": 0.0004,
       "CBT": 55.625,
       "CFI": 33.419,
       "CND": 33.81,
-      "CTX": 1.0871,
+      "CTX": 1.5,
       "DAD": 7.7427,
       "DAI": 0.76259,
       "DAT": 23.875,
-      "DTA": 284.52,
+      "DGX": 0.016875,
+      "DTA": 181.95,
       "DTH": 29.505,
-      "EDO": 0.98125,
+      "EDO": 0.75354,
       "ELF": 1.819,
       "ESS": 76.272,
       "ETH": 0.0027,
@@ -19166,7 +19127,7 @@
       "GNT": 5.1521,
       "HOT": 62.587,
       "IOS": 56.005,
-      "KNC": 1.6649,
+      "KNC": 0.72928,
       "LRC": 6.7227,
       "LYM": 50.848,
       "MAN": 2.9068,
@@ -19177,6 +19138,7 @@
       "MTO": 7665.9,
       "NCA": 90.726,
       "NEC": 2.5396,
+      "NIO": 22.499,
       "ODE": 2.1806,
       "OMG": 0.20424,
       "ORS": 14.211,
@@ -19187,7 +19149,7 @@
       "RDN": 2.2882,
       "REP": 0.045638,
       "REQ": 19.253,
-      "RLC": 2.3516,
+      "RLC": 1.817,
       "SAN": 1.4748,
       "SEE": 300.34,
       "SEN": 110.71,
@@ -19198,8 +19160,8 @@
       "TNB": 57.521,
       "USD": 0.76659,
       "UTK": 22.882,
-      "VEE": 74.197,
-      "VEN": 0.62151,
+      "VEE": 56.274,
+      "VEN": 0.49524,
       "WAX": 10.06,
       "WPR": 20.868,
       "YYW": 20.606,
@@ -19272,6 +19234,7 @@
       "RUB": {
         "AdvCash": "1.45%",
         "Payeer": "2.45%",
+        "Qiwi": "4.95%",
         "Yandex Money": "4.5%"
       },
       "STQ": 100,
@@ -19320,11 +19283,7 @@
         "Payeer": "1%",
         "Perfect Money": "1.95%",
         "SEPA": "1%",
-        "Skrill": "3%",
-        "Visa/Mastercard": {
-          "rate": "3%",
-          "fixed": 5
-        }
+        "Skrill": "3%"
       },
       "HBZ": 65,
       "INK": 50,
@@ -19358,10 +19317,6 @@
         "Payeer": "3.95%",
         "Perfect Money": "1%",
         "Skrill": "3%",
-        "Visa/Mastercard": {
-          "rate": "5%",
-          "fixed": 5
-        },
         "Wire Transfer": {
           "rate": "1%",
           "fixed": 20
@@ -19837,6 +19792,7 @@
       "MTC": "n/a",
       "MYB": "n/a",
       "NANO": "n/a",
+      "NLC2": "n/a",
       "ONT": "n/a",
       "PBKX": "n/a",
       "PQT": "n/a",
@@ -19944,7 +19900,7 @@
       "BSTN": 3301,
       "BTC": 0.001,
       "BTCA": 11696,
-      "BTCP": 0.001,
+      "BTCP": "n/a",
       "BTG": 0.0005,
       "BTM": 40,
       "BTS": 50.3,
@@ -19975,7 +19931,7 @@
       "CMCT": 66.67,
       "CMT": 223,
       "CND": 274,
-      "CNX": 0.04,
+      "CNX": "n/a",
       "COIN": 31.25,
       "COSM": 500,
       "COSS": 67,
@@ -19986,7 +19942,7 @@
       "CPY": 49,
       "CRPT": 46,
       "CRS": "n/a",
-      "CSM": 80,
+      "CSM": 16,
       "CSNO": 85,
       "CTE": 854,
       "CTR": 15,
@@ -20039,7 +19995,7 @@
       "ELE": 0.001711,
       "ELEC": 667,
       "ELF": 33.9,
-      "ELM": 0.004,
+      "ELM": "n/a",
       "EMC": 0.03,
       "EMGO": 14,
       "ENG": 14,
@@ -20178,6 +20134,7 @@
       "NEU": 20.1,
       "NEXO": 40,
       "NGC": 22,
+      "NLC2": "n/a",
       "NMR": 1.26,
       "NOAH": 2940,
       "NTK": 37.15,
@@ -20186,7 +20143,7 @@
       "NXT": 3,
       "OAX": 34,
       "OCN": 2340,
-      "ODN": 0.004,
+      "ODN": "n/a",
       "OMG": 1.22,
       "ONT": "n/a",
       "OPT": 683,
@@ -20211,7 +20168,7 @@
       "POLL": 12,
       "POLY": 83.34,
       "POWR": 100,
-      "PPC": 0.02,
+      "PPC": "n/a",
       "PPT": 1,
       "PQT": "n/a",
       "PRE": 60,
@@ -20348,11 +20305,11 @@
       "XMC": 0.09,
       "XMO": 0.09,
       "XMR": 0.09,
-      "XMV": 0.5,
+      "XMV": 250.5,
       "XRP": 0.509,
       "XTZ": "n/a",
       "XUC": 2.8,
-      "XVG": 1.5,
+      "XVG": "n/a",
       "YCC": 125,
       "YOYOW": 140,
       "ZAP": 84,
@@ -21069,6 +21026,55 @@
         "quantity-precision": 3
       }
     }
+  },
+  "okex": {
+    "trading-fees": {
+      "default": [
+        {
+          "label": "Lv1: 30day Trading Volume (BTC) < 600",
+          "taker": "0.2%",
+          "maker": "0.15%"
+        },
+        {
+          "label": "Lv2: 30day Trading Volume (BTC) ≥ 600",
+          "taker": "0.19%",
+          "maker": "0.14%"
+        },
+        {
+          "label": "Lv3: 30day Trading Volume (BTC) ≥ 1200",
+          "taker": "0.18%",
+          "maker": "0.13%"
+        },
+        {
+          "label": "Lv4: 30day Trading Volume (BTC) ≥ 2400",
+          "taker": "0.17%",
+          "maker": "0.12%"
+        },
+        {
+          "label": "Lv5: 30day Trading Volume (BTC) ≥ 12000",
+          "taker": "0.15%",
+          "maker": "0.11%"
+        },
+        {
+          "label": "Lv6: 30day Trading Volume (BTC) ≥ 24000",
+          "taker": "0.11%",
+          "maker": "0.08%"
+        },
+        {
+          "label": "Lv7: 30day Trading Volume (BTC) ≥ 60000",
+          "taker": "0.08%",
+          "maker": "0.05%"
+        },
+        {
+          "label": "Lv8: 30day Trading Volume (BTC) ≥ 120000",
+          "taker": "0.05%",
+          "maker": "0.02%"
+        }
+      ]
+    },
+    "deposit-fees": {},
+    "withdrawal-fees": {},
+    "markets": {}
   },
   "poloniex": {
     "trading-fees": {

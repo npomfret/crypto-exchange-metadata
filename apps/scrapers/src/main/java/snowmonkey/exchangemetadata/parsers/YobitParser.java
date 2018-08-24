@@ -6,24 +6,30 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.List;
 
 import static snowmonkey.exchangemetadata.BitsAndBobs.getJson;
 
-public class YobitParser {
-
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata metadata = run();
-        System.out.println(BitsAndBobs.prettyPrint(metadata.toJson()));
+public class YobitParser implements Parser {
+    public YobitParser() {
     }
 
-    public static ExchangeMetadata run() throws URISyntaxException, IOException, InterruptedException {
+    public static Parser create() {
+        return new YobitParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "yobit";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         Source source = BitsAndBobs.getPage("https://www.yobit.net/en/fees/");
 
         TradingFees tradingFees = new TradingFees();

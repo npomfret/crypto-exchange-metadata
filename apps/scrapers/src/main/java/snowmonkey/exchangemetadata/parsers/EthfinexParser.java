@@ -5,20 +5,28 @@ import net.htmlparser.jericho.Source;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
 import java.util.HashMap;
 import java.util.List;
 
-public class EthfinexParser {
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata exchangeMetadata = run();
-
-        System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
+public class EthfinexParser implements Parser {
+    public EthfinexParser() {
     }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new EthfinexParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "ethfinex";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         Source source = BitsAndBobs.getPage("https://www.ethfinex.com/fees");
         List<Element> tables = source.getAllElements("table");
 
@@ -47,14 +55,14 @@ public class EthfinexParser {
                 String currencyName = cells.get(0).getTextExtractor().toString();
                 String feeText = cells.get(1).getTextExtractor().toString();
                 Fee fee;
-                if(feeText.equals("FREE"))
+                if (feeText.equals("FREE"))
                     fee = Fee.ZERO_FIXED;
                 else
                     fee = Fee.parse(feeText);
 
                 String smallFeeText = cells.get(2).getTextExtractor().toString();
                 String ccy;
-                if(smallFeeText.equals("FREE"))
+                if (smallFeeText.equals("FREE"))
                     ccy = currencyName;//todo: map this to a symbol
                 else
                     ccy = smallFeeText.split(" ")[1];
@@ -70,7 +78,7 @@ public class EthfinexParser {
 
                 String feeText = cells.get(1).getTextExtractor().toString();
                 Fee fee;
-                if(feeText.equals("FREE"))
+                if (feeText.equals("FREE"))
                     fee = Fee.ZERO_FIXED;
                 else
                     fee = Fee.parse(feeText);

@@ -1,6 +1,8 @@
 package snowmonkey.exchangemetadata;
 
+import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.parsers.CoinFalconParser;
 import snowmonkey.exchangemetadata.parsers.CoinexParser;
 import snowmonkey.exchangemetadata.parsers.CryptopiaParser;
@@ -9,35 +11,65 @@ import snowmonkey.exchangemetadata.parsers.ExmoParser;
 import snowmonkey.exchangemetadata.parsers.GatecoinParser;
 import snowmonkey.exchangemetadata.parsers.HitbtcParser;
 import snowmonkey.exchangemetadata.parsers.OkexParser;
+import snowmonkey.exchangemetadata.parsers.Parser;
 import snowmonkey.exchangemetadata.parsers.YobitParser;
 
 import java.io.BufferedWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
 
 public class RunAll {
+    private static class Parsers {
+        private final Map<String, Parser> map = new HashMap<>();
+
+        public static Parsers create() {
+
+            Parsers parsers = new Parsers();
+            parsers.add(ExmoParser.create());
+            parsers.add(CoinexParser.create());
+            parsers.add(CoinFalconParser.create());
+            parsers.add(CryptopiaParser.create());
+            parsers.add(EthfinexParser.create());
+            parsers.add(GatecoinParser.create());
+            parsers.add(HitbtcParser.create());
+            parsers.add(YobitParser.create());
+            parsers.add(OkexParser.create());
+            return parsers;
+        }
+
+        private void add(Parser parser) {
+            map.put(parser.exchangeId(), parser);
+        }
+    }
+
     public static void main(String[] args) throws Exception {
-        Path path = Paths.get("../../exchange-metadata.json");
-        if(!Files.exists(path))
+        System.out.println(Paths.get(".").toAbsolutePath());
+
+        Path outputFile = Paths.get("../../exchange-metadata.json");
+        if(!Files.exists(outputFile))
             throw new IllegalStateException();
 
-        JsonObject exchanges = BitsAndBobs.readJson(path);
+        JsonObject exchanges = BitsAndBobs.readJson(outputFile);
 
-        exchanges.add("exmo", ExmoParser.run().toJson());
-        exchanges.add("coinex", CoinexParser.run().toJson());
-        exchanges.add("coinfalcon", CoinFalconParser.run().toJson());
-        exchanges.add("cryptopia", CryptopiaParser.run().toJson());
-        exchanges.add("ethfinex", EthfinexParser.run().toJson());
-        exchanges.add("gatecoin", GatecoinParser.run().toJson());
-        exchanges.add("hitbtc", HitbtcParser.run().toJson());
-        exchanges.add("yobit", YobitParser.run().toJson());
-        exchanges.add("okex", OkexParser.run().toJson());
+        Parsers parsers = Parsers.create();
+        for (Parser parser : parsers.map.values()) {
+            String exchangeId = parser.exchangeId();
+
+            Path mappingFile = Paths.get("../mapping-generation/data/" + exchangeId + ".json");
+            JsonArray mappings = BitsAndBobs.readJsonArray(mappingFile);
+            SymbolMapping symbolMapping = new SymbolMapping(mappings);
+
+            exchanges.add(parser.exchangeId(), parser.generateExchangeMetadata(symbolMapping).toJson());
+        }
 
         JsonObject output = new JsonObject();
         exchanges.keySet().stream().sorted().forEach(exchangeName -> output.add(exchangeName, exchanges.get(exchangeName)));
 
-        try (BufferedWriter writer = Files.newBufferedWriter(path)) {
+        try (BufferedWriter writer = Files.newBufferedWriter(outputFile)) {
             writer.append(BitsAndBobs.prettyPrint(output));
         }
     }

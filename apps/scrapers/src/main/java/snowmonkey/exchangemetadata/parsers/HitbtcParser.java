@@ -1,25 +1,32 @@
 package snowmonkey.exchangemetadata.parsers;
 
-import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import snowmonkey.exchangemetadata.BitsAndBobs;
 import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 import snowmonkey.exchangemetadata.model.Fee;
+import snowmonkey.exchangemetadata.model.SymbolMapping;
 import snowmonkey.exchangemetadata.model.TradingFees;
 import snowmonkey.exchangemetadata.model.TransferFees;
 
 import java.net.URI;
 import java.util.HashMap;
 
-public class HitbtcParser {
-    public static void main(String[] args) throws Exception {
-        ExchangeMetadata exchangeMetadata = run();
-
-        System.out.println(BitsAndBobs.prettyPrint(exchangeMetadata.toJson()));
+public class HitbtcParser implements Parser {
+    public HitbtcParser() {
     }
 
-    public static ExchangeMetadata run() throws Exception {
+    public static Parser create() {
+        return new HitbtcParser();
+    }
+
+    @Override
+    public String exchangeId() {
+        return "hitbtc";
+    }
+
+    @Override
+    public ExchangeMetadata generateExchangeMetadata(SymbolMapping symbolMapping) throws Exception {
         TradingFees tradingFees = new TradingFees();
         tradingFees.addDefaultFee(Fee.parse("0.1%"), Fee.parse("-0.01%"));//https://hitbtc.com/fees-and-limits
 
@@ -36,10 +43,10 @@ public class HitbtcParser {
             boolean payinEnabled = obj.getAsJsonPrimitive("payinEnabled").getAsBoolean();
             boolean payoutEnabled = obj.getAsJsonPrimitive("payoutEnabled").getAsBoolean();
 
-            if(delisted || !payinEnabled)
+            if (delisted || !payinEnabled)
                 depositFees.addFee(ccy, Fee.NOT_AVAILABLE);
 
-            if(delisted || !payoutEnabled)
+            if (delisted || !payoutEnabled)
                 withdrawalFees.addFee(ccy, Fee.NOT_AVAILABLE);
             else
                 withdrawalFees.addFee(ccy, Fee.parse(obj.getAsJsonPrimitive("payoutFee").getAsString()));
