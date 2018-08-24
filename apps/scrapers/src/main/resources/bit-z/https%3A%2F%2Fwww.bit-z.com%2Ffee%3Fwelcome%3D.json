@@ -1,0 +1,1934 @@
+<!DOCTYPE html><html lang="zh"><head>
+<script type="text/javascript">
+(function(para) {
+      var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+      w['sensorsDataAnalytic201505'] = n;
+      w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+      var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+      for (var i = 0; i < ifs.length; i++) {
+        w[n][ifs[i]] = w[n].call(null, ifs[i]);
+      }
+      if (!w[n]._t) {
+        x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+        x.async = 1;
+        x.src = p;
+        x.setAttribute('charset','UTF-8');
+        y.parentNode.insertBefore(x, y);
+        w[n].para = para;
+      }
+    })({
+      sdk_url: 'https://js.bibidev.com/3rd/sensorsdata-sdk/sensorsdata.min.js',
+      name: 'sa',
+      heatmap: {
+        clickmap:'default',
+        scroll_notice_map:'not_collect',
+        collect_url: function() {
+          return true;
+        },
+        collect_element: function(ele) {
+          return true;
+        },
+        collect_input: function (ele) {
+          return true;
+        }
+      },
+      show_log: location.search.indexOf('sa_show_log') != -1,
+      server_url: "https://sensors.bit-z.pro/sa?project=production"
+    });
+  
+    // 自动发送事件
+    sa.quick('autoTrack');
+
+sa.logout();
+
+// 全局函数神策数据
+    function sa_sendLog(key, opts) {
+      if (typeof key != 'string') {
+        return;
+      }
+      // 客户端环境识别模块。
+      // https://github.com/hotoo/detector
+      setTimeout(function() {
+  
+        opts.current_url = location.href;
+        opts.referrer = document.referrer;
+  
+        sa.track(key, opts);
+      }, 0);
+    };
+  
+    // 页面加载时间
+    (function() {
+      var start_time = new Date();
+      var end_time = "" ;
+      window.onload = function(){
+        end_time = new Date();
+        sa.track('pageLoadTime', {
+          loadTime: end_time.getTime() -  start_time.getTime()
+        });
+      }
+    })();
+</script><meta charset="UTF-8">
+<title>Bit-Z|Z网 - 国际领先的区块链资产交易平台</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="author" content="Bit-Z|Z网">
+<meta name="renderer" content="webkit">
+<meta name="google" value="notranslate">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+<meta name="keywords" content="区块链资产交易平台,币币交易,数字货币交易,场外交易平台,比特币交易平台,以太坊行情,莱特币走势,VTC,BTC价格,ETH行情,LTC市价,Bit-Z|Z网, Bit-Z,bitz,bit-z,btc,Z网,z网,Z 网,z 网, OTC,Z wang,z wang,Z網,z網,Z 網,z 網,場外交易">
+<meta name="description" content="Bit-Z is one of the world leading digital asset trading exchanges, providing professional digital asset trading and OTC (Over The Counter) services. We commit to benefiting users worldwide with best comprehensive digital asset trading services.Bit-Z|Z网 面向全球提供专业的数字资产交易及OTC（场外交易）服务,是全球著名的数字资产交易平台之一. 致力于为全球用户提供最优质的综合性数字资产交易服务,提供BTC交易,ETH交易,DKKT交易,USDT交易等，并提供数字货币行情接口. 上币采用投票机制以聚集优质数字资产.">
+<meta name="format-detection" content="telephone=no">
+<link rel="dns-prefetch" href="//js.bibidev.com">
+<link rel="dns-prefetch" href="//img1.bibidev.com">
+<link rel="dns-prefetch" href="//img2.bibidev.com">
+<link rel="dns-prefetch" href="//img3.bibidev.com">
+<link rel="dns-prefetch" href="//zapiv2.bibidev.com">
+<link rel="dns-prefetch" href="//wsv2.bit-z.pro">
+<link rel="dns-prefetch" href="//sensors.bit-z.pro">
+<link rel="dns-prefetch" href="//appv3.bibidev.com">
+<link rel="dns-prefetch" href="//static.zdassets.com">
+<link rel="dns-prefetch" href="//ekr.zdassets.com">
+<link rel="dns-prefetch" href="//bit-z.zendesk.com">
+<link rel="dns-prefetch" href="//v2.zopim.com">
+<link rel="shortcut icon" href="https://js.bibidev.com/common/img/favicon.ico">
+<!-- ## 基础 css -->
+<style data-type="inline" type="text/css">button,input[type=button],input[type=number],input[type=password],input[type=submit],input[type=text],select,textarea{-webkit-appearance:none;-moz-appearance:none;-o-appearance:none;appearance:none;outline:none}button,input[type=button],input[type=submit]{cursor:pointer}input:focus:invalid,input[min]:invalid,input[required]:invalid{box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;-ms-box-shadow:none}input:-webkit-autofill,select:-webkit-autofill,textarea:-webkit-autofill{-webkit-box-shadow:0 0 0 40px #fff inset;box-shadow:inset 0 0 0 40px #fff;-moz-box-shadow:0 0 0 40px #fff inset;-ms-box-shadow:0 0 0 40px #fff inset}input{border:none}ol,ul{list-style:none}h1,h2,h3,h4,h5,h6,th{font-weight:400}h1,h2,h3,h4,h5,li,p,ul{margin:0;padding:0}table{border-spacing:0;border:0}.z-ui-button{background:#fff;border:1px solid #46a1d6;color:#46a1d6;box-sizing:border-box;-webkit-box-sizing:border-box;text-align:center;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;-o-border-radius:2px;-ms-border-radius:2px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.z-ui-button.gradient{background:linear-gradient(90deg,#4cbfdc,#4499d4);border:0}.z-ui-button.gradient.active,.z-ui-button.gradient.gray:hover,.z-ui-button.gradient.primary{background:linear-gradient(90deg,#4cbfdc,#4499d4);color:#fff;border:0}.z-ui-button.gray{color:#9b9b9b;border:1px solid #ececec}.z-ui-button:hover{color:#fff;border:1px solid #2e8ec6;cursor:pointer;background:#2e8ec6}.z-ui-button.active,.z-ui-button.gray:hover,.z-ui-button.primary{background:#46a1d6;color:#fff}.z-ui-button.active:hover,.z-ui-button.gray:hover:hover,.z-ui-button.primary:hover{background:#2e8ec6;color:#fff}.z-ui-button.disabled{border:none;color:#999!important;cursor:not-allowed}.z-ui-button.disabled,.z-ui-button.disabled:hover{background:#ececec!important}.z-ui-button.loading,.z-ui-button.loading span{position:relative}.z-ui-button.loading img{height:28px;width:28px;position:absolute;padding:0;right:0;top:50%;margin-top:-14px;margin-right:-28px}
+</style>
+<style data-type="inline" type="text/css">body,html{margin:0;padding:0}body{background:#f1f3f6;overflow:auto;font-size:14px;min-width:1000px;margin:0 auto}.overflow-hidden{overflow:hidden}img{border:none}a{text-decoration:none;color:#666;cursor:pointer}.clearfix:after{display:block;content:"clear";height:0;clear:both;overflow:hidden;visibility:hidden}.clear,.clearfix{zoom:1}.clear:after{display:block;content:"";clear:both}.ellipsis{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.borderbox{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box}#header{position:fixed;top:0;left:0;background:#222839;height:78px;z-index:999;width:100%}#main{margin:0 auto;padding-top:78px;min-height:660px;overflow:hidden;max-width:1340px}#footer,#main{width:100%;position:relative}#footer{background:#222839;height:240px;opacity:0;z-index:999;animation:1.2s linear fadeIn forwards}.sidebar{width:180px;background:#fff;overflow:hidden;top:78px;bottom:0;position:fixed;z-index:9;padding-top:30px}.main-left-mgn{margin:30px 30px 40px 210px;position:relative;min-width:1040px;margin-right:0}.main-center{width:1200px;margin:30px auto 40px;position:relative}#footer a:hover,#header a:hover{color:#46a1d6!important}.body-overflow-hidden{overflow:hidden}.main-center #globalLoading{width:1200px;padding-left:30px}.main-center #globalLoading .loading-content{left:0}#globalLoading{display:block;z-index:200;position:fixed;top:108px;left:50%;bottom:0;width:1340px;-webkit-transform:translateX(-50%);-o-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);box-sizing:border-box;padding-left:210px;padding-right:30px;will-change:opacity;transition:opacity .3s linear}#globalLoading.no-transition{transition:none}#globalLoading .loading-content{position:absolute;left:210px;top:0;bottom:0;right:0;background:#fff;display:flex;-webkit-justify-content:center;-moz-justify-content:center;-o-justify-content:center;-ms-justify-content:center;justify-content:center;-webkit-align-items:center;-moz-align-items:center;-o-align-items:center;align-items:center}#globalLoading .spinner{position:relative;top:-100px;margin:0 auto;width:50px;height:60px;text-align:center;font-size:10px}#globalLoading .spinner>div{background-color:#46a1d6;height:100%;width:6px;display:inline-block;-webkit-animation:stretchdelay 1.2s infinite ease-in-out;animation:stretchdelay 1.2s infinite ease-in-out}#globalLoading .spinner .rect2{-webkit-animation-delay:-1.1s;animation-delay:-1.1s}#globalLoading .spinner .rect3{-webkit-animation-delay:-1s;animation-delay:-1s}#globalLoading .spinner .rect4{-webkit-animation-delay:-.9s;animation-delay:-.9s}#globalLoading .spinner .rect5{-webkit-animation-delay:-.8s;animation-delay:-.8s}[v-cloak]{display:none}@media only screen and (min-width:200px) and (max-width:1200px){.sidebar{position:relative;top:auto;left:auto;width:100%}.main-left-mgn{margin-left:30px}#globalLoading{top:auto;padding-left:0}}@-webkit-keyframes fadeIn{0%{opacity:0}80%{opacity:0}to{opacity:1}}@-o-keyframes fadeIn{0%{opacity:0}80%{opacity:0}to{opacity:1}}@-moz-keyframes fadeIn{0%{opacity:0}80%{opacity:0}to{opacity:1}}@keyframes fadeIn{0%{opacity:0}80%{opacity:0}to{opacity:1}}@-webkit-keyframes stretchdelay{0%,40%,to{-o-transform:scaleY(.4);-moz-transform:scaleY(.4);-ms-transform:scaleY(.4);transform:scaleY(.4);-webkit-transform:scaleY(.4)}20%{-o-transform:scaleY(1);-moz-transform:scaleY(1);-ms-transform:scaleY(1);transform:scaleY(1);-webkit-transform:scaleY(1)}}@-o-keyframes stretchdelay{0%,40%,to{-o-transform:scaleY(.4);-moz-transform:scaleY(.4);-ms-transform:scaleY(.4);transform:scaleY(.4);-webkit-transform:scaleY(.4)}20%{-o-transform:scaleY(1);-moz-transform:scaleY(1);-ms-transform:scaleY(1);transform:scaleY(1);-webkit-transform:scaleY(1)}}@-moz-keyframes stretchdelay{0%,40%,to{-o-transform:scaleY(.4);-moz-transform:scaleY(.4);-ms-transform:scaleY(.4);transform:scaleY(.4);-webkit-transform:scaleY(.4)}20%{-o-transform:scaleY(1);-moz-transform:scaleY(1);-ms-transform:scaleY(1);transform:scaleY(1);-webkit-transform:scaleY(1)}}@keyframes stretchdelay{0%,40%,to{-o-transform:scaleY(.4);-moz-transform:scaleY(.4);-ms-transform:scaleY(.4);transform:scaleY(.4);-webkit-transform:scaleY(.4)}20%{-o-transform:scaleY(1);-moz-transform:scaleY(1);-ms-transform:scaleY(1);transform:scaleY(1);-webkit-transform:scaleY(1)}}
+</style>
+<link rel="stylesheet" href="https://js.bibidev.com/common/css/header_51a9b430.css">
+<link rel="stylesheet" href="https://js.bibidev.com/common/css/animate_74a1df8c.css">
+<link rel="stylesheet" href="https://js.bibidev.com/common/css/footer_94fff591.css">
+<link rel="stylesheet" href="https://js.bibidev.com/page/help/css/fee_62c55f82.css">
+<!-- ## 基础js （全局配置、变量等）-->
+<script type="text/javascript">
+function BitzRedirect(url) {
+        var reg = /javascript|script|document|cookie|eval|setTimeout|alert/;
+        if (reg.test(url)) {
+          return;
+        }
+
+        if (/^\//.test(url)) {
+          url = location.protocol+"//"+location.host + url;
+        }
+        if (url == location.href) {
+          return;
+        }
+        if (document.referrer == url) {
+          return;
+        }
+
+        location.href = url;
+      };
+
+      window.onerror = function (m, u, r, c, e) {
+        var stk = '';
+        if (e && e.stack) {
+          stk = (e.stack || e.stacktrace).toString();
+        }
+        sa_sendLog("js_error", {
+          msg: m,
+          url: u,
+          r: r,
+          c: c || "not know",
+          stack: stk
+        });
+      };
+
+      window.APP_CONFIG = {
+        ENV: "prod",
+        LANG: "zh",
+        XTOKEN: "",
+        'BZ-SessionId': "",
+
+        API_DOMAIN: "https://ucapi.bit-z.pro",
+        API_APP_DOMAIN: "https://appv3.bibidev.com",
+        API_MARKET_DOMAIN: "https://zapiv2.bibidev.com",
+        WS_DOMAIN: "wss://wsv2.bit-z.pro/wss",
+        
+        MAIN_HOST: "bit-z.com",
+        CDN_DOMAIN: "https://js.bibidev.com",
+        CDN_DOMAIN_IMG1: "https://img1.bibidev.com",
+        CDN_DOMAIN_IMG2: "https://img2.bibidev.com",
+        CDN_DOMAIN_IMG3: "https://img3.bibidev.com",
+        IMG_STATIC: 'https://static.bibidev.com/'
+      };
+
+      window.UA = {};
+      try {window.UA = {"browser":{},"engine":{},"os":{}};}catch(e){};
+
+window.UserInfo = null;
+;
+</script>
+</head><body>
+<style type="text/css">
+html, body, input{
+          font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,Arial,sans-serif;
+              -webkit-font-smoothing: antialiased;
+        }
+</style>
+
+
+<div id="header">
+<div class="header-nav-wrap">
+<ul class="left-menu">
+<li class="logo">
+<a href="//www.bit-z.com">
+<img src="https://js.bibidev.com/common/img/common/logo.png?v=14123" alt="Z网" style="height: 28px;">
+</a>
+</li>
+<li class="">
+<a href="//www.bit-z.com/exchange?lang=zh">币币交易</a>
+</li>
+<li>
+<a href="//otc.bit-z.com">场外交易</a>
+</li>
+<li class="  activity">
+<a href="//www.bit-z.com/activity">活动
+<img src="https://js.bibidev.com/common/img/icons/huo.png" alt="Bit-Z" class="icon-default">
+<img src="https://js.bibidev.com/common/img/icons/huo_hover.png" alt="Bit-Z" class="icon-hover">
+</a>
+</li>
+<li class="bzecology">
+<a href="https://help.bit-z.com/vote2/live">上币投票
+<img src="https://js.bibidev.com/common/img/icons/new.png" alt="Bit-Z" class="icon-default">
+<img src="https://js.bibidev.com/common/img/icons/new_hover.png" alt="Bit-Z" class="icon-hover">
+</a>
+</li>
+<li class=" ">
+<a href="//www.bit-z.com/app?welcome">APP下载</a>
+</li>
+<li>
+
+<a href="https://support.bit-z.pro/hc/zh-cn/categories/115000213454-%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B" target="_blank">新手指导</a>
+
+
+
+</li>
+</ul>
+<div class="right-menu">
+
+<div class="item login">
+<a :href="loginUrl">登录</a>
+</div>
+<div class="item register">
+<a :href="registerUrl">注册</a>
+</div>
+
+<div class="item currency" @mouseover="onShowCurrency(true) " @mouseout="onShowCurrency(false) ">
+<a href="javascript:;" v-text="selectedCurrency" style="width: 35px">CNY</a>
+<div class="head-center-hide" v-show="isShowCurrency">
+<ul class="order-ul">
+<li v-for="item in currencyList">
+<a href="javascript:;" @click="onChangeCurrency(item)" v-text="item"></a>
+</li>
+</ul>
+<div class="triangle">
+<div class="triangle_inner"></div>
+</div>
+</div>
+</div>
+<div class="item language">
+
+<div class="current-lang">
+<img src="https://js.bibidev.com/common/img/lang/zh.png" alt="bit-z">
+<span>简体中文</span>
+</div>
+<div class="head-center-hide" v-show="langReady" style="display: none">
+<ul>
+<li v-for="langItem in languages">
+<a :href="'/lang/switch?locale='+langItem.lang_tag">
+<img src="https://js.bibidev.com/common/img/lang/en.png" :src="langItem.lang_tag|matchLangIcon" alt="bit-z">
+<span v-text="langItem.lang_name"></span>
+</a>
+</li>
+</ul>
+<div class="triangle">
+<div class="triangle_inner"></div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="main" class="clearfix">
+<div class="fee-wrap">
+<h2>手续费说明</h2>
+<h4>最后修改日期: 2018-07-25</h4>
+<div class="fee-body">
+<h3>1、充币手续费</h3>
+<p>所有币充币手续费为0</p>
+<h3>2、提币手续费</h3>
+<table class="fee-table">
+<thead>
+<tr>
+<th>币种</th>
+<th>手续费</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DKKT</td>
+<td>1.0000 DKKT</td>
+</tr>
+<tr>
+<td>ETH</td>
+<td>0.0100 ETH</td>
+</tr>
+<tr>
+<td>BTC</td>
+<td>0.0001 BTC</td>
+</tr>
+<tr>
+<td>BZ</td>
+<td>20.0000 BZ</td>
+</tr>
+<tr>
+<td>USDT</td>
+<td>10.0000 USDT</td>
+</tr>
+<tr>
+<td>LTC</td>
+<td>0.0100 LTC</td>
+</tr>
+<tr>
+<td>FCT</td>
+<td>0.0100 FCT</td>
+</tr>
+<tr>
+<td>LSK</td>
+<td>0.1000 LSK</td>
+</tr>
+<tr>
+<td>ZEC</td>
+<td>0.0050 ZEC</td>
+</tr>
+<tr>
+<td>DOGE</td>
+<td>20.0000 DOGE</td>
+</tr>
+<tr>
+<td>ETC</td>
+<td>0.0100 ETC</td>
+</tr>
+<tr>
+<td>GXS</td>
+<td>0.5000 GXS</td>
+</tr>
+<tr>
+<td>XAS</td>
+<td>0.5000 XAS</td>
+</tr>
+<tr>
+<td>HSR</td>
+<td>0.0001 HSR</td>
+</tr>
+<tr>
+<td>NULS</td>
+<td>2.0000 NULS</td>
+</tr>
+<tr>
+<td>VOISE</td>
+<td>1000.0000 VOISE</td>
+</tr>
+<tr>
+<td>PAY</td>
+<td>1.0000 PAY</td>
+</tr>
+<tr>
+<td>EOS</td>
+<td>0.1000 EOS</td>
+</tr>
+<tr>
+<td>OMG</td>
+<td>0.1000 OMG</td>
+</tr>
+<tr>
+<td>OTN</td>
+<td>2.0000 OTN</td>
+</tr>
+<tr>
+<td>BTX</td>
+<td>0.2000 BTX</td>
+</tr>
+<tr>
+<td>QTUM</td>
+<td>0.0100 QTUM</td>
+</tr>
+<tr>
+<td>DASH</td>
+<td>0.0020 DASH</td>
+</tr>
+<tr>
+<td>BCH</td>
+<td>0.0001 BCH</td>
+</tr>
+<tr>
+<td>SSS</td>
+<td>3000.0000 SSS</td>
+</tr>
+<tr>
+<td>ARK</td>
+<td>0.1000 ARK</td>
+</tr>
+<tr>
+<td>PART</td>
+<td>0.2000 PART</td>
+</tr>
+<tr>
+<td>LEO</td>
+<td>0.0100 LEO</td>
+</tr>
+<tr>
+<td>DGB</td>
+<td>50.0000 DGB</td>
+</tr>
+<tr>
+<td>VIU</td>
+<td>1000.0000 VIU</td>
+</tr>
+<tr>
+<td>BTG</td>
+<td>0.0010 BTG</td>
+</tr>
+<tr>
+<td>ARN</td>
+<td>5.0000 ARN</td>
+</tr>
+<tr>
+<td>VTC</td>
+<td>1.0000 VTC</td>
+</tr>
+<tr>
+<td>BCD</td>
+<td>1.0000 BCD</td>
+</tr>
+<tr>
+<td>TRX</td>
+<td>20.0000 TRX</td>
+</tr>
+<tr>
+<td>HWC</td>
+<td>0.0000 HWC</td>
+</tr>
+<tr>
+<td>UNIT</td>
+<td>3.0000 UNIT</td>
+</tr>
+<tr>
+<td>OXY</td>
+<td>15.0000 OXY</td>
+</tr>
+<tr>
+<td>MCO</td>
+<td>0.5000 MCO</td>
+</tr>
+<tr>
+<td>SBTC</td>
+<td>1.0000 SBTC</td>
+</tr>
+<tr>
+<td>BCX</td>
+<td>1.0000 BCX</td>
+</tr>
+<tr>
+<td>ETF</td>
+<td>1.0000 ETF</td>
+</tr>
+<tr>
+<td>PYLNT</td>
+<td>0.4000 PYLNT</td>
+</tr>
+<tr>
+<td>XRB</td>
+<td>0.1000 XRB</td>
+</tr>
+<tr>
+<td>ETP</td>
+<td>0.0100 ETP</td>
+</tr>
+<tr>
+<td>REBL</td>
+<td>100.0000 REBL</td>
+</tr>
+<tr>
+<td>AIDOC</td>
+<td>150.0000 AIDOC</td>
+</tr>
+<tr>
+<td>DDN</td>
+<td>30.0000 DDN</td>
+</tr>
+<tr>
+<td>PUT</td>
+<td>20.0000 PUT</td>
+</tr>
+<tr>
+<td>POK</td>
+<td>200.0000 POK</td>
+</tr>
+<tr>
+<td>ATM</td>
+<td>2000.0000 ATM</td>
+</tr>
+<tr>
+<td>ZGC</td>
+<td>10.0000 ZGC</td>
+</tr>
+<tr>
+<td>SPHTX</td>
+<td>10.0000 SPHTX</td>
+</tr>
+<tr>
+<td>NKC</td>
+<td>100.0000 NKC</td>
+</tr>
+<tr>
+<td>OC</td>
+<td>1000.0000 OC</td>
+</tr>
+<tr>
+<td>BNTY</td>
+<td>100.0000 BNTY</td>
+</tr>
+<tr>
+<td>OCN</td>
+<td>100.0000 OCN</td>
+</tr>
+<tr>
+<td>INK</td>
+<td>10.0000 INK</td>
+</tr>
+<tr>
+<td>EKT</td>
+<td>50.0000 EKT</td>
+</tr>
+<tr>
+<td>SGCC</td>
+<td>2000.0000 SGCC</td>
+</tr>
+<tr>
+<td>EGCC</td>
+<td>2000.0000 EGCC</td>
+</tr>
+<tr>
+<td>PXC</td>
+<td>2000.0000 PXC</td>
+</tr>
+<tr>
+<td>WOC</td>
+<td>100.0000 WOC</td>
+</tr>
+<tr>
+<td>QUBE</td>
+<td>300.0000 QUBE</td>
+</tr>
+<tr>
+<td>ECOM</td>
+<td>2000.0000 ECOM</td>
+</tr>
+<tr>
+<td>PIX</td>
+<td>300.0000 PIX</td>
+</tr>
+<tr>
+<td>CRE</td>
+<td>200.0000 CRE</td>
+</tr>
+<tr>
+<td>BCV</td>
+<td>200.0000 BCV</td>
+</tr>
+<tr>
+<td>GBC</td>
+<td>2000.0000 GBC</td>
+</tr>
+<tr>
+<td>UC</td>
+<td>2000.0000 UC</td>
+</tr>
+<tr>
+<td>INC</td>
+<td>20.0000 INC</td>
+</tr>
+<tr>
+<td>VCT</td>
+<td>100.0000 VCT</td>
+</tr>
+<tr>
+<td>PC</td>
+<td>2000.0000 PC</td>
+</tr>
+<tr>
+<td>UCT</td>
+<td>50.0000 UCT</td>
+</tr>
+<tr>
+<td>HPB</td>
+<td>2.0000 HPB</td>
+</tr>
+<tr>
+<td>SEXC</td>
+<td>500.0000 SEXC</td>
+</tr>
+<tr>
+<td>TKY</td>
+<td>100.0000 TKY</td>
+</tr>
+<tr>
+<td>ABAO</td>
+<td>2000.0000 ABAO</td>
+</tr>
+<tr>
+<td>PNT</td>
+<td>300.0000 PNT</td>
+</tr>
+<tr>
+<td>CVT</td>
+<td>50.0000 CVT</td>
+</tr>
+<tr>
+<td>TTT</td>
+<td>50.0000 TTT</td>
+</tr>
+<tr>
+<td>NXCT</td>
+<td>1000.0000 NXCT</td>
+</tr>
+<tr>
+<td>EOSDAC</td>
+<td>1.0000 EOSDAC</td>
+</tr>
+<tr>
+<td>XCT</td>
+<td>1.0000 XCT</td>
+</tr>
+<tr>
+<td>EST</td>
+<td>200.0000 EST</td>
+</tr>
+<tr>
+<td>PRA</td>
+<td>20.0000 PRA</td>
+</tr>
+<tr>
+<td>TEAM</td>
+<td>30.0000 TEAM</td>
+</tr>
+<tr>
+<td>CAM</td>
+<td>2.0000 CAM</td>
+</tr>
+<tr>
+<td>WWB</td>
+<td>10.0000 WWB</td>
+</tr>
+<tr>
+<td>BTO</td>
+<td>30.0000 BTO</td>
+</tr>
+<tr>
+<td>APIS</td>
+<td>700.0000 APIS</td>
+</tr>
+<tr>
+<td>SWTC</td>
+<td>40.0000 SWTC</td>
+</tr>
+<tr>
+<td>MOAC</td>
+<td>1.0000 MOAC</td>
+</tr>
+<tr>
+<td>777</td>
+<td>200.0000 777</td>
+</tr>
+<tr>
+<td>QNTU</td>
+<td>2000.0000 QNTU</td>
+</tr>
+<tr>
+<td>RBF</td>
+<td>5.0000 RBF</td>
+</tr>
+<tr>
+<td>RNTB</td>
+<td>200.0000 RNTB</td>
+</tr>
+<tr>
+<td>FTI</td>
+<td>500.0000 FTI</td>
+</tr>
+<tr>
+<td>PCH</td>
+<td>100.0000 PCH</td>
+</tr>
+<tr>
+<td>FBEE</td>
+<td>500.0000 FBEE</td>
+</tr>
+<tr>
+<td>PPS</td>
+<td>100.0000 PPS</td>
+</tr>
+<tr>
+<td>CPX</td>
+<td>100.0000 CPX</td>
+</tr>
+<tr>
+<td>BBC</td>
+<td>200.0000 BBC</td>
+</tr>
+<tr>
+<td>BSTK</td>
+<td>500.0000 BSTK</td>
+</tr>
+<tr>
+<td>RRC</td>
+<td>50.0000 RRC</td>
+</tr>
+<tr>
+<td>IOV</td>
+<td>200.0000 IOV</td>
+</tr>
+<tr>
+<td>NPXS</td>
+<td>1000.0000 NPXS</td>
+</tr>
+<tr>
+<td>GUS</td>
+<td>100.0000 GUS</td>
+</tr>
+<tr>
+<td>ESA</td>
+<td>10.0000 ESA</td>
+</tr>
+<tr>
+<td>EDS</td>
+<td>1000.0000 EDS</td>
+</tr>
+<tr>
+<td>EXT</td>
+<td>100.0000 EXT</td>
+</tr>
+<tr>
+<td>PLY</td>
+<td>10.0000 PLY</td>
+</tr>
+<tr>
+<td>NMT</td>
+<td>50.0000 NMT</td>
+</tr>
+<tr>
+<td>SCTK</td>
+<td>500.0000 SCTK</td>
+</tr>
+<tr>
+<td>ESN</td>
+<td>10.0000 ESN</td>
+</tr>
+<tr>
+<td>LOVC</td>
+<td>200.0000 LOVC</td>
+</tr>
+<tr>
+<td>IXT</td>
+<td>10.0000 IXT</td>
+</tr>
+<tr>
+<td>BTN</td>
+<td>0.0050 BTN</td>
+</tr>
+<tr>
+<td>HOR</td>
+<td>100.0000 HOR</td>
+</tr>
+<tr>
+<td>ZPR</td>
+<td>300.0000 ZPR</td>
+</tr>
+<tr>
+<td>ONT</td>
+<td>1.0000 ONT</td>
+</tr>
+<tr>
+<td>NAM</td>
+<td>1000.0000 NAM</td>
+</tr>
+<tr>
+<td>DEL</td>
+<td>100.0000 DEL</td>
+</tr>
+<tr>
+<td>NAST</td>
+<td>500.0000 NAST</td>
+</tr>
+<tr>
+<td>GSE</td>
+<td>500.0000 GSE</td>
+</tr>
+<tr>
+<td>BOX</td>
+<td>1.0000 BOX</td>
+</tr>
+<tr>
+<td>VAAC</td>
+<td>1.0000 VAAC</td>
+</tr>
+<tr>
+<td>BDSG</td>
+<td>1.0000 BDSG</td>
+</tr>
+<tr>
+<td>CEC</td>
+<td>1.0000 CEC</td>
+</tr>
+<tr>
+<td>SS</td>
+<td>1.0000 SS</td>
+</tr>
+</tbody>
+</table>
+<h3>3、交易手续费</h3>
+<table class="fee-table">
+<thead>
+<tr>
+<th>币种</th>
+<th>买入手续费</th>
+<th>卖出手续费</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LTC/BTC</td>
+<td>0.1% LTC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>VTC/DKKT</td>
+<td>0.1% VTC</td>
+<td>0.1% DKKT</td>
+</tr>
+<tr>
+<td>ETH/BTC</td>
+<td>0.1% ETH</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ZEC/BTC</td>
+<td>0.1% ZEC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>FCT/BTC</td>
+<td>0.1% FCT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>LSK/BTC</td>
+<td>0.1% LSK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BTC/USDT</td>
+<td>0.1% BTC</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>ETH/USDT</td>
+<td>0.1% ETH</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>BTX/BTC</td>
+<td>0.1% BTX</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BCH/BTC</td>
+<td>0.1% BCH</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>QTUM/BTC</td>
+<td>0.1% QTUM</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>DASH/BTC</td>
+<td>0.1% DASH</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ARK/BTC</td>
+<td>0.1% ARK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SSS/BTC</td>
+<td>0.1% SSS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>LEO/BTC</td>
+<td>0.1% LEO</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>VIU/BTC</td>
+<td>0.1% VIU</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>DGB/BTC</td>
+<td>0.1% DGB</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PART/BTC</td>
+<td>0.1% PART</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BTG/BTC</td>
+<td>0.1% BTG</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>DOGE/ETH</td>
+<td>0.1% DOGE</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GXS/ETH</td>
+<td>0.1% GXS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BCD/BTC</td>
+<td>0.1% BCD</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>TRX/BTC</td>
+<td>0.1% TRX</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>TRX/ETH</td>
+<td>0.1% TRX</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BTX/ETH</td>
+<td>0.1% BTX</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>NULS/ETH</td>
+<td>0.1% NULS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>ARN/BTC</td>
+<td>0.1% ARN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>OXY/BTC</td>
+<td>0.1% OXY</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>MCO/BTC</td>
+<td>0.1% MCO</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>MCO/ETH</td>
+<td>0.1% MCO</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>UNIT/BTC</td>
+<td>0.1% UNIT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PYLNT/BTC</td>
+<td>0.1% PYLNT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>XRB/BTC</td>
+<td>0.1% XRB</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BTC/DKKT</td>
+<td>0.1% BTC</td>
+<td>0.1% DKKT</td>
+</tr>
+<tr>
+<td>ETH/DKKT</td>
+<td>0.1% ETH</td>
+<td>0.1% DKKT</td>
+</tr>
+<tr>
+<td>ETP/BTC</td>
+<td>0.1% ETP</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>REBL/BTC</td>
+<td>0.1% REBL</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>REBL/ETH</td>
+<td>0.1% REBL</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GXS/DKKT</td>
+<td>0.1% GXS</td>
+<td>0.1% DKKT</td>
+</tr>
+<tr>
+<td>DDN/ETH</td>
+<td>0.1% DDN</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>AIDOC/BTC</td>
+<td>0.1% AIDOC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>AIDOC/ETH</td>
+<td>0.1% AIDOC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>DDN/BTC</td>
+<td>0.1% DDN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PUT/BTC</td>
+<td>0.1% PUT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PUT/ETH</td>
+<td>0.1% PUT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>POK/BTC</td>
+<td>0.1% POK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>POK/ETH</td>
+<td>0.1% POK</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>ATM/BTC</td>
+<td>0.1% ATM</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ATM/ETH</td>
+<td>0.1% ATM</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>ZGC/BTC</td>
+<td>0.1% ZGC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ZGC/ETH</td>
+<td>0.1% ZGC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>SPHTX/BTC</td>
+<td>0.1% SPHTX</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NKC/BTC</td>
+<td>0.1% NKC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NKC/ETH</td>
+<td>0.1% NKC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>OC/BTC</td>
+<td>0.1% OC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>OC/ETH</td>
+<td>0.1% OC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>OCN/BTC</td>
+<td>0.1% OCN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>OCN/ETH</td>
+<td>0.1% OCN</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BNTY/BTC</td>
+<td>0.1% BNTY</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BNTY/ETH</td>
+<td>0.1% BNTY</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>INK/BTC</td>
+<td>0.1% INK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>INK/ETH</td>
+<td>0.1% INK</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>EKT/BTC</td>
+<td>0.1% EKT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SGCC/ETH</td>
+<td>0.1% SGCC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>EGCC/BTC</td>
+<td>0.1% EGCC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>EGCC/ETH</td>
+<td>0.1% EGCC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>WOC/ETH</td>
+<td>0.1% WOC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PXC/BTC</td>
+<td>0.1% PXC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PXC/ETH</td>
+<td>0.1% PXC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>QUBE/BTC</td>
+<td>0.1% QUBE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>QUBE/ETH</td>
+<td>0.1% QUBE</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>ECOM/ETH</td>
+<td>0.1% ECOM</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PIX/BTC</td>
+<td>0.1% PIX</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SGCC/BTC</td>
+<td>0.1% SGCC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>CRE/BTC</td>
+<td>0.1% CRE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>CRE/ETH</td>
+<td>0.1% CRE</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BCV/ETH</td>
+<td>0.1% BCV</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GBC/ETH</td>
+<td>0.1% GBC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PC/ETH</td>
+<td>0.1% PC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PC/BTC</td>
+<td>0.1% PC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>UC/ETH</td>
+<td>0.1% UC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>UC/BTC</td>
+<td>0.1% UC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>VCT/ETH</td>
+<td>0.1% VCT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>UCT/ETH</td>
+<td>0.1% UCT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>UCT/BTC</td>
+<td>0.1% UCT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>INC/ETH</td>
+<td>0.1% INC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>INC/BTC</td>
+<td>0.1% INC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>HPB/ETH</td>
+<td>0.1% HPB</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>HPB/BTC</td>
+<td>0.1% HPB</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SEXC/ETH</td>
+<td>0.1% SEXC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>TKY/ETH</td>
+<td>0.1% TKY</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>TKY/BTC</td>
+<td>0.1% TKY</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ABAO/BTC</td>
+<td>0.1% ABAO</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ABAO/ETH</td>
+<td>0.1% ABAO</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PNT/ETH</td>
+<td>0.1% PNT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PNT/BTC</td>
+<td>0.1% PNT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>CVT/ETH</td>
+<td>0.1% CVT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>CVT/BTC</td>
+<td>0.1% CVT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>TTT/ETH</td>
+<td>0.1% TTT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>TTT/BTC</td>
+<td>0.1% TTT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NXCT/ETH</td>
+<td>0.1% NXCT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>EST/BTC</td>
+<td>0.1% EST</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>XCT/ETH</td>
+<td>0.1% XCT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PRA/ETH</td>
+<td>0.1% PRA</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PRA/BTC</td>
+<td>0.1% PRA</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>TEAM/ETH</td>
+<td>0.1% TEAM</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>TEAM/BTC</td>
+<td>0.1% TEAM</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>CAM/ETH</td>
+<td>0.1% CAM</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>CAM/BTC</td>
+<td>0.1% CAM</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>WWB/ETH</td>
+<td>0.1% WWB</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>WWB/BTC</td>
+<td>0.1% WWB</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BTO/ETH</td>
+<td>0.1% BTO</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BTO/BTC</td>
+<td>0.1% BTO</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>APIS/ETH</td>
+<td>0.1% APIS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>APIS/BTC</td>
+<td>0.1% APIS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SWTC/ETH</td>
+<td>0.1% SWTC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>MOAC/ETH</td>
+<td>0.1% MOAC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>777/ETH</td>
+<td>0.1% 777</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>777/BTC</td>
+<td>0.1% 777</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BCV/BTC</td>
+<td>0.1% BCV</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>QNTU/ETH</td>
+<td>0.1% QNTU</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>QNTU/BTC</td>
+<td>0.1% QNTU</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>USDT/DKKT</td>
+<td>0.1% USDT</td>
+<td>0.1% DKKT</td>
+</tr>
+<tr>
+<td>RNTB/ETH</td>
+<td>0.1% RNTB</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>FBEE/ETH</td>
+<td>0.1% FBEE</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>FBEE/BTC</td>
+<td>0.1% FBEE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>RBF/BTC</td>
+<td>0.1% RBF</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PPS/ETH</td>
+<td>0.1% PPS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PPS/BTC</td>
+<td>0.1% PPS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>CPX/ETH</td>
+<td>0.1% CPX</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>CPX/BTC</td>
+<td>0.1% CPX</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PCH/ETH</td>
+<td>0.1% PCH</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PCH/BTC</td>
+<td>0.1% PCH</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>FTI/ETH</td>
+<td>0.1% FTI</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>FTI/BTC</td>
+<td>0.1% FTI</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BBC/ETH</td>
+<td>0.1% BBC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BBC/BTC</td>
+<td>0.1% BBC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>GUS/ETH</td>
+<td>0.1% GUS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GUS/BTC</td>
+<td>0.1% GUS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>RRC/ETH</td>
+<td>0.1% RRC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>RRC/BTC</td>
+<td>0.1% RRC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BSTK/ETH</td>
+<td>0.1% BSTK</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BSTK/BTC</td>
+<td>0.1% BSTK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NPXS/ETH</td>
+<td>0.1% NPXS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>NPXS/BTC</td>
+<td>0.1% NPXS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>IOV/ETH</td>
+<td>0.1% IOV</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>IOV/BTC</td>
+<td>0.1% IOV</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>EDS/ETH</td>
+<td>0.1% EDS</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>PLY/BTC</td>
+<td>0.1% PLY</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>EXT/ETH</td>
+<td>0.1% EXT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>EXT/BTC</td>
+<td>0.1% EXT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>SCTK/ETH</td>
+<td>0.1% SCTK</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>SCTK/BTC</td>
+<td>0.1% SCTK</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NMT/ETH</td>
+<td>0.1% NMT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>NMT/BTC</td>
+<td>0.1% NMT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>QTUM/USDT</td>
+<td>0.1% QTUM</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>ESA/ETH</td>
+<td>0.1% ESA</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BZ/ETH</td>
+<td>0.1% BZ</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BZ/USDT</td>
+<td>0.1% BZ</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>ESN/BTC</td>
+<td>0.1% ESN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>IXT/ETH</td>
+<td>0.1% IXT</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>IXT/BTC</td>
+<td>0.1% IXT</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>BZ/BTC</td>
+<td>0.1% BZ</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>LOVC/ETH</td>
+<td>0.1% LOVC</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>HOR/ETH</td>
+<td>0.1% HOR</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>BTN/BTC</td>
+<td>0.1% BTN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ZPR/ETH</td>
+<td>0.1% ZPR</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>ZPR/BTC</td>
+<td>0.1% ZPR</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ONT/USDT</td>
+<td>0.1% ONT</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>DEL/ETH</td>
+<td>0.1% DEL</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>DEL/BTC</td>
+<td>0.1% DEL</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NAM/ETH</td>
+<td>0.1% NAM</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>NAM/BTC</td>
+<td>0.1% NAM</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>EDS/USDT</td>
+<td>0.1% EDS</td>
+<td>0.1% USDT</td>
+</tr>
+<tr>
+<td>NAST/ETH</td>
+<td>0.1% NAST</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GSE/ETH</td>
+<td>0.1% GSE</td>
+<td>0.1% ETH</td>
+</tr>
+<tr>
+<td>GSE/BTC</td>
+<td>0.1% GSE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>DOGE/BTC</td>
+<td>0.1% DOGE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>ETC/BTC</td>
+<td>0.1% ETC</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>GXS/BTC</td>
+<td>0.1% GXS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>HSR/BTC</td>
+<td>0.1% HSR</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>NULS/BTC</td>
+<td>0.1% NULS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>VOISE/BTC</td>
+<td>0.1% VOISE</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>PAY/BTC</td>
+<td>0.1% PAY</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>EOS/BTC</td>
+<td>0.1% EOS</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>OMG/BTC</td>
+<td>0.1% OMG</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>OTN/BTC</td>
+<td>0.1% OTN</td>
+<td>0.1% BTC</td>
+</tr>
+<tr>
+<td>XAS/BTC</td>
+<td>0.1% XAS</td>
+<td>0.1% BTC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="ftinner clearfix">
+<div class="ftinner_lt">
+<a href="/"><img src="https://js.bibidev.com/common/img/common/logo.png"></a>
+<span class="copy">© 2016 Bit-Z</span>
+</div>
+<div class="ftinner_rt clearfix">
+
+<div class="ftrt_ulbox clearfix zh">
+<h2>平台</h2>
+<ul>
+<li>
+<a href="/exchange" target="_blank">币币交易</a>
+</li>
+<li>
+<a href="//otc.bit-z.com/" target="_blank">场外交易</a>
+</li>
+<li>
+<a href="//www.bit-z.com/activity" target="_blank">活动</a>
+</li>
+</ul>
+<ul class="second">
+<li>
+<a href="https://help.bit-z.com/vote2/live" target="_blank">上币投票</a>
+</li>
+<li>
+<a href="//www.bit-z.com/app?welcome" target="_blank">APP下载</a>
+</li>
+<li>
+
+<a href="https://support.bit-z.pro/hc/zh-cn/categories/115000213454-%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B" target="_blank">新手指导</a>
+
+
+
+</li>
+</ul>
+</div>
+<div class="ftrt_ulbox clearfix zh">
+<h2>服务</h2>
+<ul>
+<li>
+
+<a href="https://support.bit-z.com/hc/zh-cn/sections/115001029094-%E6%9C%80%E6%96%B0%E5%85%AC%E5%91%8A" target="_blank">最新公告</a>
+
+
+
+</li>
+<li>
+
+<a href="//apidoc.bit-z.com/cn/" target="_blank">API文档</a>
+
+
+
+</li>
+<li>
+<a href="//www.bit-z.com/terms?welcome" target="_blank">用户协议</a>
+</li>
+</ul>
+<ul class="second">
+<li>
+<a href="//www.bit-z.com/fee?welcome" target="_blank">费率说明</a>
+</li>
+<li>
+<a href="//u.bit-z.com/freeico" target="_blank">上币申请</a>
+</li>
+</ul>
+</div>
+<div class="ftrt_ulbox clearfix zh">
+<h2>联系我们</h2>
+<ul>
+<li>
+
+<span id="bussinessEmail">商务合作: business@bitz.info</span>
+
+</li>
+<li><span>媒介合作: bd@bitz.info</span></li>
+<li><span>漏洞提交: safe@bitz.info</span></li>
+</ul>
+<ul class="second">
+<li class="add_server zh">
+<span>客服微信: Bitzcom666</span>
+<div class="ft_hide_code">
+<img src="https://js.bibidev.com/common/img/footer/qrcode.png" alt="Z网">
+<em class="hidesj"></em>
+</div>
+</li>
+<li><span>客服邮箱: service@bitz.info</span></li>
+</ul>
+</div>
+<div class="ftrt_ulbox clearfix ftrt_follow zh">
+<h2>关注我们</h2>
+<ul class="clearfix">
+<li class="fticon_addimg fticon_pos">
+<a href="javascript:;" title="微信">
+<img src="https://js.bibidev.com/common/img/footer/wechat.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/wechat_active.png" alt="Z网" class="addimg_active">
+<div class="ft_hide_code_wecaht">
+<img src="https://js.bibidev.com/common/img/footer/pubish_code.jpg" alt="Z网">
+<em class="hidesj"></em>
+</div>
+</a>
+</li>
+<li class="fticon_addimg">
+<a href="https://weibo.com/6528852135/profile?topnav=1&wvr=6&is_all=1" title="微博" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/weibo.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/weibo_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li class="fticon_addimg">
+<a href="https://0.plus/bitzCN" title="币用" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/biyong.png" alt="Z网" class="addimg biyong">
+<img src="https://js.bibidev.com/common/img/footer/biyong_active.png" alt="Z网" class="addimg_active biyong">
+</a>
+</li>
+<li class="fticon_addimg">
+<a href="https://www.zhihu.com/people/coinexpress/posts" title="知乎" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/zhihu.png" alt="Z网" class="addimg zhihu">
+<img src="https://js.bibidev.com/common/img/footer/zhihu_active.png" alt="Z网" class="addimg_active zhihu">
+</a>
+</li>
+<li class="fticon_jrtt fticon_addimg">
+<a href="https://www.toutiao.com/c/user/97168525399/#mid=1597974176075790" title="今日头条" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/toutiao.png" alt="Z网" class="addimg toutiao">
+<img src="https://js.bibidev.com/common/img/footer/toutiao_active.png" alt="Z网" class="addimg_active toutiao">
+</a>
+</li>
+<li>
+<a href="https://twitter.com/BitZExchange" title="Twitter" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/twitter.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/twitter_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/BitZAgency/" title="Facebook" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/facebook.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/facebook_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/in/bit-z-exchange-062194149/detail/recent-activity/" title="Linkedin" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/linkedin.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/linkedin_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/bitzexchange/#" title="Instagram" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/instagram.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/instagram_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://medium.com/@Bit_z.com" title="Medium" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/medium.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/medium_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://t.me/bitzCN" title="Telegram" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/telegram.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/telegram_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+<li>
+<a href="https://bit-z.slack.com/join/shared_invite/enQtMjQ0NjQxNzc2NTQ5LWZhZGY1MzkxNjRjOTU3ZTYxNWRkOTQwMmY4NzExYmI5M2Q1ODQwZDE3YjdkZjk3ZTgxOGIyYTQyYzlhMzc3ODg" title="Slack" target="_blank">
+<img src="https://js.bibidev.com/common/img/footer/slack.png" alt="Z网" class="addimg">
+<img src="https://js.bibidev.com/common/img/footer/slack_active.png" alt="Z网" class="addimg_active">
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- ## 业务逻辑 js -->
+<script type="text/javascript">!function(){function e(){var e=Math.max(window.innerHeight,600),t=document.getElementById("header"),n=document.getElementById("footer");if(t&&n){var i=e-t.offsetHeight-n.offsetHeight;document.getElementById("main").style["min-height"]=i+"px"}}e(),window.addEventListener("resize",function(){setTimeout(function(){e()})})}(),function(e){function t(e,t){if(e.classList)e.classList.add(t);else{var n=e.className.split(" ");n.push(t),e.className=n.join(" ")}}function n(e,t){if(e.classList)e.classList.remove(t);else{var n=e.className.split(" "),i=n.indexOf(t);-1!=i&&(n.splice(i,1),e.className=n.join(" "))}}var i={show:function(n){setTimeout(function(){var e=document.getElementById("globalLoading");e&&("undefined"!=typeof $&&$(window).scrollTop(0),t(e,"no-transition"),t(document.body,"overflow-hidden"),e.style.opacity=1,e.style.display="")}),setTimeout(function(){e.LoadingUtil.hide()},2e4)},hide:function(){setTimeout(function(){var e=document.getElementById("globalLoading");e&&(n(e,"no-transition"),e.style.opacity=.628,setTimeout(function(){e.style.display="none",n(document.body,"overflow-hidden")},160))})}};setTimeout(function(){i.hide()},2e4),e.LoadingUtil=i}(window);</script>
+
+<script src="https://js.bibidev.com/3rd/jquery/jquery-3.3.1.min.js"></script>
+
+<script src="https://js.bibidev.com/3rd/vue/vue.min.js"></script>
+
+<script type="text/javascript">!function(){function t(t,e,r){var n=document.createElement(t);for(var a in r)n.setAttribute(a,r[a]);return n.innerText=void 0===e?"":e,n.outerHTML}function e(e){var r=[].concat.apply([],arguments);if(r.shift(),!e)return"";if(!r.length)return e;for(var n=0;n<r.length;n++){var a=new RegExp("#"+n+"#","ig"),o=r[n];if("object"==typeof o){var f=t(o.tag||"span",o.text,o.attrs||{});e=e.replace(a,f)}else e=e.replace(a,o)}return e}Vue.prototype.formatI18N=e,Vue.filter("formatI18N",e)}();</script>
+<script src="https://js.bibidev.com/3rd/jquery/jquery.cookie.js"></script>
+<script src="https://js.bibidev.com/page/help/index_8987c70d.zh.js"></script>
+<!-- ## 非重要 css （异步用到的或动态显示层）-->
+<link rel="stylesheet" href="https://js.bibidev.com/common/css/iconfont/iconfont_14beb696.css">
+<!-- ## 非重要 js （异步用到的或动态显示层）-->
+</body></html>
