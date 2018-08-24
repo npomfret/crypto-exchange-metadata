@@ -9,13 +9,18 @@ import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 
 public class ParsersTest {
     @Test
+    public void anxpro() throws Exception {
+        go(AnxproParser.create());
+    }
+
+    @Test
     public void binance() throws Exception {
         go(BinanceParser.create());
     }
 
     @Test
-    public void anxpro() throws Exception {
-        go(AnxproParser.create());
+    public void bitz() throws Exception {
+        go(BitZParser.create());
     }
 
     @Test

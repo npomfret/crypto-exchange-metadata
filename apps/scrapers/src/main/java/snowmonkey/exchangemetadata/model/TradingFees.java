@@ -9,6 +9,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class TradingFees {
 
@@ -40,6 +41,10 @@ public class TradingFees {
     }
 
     private final Map<String, List<FeePair>> fees = new HashMap<>();
+
+    public void addFee(String market, Fee fee) {
+        addFee(market, fee, fee);
+    }
 
     public void addFee(String market, Fee takerFee, Fee makerFee) {
         addFee(market, takerFee, makerFee, null);
@@ -81,6 +86,7 @@ public class TradingFees {
                 root.add(ccy, items);
             }
         }
+
         return root;
     }
 }
