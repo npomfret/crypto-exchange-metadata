@@ -848,21 +848,59 @@
   },
   "bitbank": {
     "trading-fees": {
-      "default": {
-        "taker": "0%",
-        "maker": "0%"
+      "BCC/JPY": {
+        "taker": 0,
+        "maker": 0
+      },
+      "MONA/JPY": {
+        "taker": 0,
+        "maker": 0
+      },
+      "BCC/BTC": {
+        "taker": 0,
+        "maker": 0
+      },
+      "XRP/JPY": {
+        "taker": 0,
+        "maker": 0
+      },
+      "ETH/BTC": {
+        "taker": 0,
+        "maker": 0
+      },
+      "LTC/BTC": {
+        "taker": 0,
+        "maker": 0
+      },
+      "MONA/BTC": {
+        "taker": 0,
+        "maker": 0
+      },
+      "BTC/JPY": {
+        "taker": 0,
+        "maker": 0
       }
     },
     "deposit-fees": {
-      "default": 0
+      "BCC": 0,
+      "BTC": 0,
+      "ETH": 0,
+      "JPY": 0,
+      "LTC": 0,
+      "MONA": 0,
+      "XRP": 0
     },
     "withdrawal-fees": {
+      "BCC": 0.001,
       "BTC": 0.001,
-      "LTC": 0.001,
-      "XRP": 0.15,
       "ETH": 0.005,
+      "JPY": {
+        "less than 30,000 yen": 540,
+        "over 30,000 yen": 756
+      },
+      "LTC": 0.001,
       "MONA": 0.001,
-      "BCC": 0.001
+      "XRP": 0.15
     },
     "markets": {}
   },

@@ -23,6 +23,11 @@ public class TradingFees {
         }
 
         private FeePair(String label, Fee taker, Fee maker) {
+            if(taker == null)
+                throw new IllegalStateException();
+            if(maker == null)
+                throw new IllegalStateException();
+
             this.label = label;
             this.taker = taker;
             this.maker = maker;
