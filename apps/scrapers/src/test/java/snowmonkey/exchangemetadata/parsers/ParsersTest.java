@@ -9,16 +9,21 @@ import snowmonkey.exchangemetadata.model.ExchangeMetadata;
 
 public class ParsersTest {
     @Test
+    public void binance() throws Exception {
+        go(BinanceParser.create());
+    }
+
+    @Test
     public void anxpro() throws Exception {
-        Parser parser = AnxproParser.create();
-        ExchangeMetadata exchangeMetadata = parser.generateExchangeMetadata();
-        String json = BitsAndBobs.prettyPrint(exchangeMetadata.toJson());
-        System.out.println(json);
+        go(AnxproParser.create());
     }
 
     @Test
     public void exmo() throws Exception {
-        Parser parser = ExmoParser.create();
+        go(ExmoParser.create());
+    }
+
+    private void go(Parser parser) throws Exception {
         ExchangeMetadata exchangeMetadata = parser.generateExchangeMetadata();
         String json = BitsAndBobs.prettyPrint(exchangeMetadata.toJson());
         System.out.println(json);
