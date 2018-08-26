@@ -34,6 +34,11 @@ public class ParsersTest {
     }
 
     @Test
+    public void bitfinex() throws Exception {
+        go(BitfinexParser.create());
+    }
+
+    @Test
     public void exmo() throws Exception {
         go(ExmoParser.create());
     }

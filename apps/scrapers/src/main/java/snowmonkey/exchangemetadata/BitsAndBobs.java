@@ -15,6 +15,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
@@ -27,6 +28,9 @@ import java.time.Duration;
 import static java.time.temporal.ChronoUnit.SECONDS;
 
 public class BitsAndBobs {
+
+    public static final BigDecimal ONE_HUNDRED = new BigDecimal(100);
+
     public static Source getPage(String uri) throws URISyntaxException, IOException, InterruptedException {
         String body = doGet(new URI(uri));
         Source source = new Source(body);
@@ -84,5 +88,9 @@ public class BitsAndBobs {
         } catch (ParseException e) {
             throw new IllegalStateException("Should not happen", e);
         }
+    }
+
+    public static String decimalToPercent(BigDecimal value, int scale) {
+        return value.divide(ONE_HUNDRED, scale, RoundingMode.HALF_UP).stripTrailingZeros().toPlainString() + "%";
     }
 }
