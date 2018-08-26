@@ -1448,7 +1448,7 @@
   },
   "bitflyer": {
     "trading-fees": {
-      "__notes": "https://bleutrade.com/help/fees_and_deadlines",
+      "__notes": "https://bitflyer.com/en-jp/commission?top_link, https://bitflyer.com/en-us/commission",
       "default": {
         "taker": "0%",
         "maker": "0%"
