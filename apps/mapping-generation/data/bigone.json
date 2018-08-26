@@ -560,7 +560,7 @@
     },
     "baseId": "FAIR",
     "quoteId": "BTC",
-    "baseCurrency": "FairGame",
+    "baseCurrency": "FairCoin",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -680,7 +680,7 @@
     },
     "baseId": "HMC",
     "quoteId": "BTC",
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -692,7 +692,7 @@
     },
     "baseId": "HMC",
     "quoteId": "ETH",
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -716,7 +716,7 @@
     },
     "baseId": "HOT",
     "quoteId": "ETH",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -824,7 +824,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -884,7 +884,7 @@
     },
     "baseId": "MAG",
     "quoteId": "BTC",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -896,7 +896,7 @@
     },
     "baseId": "MAG",
     "quoteId": "ETH",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1376,7 +1376,7 @@
     },
     "baseId": "XIN",
     "quoteId": "BTC",
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1388,7 +1388,7 @@
     },
     "baseId": "XIN",
     "quoteId": "ETH",
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Ethereum"
   },
   {

@@ -164,7 +164,7 @@
     },
     "baseId": "ICN",
     "quoteId": "BCH",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin Cash"
   },
   {
@@ -176,7 +176,7 @@
     },
     "baseId": "ICN",
     "quoteId": "BTC",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -188,7 +188,7 @@
     },
     "baseId": "ICN",
     "quoteId": "DASH",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Dash"
   },
   {
@@ -200,7 +200,7 @@
     },
     "baseId": "ICN",
     "quoteId": "ETH",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -212,7 +212,7 @@
     },
     "baseId": "ICN",
     "quoteId": "LTC",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -224,7 +224,7 @@
     },
     "baseId": "ICN",
     "quoteId": "XRP",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "XRP"
   },
   {

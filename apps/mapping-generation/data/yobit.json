@@ -14376,7 +14376,7 @@
       "base": "CMS",
       "quote": "BTC"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -14386,7 +14386,7 @@
       "base": "CMS",
       "quote": "DOGE"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -14396,7 +14396,7 @@
       "base": "CMS",
       "quote": "ETH"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -14406,7 +14406,7 @@
       "base": "CMS",
       "quote": "RUB"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -14416,7 +14416,7 @@
       "base": "CMS",
       "quote": "USD"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -14426,7 +14426,7 @@
       "base": "CMS",
       "quote": "WAVES"
     },
-    "baseCurrency": "COMSA [XEM]",
+    "baseCurrency": "COMSA [ETH]",
     "quoteCurrency": "Waves"
   },
   {
@@ -23016,7 +23016,7 @@
       "base": "ENT",
       "quote": "BTC"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -23026,7 +23026,7 @@
       "base": "ENT",
       "quote": "DOGE"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -23036,7 +23036,7 @@
       "base": "ENT",
       "quote": "ETH"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -23046,7 +23046,7 @@
       "base": "ENT",
       "quote": "RUB"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -23056,7 +23056,7 @@
       "base": "ENT",
       "quote": "USD"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -23066,7 +23066,7 @@
       "base": "ENT",
       "quote": "WAVES"
     },
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Waves"
   },
   {
@@ -31406,7 +31406,7 @@
       "base": "HMC",
       "quote": "BTC"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -31416,7 +31416,7 @@
       "base": "HMC",
       "quote": "DOGE"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -31426,7 +31426,7 @@
       "base": "HMC",
       "quote": "ETH"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -31436,7 +31436,7 @@
       "base": "HMC",
       "quote": "RUB"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -31446,7 +31446,7 @@
       "base": "HMC",
       "quote": "USD"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -31456,7 +31456,7 @@
       "base": "HMC",
       "quote": "WAVES"
     },
-    "baseCurrency": "HarmonyCoin",
+    "baseCurrency": "Hi Mutual Society",
     "quoteCurrency": "Waves"
   },
   {
@@ -31886,7 +31886,7 @@
       "base": "HOT",
       "quote": "BTC"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -31896,7 +31896,7 @@
       "base": "HOT",
       "quote": "DOGE"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -31906,7 +31906,7 @@
       "base": "HOT",
       "quote": "ETH"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -31916,7 +31916,7 @@
       "base": "HOT",
       "quote": "RUB"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -31926,7 +31926,7 @@
       "base": "HOT",
       "quote": "USD"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -31936,7 +31936,7 @@
       "base": "HOT",
       "quote": "WAVES"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Waves"
   },
   {
@@ -44536,7 +44536,7 @@
       "base": "NET",
       "quote": "BTC"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -44546,7 +44546,7 @@
       "base": "NET",
       "quote": "DOGE"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -44556,7 +44556,7 @@
       "base": "NET",
       "quote": "ETH"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -44566,7 +44566,7 @@
       "base": "NET",
       "quote": "RUB"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -44576,7 +44576,7 @@
       "base": "NET",
       "quote": "USD"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -44586,7 +44586,7 @@
       "base": "NET",
       "quote": "WAVES"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Waves"
   },
   {
@@ -51916,7 +51916,7 @@
       "base": "PUT",
       "quote": "BTC"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -51926,7 +51926,7 @@
       "base": "PUT",
       "quote": "DOGE"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -51936,7 +51936,7 @@
       "base": "PUT",
       "quote": "ETH"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -51946,7 +51946,7 @@
       "base": "PUT",
       "quote": "RUB"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -51956,7 +51956,7 @@
       "base": "PUT",
       "quote": "USD"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -51966,7 +51966,7 @@
       "base": "PUT",
       "quote": "WAVES"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Waves"
   },
   {

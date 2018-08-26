@@ -224,7 +224,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BCH",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin Cash"
   },
   {
@@ -236,7 +236,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BTC",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -248,7 +248,7 @@
     },
     "baseId": "CMT",
     "quoteId": "ETH",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -692,7 +692,7 @@
     },
     "baseId": "HOT",
     "quoteId": "BCH",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin Cash"
   },
   {
@@ -704,7 +704,7 @@
     },
     "baseId": "HOT",
     "quoteId": "BTC",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -716,7 +716,7 @@
     },
     "baseId": "HOT",
     "quoteId": "ETH",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
   {

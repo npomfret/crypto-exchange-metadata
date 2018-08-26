@@ -224,7 +224,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BTC",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -236,7 +236,7 @@
     },
     "baseId": "CMT",
     "quoteId": "PAI",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Project Pai"
   },
   {
@@ -248,7 +248,7 @@
     },
     "baseId": "CMT",
     "quoteId": "USDT",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Tether"
   },
   {

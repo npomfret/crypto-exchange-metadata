@@ -1676,7 +1676,7 @@
     },
     "baseId": "RCN",
     "quoteId": "BTC",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -2496,18 +2496,6 @@
     "quoteCurrency": "Ethereum"
   },
   {
-    "id": "ETH-BLT",
-    "ccxt": {
-      "symbol": "BLT/ETH",
-      "base": "BLT",
-      "quote": "ETH"
-    },
-    "baseId": "BLT",
-    "quoteId": "ETH",
-    "baseCurrency": "Bloom",
-    "quoteCurrency": "Ethereum"
-  },
-  {
     "id": "ETH-BNT",
     "ccxt": {
       "symbol": "BNT/ETH",
@@ -2721,18 +2709,6 @@
     "baseId": "NEO",
     "quoteId": "ETH",
     "baseCurrency": "NEO",
-    "quoteCurrency": "Ethereum"
-  },
-  {
-    "id": "ETH-NGC",
-    "ccxt": {
-      "symbol": "NGC/ETH",
-      "base": "NGC",
-      "quote": "ETH"
-    },
-    "baseId": "NGC",
-    "quoteId": "ETH",
-    "baseCurrency": "NAGA",
     "quoteCurrency": "Ethereum"
   },
   {

@@ -5120,7 +5120,7 @@
     },
     "baseId": "ICN",
     "quoteId": "BTC",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -6800,7 +6800,7 @@
     },
     "baseId": "NET",
     "quoteId": "ETH",
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -6910,18 +6910,6 @@
     "quoteId": "USD",
     "baseCurrency": "NAGA",
     "quoteCurrency": "Tether"
-  },
-  {
-    "id": "NLC2BTC",
-    "ccxt": {
-      "symbol": "NLC2/BTC",
-      "base": "NLC2",
-      "quote": "BTC"
-    },
-    "baseId": "NLC2",
-    "quoteId": "BTC",
-    "baseCurrency": "NoLimitCoin",
-    "quoteCurrency": "Bitcoin"
   },
   {
     "id": "NOAHBTC",
@@ -8096,7 +8084,7 @@
     },
     "baseId": "SCC",
     "quoteId": "BTC",
-    "baseCurrency": "StockChain",
+    "baseCurrency": "SiaCashCoin",
     "quoteCurrency": "Bitcoin"
   },
   {

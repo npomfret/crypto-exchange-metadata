@@ -1472,7 +1472,7 @@
     },
     "baseId": "PLC",
     "quoteId": "BTC",
-    "baseCurrency": "Polcoin",
+    "baseCurrency": "PLC",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1484,7 +1484,7 @@
     },
     "baseId": "PLC",
     "quoteId": "ETH",
-    "baseCurrency": "Polcoin",
+    "baseCurrency": "PLC",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1496,7 +1496,7 @@
     },
     "baseId": "PLC",
     "quoteId": "QASH",
-    "baseCurrency": "Polcoin",
+    "baseCurrency": "PLC",
     "quoteCurrency": "QASH"
   },
   {

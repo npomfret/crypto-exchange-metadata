@@ -276,7 +276,7 @@
       "base": "KNC",
       "quote": "BTC"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -706,7 +706,7 @@
       "base": "KNC",
       "quote": "ETH"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -866,7 +866,7 @@
       "base": "KNC",
       "quote": "USDT"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Tether"
   },
   {

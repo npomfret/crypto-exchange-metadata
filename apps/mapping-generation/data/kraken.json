@@ -380,7 +380,7 @@
     },
     "baseId": "XICN",
     "quoteId": "XETH",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -392,7 +392,7 @@
     },
     "baseId": "XICN",
     "quoteId": "XXBT",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {

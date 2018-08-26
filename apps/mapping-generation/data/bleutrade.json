@@ -1104,6 +1104,54 @@
     "quoteCurrency": "Tether"
   },
   {
+    "id": "LGS_BTC",
+    "ccxt": {
+      "symbol": "LGS/BTC",
+      "base": "LGS",
+      "quote": "BTC"
+    },
+    "baseId": "LGS",
+    "quoteId": "BTC",
+    "baseCurrency": "LogisCoin",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "LGS_DOGE",
+    "ccxt": {
+      "symbol": "LGS/DOGE",
+      "base": "LGS",
+      "quote": "DOGE"
+    },
+    "baseId": "LGS",
+    "quoteId": "DOGE",
+    "baseCurrency": "LogisCoin",
+    "quoteCurrency": "Dogecoin"
+  },
+  {
+    "id": "LGS_ETH",
+    "ccxt": {
+      "symbol": "LGS/ETH",
+      "base": "LGS",
+      "quote": "ETH"
+    },
+    "baseId": "LGS",
+    "quoteId": "ETH",
+    "baseCurrency": "LogisCoin",
+    "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "LGS_USDT",
+    "ccxt": {
+      "symbol": "LGS/USDT",
+      "base": "LGS",
+      "quote": "USDT"
+    },
+    "baseId": "LGS",
+    "quoteId": "USDT",
+    "baseCurrency": "LogisCoin",
+    "quoteCurrency": "Tether"
+  },
+  {
     "id": "LINDA_BTC",
     "ccxt": {
       "symbol": "LINDA/BTC",

@@ -1100,7 +1100,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1112,7 +1112,7 @@
     },
     "baseId": "KNC",
     "quoteId": "ETH",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1124,7 +1124,7 @@
     },
     "baseId": "KNC",
     "quoteId": "USD",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Tether"
   },
   {
@@ -1688,7 +1688,7 @@
     },
     "baseId": "RCN",
     "quoteId": "BTC",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1700,7 +1700,7 @@
     },
     "baseId": "RCN",
     "quoteId": "ETH",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1712,7 +1712,7 @@
     },
     "baseId": "RCN",
     "quoteId": "USD",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Tether"
   },
   {

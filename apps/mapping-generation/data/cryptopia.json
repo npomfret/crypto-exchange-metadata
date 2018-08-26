@@ -7820,7 +7820,7 @@
     },
     "baseId": "GCC",
     "quoteId": "BTC",
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -7832,7 +7832,7 @@
     },
     "baseId": "GCC",
     "quoteId": "DOGE",
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -7844,7 +7844,7 @@
     },
     "baseId": "GCC",
     "quoteId": "LTC",
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -9908,7 +9908,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -9920,7 +9920,7 @@
     },
     "baseId": "KNC",
     "quoteId": "DOGE",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -9932,7 +9932,7 @@
     },
     "baseId": "KNC",
     "quoteId": "LTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -11108,7 +11108,7 @@
     },
     "baseId": "MAG",
     "quoteId": "BTC",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -11120,7 +11120,7 @@
     },
     "baseId": "MAG",
     "quoteId": "DOGE",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -11132,7 +11132,7 @@
     },
     "baseId": "MAG",
     "quoteId": "LTC",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -14672,7 +14672,7 @@
     },
     "baseId": "PUT",
     "quoteId": "BTC",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -14684,7 +14684,7 @@
     },
     "baseId": "PUT",
     "quoteId": "DOGE",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -14696,7 +14696,7 @@
     },
     "baseId": "PUT",
     "quoteId": "LTC",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Litecoin"
   },
   {

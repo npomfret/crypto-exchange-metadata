@@ -2180,7 +2180,7 @@
     },
     "baseId": "ENT",
     "quoteId": "BTC",
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3212,7 +3212,7 @@
     },
     "baseId": "HNC",
     "quoteId": "BTC",
-    "baseCurrency": "Huncoin",
+    "baseCurrency": "Helleniccoin",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3224,7 +3224,7 @@
     },
     "baseId": "HNC",
     "quoteId": "ETH",
-    "baseCurrency": "Huncoin",
+    "baseCurrency": "Helleniccoin",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -3236,7 +3236,7 @@
     },
     "baseId": "HNC",
     "quoteId": "EUR",
-    "baseCurrency": "Huncoin",
+    "baseCurrency": "Helleniccoin",
     "quoteCurrency": "Euro"
   },
   {
@@ -3248,7 +3248,7 @@
     },
     "baseId": "HNC",
     "quoteId": "USD",
-    "baseCurrency": "Huncoin",
+    "baseCurrency": "Helleniccoin",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -3380,7 +3380,7 @@
     },
     "baseId": "ICN",
     "quoteId": "BTC",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3644,7 +3644,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3656,7 +3656,7 @@
     },
     "baseId": "KNC",
     "quoteId": "ETH",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -3668,7 +3668,7 @@
     },
     "baseId": "KNC",
     "quoteId": "USD",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -5420,7 +5420,7 @@
     },
     "baseId": "PUT",
     "quoteId": "BTC",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -5432,7 +5432,7 @@
     },
     "baseId": "PUT",
     "quoteId": "ETH",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -5444,7 +5444,7 @@
     },
     "baseId": "PUT",
     "quoteId": "RUR",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Russian Ruble"
   },
   {
@@ -5456,7 +5456,7 @@
     },
     "baseId": "PUT",
     "quoteId": "USD",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "US Dollar"
   },
   {

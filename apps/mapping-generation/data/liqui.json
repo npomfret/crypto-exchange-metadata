@@ -856,7 +856,7 @@
       "base": "HOT",
       "quote": "BTC"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -866,7 +866,7 @@
       "base": "HOT",
       "quote": "ETH"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -876,7 +876,7 @@
       "base": "HOT",
       "quote": "USDT"
     },
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Tether"
   },
   {
@@ -886,7 +886,7 @@
       "base": "ICN",
       "quote": "BTC"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -896,7 +896,7 @@
       "base": "ICN",
       "quote": "ETH"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -906,7 +906,7 @@
       "base": "ICN",
       "quote": "USDT"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Tether"
   },
   {
@@ -1006,7 +1006,7 @@
       "base": "KNC",
       "quote": "BTC"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1016,7 +1016,7 @@
       "base": "KNC",
       "quote": "ETH"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1026,7 +1026,7 @@
       "base": "KNC",
       "quote": "USDT"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Tether"
   },
   {
@@ -1276,7 +1276,7 @@
       "base": "NET",
       "quote": "BTC"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1286,7 +1286,7 @@
       "base": "NET",
       "quote": "ETH"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1296,7 +1296,7 @@
       "base": "NET",
       "quote": "USDT"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Tether"
   },
   {

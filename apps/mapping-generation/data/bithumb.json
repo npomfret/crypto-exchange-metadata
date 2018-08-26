@@ -56,7 +56,7 @@
       "base": "CMT",
       "quote": "KRW"
     },
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "South Korean Won"
   },
   {
@@ -176,7 +176,7 @@
       "base": "KNC",
       "quote": "KRW"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "South Korean Won"
   },
   {

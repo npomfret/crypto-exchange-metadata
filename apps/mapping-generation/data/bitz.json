@@ -1676,7 +1676,7 @@
     },
     "baseId": "put",
     "quoteId": "btc",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1688,7 +1688,7 @@
     },
     "baseId": "put",
     "quoteId": "eth",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Ethereum"
   },
   {

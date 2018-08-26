@@ -606,7 +606,7 @@
       "base": "CMT",
       "quote": "BTC"
     },
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1146,7 +1146,7 @@
       "base": "GCC",
       "quote": "BTC"
     },
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1816,7 +1816,7 @@
       "base": "NET",
       "quote": "BTC"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -2186,7 +2186,7 @@
       "base": "PUT",
       "quote": "BTC"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3096,7 +3096,7 @@
       "base": "XIN",
       "quote": "BTC"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3876,7 +3876,7 @@
       "base": "CMT",
       "quote": "DOGE"
     },
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -4966,7 +4966,7 @@
       "base": "NET",
       "quote": "DOGE"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -5266,7 +5266,7 @@
       "base": "PUT",
       "quote": "DOGE"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -6006,7 +6006,7 @@
       "base": "XIN",
       "quote": "DOGE"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Dogecoin"
   },
   {
@@ -7246,7 +7246,7 @@
       "base": "NET",
       "quote": "ESP2"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "ESP2"
   },
   {
@@ -7866,7 +7866,7 @@
       "base": "XIN",
       "quote": "ESP2"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "ESP2"
   },
   {
@@ -8556,7 +8556,7 @@
       "base": "CMT",
       "quote": "ETH"
     },
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -9096,7 +9096,7 @@
       "base": "GCC",
       "quote": "ETH"
     },
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -9816,7 +9816,7 @@
       "base": "NET",
       "quote": "ETH"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -10186,7 +10186,7 @@
       "base": "PUT",
       "quote": "ETH"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -11106,7 +11106,7 @@
       "base": "XIN",
       "quote": "ETH"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -13516,7 +13516,7 @@
       "base": "CMT",
       "quote": "LTC"
     },
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -14026,7 +14026,7 @@
       "base": "GCC",
       "quote": "LTC"
     },
-    "baseCurrency": "GuccioneCoin",
+    "baseCurrency": "Global Cryptocurrency",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -14626,7 +14626,7 @@
       "base": "NET",
       "quote": "LTC"
     },
-    "baseCurrency": "NetCoin",
+    "baseCurrency": "Nimiq Exchange Token",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -14936,7 +14936,7 @@
       "base": "PUT",
       "quote": "LTC"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -15636,7 +15636,7 @@
       "base": "XIN",
       "quote": "LTC"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -17016,7 +17016,7 @@
       "base": "PUT",
       "quote": "MOON"
     },
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Mooncoin"
   },
   {
@@ -17606,7 +17606,7 @@
       "base": "XIN",
       "quote": "MOON"
     },
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Mooncoin"
   },
   {

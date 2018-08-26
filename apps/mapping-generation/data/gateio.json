@@ -266,7 +266,7 @@
       "base": "BLZ",
       "quote": "ETH"
     },
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -276,7 +276,7 @@
       "base": "BLZ",
       "quote": "USDT"
     },
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Tether"
   },
   {
@@ -1236,7 +1236,7 @@
       "base": "GTC",
       "quote": "BTC"
     },
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1246,7 +1246,7 @@
       "base": "GTC",
       "quote": "ETH"
     },
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1256,7 +1256,7 @@
       "base": "GTC",
       "quote": "USDT"
     },
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Tether"
   },
   {
@@ -1596,7 +1596,7 @@
       "base": "KNC",
       "quote": "ETH"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1606,7 +1606,7 @@
       "base": "KNC",
       "quote": "USDT"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Tether"
   },
   {
@@ -2546,7 +2546,7 @@
       "base": "QBT",
       "quote": "ETH"
     },
-    "baseCurrency": "Cubits",
+    "baseCurrency": "Qbao",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -2556,7 +2556,7 @@
       "base": "QBT",
       "quote": "QTUM"
     },
-    "baseCurrency": "Cubits",
+    "baseCurrency": "Qbao",
     "quoteCurrency": "Qtum"
   },
   {
@@ -2566,7 +2566,7 @@
       "base": "QBT",
       "quote": "USDT"
     },
-    "baseCurrency": "Cubits",
+    "baseCurrency": "Qbao",
     "quoteCurrency": "Tether"
   },
   {
@@ -2696,7 +2696,7 @@
       "base": "RCN",
       "quote": "ETH"
     },
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -2706,7 +2706,7 @@
       "base": "RCN",
       "quote": "USDT"
     },
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Tether"
   },
   {

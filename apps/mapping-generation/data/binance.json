@@ -560,7 +560,7 @@
     },
     "baseId": "BLZ",
     "quoteId": "BNB",
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Binance Coin"
   },
   {
@@ -572,7 +572,7 @@
     },
     "baseId": "BLZ",
     "quoteId": "BTC",
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -584,7 +584,7 @@
     },
     "baseId": "BLZ",
     "quoteId": "ETH",
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -860,7 +860,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BNB",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Binance Coin"
   },
   {
@@ -872,7 +872,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BTC",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -884,7 +884,7 @@
     },
     "baseId": "CMT",
     "quoteId": "ETH",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1628,7 +1628,7 @@
     },
     "baseId": "HOT",
     "quoteId": "BTC",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1640,7 +1640,7 @@
     },
     "baseId": "HOT",
     "quoteId": "ETH",
-    "baseCurrency": "Hydro Protocol",
+    "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1676,7 +1676,7 @@
     },
     "baseId": "ICN",
     "quoteId": "BTC",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1688,7 +1688,7 @@
     },
     "baseId": "ICN",
     "quoteId": "ETH",
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1916,7 +1916,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1928,7 +1928,7 @@
     },
     "baseId": "KNC",
     "quoteId": "ETH",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -3176,7 +3176,7 @@
     },
     "baseId": "RCN",
     "quoteId": "BNB",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Binance Coin"
   },
   {
@@ -3188,7 +3188,7 @@
     },
     "baseId": "RCN",
     "quoteId": "BTC",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -3200,7 +3200,7 @@
     },
     "baseId": "RCN",
     "quoteId": "ETH",
-    "baseCurrency": "Rcoin",
+    "baseCurrency": "Ripio Credit Network",
     "quoteCurrency": "Ethereum"
   },
   {

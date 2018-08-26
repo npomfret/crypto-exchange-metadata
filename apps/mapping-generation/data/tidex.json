@@ -456,7 +456,7 @@
       "base": "CAT",
       "quote": "BTC"
     },
-    "baseCurrency": "Catcoin",
+    "baseCurrency": "BitClave",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -466,7 +466,7 @@
       "base": "CAT",
       "quote": "ETH"
     },
-    "baseCurrency": "Catcoin",
+    "baseCurrency": "BitClave",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -476,7 +476,7 @@
       "base": "CAT",
       "quote": "USDT"
     },
-    "baseCurrency": "Catcoin",
+    "baseCurrency": "BitClave",
     "quoteCurrency": "Tether"
   },
   {
@@ -1266,7 +1266,7 @@
       "base": "ICN",
       "quote": "BTC"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1276,7 +1276,7 @@
       "base": "ICN",
       "quote": "WAVES"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "Waves"
   },
   {
@@ -1286,7 +1286,7 @@
       "base": "ICN",
       "quote": "WEUR"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "WEUR"
   },
   {
@@ -1296,7 +1296,7 @@
       "base": "ICN",
       "quote": "WUSD"
     },
-    "baseCurrency": "iCoin",
+    "baseCurrency": "Iconomi",
     "quoteCurrency": "WUSD"
   },
   {
@@ -1426,7 +1426,7 @@
       "base": "KNC",
       "quote": "BTC"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -1436,7 +1436,7 @@
       "base": "KNC",
       "quote": "ETH"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1446,7 +1446,7 @@
       "base": "KNC",
       "quote": "WAVES"
     },
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Waves"
   },
   {
@@ -2106,7 +2106,7 @@
       "base": "PLC",
       "quote": "BTC"
     },
-    "baseCurrency": "Polcoin",
+    "baseCurrency": "PLC",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -2116,7 +2116,7 @@
       "base": "PLC",
       "quote": "ETH"
     },
-    "baseCurrency": "Polcoin",
+    "baseCurrency": "PLC",
     "quoteCurrency": "Ethereum"
   },
   {

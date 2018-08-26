@@ -296,7 +296,7 @@
     },
     "baseId": "cmt",
     "quoteId": "btc",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -308,7 +308,7 @@
     },
     "baseId": "cmt",
     "quoteId": "eth",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -524,7 +524,7 @@
     },
     "baseId": "ent",
     "quoteId": "qtum",
-    "baseCurrency": "ENTCash",
+    "baseCurrency": "Eternity",
     "quoteCurrency": "Qtum"
   },
   {
@@ -1076,7 +1076,7 @@
     },
     "baseId": "put",
     "quoteId": "eth",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1088,7 +1088,7 @@
     },
     "baseId": "put",
     "quoteId": "qtum",
-    "baseCurrency": "PutinCoin",
+    "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "Qtum"
   },
   {
@@ -1100,7 +1100,7 @@
     },
     "baseId": "qbt",
     "quoteId": "qtum",
-    "baseCurrency": "Cubits",
+    "baseCurrency": "Qbao",
     "quoteCurrency": "Qtum"
   },
   {

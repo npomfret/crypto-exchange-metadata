@@ -1232,7 +1232,7 @@
     },
     "baseId": "FAIR",
     "quoteId": "BTC",
-    "baseCurrency": "FairGame",
+    "baseCurrency": "FairCoin",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -6404,7 +6404,7 @@
     },
     "baseId": "MAG",
     "quoteId": "BTC",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -7940,7 +7940,7 @@
     },
     "baseId": "CAT",
     "quoteId": "BTC",
-    "baseCurrency": "Catcoin",
+    "baseCurrency": "BitClave",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -7952,7 +7952,7 @@
     },
     "baseId": "MAG",
     "quoteId": "LTC",
-    "baseCurrency": "Maggie",
+    "baseCurrency": "Magnet",
     "quoteCurrency": "Litecoin"
   },
   {
@@ -9236,7 +9236,7 @@
     },
     "baseId": "KNC",
     "quoteId": "BTC",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -9248,7 +9248,7 @@
     },
     "baseId": "KNC",
     "quoteId": "ETH",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -10796,7 +10796,7 @@
     },
     "baseId": "CMT",
     "quoteId": "BTC",
-    "baseCurrency": "Comet",
+    "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
   {

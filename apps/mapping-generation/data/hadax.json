@@ -392,7 +392,7 @@
     },
     "baseId": "gtc",
     "quoteId": "btc",
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Bitcoin"
   },
   {
@@ -404,7 +404,7 @@
     },
     "baseId": "gtc",
     "quoteId": "eth",
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Ethereum"
   },
   {

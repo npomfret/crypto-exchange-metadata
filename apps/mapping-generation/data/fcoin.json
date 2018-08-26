@@ -260,7 +260,7 @@
     },
     "baseId": "blz",
     "quoteId": "eth",
-    "baseCurrency": "BlazeCoin",
+    "baseCurrency": "Bluzelle",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -848,7 +848,7 @@
     },
     "baseId": "fair",
     "quoteId": "eth",
-    "baseCurrency": "FairGame",
+    "baseCurrency": "FairCoin",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1100,7 +1100,7 @@
     },
     "baseId": "gtc",
     "quoteId": "eth",
-    "baseCurrency": "Global Tour Coin",
+    "baseCurrency": "Game.com",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -1412,7 +1412,7 @@
     },
     "baseId": "knc",
     "quoteId": "eth",
-    "baseCurrency": "KingN Coin",
+    "baseCurrency": "Kyber Network",
     "quoteCurrency": "Ethereum"
   },
   {
@@ -2360,7 +2360,7 @@
     },
     "baseId": "xin",
     "quoteId": "eth",
-    "baseCurrency": "Infinity Economics",
+    "baseCurrency": "Mixin",
     "quoteCurrency": "Ethereum"
   },
   {
