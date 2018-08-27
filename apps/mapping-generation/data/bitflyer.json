@@ -50,16 +50,6 @@
     "quoteCurrency": "Japanese Yen"
   },
   {
-    "id": "BTCJPY24AUG2018",
-    "ccxt": {
-      "symbol": "BTCJPY24AUG2018",
-      "base": "BTC",
-      "quote": "JPY"
-    },
-    "baseCurrency": "Bitcoin",
-    "quoteCurrency": "Japanese Yen"
-  },
-  {
     "id": "BTCJPY28SEP2018",
     "ccxt": {
       "symbol": "BTCJPY28SEP2018",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "bchbtc",
+    "id": "BCH-BTC",
     "ccxt": {
       "symbol": "BCH/BTC",
       "base": "BCH",
@@ -10,7 +10,7 @@
     "quoteCurrency": "Bitcoin"
   },
   {
-    "id": "bcheur",
+    "id": "BCH-EUR",
     "ccxt": {
       "symbol": "BCH/EUR",
       "base": "BCH",
@@ -20,7 +20,7 @@
     "quoteCurrency": "Euro"
   },
   {
-    "id": "bchusd",
+    "id": "BCH-USD",
     "ccxt": {
       "symbol": "BCH/USD",
       "base": "BCH",
@@ -30,7 +30,7 @@
     "quoteCurrency": "US Dollar"
   },
   {
-    "id": "btceur",
+    "id": "BTC-EUR",
     "ccxt": {
       "symbol": "BTC/EUR",
       "base": "BTC",
@@ -40,7 +40,17 @@
     "quoteCurrency": "Euro"
   },
   {
-    "id": "btcusd",
+    "id": "BTC-GBP",
+    "ccxt": {
+      "symbol": "BTC/GBP",
+      "base": "BTC",
+      "quote": "GBP"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "BTC-USD",
     "ccxt": {
       "symbol": "BTC/USD",
       "base": "BTC",
@@ -50,7 +60,37 @@
     "quoteCurrency": "US Dollar"
   },
   {
-    "id": "ethbtc",
+    "id": "ETC-BTC",
+    "ccxt": {
+      "symbol": "ETC/BTC",
+      "base": "ETC",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Bitcoin"
+  },
+  {
+    "id": "ETC-EUR",
+    "ccxt": {
+      "symbol": "ETC/EUR",
+      "base": "ETC",
+      "quote": "EUR"
+    },
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "Euro"
+  },
+  {
+    "id": "ETC-USD",
+    "ccxt": {
+      "symbol": "ETC/USD",
+      "base": "ETC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Ethereum Classic",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ETH-BTC",
     "ccxt": {
       "symbol": "ETH/BTC",
       "base": "ETH",
@@ -60,7 +100,7 @@
     "quoteCurrency": "Bitcoin"
   },
   {
-    "id": "etheur",
+    "id": "ETH-EUR",
     "ccxt": {
       "symbol": "ETH/EUR",
       "base": "ETH",
@@ -70,7 +110,7 @@
     "quoteCurrency": "Euro"
   },
   {
-    "id": "ethusd",
+    "id": "ETH-USD",
     "ccxt": {
       "symbol": "ETH/USD",
       "base": "ETH",
@@ -80,17 +120,7 @@
     "quoteCurrency": "US Dollar"
   },
   {
-    "id": "eurusd",
-    "ccxt": {
-      "symbol": "EUR/USD",
-      "base": "EUR",
-      "quote": "USD"
-    },
-    "baseCurrency": "Euro",
-    "quoteCurrency": "US Dollar"
-  },
-  {
-    "id": "ltcbtc",
+    "id": "LTC-BTC",
     "ccxt": {
       "symbol": "LTC/BTC",
       "base": "LTC",
@@ -100,7 +130,7 @@
     "quoteCurrency": "Bitcoin"
   },
   {
-    "id": "ltceur",
+    "id": "LTC-EUR",
     "ccxt": {
       "symbol": "LTC/EUR",
       "base": "LTC",
@@ -110,43 +140,13 @@
     "quoteCurrency": "Euro"
   },
   {
-    "id": "ltcusd",
+    "id": "LTC-USD",
     "ccxt": {
       "symbol": "LTC/USD",
       "base": "LTC",
       "quote": "USD"
     },
     "baseCurrency": "Litecoin",
-    "quoteCurrency": "US Dollar"
-  },
-  {
-    "id": "xrpbtc",
-    "ccxt": {
-      "symbol": "XRP/BTC",
-      "base": "XRP",
-      "quote": "BTC"
-    },
-    "baseCurrency": "XRP",
-    "quoteCurrency": "Bitcoin"
-  },
-  {
-    "id": "xrpeur",
-    "ccxt": {
-      "symbol": "XRP/EUR",
-      "base": "XRP",
-      "quote": "EUR"
-    },
-    "baseCurrency": "XRP",
-    "quoteCurrency": "Euro"
-  },
-  {
-    "id": "xrpusd",
-    "ccxt": {
-      "symbol": "XRP/USD",
-      "base": "XRP",
-      "quote": "USD"
-    },
-    "baseCurrency": "XRP",
     "quoteCurrency": "US Dollar"
   }
 ]

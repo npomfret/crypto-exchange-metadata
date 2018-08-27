@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "bcc",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "JPY"
     },
-    "baseId": "bcc",
-    "quoteId": "jpy",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Japanese Yen"
   },
@@ -30,8 +26,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "btc",
-    "quoteId": "jpy",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -42,8 +36,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -54,8 +46,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "ltc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -66,8 +56,6 @@
       "base": "MONA",
       "quote": "BTC"
     },
-    "baseId": "mona",
-    "quoteId": "btc",
     "baseCurrency": "MonaCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -78,8 +66,6 @@
       "base": "MONA",
       "quote": "JPY"
     },
-    "baseId": "mona",
-    "quoteId": "jpy",
     "baseCurrency": "MonaCoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -90,8 +76,6 @@
       "base": "XRP",
       "quote": "JPY"
     },
-    "baseId": "xrp",
-    "quoteId": "jpy",
     "baseCurrency": "XRP",
     "quoteCurrency": "Japanese Yen"
   }

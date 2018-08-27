@@ -6,8 +6,6 @@
       "base": "AUD",
       "quote": "USD"
     },
-    "baseId": "aud",
-    "quoteId": "usd",
     "baseCurrency": "Australian Dollar",
     "quoteCurrency": "US Dollar"
   },
@@ -18,8 +16,6 @@
       "base": "BAC",
       "quote": "ETH"
     },
-    "baseId": "bac",
-    "quoteId": "eth",
     "baseCurrency": "BAC",
     "quoteCurrency": "Ethereum"
   },
@@ -30,8 +26,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "bch",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -42,8 +36,6 @@
       "base": "BTC",
       "quote": "AUD"
     },
-    "baseId": "btc",
-    "quoteId": "aud",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "BTC",
       "quote": "CAD"
     },
-    "baseId": "btc",
-    "quoteId": "cad",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Canadian Dollar"
   },
@@ -66,8 +56,6 @@
       "base": "BTC",
       "quote": "CHF"
     },
-    "baseId": "btc",
-    "quoteId": "chf",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Swiss Franc"
   },
@@ -78,8 +66,6 @@
       "base": "BTC",
       "quote": "EUR"
     },
-    "baseId": "btc",
-    "quoteId": "eur",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Euro"
   },
@@ -90,10 +76,18 @@
       "base": "BTC",
       "quote": "GBP"
     },
-    "baseId": "btc",
-    "quoteId": "gbp",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "British Pound Sterling"
+  },
+  {
+    "id": "btchkd",
+    "ccxt": {
+      "symbol": "BTC/HKD",
+      "base": "BTC",
+      "quote": "HKD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "Hong Kong Dollar"
   },
   {
     "id": "btcjpy",
@@ -102,8 +96,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "btc",
-    "quoteId": "jpy",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -114,8 +106,6 @@
       "base": "BTC",
       "quote": "NGN"
     },
-    "baseId": "btc",
-    "quoteId": "ngn",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Nigerian Naira"
   },
@@ -126,8 +116,6 @@
       "base": "BTC",
       "quote": "NZD"
     },
-    "baseId": "btc",
-    "quoteId": "nzd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -138,8 +126,6 @@
       "base": "BTC",
       "quote": "SGD"
     },
-    "baseId": "btc",
-    "quoteId": "sgd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -150,8 +136,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "btc",
-    "quoteId": "usd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -162,8 +146,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -174,8 +156,6 @@
       "base": "EUR",
       "quote": "USD"
     },
-    "baseId": "eur",
-    "quoteId": "usd",
     "baseCurrency": "Euro",
     "quoteCurrency": "US Dollar"
   },
@@ -186,8 +166,6 @@
       "base": "GBP",
       "quote": "USD"
     },
-    "baseId": "gbp",
-    "quoteId": "usd",
     "baseCurrency": "British Pound Sterling",
     "quoteCurrency": "US Dollar"
   },
@@ -198,8 +176,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "ltc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -210,8 +186,6 @@
       "base": "NZD",
       "quote": "USD"
     },
-    "baseId": "nzd",
-    "quoteId": "usd",
     "baseCurrency": "New Zealand Dollar",
     "quoteCurrency": "US Dollar"
   },
@@ -222,8 +196,6 @@
       "base": "USD",
       "quote": "CAD"
     },
-    "baseId": "usd",
-    "quoteId": "cad",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Canadian Dollar"
   },
@@ -234,8 +206,6 @@
       "base": "USD",
       "quote": "CHF"
     },
-    "baseId": "usd",
-    "quoteId": "chf",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Swiss Franc"
   },
@@ -246,8 +216,6 @@
       "base": "USD",
       "quote": "HKD"
     },
-    "baseId": "usd",
-    "quoteId": "hkd",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -258,8 +226,6 @@
       "base": "USD",
       "quote": "JPY"
     },
-    "baseId": "usd",
-    "quoteId": "jpy",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Japanese Yen"
   },
@@ -270,8 +236,6 @@
       "base": "USD",
       "quote": "NGN"
     },
-    "baseId": "usd",
-    "quoteId": "ngn",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Nigerian Naira"
   },
@@ -282,8 +246,6 @@
       "base": "USD",
       "quote": "SGD"
     },
-    "baseId": "usd",
-    "quoteId": "sgd",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -294,8 +256,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "xrp",
-    "quoteId": "btc",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   }

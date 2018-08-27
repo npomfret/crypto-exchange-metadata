@@ -1,35 +1,5 @@
 [
   {
-    "id": "bchbtc",
-    "ccxt": {
-      "symbol": "BCH/BTC",
-      "base": "BCH",
-      "quote": "BTC"
-    },
-    "baseCurrency": "Bitcoin Cash",
-    "quoteCurrency": "Bitcoin"
-  },
-  {
-    "id": "bcheur",
-    "ccxt": {
-      "symbol": "BCH/EUR",
-      "base": "BCH",
-      "quote": "EUR"
-    },
-    "baseCurrency": "Bitcoin Cash",
-    "quoteCurrency": "Euro"
-  },
-  {
-    "id": "bchusd",
-    "ccxt": {
-      "symbol": "BCH/USD",
-      "base": "BCH",
-      "quote": "USD"
-    },
-    "baseCurrency": "Bitcoin Cash",
-    "quoteCurrency": "US Dollar"
-  },
-  {
     "id": "btceur",
     "ccxt": {
       "symbol": "BTC/EUR",

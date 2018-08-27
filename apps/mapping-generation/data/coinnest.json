@@ -6,8 +6,6 @@
       "base": "ACT",
       "quote": "KRW"
     },
-    "baseId": "act",
-    "quoteId": "krw",
     "baseCurrency": "Achain",
     "quoteCurrency": "South Korean Won"
   },
@@ -18,8 +16,6 @@
       "base": "ADA",
       "quote": "KRW"
     },
-    "baseId": "ada",
-    "quoteId": "krw",
     "baseCurrency": "Cardano",
     "quoteCurrency": "South Korean Won"
   },
@@ -30,8 +26,6 @@
       "base": "BCD",
       "quote": "KRW"
     },
-    "baseId": "bcd",
-    "quoteId": "krw",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "South Korean Won"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "KRW"
     },
-    "baseId": "bch",
-    "quoteId": "krw",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "South Korean Won"
   },
@@ -54,8 +46,6 @@
       "base": "BTC",
       "quote": "KRW"
     },
-    "baseId": "btc",
-    "quoteId": "krw",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "South Korean Won"
   },
@@ -66,8 +56,6 @@
       "base": "BTG",
       "quote": "KRW"
     },
-    "baseId": "btg",
-    "quoteId": "krw",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "South Korean Won"
   },
@@ -78,8 +66,6 @@
       "base": "BTN",
       "quote": "KRW"
     },
-    "baseId": "btn",
-    "quoteId": "krw",
     "baseCurrency": "BTN",
     "quoteCurrency": "South Korean Won"
   },
@@ -90,8 +76,6 @@
       "base": "CHAT",
       "quote": "KRW"
     },
-    "baseId": "chat",
-    "quoteId": "krw",
     "baseCurrency": "ChatCoin",
     "quoteCurrency": "South Korean Won"
   },
@@ -102,8 +86,6 @@
       "base": "ENT",
       "quote": "KRW"
     },
-    "baseId": "ent",
-    "quoteId": "krw",
     "baseCurrency": "Eternity",
     "quoteCurrency": "South Korean Won"
   },
@@ -114,8 +96,6 @@
       "base": "ETC",
       "quote": "KRW"
     },
-    "baseId": "etc",
-    "quoteId": "krw",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "South Korean Won"
   },
@@ -126,8 +106,6 @@
       "base": "ETH",
       "quote": "KRW"
     },
-    "baseId": "eth",
-    "quoteId": "krw",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "South Korean Won"
   },
@@ -138,8 +116,6 @@
       "base": "GAS",
       "quote": "KRW"
     },
-    "baseId": "gas",
-    "quoteId": "krw",
     "baseCurrency": "Gas",
     "quoteCurrency": "South Korean Won"
   },
@@ -150,8 +126,6 @@
       "base": "GTO",
       "quote": "KRW"
     },
-    "baseId": "gto",
-    "quoteId": "krw",
     "baseCurrency": "Gifto",
     "quoteCurrency": "South Korean Won"
   },
@@ -162,8 +136,6 @@
       "base": "HLC",
       "quote": "KRW"
     },
-    "baseId": "hlc",
-    "quoteId": "krw",
     "baseCurrency": "HalalChain",
     "quoteCurrency": "South Korean Won"
   },
@@ -174,8 +146,6 @@
       "base": "HSR",
       "quote": "KRW"
     },
-    "baseId": "hsr",
-    "quoteId": "krw",
     "baseCurrency": "Hshare",
     "quoteCurrency": "South Korean Won"
   },
@@ -186,8 +156,6 @@
       "base": "INK",
       "quote": "KRW"
     },
-    "baseId": "ink",
-    "quoteId": "krw",
     "baseCurrency": "Ink",
     "quoteCurrency": "South Korean Won"
   },
@@ -198,8 +166,6 @@
       "base": "KNC",
       "quote": "KRW"
     },
-    "baseId": "knc",
-    "quoteId": "krw",
     "baseCurrency": "Kyber Network",
     "quoteCurrency": "South Korean Won"
   },
@@ -210,8 +176,6 @@
       "base": "KST",
       "quote": "KRW"
     },
-    "baseId": "kst",
-    "quoteId": "krw",
     "baseCurrency": "StarCoin",
     "quoteCurrency": "South Korean Won"
   },
@@ -222,8 +186,6 @@
       "base": "LTC",
       "quote": "KRW"
     },
-    "baseId": "ltc",
-    "quoteId": "krw",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "South Korean Won"
   },
@@ -234,8 +196,6 @@
       "base": "MCO",
       "quote": "KRW"
     },
-    "baseId": "mco",
-    "quoteId": "krw",
     "baseCurrency": "MCO",
     "quoteCurrency": "South Korean Won"
   },
@@ -246,8 +206,6 @@
       "base": "NEO",
       "quote": "KRW"
     },
-    "baseId": "neo",
-    "quoteId": "krw",
     "baseCurrency": "NEO",
     "quoteCurrency": "South Korean Won"
   },
@@ -258,8 +216,6 @@
       "base": "OC",
       "quote": "KRW"
     },
-    "baseId": "oc",
-    "quoteId": "krw",
     "baseCurrency": "OceanChain",
     "quoteCurrency": "South Korean Won"
   },
@@ -270,8 +226,6 @@
       "base": "OMG",
       "quote": "KRW"
     },
-    "baseId": "omg",
-    "quoteId": "krw",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "South Korean Won"
   },
@@ -282,8 +236,6 @@
       "base": "PUT",
       "quote": "KRW"
     },
-    "baseId": "put",
-    "quoteId": "krw",
     "baseCurrency": "Profile Utility Token",
     "quoteCurrency": "South Korean Won"
   },
@@ -294,8 +246,6 @@
       "base": "PXS",
       "quote": "KRW"
     },
-    "baseId": "pxs",
-    "quoteId": "krw",
     "baseCurrency": "PXS",
     "quoteCurrency": "South Korean Won"
   },
@@ -306,8 +256,6 @@
       "base": "QBT",
       "quote": "KRW"
     },
-    "baseId": "qbt",
-    "quoteId": "krw",
     "baseCurrency": "Qbao",
     "quoteCurrency": "South Korean Won"
   },
@@ -318,8 +266,6 @@
       "base": "QTUM",
       "quote": "KRW"
     },
-    "baseId": "qtum",
-    "quoteId": "krw",
     "baseCurrency": "Qtum",
     "quoteCurrency": "South Korean Won"
   },
@@ -330,8 +276,6 @@
       "base": "RPX",
       "quote": "KRW"
     },
-    "baseId": "rpx",
-    "quoteId": "krw",
     "baseCurrency": "RPX",
     "quoteCurrency": "South Korean Won"
   },
@@ -342,8 +286,6 @@
       "base": "SPC",
       "quote": "KRW"
     },
-    "baseId": "spc",
-    "quoteId": "krw",
     "baseCurrency": "SpaceChain",
     "quoteCurrency": "South Korean Won"
   },
@@ -354,8 +296,6 @@
       "base": "STORM",
       "quote": "KRW"
     },
-    "baseId": "storm",
-    "quoteId": "krw",
     "baseCurrency": "Storm",
     "quoteCurrency": "South Korean Won"
   },
@@ -366,8 +306,6 @@
       "base": "TRON",
       "quote": "KRW"
     },
-    "baseId": "tron",
-    "quoteId": "krw",
     "baseCurrency": "TRON",
     "quoteCurrency": "South Korean Won"
   },
@@ -378,8 +316,6 @@
       "base": "TSL",
       "quote": "KRW"
     },
-    "baseId": "tsl",
-    "quoteId": "krw",
     "baseCurrency": "Energo",
     "quoteCurrency": "South Korean Won"
   },
@@ -390,8 +326,6 @@
       "base": "UBTC",
       "quote": "KRW"
     },
-    "baseId": "ubtc",
-    "quoteId": "krw",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "South Korean Won"
   },
@@ -402,8 +336,6 @@
       "base": "WTC",
       "quote": "KRW"
     },
-    "baseId": "wtc",
-    "quoteId": "krw",
     "baseCurrency": "Waltonchain",
     "quoteCurrency": "South Korean Won"
   },
@@ -414,8 +346,6 @@
       "base": "XLM",
       "quote": "KRW"
     },
-    "baseId": "xlm",
-    "quoteId": "krw",
     "baseCurrency": "Stellar",
     "quoteCurrency": "South Korean Won"
   }

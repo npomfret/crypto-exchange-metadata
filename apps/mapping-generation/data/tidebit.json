@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "HKX"
     },
-    "baseId": "BCH",
-    "quoteId": "HKX",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "HKX"
   },
@@ -18,8 +16,6 @@
       "base": "BTC",
       "quote": "HKD"
     },
-    "baseId": "BTC",
-    "quoteId": "HKD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -30,8 +26,6 @@
       "base": "BTC",
       "quote": "HKX"
     },
-    "baseId": "BTC",
-    "quoteId": "HKX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "HKX"
   },
@@ -42,8 +36,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "BTC",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "BTC",
       "quote": "USX"
     },
-    "baseId": "BTC",
-    "quoteId": "USX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "USX"
   },
@@ -66,8 +56,6 @@
       "base": "CBT",
       "quote": "ETH"
     },
-    "baseId": "CBT",
-    "quoteId": "ETH",
     "baseCurrency": "CommerceBlock",
     "quoteCurrency": "Ethereum"
   },
@@ -78,8 +66,6 @@
       "base": "CBT",
       "quote": "HKX"
     },
-    "baseId": "CBT",
-    "quoteId": "HKX",
     "baseCurrency": "CommerceBlock",
     "quoteCurrency": "HKX"
   },
@@ -90,8 +76,6 @@
       "base": "CBT",
       "quote": "USX"
     },
-    "baseId": "CBT",
-    "quoteId": "USX",
     "baseCurrency": "CommerceBlock",
     "quoteCurrency": "USX"
   },
@@ -102,8 +86,6 @@
       "base": "EOS",
       "quote": "HKD"
     },
-    "baseId": "EOS",
-    "quoteId": "HKD",
     "baseCurrency": "EOS",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -114,8 +96,6 @@
       "base": "EOS",
       "quote": "HKX"
     },
-    "baseId": "EOS",
-    "quoteId": "HKX",
     "baseCurrency": "EOS",
     "quoteCurrency": "HKX"
   },
@@ -126,8 +106,6 @@
       "base": "EOS",
       "quote": "USX"
     },
-    "baseId": "EOS",
-    "quoteId": "USX",
     "baseCurrency": "EOS",
     "quoteCurrency": "USX"
   },
@@ -138,8 +116,6 @@
       "base": "ETC",
       "quote": "HKX"
     },
-    "baseId": "ETC",
-    "quoteId": "HKX",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "HKX"
   },
@@ -150,8 +126,6 @@
       "base": "ETH",
       "quote": "HKD"
     },
-    "baseId": "ETH",
-    "quoteId": "HKD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -162,8 +136,6 @@
       "base": "ETH",
       "quote": "HKX"
     },
-    "baseId": "ETH",
-    "quoteId": "HKX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "HKX"
   },
@@ -174,8 +146,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "ETH",
-    "quoteId": "USD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -186,8 +156,6 @@
       "base": "ETH",
       "quote": "USX"
     },
-    "baseId": "ETH",
-    "quoteId": "USX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "USX"
   },
@@ -198,8 +166,6 @@
       "base": "HKX",
       "quote": "HKD"
     },
-    "baseId": "HKX",
-    "quoteId": "HKD",
     "baseCurrency": "HKX",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -210,8 +176,6 @@
       "base": "LIKE",
       "quote": "HKX"
     },
-    "baseId": "LIKE",
-    "quoteId": "HKX",
     "baseCurrency": "LikeCoin",
     "quoteCurrency": "HKX"
   },
@@ -222,8 +186,6 @@
       "base": "LTC",
       "quote": "HKX"
     },
-    "baseId": "LTC",
-    "quoteId": "HKX",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "HKX"
   },
@@ -234,8 +196,6 @@
       "base": "NEO",
       "quote": "HKD"
     },
-    "baseId": "NEO",
-    "quoteId": "HKD",
     "baseCurrency": "NEO",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -246,8 +206,6 @@
       "base": "USX",
       "quote": "HKX"
     },
-    "baseId": "USX",
-    "quoteId": "HKX",
     "baseCurrency": "USX",
     "quoteCurrency": "HKX"
   },
@@ -258,8 +216,6 @@
       "base": "USX",
       "quote": "USD"
     },
-    "baseId": "USX",
-    "quoteId": "USD",
     "baseCurrency": "USX",
     "quoteCurrency": "US Dollar"
   },
@@ -270,8 +226,6 @@
       "base": "XPA",
       "quote": "ETH"
     },
-    "baseId": "XPA",
-    "quoteId": "ETH",
     "baseCurrency": "XPA",
     "quoteCurrency": "Ethereum"
   },
@@ -282,8 +236,6 @@
       "base": "XPA",
       "quote": "HKX"
     },
-    "baseId": "XPA",
-    "quoteId": "HKX",
     "baseCurrency": "XPA",
     "quoteCurrency": "HKX"
   },
@@ -294,8 +246,6 @@
       "base": "XPA",
       "quote": "USX"
     },
-    "baseId": "XPA",
-    "quoteId": "USX",
     "baseCurrency": "XPA",
     "quoteCurrency": "USX"
   }

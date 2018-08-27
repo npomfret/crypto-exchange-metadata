@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "AUD"
     },
-    "baseId": "Bch",
-    "quoteId": "Aud",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Australian Dollar"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "NZD"
     },
-    "baseId": "Bch",
-    "quoteId": "Nzd",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -30,8 +26,6 @@
       "base": "BCH",
       "quote": "USD"
     },
-    "baseId": "Bch",
-    "quoteId": "Usd",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "US Dollar"
   },
@@ -42,8 +36,6 @@
       "base": "ETH",
       "quote": "AUD"
     },
-    "baseId": "Eth",
-    "quoteId": "Aud",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Australian Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "ETH",
       "quote": "NZD"
     },
-    "baseId": "Eth",
-    "quoteId": "Nzd",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -66,8 +56,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "Eth",
-    "quoteId": "Usd",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -78,8 +66,6 @@
       "base": "LTC",
       "quote": "AUD"
     },
-    "baseId": "Ltc",
-    "quoteId": "Aud",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -90,8 +76,6 @@
       "base": "LTC",
       "quote": "NZD"
     },
-    "baseId": "Ltc",
-    "quoteId": "Nzd",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -102,8 +86,6 @@
       "base": "LTC",
       "quote": "USD"
     },
-    "baseId": "Ltc",
-    "quoteId": "Usd",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "US Dollar"
   },
@@ -114,8 +96,6 @@
       "base": "BTC",
       "quote": "AUD"
     },
-    "baseId": "Xbt",
-    "quoteId": "Aud",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -126,8 +106,6 @@
       "base": "BTC",
       "quote": "NZD"
     },
-    "baseId": "Xbt",
-    "quoteId": "Nzd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -138,8 +116,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "Xbt",
-    "quoteId": "Usd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -150,8 +126,6 @@
       "base": "XRP",
       "quote": "AUD"
     },
-    "baseId": "Xrp",
-    "quoteId": "Aud",
     "baseCurrency": "XRP",
     "quoteCurrency": "Australian Dollar"
   },
@@ -162,8 +136,6 @@
       "base": "XRP",
       "quote": "NZD"
     },
-    "baseId": "Xrp",
-    "quoteId": "Nzd",
     "baseCurrency": "XRP",
     "quoteCurrency": "New Zealand Dollar"
   },
@@ -174,8 +146,6 @@
       "base": "XRP",
       "quote": "USD"
     },
-    "baseId": "Xrp",
-    "quoteId": "Usd",
     "baseCurrency": "XRP",
     "quoteCurrency": "US Dollar"
   }

@@ -6,8 +6,6 @@
       "base": "ADA",
       "quote": "BTC"
     },
-    "baseId": "ADA",
-    "quoteId": "XBT",
     "baseCurrency": "Cardano",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "ADA",
       "quote": "BTC"
     },
-    "baseId": "ADA",
-    "quoteId": "XBT",
     "baseCurrency": "Cardano",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "BCH",
-    "quoteId": "XBT",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "BCH",
-    "quoteId": "XBT",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -54,8 +46,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "ETH",
-    "quoteId": "USD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -66,8 +56,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "ETH",
-    "quoteId": "USD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -78,8 +66,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -90,8 +76,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -102,8 +86,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -114,8 +96,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -126,8 +106,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -138,8 +116,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "XBT",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -150,8 +126,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "XBT",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -162,8 +136,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "EOS",
-    "quoteId": "XBT",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -174,8 +146,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "EOS",
-    "quoteId": "XBT",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -186,8 +156,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -198,8 +166,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -210,8 +176,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -222,8 +186,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -234,8 +196,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -246,8 +206,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -258,8 +216,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "XBT",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -270,8 +226,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "XBT",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -282,8 +236,6 @@
       "base": "ETH",
       "quote": "XXX"
     },
-    "baseId": "ETH",
-    "quoteId": "XXX",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "AdultChain"
   },
@@ -294,8 +246,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "XBT",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -306,8 +256,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "XBT",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -318,8 +266,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "TRX",
-    "quoteId": "XBT",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -330,8 +276,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "TRX",
-    "quoteId": "XBT",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -342,8 +286,6 @@
       "base": "USD",
       "quote": "XXX"
     },
-    "baseId": "USD",
-    "quoteId": "XXX",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "AdultChain"
   },
@@ -354,8 +296,6 @@
       "base": "USD",
       "quote": "XXX"
     },
-    "baseId": "USD",
-    "quoteId": "XXX",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "AdultChain"
   },
@@ -366,8 +306,6 @@
       "base": "USD",
       "quote": "XXX"
     },
-    "baseId": "USD",
-    "quoteId": "XXX",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "AdultChain"
   },
@@ -378,8 +316,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -390,8 +326,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -402,8 +336,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -414,8 +346,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -426,8 +356,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -438,8 +366,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "XBT",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -450,8 +376,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "XBT",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -462,8 +386,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -474,8 +396,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -486,8 +406,6 @@
       "base": "BTC",
       "quote": "XXX"
     },
-    "baseId": "XBT",
-    "quoteId": "XXX",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "AdultChain"
   },
@@ -498,8 +416,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "XRP",
-    "quoteId": "XBT",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   },
@@ -510,8 +426,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "XRP",
-    "quoteId": "XBT",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   },
@@ -522,8 +436,6 @@
       "base": "ADA",
       "quote": "BTC"
     },
-    "baseId": "ADA",
-    "quoteId": "XBT",
     "baseCurrency": "Cardano",
     "quoteCurrency": "Bitcoin"
   },
@@ -534,8 +446,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "BCH",
-    "quoteId": "XBT",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -546,8 +456,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "EOS",
-    "quoteId": "XBT",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -558,8 +466,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "XBT",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -570,8 +476,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "ETH",
-    "quoteId": "USD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -582,8 +486,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "XBT",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -594,8 +496,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "TRX",
-    "quoteId": "XBT",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -606,8 +506,6 @@
       "base": "BTC",
       "quote": "BTC"
     },
-    "baseId": "XBT",
-    "quoteId": "XBT",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -618,8 +516,6 @@
       "base": "BTC",
       "quote": "BTC"
     },
-    "baseId": "XBT",
-    "quoteId": "XBT",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -630,8 +526,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -642,8 +536,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -654,8 +546,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "XBT",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -666,8 +556,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "XRP",
-    "quoteId": "XBT",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   }

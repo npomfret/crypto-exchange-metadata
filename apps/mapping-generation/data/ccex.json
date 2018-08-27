@@ -6,8 +6,6 @@
       "base": "ADCN",
       "quote": "BTC"
     },
-    "baseId": "adcn",
-    "quoteId": "btc",
     "baseCurrency": "Asiadigicoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "ADCN",
       "quote": "DOGE"
     },
-    "baseId": "adcn",
-    "quoteId": "doge",
     "baseCurrency": "Asiadigicoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -30,8 +26,6 @@
       "base": "ADCN",
       "quote": "LTC"
     },
-    "baseId": "adcn",
-    "quoteId": "ltc",
     "baseCurrency": "Asiadigicoin",
     "quoteCurrency": "Litecoin"
   },
@@ -42,8 +36,6 @@
       "base": "ADCN",
       "quote": "USD"
     },
-    "baseId": "adcn",
-    "quoteId": "usd",
     "baseCurrency": "Asiadigicoin",
     "quoteCurrency": "US Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "ADL",
       "quote": "BTC"
     },
-    "baseId": "adl",
-    "quoteId": "btc",
     "baseCurrency": "ADL",
     "quoteCurrency": "Bitcoin"
   },
@@ -66,8 +56,6 @@
       "base": "ADL",
       "quote": "DOGE"
     },
-    "baseId": "adl",
-    "quoteId": "doge",
     "baseCurrency": "ADL",
     "quoteCurrency": "Dogecoin"
   },
@@ -78,8 +66,6 @@
       "base": "ADL",
       "quote": "LTC"
     },
-    "baseId": "adl",
-    "quoteId": "ltc",
     "baseCurrency": "ADL",
     "quoteCurrency": "Litecoin"
   },
@@ -90,8 +76,6 @@
       "base": "ADL",
       "quote": "USD"
     },
-    "baseId": "adl",
-    "quoteId": "usd",
     "baseCurrency": "ADL",
     "quoteCurrency": "US Dollar"
   },
@@ -102,8 +86,6 @@
       "base": "ALT",
       "quote": "BTC"
     },
-    "baseId": "alt",
-    "quoteId": "btc",
     "baseCurrency": "Altcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "ALT",
       "quote": "DOGE"
     },
-    "baseId": "alt",
-    "quoteId": "doge",
     "baseCurrency": "Altcoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -126,8 +106,6 @@
       "base": "ALT",
       "quote": "LTC"
     },
-    "baseId": "alt",
-    "quoteId": "ltc",
     "baseCurrency": "Altcoin",
     "quoteCurrency": "Litecoin"
   },
@@ -138,8 +116,6 @@
       "base": "ALT",
       "quote": "USD"
     },
-    "baseId": "alt",
-    "quoteId": "usd",
     "baseCurrency": "Altcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -150,8 +126,6 @@
       "base": "APC",
       "quote": "BTC"
     },
-    "baseId": "apc",
-    "quoteId": "btc",
     "baseCurrency": "APC",
     "quoteCurrency": "Bitcoin"
   },
@@ -162,8 +136,6 @@
       "base": "APC",
       "quote": "DOGE"
     },
-    "baseId": "apc",
-    "quoteId": "doge",
     "baseCurrency": "APC",
     "quoteCurrency": "Dogecoin"
   },
@@ -174,8 +146,6 @@
       "base": "APC",
       "quote": "LTC"
     },
-    "baseId": "apc",
-    "quoteId": "ltc",
     "baseCurrency": "APC",
     "quoteCurrency": "Litecoin"
   },
@@ -186,8 +156,6 @@
       "base": "APC",
       "quote": "USD"
     },
-    "baseId": "apc",
-    "quoteId": "usd",
     "baseCurrency": "APC",
     "quoteCurrency": "US Dollar"
   },
@@ -198,8 +166,6 @@
       "base": "BBP",
       "quote": "BTC"
     },
-    "baseId": "bbp",
-    "quoteId": "btc",
     "baseCurrency": "BiblePay",
     "quoteCurrency": "Bitcoin"
   },
@@ -210,8 +176,6 @@
       "base": "BBP",
       "quote": "DOGE"
     },
-    "baseId": "bbp",
-    "quoteId": "doge",
     "baseCurrency": "BiblePay",
     "quoteCurrency": "Dogecoin"
   },
@@ -222,8 +186,6 @@
       "base": "BBP",
       "quote": "LTC"
     },
-    "baseId": "bbp",
-    "quoteId": "ltc",
     "baseCurrency": "BiblePay",
     "quoteCurrency": "Litecoin"
   },
@@ -234,8 +196,6 @@
       "base": "BBP",
       "quote": "USD"
     },
-    "baseId": "bbp",
-    "quoteId": "usd",
     "baseCurrency": "BiblePay",
     "quoteCurrency": "US Dollar"
   },
@@ -246,8 +206,6 @@
       "base": "BCD",
       "quote": "BTC"
     },
-    "baseId": "bcd",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "Bitcoin"
   },
@@ -258,8 +216,6 @@
       "base": "BCD",
       "quote": "DOGE"
     },
-    "baseId": "bcd",
-    "quoteId": "doge",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "Dogecoin"
   },
@@ -270,8 +226,6 @@
       "base": "BCD",
       "quote": "LTC"
     },
-    "baseId": "bcd",
-    "quoteId": "ltc",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "Litecoin"
   },
@@ -282,8 +236,6 @@
       "base": "BCD",
       "quote": "USD"
     },
-    "baseId": "bcd",
-    "quoteId": "usd",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "US Dollar"
   },
@@ -294,8 +246,6 @@
       "base": "BEE",
       "quote": "BTC"
     },
-    "baseId": "bee",
-    "quoteId": "btc",
     "baseCurrency": "Bee Token",
     "quoteCurrency": "Bitcoin"
   },
@@ -306,8 +256,6 @@
       "base": "BEE",
       "quote": "DOGE"
     },
-    "baseId": "bee",
-    "quoteId": "doge",
     "baseCurrency": "Bee Token",
     "quoteCurrency": "Dogecoin"
   },
@@ -318,8 +266,6 @@
       "base": "BEE",
       "quote": "LTC"
     },
-    "baseId": "bee",
-    "quoteId": "ltc",
     "baseCurrency": "Bee Token",
     "quoteCurrency": "Litecoin"
   },
@@ -330,8 +276,6 @@
       "base": "BEE",
       "quote": "USD"
     },
-    "baseId": "bee",
-    "quoteId": "usd",
     "baseCurrency": "Bee Token",
     "quoteCurrency": "US Dollar"
   },
@@ -342,8 +286,6 @@
       "base": "BITCF",
       "quote": "BTC"
     },
-    "baseId": "bitcf",
-    "quoteId": "btc",
     "baseCurrency": "First Bitcoin Capital",
     "quoteCurrency": "Bitcoin"
   },
@@ -354,8 +296,6 @@
       "base": "BITCF",
       "quote": "DOGE"
     },
-    "baseId": "bitcf",
-    "quoteId": "doge",
     "baseCurrency": "First Bitcoin Capital",
     "quoteCurrency": "Dogecoin"
   },
@@ -366,8 +306,6 @@
       "base": "BITCF",
       "quote": "LTC"
     },
-    "baseId": "bitcf",
-    "quoteId": "ltc",
     "baseCurrency": "First Bitcoin Capital",
     "quoteCurrency": "Litecoin"
   },
@@ -378,8 +316,6 @@
       "base": "BITCF",
       "quote": "USD"
     },
-    "baseId": "bitcf",
-    "quoteId": "usd",
     "baseCurrency": "First Bitcoin Capital",
     "quoteCurrency": "US Dollar"
   },
@@ -390,8 +326,6 @@
       "base": "BIZ",
       "quote": "BTC"
     },
-    "baseId": "biz",
-    "quoteId": "btc",
     "baseCurrency": "BIZ",
     "quoteCurrency": "Bitcoin"
   },
@@ -402,8 +336,6 @@
       "base": "BIZ",
       "quote": "DOGE"
     },
-    "baseId": "biz",
-    "quoteId": "doge",
     "baseCurrency": "BIZ",
     "quoteCurrency": "Dogecoin"
   },
@@ -414,8 +346,6 @@
       "base": "BIZ",
       "quote": "LTC"
     },
-    "baseId": "biz",
-    "quoteId": "ltc",
     "baseCurrency": "BIZ",
     "quoteCurrency": "Litecoin"
   },
@@ -426,8 +356,6 @@
       "base": "BIZ",
       "quote": "USD"
     },
-    "baseId": "biz",
-    "quoteId": "usd",
     "baseCurrency": "BIZ",
     "quoteCurrency": "US Dollar"
   },
@@ -438,8 +366,6 @@
       "base": "BON",
       "quote": "BTC"
     },
-    "baseId": "bon",
-    "quoteId": "btc",
     "baseCurrency": "Bonpay",
     "quoteCurrency": "Bitcoin"
   },
@@ -450,8 +376,6 @@
       "base": "BON",
       "quote": "DOGE"
     },
-    "baseId": "bon",
-    "quoteId": "doge",
     "baseCurrency": "Bonpay",
     "quoteCurrency": "Dogecoin"
   },
@@ -462,8 +386,6 @@
       "base": "BON",
       "quote": "LTC"
     },
-    "baseId": "bon",
-    "quoteId": "ltc",
     "baseCurrency": "Bonpay",
     "quoteCurrency": "Litecoin"
   },
@@ -474,8 +396,6 @@
       "base": "BON",
       "quote": "USD"
     },
-    "baseId": "bon",
-    "quoteId": "usd",
     "baseCurrency": "Bonpay",
     "quoteCurrency": "US Dollar"
   },
@@ -486,8 +406,6 @@
       "base": "BQ",
       "quote": "BTC"
     },
-    "baseId": "bq",
-    "quoteId": "btc",
     "baseCurrency": "bitqy",
     "quoteCurrency": "Bitcoin"
   },
@@ -498,8 +416,6 @@
       "base": "BQ",
       "quote": "DOGE"
     },
-    "baseId": "bq",
-    "quoteId": "doge",
     "baseCurrency": "bitqy",
     "quoteCurrency": "Dogecoin"
   },
@@ -510,8 +426,6 @@
       "base": "BQ",
       "quote": "LTC"
     },
-    "baseId": "bq",
-    "quoteId": "ltc",
     "baseCurrency": "bitqy",
     "quoteCurrency": "Litecoin"
   },
@@ -522,8 +436,6 @@
       "base": "BQ",
       "quote": "USD"
     },
-    "baseId": "bq",
-    "quoteId": "usd",
     "baseCurrency": "bitqy",
     "quoteCurrency": "US Dollar"
   },
@@ -534,8 +446,6 @@
       "base": "BTB",
       "quote": "BTC"
     },
-    "baseId": "btb",
-    "quoteId": "btc",
     "baseCurrency": "BitBar",
     "quoteCurrency": "Bitcoin"
   },
@@ -546,8 +456,6 @@
       "base": "BTB",
       "quote": "DOGE"
     },
-    "baseId": "btb",
-    "quoteId": "doge",
     "baseCurrency": "BitBar",
     "quoteCurrency": "Dogecoin"
   },
@@ -558,8 +466,6 @@
       "base": "BTB",
       "quote": "LTC"
     },
-    "baseId": "btb",
-    "quoteId": "ltc",
     "baseCurrency": "BitBar",
     "quoteCurrency": "Litecoin"
   },
@@ -570,8 +476,6 @@
       "base": "BTB",
       "quote": "USD"
     },
-    "baseId": "btb",
-    "quoteId": "usd",
     "baseCurrency": "BitBar",
     "quoteCurrency": "US Dollar"
   },
@@ -582,8 +486,6 @@
       "base": "BTC",
       "quote": "DOGE"
     },
-    "baseId": "btc",
-    "quoteId": "doge",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -594,8 +496,6 @@
       "base": "BTC",
       "quote": "LTC"
     },
-    "baseId": "btc",
-    "quoteId": "ltc",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Litecoin"
   },
@@ -606,8 +506,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "btc",
-    "quoteId": "usd",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -618,8 +516,6 @@
       "base": "BTCHC",
       "quote": "BTC"
     },
-    "baseId": "btchc",
-    "quoteId": "btc",
     "baseCurrency": "BTCHC",
     "quoteCurrency": "Bitcoin"
   },
@@ -630,8 +526,6 @@
       "base": "BTCHC",
       "quote": "DOGE"
     },
-    "baseId": "btchc",
-    "quoteId": "doge",
     "baseCurrency": "BTCHC",
     "quoteCurrency": "Dogecoin"
   },
@@ -642,8 +536,6 @@
       "base": "BTCHC",
       "quote": "LTC"
     },
-    "baseId": "btchc",
-    "quoteId": "ltc",
     "baseCurrency": "BTCHC",
     "quoteCurrency": "Litecoin"
   },
@@ -654,8 +546,6 @@
       "base": "BTCHC",
       "quote": "USD"
     },
-    "baseId": "btchc",
-    "quoteId": "usd",
     "baseCurrency": "BTCHC",
     "quoteCurrency": "US Dollar"
   },
@@ -666,8 +556,6 @@
       "base": "BTCS",
       "quote": "BTC"
     },
-    "baseId": "btcs",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Scrypt",
     "quoteCurrency": "Bitcoin"
   },
@@ -678,8 +566,6 @@
       "base": "BTCS",
       "quote": "DOGE"
     },
-    "baseId": "btcs",
-    "quoteId": "doge",
     "baseCurrency": "Bitcoin Scrypt",
     "quoteCurrency": "Dogecoin"
   },
@@ -690,8 +576,6 @@
       "base": "BTCS",
       "quote": "LTC"
     },
-    "baseId": "btcs",
-    "quoteId": "ltc",
     "baseCurrency": "Bitcoin Scrypt",
     "quoteCurrency": "Litecoin"
   },
@@ -702,57 +586,7 @@
       "base": "BTCS",
       "quote": "USD"
     },
-    "baseId": "btcs",
-    "quoteId": "usd",
     "baseCurrency": "Bitcoin Scrypt",
-    "quoteCurrency": "US Dollar"
-  },
-  {
-    "id": "btcz-btc",
-    "ccxt": {
-      "symbol": "BTCZ/BTC",
-      "base": "BTCZ",
-      "quote": "BTC"
-    },
-    "baseId": "btcz",
-    "quoteId": "btc",
-    "baseCurrency": "BitcoinZ",
-    "quoteCurrency": "Bitcoin"
-  },
-  {
-    "id": "btcz-doge",
-    "ccxt": {
-      "symbol": "BTCZ/DOGE",
-      "base": "BTCZ",
-      "quote": "DOGE"
-    },
-    "baseId": "btcz",
-    "quoteId": "doge",
-    "baseCurrency": "BitcoinZ",
-    "quoteCurrency": "Dogecoin"
-  },
-  {
-    "id": "btcz-ltc",
-    "ccxt": {
-      "symbol": "BTCZ/LTC",
-      "base": "BTCZ",
-      "quote": "LTC"
-    },
-    "baseId": "btcz",
-    "quoteId": "ltc",
-    "baseCurrency": "BitcoinZ",
-    "quoteCurrency": "Litecoin"
-  },
-  {
-    "id": "btcz-usd",
-    "ccxt": {
-      "symbol": "BTCZ/USD",
-      "base": "BTCZ",
-      "quote": "USD"
-    },
-    "baseId": "btcz",
-    "quoteId": "usd",
-    "baseCurrency": "BitcoinZ",
     "quoteCurrency": "US Dollar"
   },
   {
@@ -762,8 +596,6 @@
       "base": "BTQ",
       "quote": "BTC"
     },
-    "baseId": "btq",
-    "quoteId": "btc",
     "baseCurrency": "BitQuark",
     "quoteCurrency": "Bitcoin"
   },
@@ -774,8 +606,6 @@
       "base": "BTQ",
       "quote": "DOGE"
     },
-    "baseId": "btq",
-    "quoteId": "doge",
     "baseCurrency": "BitQuark",
     "quoteCurrency": "Dogecoin"
   },
@@ -786,8 +616,6 @@
       "base": "BTQ",
       "quote": "LTC"
     },
-    "baseId": "btq",
-    "quoteId": "ltc",
     "baseCurrency": "BitQuark",
     "quoteCurrency": "Litecoin"
   },
@@ -798,8 +626,6 @@
       "base": "BTQ",
       "quote": "USD"
     },
-    "baseId": "btq",
-    "quoteId": "usd",
     "baseCurrency": "BitQuark",
     "quoteCurrency": "US Dollar"
   },
@@ -810,8 +636,6 @@
       "base": "BURST",
       "quote": "BTC"
     },
-    "baseId": "burst",
-    "quoteId": "btc",
     "baseCurrency": "Burst",
     "quoteCurrency": "Bitcoin"
   },
@@ -822,8 +646,6 @@
       "base": "BURST",
       "quote": "DOGE"
     },
-    "baseId": "burst",
-    "quoteId": "doge",
     "baseCurrency": "Burst",
     "quoteCurrency": "Dogecoin"
   },
@@ -834,8 +656,6 @@
       "base": "BURST",
       "quote": "LTC"
     },
-    "baseId": "burst",
-    "quoteId": "ltc",
     "baseCurrency": "Burst",
     "quoteCurrency": "Litecoin"
   },
@@ -846,8 +666,6 @@
       "base": "BURST",
       "quote": "USD"
     },
-    "baseId": "burst",
-    "quoteId": "usd",
     "baseCurrency": "Burst",
     "quoteCurrency": "US Dollar"
   },
@@ -858,8 +676,6 @@
       "base": "CCRB",
       "quote": "BTC"
     },
-    "baseId": "ccrb",
-    "quoteId": "btc",
     "baseCurrency": "CryptoCarbon",
     "quoteCurrency": "Bitcoin"
   },
@@ -870,8 +686,6 @@
       "base": "CCRB",
       "quote": "DOGE"
     },
-    "baseId": "ccrb",
-    "quoteId": "doge",
     "baseCurrency": "CryptoCarbon",
     "quoteCurrency": "Dogecoin"
   },
@@ -882,8 +696,6 @@
       "base": "CCRB",
       "quote": "LTC"
     },
-    "baseId": "ccrb",
-    "quoteId": "ltc",
     "baseCurrency": "CryptoCarbon",
     "quoteCurrency": "Litecoin"
   },
@@ -894,8 +706,6 @@
       "base": "CCRB",
       "quote": "USD"
     },
-    "baseId": "ccrb",
-    "quoteId": "usd",
     "baseCurrency": "CryptoCarbon",
     "quoteCurrency": "US Dollar"
   },
@@ -906,8 +716,6 @@
       "base": "COS",
       "quote": "BTC"
     },
-    "baseId": "cos",
-    "quoteId": "btc",
     "baseCurrency": "COS",
     "quoteCurrency": "Bitcoin"
   },
@@ -918,8 +726,6 @@
       "base": "COS",
       "quote": "DOGE"
     },
-    "baseId": "cos",
-    "quoteId": "doge",
     "baseCurrency": "COS",
     "quoteCurrency": "Dogecoin"
   },
@@ -930,8 +736,6 @@
       "base": "COS",
       "quote": "LTC"
     },
-    "baseId": "cos",
-    "quoteId": "ltc",
     "baseCurrency": "COS",
     "quoteCurrency": "Litecoin"
   },
@@ -942,8 +746,6 @@
       "base": "COS",
       "quote": "USD"
     },
-    "baseId": "cos",
-    "quoteId": "usd",
     "baseCurrency": "COS",
     "quoteCurrency": "US Dollar"
   },
@@ -954,8 +756,6 @@
       "base": "CRW",
       "quote": "BTC"
     },
-    "baseId": "crw",
-    "quoteId": "btc",
     "baseCurrency": "Crown",
     "quoteCurrency": "Bitcoin"
   },
@@ -966,8 +766,6 @@
       "base": "CRW",
       "quote": "DOGE"
     },
-    "baseId": "crw",
-    "quoteId": "doge",
     "baseCurrency": "Crown",
     "quoteCurrency": "Dogecoin"
   },
@@ -978,8 +776,6 @@
       "base": "CRW",
       "quote": "LTC"
     },
-    "baseId": "crw",
-    "quoteId": "ltc",
     "baseCurrency": "Crown",
     "quoteCurrency": "Litecoin"
   },
@@ -990,8 +786,6 @@
       "base": "CRW",
       "quote": "USD"
     },
-    "baseId": "crw",
-    "quoteId": "usd",
     "baseCurrency": "Crown",
     "quoteCurrency": "US Dollar"
   },
@@ -1002,8 +796,6 @@
       "base": "DASH",
       "quote": "BTC"
     },
-    "baseId": "dash",
-    "quoteId": "btc",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin"
   },
@@ -1014,8 +806,6 @@
       "base": "DASH",
       "quote": "DOGE"
     },
-    "baseId": "dash",
-    "quoteId": "doge",
     "baseCurrency": "Dash",
     "quoteCurrency": "Dogecoin"
   },
@@ -1026,8 +816,6 @@
       "base": "DASH",
       "quote": "LTC"
     },
-    "baseId": "dash",
-    "quoteId": "ltc",
     "baseCurrency": "Dash",
     "quoteCurrency": "Litecoin"
   },
@@ -1038,8 +826,6 @@
       "base": "DASH",
       "quote": "USD"
     },
-    "baseId": "dash",
-    "quoteId": "usd",
     "baseCurrency": "Dash",
     "quoteCurrency": "US Dollar"
   },
@@ -1050,8 +836,6 @@
       "base": "DEEP",
       "quote": "BTC"
     },
-    "baseId": "deep",
-    "quoteId": "btc",
     "baseCurrency": "DEEP",
     "quoteCurrency": "Bitcoin"
   },
@@ -1062,8 +846,6 @@
       "base": "DEEP",
       "quote": "DOGE"
     },
-    "baseId": "deep",
-    "quoteId": "doge",
     "baseCurrency": "DEEP",
     "quoteCurrency": "Dogecoin"
   },
@@ -1074,8 +856,6 @@
       "base": "DEEP",
       "quote": "LTC"
     },
-    "baseId": "deep",
-    "quoteId": "ltc",
     "baseCurrency": "DEEP",
     "quoteCurrency": "Litecoin"
   },
@@ -1086,8 +866,6 @@
       "base": "DEEP",
       "quote": "USD"
     },
-    "baseId": "deep",
-    "quoteId": "usd",
     "baseCurrency": "DEEP",
     "quoteCurrency": "US Dollar"
   },
@@ -1098,8 +876,6 @@
       "base": "DEUS",
       "quote": "BTC"
     },
-    "baseId": "deus",
-    "quoteId": "btc",
     "baseCurrency": "DeusCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1110,8 +886,6 @@
       "base": "DEUS",
       "quote": "DOGE"
     },
-    "baseId": "deus",
-    "quoteId": "doge",
     "baseCurrency": "DeusCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -1122,8 +896,6 @@
       "base": "DEUS",
       "quote": "LTC"
     },
-    "baseId": "deus",
-    "quoteId": "ltc",
     "baseCurrency": "DeusCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -1134,8 +906,6 @@
       "base": "DEUS",
       "quote": "USD"
     },
-    "baseId": "deus",
-    "quoteId": "usd",
     "baseCurrency": "DeusCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -1146,8 +916,6 @@
       "base": "DKD",
       "quote": "BTC"
     },
-    "baseId": "dkd",
-    "quoteId": "btc",
     "baseCurrency": "DKD",
     "quoteCurrency": "Bitcoin"
   },
@@ -1158,8 +926,6 @@
       "base": "DKD",
       "quote": "DOGE"
     },
-    "baseId": "dkd",
-    "quoteId": "doge",
     "baseCurrency": "DKD",
     "quoteCurrency": "Dogecoin"
   },
@@ -1170,8 +936,6 @@
       "base": "DKD",
       "quote": "LTC"
     },
-    "baseId": "dkd",
-    "quoteId": "ltc",
     "baseCurrency": "DKD",
     "quoteCurrency": "Litecoin"
   },
@@ -1182,8 +946,6 @@
       "base": "DKD",
       "quote": "USD"
     },
-    "baseId": "dkd",
-    "quoteId": "usd",
     "baseCurrency": "DKD",
     "quoteCurrency": "US Dollar"
   },
@@ -1194,8 +956,6 @@
       "base": "DOGE",
       "quote": "BTC"
     },
-    "baseId": "doge",
-    "quoteId": "btc",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1206,8 +966,6 @@
       "base": "DOGE",
       "quote": "LTC"
     },
-    "baseId": "doge",
-    "quoteId": "ltc",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Litecoin"
   },
@@ -1218,8 +976,6 @@
       "base": "DOGE",
       "quote": "USD"
     },
-    "baseId": "doge",
-    "quoteId": "usd",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "US Dollar"
   },
@@ -1230,8 +986,6 @@
       "base": "EBH",
       "quote": "BTC"
     },
-    "baseId": "ebh",
-    "quoteId": "btc",
     "baseCurrency": "EBH",
     "quoteCurrency": "Bitcoin"
   },
@@ -1242,8 +996,6 @@
       "base": "EBH",
       "quote": "DOGE"
     },
-    "baseId": "ebh",
-    "quoteId": "doge",
     "baseCurrency": "EBH",
     "quoteCurrency": "Dogecoin"
   },
@@ -1254,8 +1006,6 @@
       "base": "EBH",
       "quote": "LTC"
     },
-    "baseId": "ebh",
-    "quoteId": "ltc",
     "baseCurrency": "EBH",
     "quoteCurrency": "Litecoin"
   },
@@ -1266,8 +1016,6 @@
       "base": "EBH",
       "quote": "USD"
     },
-    "baseId": "ebh",
-    "quoteId": "usd",
     "baseCurrency": "EBH",
     "quoteCurrency": "US Dollar"
   },
@@ -1278,8 +1026,6 @@
       "base": "EBST",
       "quote": "BTC"
     },
-    "baseId": "ebst",
-    "quoteId": "btc",
     "baseCurrency": "eBoost",
     "quoteCurrency": "Bitcoin"
   },
@@ -1290,8 +1036,6 @@
       "base": "EBST",
       "quote": "DOGE"
     },
-    "baseId": "ebst",
-    "quoteId": "doge",
     "baseCurrency": "eBoost",
     "quoteCurrency": "Dogecoin"
   },
@@ -1302,8 +1046,6 @@
       "base": "EBST",
       "quote": "LTC"
     },
-    "baseId": "ebst",
-    "quoteId": "ltc",
     "baseCurrency": "eBoost",
     "quoteCurrency": "Litecoin"
   },
@@ -1314,8 +1056,6 @@
       "base": "EBST",
       "quote": "USD"
     },
-    "baseId": "ebst",
-    "quoteId": "usd",
     "baseCurrency": "eBoost",
     "quoteCurrency": "US Dollar"
   },
@@ -1326,8 +1066,6 @@
       "base": "ERT",
       "quote": "BTC"
     },
-    "baseId": "ert",
-    "quoteId": "btc",
     "baseCurrency": "ERT",
     "quoteCurrency": "Bitcoin"
   },
@@ -1338,8 +1076,6 @@
       "base": "ERT",
       "quote": "DOGE"
     },
-    "baseId": "ert",
-    "quoteId": "doge",
     "baseCurrency": "ERT",
     "quoteCurrency": "Dogecoin"
   },
@@ -1350,8 +1086,6 @@
       "base": "ERT",
       "quote": "LTC"
     },
-    "baseId": "ert",
-    "quoteId": "ltc",
     "baseCurrency": "ERT",
     "quoteCurrency": "Litecoin"
   },
@@ -1362,8 +1096,6 @@
       "base": "ERT",
       "quote": "USD"
     },
-    "baseId": "ert",
-    "quoteId": "usd",
     "baseCurrency": "ERT",
     "quoteCurrency": "US Dollar"
   },
@@ -1374,8 +1106,6 @@
       "base": "ESRC",
       "quote": "BTC"
     },
-    "baseId": "esrc",
-    "quoteId": "btc",
     "baseCurrency": "ESRC",
     "quoteCurrency": "Bitcoin"
   },
@@ -1386,8 +1116,6 @@
       "base": "ESRC",
       "quote": "DOGE"
     },
-    "baseId": "esrc",
-    "quoteId": "doge",
     "baseCurrency": "ESRC",
     "quoteCurrency": "Dogecoin"
   },
@@ -1398,8 +1126,6 @@
       "base": "ESRC",
       "quote": "LTC"
     },
-    "baseId": "esrc",
-    "quoteId": "ltc",
     "baseCurrency": "ESRC",
     "quoteCurrency": "Litecoin"
   },
@@ -1410,8 +1136,6 @@
       "base": "ESRC",
       "quote": "USD"
     },
-    "baseId": "esrc",
-    "quoteId": "usd",
     "baseCurrency": "ESRC",
     "quoteCurrency": "US Dollar"
   },
@@ -1422,8 +1146,6 @@
       "base": "ETC",
       "quote": "BTC"
     },
-    "baseId": "etc",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin"
   },
@@ -1434,8 +1156,6 @@
       "base": "ETC",
       "quote": "DOGE"
     },
-    "baseId": "etc",
-    "quoteId": "doge",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Dogecoin"
   },
@@ -1446,8 +1166,6 @@
       "base": "ETC",
       "quote": "LTC"
     },
-    "baseId": "etc",
-    "quoteId": "ltc",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Litecoin"
   },
@@ -1458,8 +1176,6 @@
       "base": "ETC",
       "quote": "USD"
     },
-    "baseId": "etc",
-    "quoteId": "usd",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "US Dollar"
   },
@@ -1470,8 +1186,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -1482,8 +1196,6 @@
       "base": "ETH",
       "quote": "DOGE"
     },
-    "baseId": "eth",
-    "quoteId": "doge",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Dogecoin"
   },
@@ -1494,8 +1206,6 @@
       "base": "ETH",
       "quote": "LTC"
     },
-    "baseId": "eth",
-    "quoteId": "ltc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Litecoin"
   },
@@ -1506,8 +1216,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "eth",
-    "quoteId": "usd",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -1518,8 +1226,6 @@
       "base": "ETHG",
       "quote": "BTC"
     },
-    "baseId": "ethg",
-    "quoteId": "btc",
     "baseCurrency": "ETHG",
     "quoteCurrency": "Bitcoin"
   },
@@ -1530,8 +1236,6 @@
       "base": "ETHG",
       "quote": "DOGE"
     },
-    "baseId": "ethg",
-    "quoteId": "doge",
     "baseCurrency": "ETHG",
     "quoteCurrency": "Dogecoin"
   },
@@ -1542,8 +1246,6 @@
       "base": "ETHG",
       "quote": "LTC"
     },
-    "baseId": "ethg",
-    "quoteId": "ltc",
     "baseCurrency": "ETHG",
     "quoteCurrency": "Litecoin"
   },
@@ -1554,8 +1256,6 @@
       "base": "ETHG",
       "quote": "USD"
     },
-    "baseId": "ethg",
-    "quoteId": "usd",
     "baseCurrency": "ETHG",
     "quoteCurrency": "US Dollar"
   },
@@ -1566,8 +1266,6 @@
       "base": "ETX",
       "quote": "BTC"
     },
-    "baseId": "etx",
-    "quoteId": "btc",
     "baseCurrency": "ETX",
     "quoteCurrency": "Bitcoin"
   },
@@ -1578,8 +1276,6 @@
       "base": "ETX",
       "quote": "DOGE"
     },
-    "baseId": "etx",
-    "quoteId": "doge",
     "baseCurrency": "ETX",
     "quoteCurrency": "Dogecoin"
   },
@@ -1590,8 +1286,6 @@
       "base": "ETX",
       "quote": "LTC"
     },
-    "baseId": "etx",
-    "quoteId": "ltc",
     "baseCurrency": "ETX",
     "quoteCurrency": "Litecoin"
   },
@@ -1602,8 +1296,6 @@
       "base": "ETX",
       "quote": "USD"
     },
-    "baseId": "etx",
-    "quoteId": "usd",
     "baseCurrency": "ETX",
     "quoteCurrency": "US Dollar"
   },
@@ -1614,8 +1306,6 @@
       "base": "EVR",
       "quote": "BTC"
     },
-    "baseId": "evr",
-    "quoteId": "btc",
     "baseCurrency": "Everus",
     "quoteCurrency": "Bitcoin"
   },
@@ -1626,8 +1316,6 @@
       "base": "EVR",
       "quote": "DOGE"
     },
-    "baseId": "evr",
-    "quoteId": "doge",
     "baseCurrency": "Everus",
     "quoteCurrency": "Dogecoin"
   },
@@ -1638,8 +1326,6 @@
       "base": "EVR",
       "quote": "LTC"
     },
-    "baseId": "evr",
-    "quoteId": "ltc",
     "baseCurrency": "Everus",
     "quoteCurrency": "Litecoin"
   },
@@ -1650,8 +1336,6 @@
       "base": "EVR",
       "quote": "USD"
     },
-    "baseId": "evr",
-    "quoteId": "usd",
     "baseCurrency": "Everus",
     "quoteCurrency": "US Dollar"
   },
@@ -1662,8 +1346,6 @@
       "base": "FORK",
       "quote": "BTC"
     },
-    "baseId": "fork",
-    "quoteId": "btc",
     "baseCurrency": "Forkcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1674,8 +1356,6 @@
       "base": "FORK",
       "quote": "DOGE"
     },
-    "baseId": "fork",
-    "quoteId": "doge",
     "baseCurrency": "Forkcoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -1686,8 +1366,6 @@
       "base": "FORK",
       "quote": "LTC"
     },
-    "baseId": "fork",
-    "quoteId": "ltc",
     "baseCurrency": "Forkcoin",
     "quoteCurrency": "Litecoin"
   },
@@ -1698,8 +1376,6 @@
       "base": "FORK",
       "quote": "USD"
     },
-    "baseId": "fork",
-    "quoteId": "usd",
     "baseCurrency": "Forkcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -1710,8 +1386,6 @@
       "base": "GARY",
       "quote": "BTC"
     },
-    "baseId": "gary",
-    "quoteId": "btc",
     "baseCurrency": "President Johnson",
     "quoteCurrency": "Bitcoin"
   },
@@ -1722,8 +1396,6 @@
       "base": "GARY",
       "quote": "DOGE"
     },
-    "baseId": "gary",
-    "quoteId": "doge",
     "baseCurrency": "President Johnson",
     "quoteCurrency": "Dogecoin"
   },
@@ -1734,8 +1406,6 @@
       "base": "GARY",
       "quote": "LTC"
     },
-    "baseId": "gary",
-    "quoteId": "ltc",
     "baseCurrency": "President Johnson",
     "quoteCurrency": "Litecoin"
   },
@@ -1746,8 +1416,6 @@
       "base": "GARY",
       "quote": "USD"
     },
-    "baseId": "gary",
-    "quoteId": "usd",
     "baseCurrency": "President Johnson",
     "quoteCurrency": "US Dollar"
   },
@@ -1758,8 +1426,6 @@
       "base": "GCC24",
       "quote": "BTC"
     },
-    "baseId": "gcc24",
-    "quoteId": "btc",
     "baseCurrency": "GCC24",
     "quoteCurrency": "Bitcoin"
   },
@@ -1770,8 +1436,6 @@
       "base": "GCC24",
       "quote": "DOGE"
     },
-    "baseId": "gcc24",
-    "quoteId": "doge",
     "baseCurrency": "GCC24",
     "quoteCurrency": "Dogecoin"
   },
@@ -1782,8 +1446,6 @@
       "base": "GCC24",
       "quote": "LTC"
     },
-    "baseId": "gcc24",
-    "quoteId": "ltc",
     "baseCurrency": "GCC24",
     "quoteCurrency": "Litecoin"
   },
@@ -1794,8 +1456,6 @@
       "base": "GCC24",
       "quote": "USD"
     },
-    "baseId": "gcc24",
-    "quoteId": "usd",
     "baseCurrency": "GCC24",
     "quoteCurrency": "US Dollar"
   },
@@ -1806,8 +1466,6 @@
       "base": "GLTC",
       "quote": "BTC"
     },
-    "baseId": "gltc",
-    "quoteId": "btc",
     "baseCurrency": "GLTC",
     "quoteCurrency": "Bitcoin"
   },
@@ -1818,8 +1476,6 @@
       "base": "GLTC",
       "quote": "DOGE"
     },
-    "baseId": "gltc",
-    "quoteId": "doge",
     "baseCurrency": "GLTC",
     "quoteCurrency": "Dogecoin"
   },
@@ -1830,8 +1486,6 @@
       "base": "GLTC",
       "quote": "LTC"
     },
-    "baseId": "gltc",
-    "quoteId": "ltc",
     "baseCurrency": "GLTC",
     "quoteCurrency": "Litecoin"
   },
@@ -1842,8 +1496,6 @@
       "base": "GLTC",
       "quote": "USD"
     },
-    "baseId": "gltc",
-    "quoteId": "usd",
     "baseCurrency": "GLTC",
     "quoteCurrency": "US Dollar"
   },
@@ -1854,8 +1506,6 @@
       "base": "GMX",
       "quote": "BTC"
     },
-    "baseId": "gmx",
-    "quoteId": "btc",
     "baseCurrency": "GoldMaxCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1866,8 +1516,6 @@
       "base": "GMX",
       "quote": "DOGE"
     },
-    "baseId": "gmx",
-    "quoteId": "doge",
     "baseCurrency": "GoldMaxCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -1878,8 +1526,6 @@
       "base": "GMX",
       "quote": "LTC"
     },
-    "baseId": "gmx",
-    "quoteId": "ltc",
     "baseCurrency": "GoldMaxCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -1890,8 +1536,6 @@
       "base": "GMX",
       "quote": "USD"
     },
-    "baseId": "gmx",
-    "quoteId": "usd",
     "baseCurrency": "GoldMaxCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -1902,8 +1546,6 @@
       "base": "GRC",
       "quote": "BTC"
     },
-    "baseId": "grc",
-    "quoteId": "btc",
     "baseCurrency": "GridCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1914,8 +1556,6 @@
       "base": "GRC",
       "quote": "DOGE"
     },
-    "baseId": "grc",
-    "quoteId": "doge",
     "baseCurrency": "GridCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -1926,8 +1566,6 @@
       "base": "GRC",
       "quote": "LTC"
     },
-    "baseId": "grc",
-    "quoteId": "ltc",
     "baseCurrency": "GridCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -1938,8 +1576,6 @@
       "base": "GRC",
       "quote": "USD"
     },
-    "baseId": "grc",
-    "quoteId": "usd",
     "baseCurrency": "GridCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -1950,8 +1586,6 @@
       "base": "GUC",
       "quote": "BTC"
     },
-    "baseId": "guc",
-    "quoteId": "btc",
     "baseCurrency": "GUC",
     "quoteCurrency": "Bitcoin"
   },
@@ -1962,8 +1596,6 @@
       "base": "GUC",
       "quote": "DOGE"
     },
-    "baseId": "guc",
-    "quoteId": "doge",
     "baseCurrency": "GUC",
     "quoteCurrency": "Dogecoin"
   },
@@ -1974,8 +1606,6 @@
       "base": "GUC",
       "quote": "LTC"
     },
-    "baseId": "guc",
-    "quoteId": "ltc",
     "baseCurrency": "GUC",
     "quoteCurrency": "Litecoin"
   },
@@ -1986,8 +1616,6 @@
       "base": "GUC",
       "quote": "USD"
     },
-    "baseId": "guc",
-    "quoteId": "usd",
     "baseCurrency": "GUC",
     "quoteCurrency": "US Dollar"
   },
@@ -1998,8 +1626,6 @@
       "base": "ILC",
       "quote": "BTC"
     },
-    "baseId": "ilc",
-    "quoteId": "btc",
     "baseCurrency": "ILC",
     "quoteCurrency": "Bitcoin"
   },
@@ -2010,8 +1636,6 @@
       "base": "ILC",
       "quote": "DOGE"
     },
-    "baseId": "ilc",
-    "quoteId": "doge",
     "baseCurrency": "ILC",
     "quoteCurrency": "Dogecoin"
   },
@@ -2022,8 +1646,6 @@
       "base": "ILC",
       "quote": "LTC"
     },
-    "baseId": "ilc",
-    "quoteId": "ltc",
     "baseCurrency": "ILC",
     "quoteCurrency": "Litecoin"
   },
@@ -2034,8 +1656,6 @@
       "base": "ILC",
       "quote": "USD"
     },
-    "baseId": "ilc",
-    "quoteId": "usd",
     "baseCurrency": "ILC",
     "quoteCurrency": "US Dollar"
   },
@@ -2046,8 +1666,6 @@
       "base": "JAVC",
       "quote": "BTC"
     },
-    "baseId": "javc",
-    "quoteId": "btc",
     "baseCurrency": "JAVC",
     "quoteCurrency": "Bitcoin"
   },
@@ -2058,8 +1676,6 @@
       "base": "JAVC",
       "quote": "DOGE"
     },
-    "baseId": "javc",
-    "quoteId": "doge",
     "baseCurrency": "JAVC",
     "quoteCurrency": "Dogecoin"
   },
@@ -2070,8 +1686,6 @@
       "base": "JAVC",
       "quote": "LTC"
     },
-    "baseId": "javc",
-    "quoteId": "ltc",
     "baseCurrency": "JAVC",
     "quoteCurrency": "Litecoin"
   },
@@ -2082,8 +1696,6 @@
       "base": "JAVC",
       "quote": "USD"
     },
-    "baseId": "javc",
-    "quoteId": "usd",
     "baseCurrency": "JAVC",
     "quoteCurrency": "US Dollar"
   },
@@ -2094,8 +1706,6 @@
       "base": "KPL",
       "quote": "BTC"
     },
-    "baseId": "kpl",
-    "quoteId": "btc",
     "baseCurrency": "KPL",
     "quoteCurrency": "Bitcoin"
   },
@@ -2106,8 +1716,6 @@
       "base": "KPL",
       "quote": "DOGE"
     },
-    "baseId": "kpl",
-    "quoteId": "doge",
     "baseCurrency": "KPL",
     "quoteCurrency": "Dogecoin"
   },
@@ -2118,8 +1726,6 @@
       "base": "KPL",
       "quote": "LTC"
     },
-    "baseId": "kpl",
-    "quoteId": "ltc",
     "baseCurrency": "KPL",
     "quoteCurrency": "Litecoin"
   },
@@ -2130,8 +1736,6 @@
       "base": "KPL",
       "quote": "USD"
     },
-    "baseId": "kpl",
-    "quoteId": "usd",
     "baseCurrency": "KPL",
     "quoteCurrency": "US Dollar"
   },
@@ -2142,8 +1746,6 @@
       "base": "LEO",
       "quote": "BTC"
     },
-    "baseId": "leo",
-    "quoteId": "btc",
     "baseCurrency": "LEOcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -2154,8 +1756,6 @@
       "base": "LEO",
       "quote": "DOGE"
     },
-    "baseId": "leo",
-    "quoteId": "doge",
     "baseCurrency": "LEOcoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -2166,8 +1766,6 @@
       "base": "LEO",
       "quote": "LTC"
     },
-    "baseId": "leo",
-    "quoteId": "ltc",
     "baseCurrency": "LEOcoin",
     "quoteCurrency": "Litecoin"
   },
@@ -2178,8 +1776,6 @@
       "base": "LEO",
       "quote": "USD"
     },
-    "baseId": "leo",
-    "quoteId": "usd",
     "baseCurrency": "LEOcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -2190,8 +1786,6 @@
       "base": "LINDA",
       "quote": "BTC"
     },
-    "baseId": "linda",
-    "quoteId": "btc",
     "baseCurrency": "Linda",
     "quoteCurrency": "Bitcoin"
   },
@@ -2202,8 +1796,6 @@
       "base": "LINDA",
       "quote": "DOGE"
     },
-    "baseId": "linda",
-    "quoteId": "doge",
     "baseCurrency": "Linda",
     "quoteCurrency": "Dogecoin"
   },
@@ -2214,8 +1806,6 @@
       "base": "LINDA",
       "quote": "LTC"
     },
-    "baseId": "linda",
-    "quoteId": "ltc",
     "baseCurrency": "Linda",
     "quoteCurrency": "Litecoin"
   },
@@ -2226,8 +1816,6 @@
       "base": "LINDA",
       "quote": "USD"
     },
-    "baseId": "linda",
-    "quoteId": "usd",
     "baseCurrency": "Linda",
     "quoteCurrency": "US Dollar"
   },
@@ -2238,8 +1826,6 @@
       "base": "LOYAL",
       "quote": "BTC"
     },
-    "baseId": "loyal",
-    "quoteId": "btc",
     "baseCurrency": "LOYAL",
     "quoteCurrency": "Bitcoin"
   },
@@ -2250,8 +1836,6 @@
       "base": "LOYAL",
       "quote": "DOGE"
     },
-    "baseId": "loyal",
-    "quoteId": "doge",
     "baseCurrency": "LOYAL",
     "quoteCurrency": "Dogecoin"
   },
@@ -2262,8 +1846,6 @@
       "base": "LOYAL",
       "quote": "LTC"
     },
-    "baseId": "loyal",
-    "quoteId": "ltc",
     "baseCurrency": "LOYAL",
     "quoteCurrency": "Litecoin"
   },
@@ -2274,8 +1856,6 @@
       "base": "LOYAL",
       "quote": "USD"
     },
-    "baseId": "loyal",
-    "quoteId": "usd",
     "baseCurrency": "LOYAL",
     "quoteCurrency": "US Dollar"
   },
@@ -2286,8 +1866,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "ltc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -2298,8 +1876,6 @@
       "base": "LTC",
       "quote": "DOGE"
     },
-    "baseId": "ltc",
-    "quoteId": "doge",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -2310,8 +1886,6 @@
       "base": "LTC",
       "quote": "USD"
     },
-    "baseId": "ltc",
-    "quoteId": "usd",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "US Dollar"
   },
@@ -2322,8 +1896,6 @@
       "base": "Luxmi",
       "quote": "BTC"
     },
-    "baseId": "lux",
-    "quoteId": "btc",
     "baseCurrency": "Luxmi",
     "quoteCurrency": "Bitcoin"
   },
@@ -2334,8 +1906,6 @@
       "base": "Luxmi",
       "quote": "DOGE"
     },
-    "baseId": "lux",
-    "quoteId": "doge",
     "baseCurrency": "Luxmi",
     "quoteCurrency": "Dogecoin"
   },
@@ -2346,8 +1916,6 @@
       "base": "Luxmi",
       "quote": "LTC"
     },
-    "baseId": "lux",
-    "quoteId": "ltc",
     "baseCurrency": "Luxmi",
     "quoteCurrency": "Litecoin"
   },
@@ -2358,8 +1926,6 @@
       "base": "Luxmi",
       "quote": "USD"
     },
-    "baseId": "lux",
-    "quoteId": "usd",
     "baseCurrency": "Luxmi",
     "quoteCurrency": "US Dollar"
   },
@@ -2370,8 +1936,6 @@
       "base": "MASS",
       "quote": "BTC"
     },
-    "baseId": "mass",
-    "quoteId": "btc",
     "baseCurrency": "MASS",
     "quoteCurrency": "Bitcoin"
   },
@@ -2382,8 +1946,6 @@
       "base": "MASS",
       "quote": "DOGE"
     },
-    "baseId": "mass",
-    "quoteId": "doge",
     "baseCurrency": "MASS",
     "quoteCurrency": "Dogecoin"
   },
@@ -2394,8 +1956,6 @@
       "base": "MASS",
       "quote": "LTC"
     },
-    "baseId": "mass",
-    "quoteId": "ltc",
     "baseCurrency": "MASS",
     "quoteCurrency": "Litecoin"
   },
@@ -2406,8 +1966,6 @@
       "base": "MASS",
       "quote": "USD"
     },
-    "baseId": "mass",
-    "quoteId": "usd",
     "baseCurrency": "MASS",
     "quoteCurrency": "US Dollar"
   },
@@ -2418,8 +1976,6 @@
       "base": "MCAP",
       "quote": "BTC"
     },
-    "baseId": "mcap",
-    "quoteId": "btc",
     "baseCurrency": "MCAP",
     "quoteCurrency": "Bitcoin"
   },
@@ -2430,8 +1986,6 @@
       "base": "MCAP",
       "quote": "DOGE"
     },
-    "baseId": "mcap",
-    "quoteId": "doge",
     "baseCurrency": "MCAP",
     "quoteCurrency": "Dogecoin"
   },
@@ -2442,8 +1996,6 @@
       "base": "MCAP",
       "quote": "LTC"
     },
-    "baseId": "mcap",
-    "quoteId": "ltc",
     "baseCurrency": "MCAP",
     "quoteCurrency": "Litecoin"
   },
@@ -2454,8 +2006,6 @@
       "base": "MCAP",
       "quote": "USD"
     },
-    "baseId": "mcap",
-    "quoteId": "usd",
     "baseCurrency": "MCAP",
     "quoteCurrency": "US Dollar"
   },
@@ -2466,8 +2016,6 @@
       "base": "MIX",
       "quote": "BTC"
     },
-    "baseId": "mix",
-    "quoteId": "btc",
     "baseCurrency": "MIX",
     "quoteCurrency": "Bitcoin"
   },
@@ -2478,8 +2026,6 @@
       "base": "MIX",
       "quote": "DOGE"
     },
-    "baseId": "mix",
-    "quoteId": "doge",
     "baseCurrency": "MIX",
     "quoteCurrency": "Dogecoin"
   },
@@ -2490,8 +2036,6 @@
       "base": "MIX",
       "quote": "LTC"
     },
-    "baseId": "mix",
-    "quoteId": "ltc",
     "baseCurrency": "MIX",
     "quoteCurrency": "Litecoin"
   },
@@ -2502,8 +2046,6 @@
       "base": "MIX",
       "quote": "USD"
     },
-    "baseId": "mix",
-    "quoteId": "usd",
     "baseCurrency": "MIX",
     "quoteCurrency": "US Dollar"
   },
@@ -2514,8 +2056,6 @@
       "base": "MLM",
       "quote": "BTC"
     },
-    "baseId": "mlm",
-    "quoteId": "btc",
     "baseCurrency": "MktCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -2526,8 +2066,6 @@
       "base": "MLM",
       "quote": "DOGE"
     },
-    "baseId": "mlm",
-    "quoteId": "doge",
     "baseCurrency": "MktCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -2538,8 +2076,6 @@
       "base": "MLM",
       "quote": "LTC"
     },
-    "baseId": "mlm",
-    "quoteId": "ltc",
     "baseCurrency": "MktCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -2550,8 +2086,6 @@
       "base": "MLM",
       "quote": "USD"
     },
-    "baseId": "mlm",
-    "quoteId": "usd",
     "baseCurrency": "MktCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -2562,8 +2096,6 @@
       "base": "MOIN",
       "quote": "BTC"
     },
-    "baseId": "moin",
-    "quoteId": "btc",
     "baseCurrency": "Moin",
     "quoteCurrency": "Bitcoin"
   },
@@ -2574,8 +2106,6 @@
       "base": "MOIN",
       "quote": "DOGE"
     },
-    "baseId": "moin",
-    "quoteId": "doge",
     "baseCurrency": "Moin",
     "quoteCurrency": "Dogecoin"
   },
@@ -2586,8 +2116,6 @@
       "base": "MOIN",
       "quote": "LTC"
     },
-    "baseId": "moin",
-    "quoteId": "ltc",
     "baseCurrency": "Moin",
     "quoteCurrency": "Litecoin"
   },
@@ -2598,8 +2126,6 @@
       "base": "MOIN",
       "quote": "USD"
     },
-    "baseId": "moin",
-    "quoteId": "usd",
     "baseCurrency": "Moin",
     "quoteCurrency": "US Dollar"
   },
@@ -2610,8 +2136,6 @@
       "base": "MVDSC",
       "quote": "BTC"
     },
-    "baseId": "mvdsc",
-    "quoteId": "btc",
     "baseCurrency": "MVDSC",
     "quoteCurrency": "Bitcoin"
   },
@@ -2622,8 +2146,6 @@
       "base": "MVDSC",
       "quote": "DOGE"
     },
-    "baseId": "mvdsc",
-    "quoteId": "doge",
     "baseCurrency": "MVDSC",
     "quoteCurrency": "Dogecoin"
   },
@@ -2634,8 +2156,6 @@
       "base": "MVDSC",
       "quote": "LTC"
     },
-    "baseId": "mvdsc",
-    "quoteId": "ltc",
     "baseCurrency": "MVDSC",
     "quoteCurrency": "Litecoin"
   },
@@ -2646,8 +2166,6 @@
       "base": "MVDSC",
       "quote": "USD"
     },
-    "baseId": "mvdsc",
-    "quoteId": "usd",
     "baseCurrency": "MVDSC",
     "quoteCurrency": "US Dollar"
   },
@@ -2658,8 +2176,6 @@
       "base": "NDC",
       "quote": "BTC"
     },
-    "baseId": "ndc",
-    "quoteId": "btc",
     "baseCurrency": "NEVERDIE",
     "quoteCurrency": "Bitcoin"
   },
@@ -2670,8 +2186,6 @@
       "base": "NDC",
       "quote": "DOGE"
     },
-    "baseId": "ndc",
-    "quoteId": "doge",
     "baseCurrency": "NEVERDIE",
     "quoteCurrency": "Dogecoin"
   },
@@ -2682,8 +2196,6 @@
       "base": "NDC",
       "quote": "LTC"
     },
-    "baseId": "ndc",
-    "quoteId": "ltc",
     "baseCurrency": "NEVERDIE",
     "quoteCurrency": "Litecoin"
   },
@@ -2694,8 +2206,6 @@
       "base": "NDC",
       "quote": "USD"
     },
-    "baseId": "ndc",
-    "quoteId": "usd",
     "baseCurrency": "NEVERDIE",
     "quoteCurrency": "US Dollar"
   },
@@ -2706,8 +2216,6 @@
       "base": "NXT",
       "quote": "BTC"
     },
-    "baseId": "nxt",
-    "quoteId": "btc",
     "baseCurrency": "Nxt",
     "quoteCurrency": "Bitcoin"
   },
@@ -2718,8 +2226,6 @@
       "base": "NXT",
       "quote": "DOGE"
     },
-    "baseId": "nxt",
-    "quoteId": "doge",
     "baseCurrency": "Nxt",
     "quoteCurrency": "Dogecoin"
   },
@@ -2730,8 +2236,6 @@
       "base": "NXT",
       "quote": "LTC"
     },
-    "baseId": "nxt",
-    "quoteId": "ltc",
     "baseCurrency": "Nxt",
     "quoteCurrency": "Litecoin"
   },
@@ -2742,8 +2246,6 @@
       "base": "NXT",
       "quote": "USD"
     },
-    "baseId": "nxt",
-    "quoteId": "usd",
     "baseCurrency": "Nxt",
     "quoteCurrency": "US Dollar"
   },
@@ -2754,8 +2256,6 @@
       "base": "OD",
       "quote": "BTC"
     },
-    "baseId": "od",
-    "quoteId": "btc",
     "baseCurrency": "OD",
     "quoteCurrency": "Bitcoin"
   },
@@ -2766,8 +2266,6 @@
       "base": "OD",
       "quote": "DOGE"
     },
-    "baseId": "od",
-    "quoteId": "doge",
     "baseCurrency": "OD",
     "quoteCurrency": "Dogecoin"
   },
@@ -2778,8 +2276,6 @@
       "base": "OD",
       "quote": "LTC"
     },
-    "baseId": "od",
-    "quoteId": "ltc",
     "baseCurrency": "OD",
     "quoteCurrency": "Litecoin"
   },
@@ -2790,8 +2286,6 @@
       "base": "OD",
       "quote": "USD"
     },
-    "baseId": "od",
-    "quoteId": "usd",
     "baseCurrency": "OD",
     "quoteCurrency": "US Dollar"
   },
@@ -2802,8 +2296,6 @@
       "base": "OMNI",
       "quote": "BTC"
     },
-    "baseId": "omni",
-    "quoteId": "btc",
     "baseCurrency": "Omni",
     "quoteCurrency": "Bitcoin"
   },
@@ -2814,8 +2306,6 @@
       "base": "OMNI",
       "quote": "DOGE"
     },
-    "baseId": "omni",
-    "quoteId": "doge",
     "baseCurrency": "Omni",
     "quoteCurrency": "Dogecoin"
   },
@@ -2826,8 +2316,6 @@
       "base": "OMNI",
       "quote": "LTC"
     },
-    "baseId": "omni",
-    "quoteId": "ltc",
     "baseCurrency": "Omni",
     "quoteCurrency": "Litecoin"
   },
@@ -2838,8 +2326,6 @@
       "base": "OMNI",
       "quote": "USD"
     },
-    "baseId": "omni",
-    "quoteId": "usd",
     "baseCurrency": "Omni",
     "quoteCurrency": "US Dollar"
   },
@@ -2850,8 +2336,6 @@
       "base": "ORME",
       "quote": "BTC"
     },
-    "baseId": "orme",
-    "quoteId": "btc",
     "baseCurrency": "Ormeus Coin",
     "quoteCurrency": "Bitcoin"
   },
@@ -2862,8 +2346,6 @@
       "base": "ORME",
       "quote": "DOGE"
     },
-    "baseId": "orme",
-    "quoteId": "doge",
     "baseCurrency": "Ormeus Coin",
     "quoteCurrency": "Dogecoin"
   },
@@ -2874,8 +2356,6 @@
       "base": "ORME",
       "quote": "LTC"
     },
-    "baseId": "orme",
-    "quoteId": "ltc",
     "baseCurrency": "Ormeus Coin",
     "quoteCurrency": "Litecoin"
   },
@@ -2886,8 +2366,6 @@
       "base": "ORME",
       "quote": "USD"
     },
-    "baseId": "orme",
-    "quoteId": "usd",
     "baseCurrency": "Ormeus Coin",
     "quoteCurrency": "US Dollar"
   },
@@ -2898,8 +2376,6 @@
       "base": "OTX",
       "quote": "BTC"
     },
-    "baseId": "otx",
-    "quoteId": "btc",
     "baseCurrency": "Octanox",
     "quoteCurrency": "Bitcoin"
   },
@@ -2910,8 +2386,6 @@
       "base": "OTX",
       "quote": "DOGE"
     },
-    "baseId": "otx",
-    "quoteId": "doge",
     "baseCurrency": "Octanox",
     "quoteCurrency": "Dogecoin"
   },
@@ -2922,8 +2396,6 @@
       "base": "OTX",
       "quote": "LTC"
     },
-    "baseId": "otx",
-    "quoteId": "ltc",
     "baseCurrency": "Octanox",
     "quoteCurrency": "Litecoin"
   },
@@ -2934,8 +2406,6 @@
       "base": "OTX",
       "quote": "USD"
     },
-    "baseId": "otx",
-    "quoteId": "usd",
     "baseCurrency": "Octanox",
     "quoteCurrency": "US Dollar"
   },
@@ -2946,8 +2416,6 @@
       "base": "PAI",
       "quote": "BTC"
     },
-    "baseId": "pai",
-    "quoteId": "btc",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "Bitcoin"
   },
@@ -2958,8 +2426,6 @@
       "base": "PAI",
       "quote": "DOGE"
     },
-    "baseId": "pai",
-    "quoteId": "doge",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "Dogecoin"
   },
@@ -2970,8 +2436,6 @@
       "base": "PAI",
       "quote": "LTC"
     },
-    "baseId": "pai",
-    "quoteId": "ltc",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "Litecoin"
   },
@@ -2982,8 +2446,6 @@
       "base": "PAI",
       "quote": "USD"
     },
-    "baseId": "pai",
-    "quoteId": "usd",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "US Dollar"
   },
@@ -2994,8 +2456,6 @@
       "base": "PCS",
       "quote": "BTC"
     },
-    "baseId": "pcs",
-    "quoteId": "btc",
     "baseCurrency": "Pabyosi Coin (Special)",
     "quoteCurrency": "Bitcoin"
   },
@@ -3006,8 +2466,6 @@
       "base": "PCS",
       "quote": "DOGE"
     },
-    "baseId": "pcs",
-    "quoteId": "doge",
     "baseCurrency": "Pabyosi Coin (Special)",
     "quoteCurrency": "Dogecoin"
   },
@@ -3018,8 +2476,6 @@
       "base": "PCS",
       "quote": "LTC"
     },
-    "baseId": "pcs",
-    "quoteId": "ltc",
     "baseCurrency": "Pabyosi Coin (Special)",
     "quoteCurrency": "Litecoin"
   },
@@ -3030,8 +2486,6 @@
       "base": "PCS",
       "quote": "USD"
     },
-    "baseId": "pcs",
-    "quoteId": "usd",
     "baseCurrency": "Pabyosi Coin (Special)",
     "quoteCurrency": "US Dollar"
   },
@@ -3042,8 +2496,6 @@
       "base": "PGUC",
       "quote": "BTC"
     },
-    "baseId": "pguc",
-    "quoteId": "btc",
     "baseCurrency": "PGUC",
     "quoteCurrency": "Bitcoin"
   },
@@ -3054,8 +2506,6 @@
       "base": "PGUC",
       "quote": "DOGE"
     },
-    "baseId": "pguc",
-    "quoteId": "doge",
     "baseCurrency": "PGUC",
     "quoteCurrency": "Dogecoin"
   },
@@ -3066,8 +2516,6 @@
       "base": "PGUC",
       "quote": "LTC"
     },
-    "baseId": "pguc",
-    "quoteId": "ltc",
     "baseCurrency": "PGUC",
     "quoteCurrency": "Litecoin"
   },
@@ -3078,8 +2526,6 @@
       "base": "PGUC",
       "quote": "USD"
     },
-    "baseId": "pguc",
-    "quoteId": "usd",
     "baseCurrency": "PGUC",
     "quoteCurrency": "US Dollar"
   },
@@ -3090,8 +2536,6 @@
       "base": "PHX",
       "quote": "BTC"
     },
-    "baseId": "phx",
-    "quoteId": "btc",
     "baseCurrency": "Red Pulse Phoenix",
     "quoteCurrency": "Bitcoin"
   },
@@ -3102,8 +2546,6 @@
       "base": "PHX",
       "quote": "DOGE"
     },
-    "baseId": "phx",
-    "quoteId": "doge",
     "baseCurrency": "Red Pulse Phoenix",
     "quoteCurrency": "Dogecoin"
   },
@@ -3114,8 +2556,6 @@
       "base": "PHX",
       "quote": "LTC"
     },
-    "baseId": "phx",
-    "quoteId": "ltc",
     "baseCurrency": "Red Pulse Phoenix",
     "quoteCurrency": "Litecoin"
   },
@@ -3126,8 +2566,6 @@
       "base": "PHX",
       "quote": "USD"
     },
-    "baseId": "phx",
-    "quoteId": "usd",
     "baseCurrency": "Red Pulse Phoenix",
     "quoteCurrency": "US Dollar"
   },
@@ -3138,8 +2576,6 @@
       "base": "PRC",
       "quote": "BTC"
     },
-    "baseId": "prc",
-    "quoteId": "btc",
     "baseCurrency": "PRCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3150,8 +2586,6 @@
       "base": "PRC",
       "quote": "DOGE"
     },
-    "baseId": "prc",
-    "quoteId": "doge",
     "baseCurrency": "PRCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3162,8 +2596,6 @@
       "base": "PRC",
       "quote": "LTC"
     },
-    "baseId": "prc",
-    "quoteId": "ltc",
     "baseCurrency": "PRCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3174,8 +2606,6 @@
       "base": "PRC",
       "quote": "USD"
     },
-    "baseId": "prc",
-    "quoteId": "usd",
     "baseCurrency": "PRCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3186,8 +2616,6 @@
       "base": "PRES",
       "quote": "BTC"
     },
-    "baseId": "pres",
-    "quoteId": "btc",
     "baseCurrency": "President Trump",
     "quoteCurrency": "Bitcoin"
   },
@@ -3198,8 +2626,6 @@
       "base": "PRES",
       "quote": "DOGE"
     },
-    "baseId": "pres",
-    "quoteId": "doge",
     "baseCurrency": "President Trump",
     "quoteCurrency": "Dogecoin"
   },
@@ -3210,8 +2636,6 @@
       "base": "PRES",
       "quote": "LTC"
     },
-    "baseId": "pres",
-    "quoteId": "ltc",
     "baseCurrency": "President Trump",
     "quoteCurrency": "Litecoin"
   },
@@ -3222,8 +2646,6 @@
       "base": "PRES",
       "quote": "USD"
     },
-    "baseId": "pres",
-    "quoteId": "usd",
     "baseCurrency": "President Trump",
     "quoteCurrency": "US Dollar"
   },
@@ -3234,8 +2656,6 @@
       "base": "PTS",
       "quote": "BTC"
     },
-    "baseId": "pts",
-    "quoteId": "btc",
     "baseCurrency": "PitisCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3246,8 +2666,6 @@
       "base": "PTS",
       "quote": "DOGE"
     },
-    "baseId": "pts",
-    "quoteId": "doge",
     "baseCurrency": "PitisCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3258,8 +2676,6 @@
       "base": "PTS",
       "quote": "LTC"
     },
-    "baseId": "pts",
-    "quoteId": "ltc",
     "baseCurrency": "PitisCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3270,8 +2686,6 @@
       "base": "PTS",
       "quote": "USD"
     },
-    "baseId": "pts",
-    "quoteId": "usd",
     "baseCurrency": "PitisCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3282,8 +2696,6 @@
       "base": "R",
       "quote": "BTC"
     },
-    "baseId": "r",
-    "quoteId": "btc",
     "baseCurrency": "Revain",
     "quoteCurrency": "Bitcoin"
   },
@@ -3294,8 +2706,6 @@
       "base": "R",
       "quote": "DOGE"
     },
-    "baseId": "r",
-    "quoteId": "doge",
     "baseCurrency": "Revain",
     "quoteCurrency": "Dogecoin"
   },
@@ -3306,8 +2716,6 @@
       "base": "R",
       "quote": "LTC"
     },
-    "baseId": "r",
-    "quoteId": "ltc",
     "baseCurrency": "Revain",
     "quoteCurrency": "Litecoin"
   },
@@ -3318,8 +2726,6 @@
       "base": "R",
       "quote": "USD"
     },
-    "baseId": "r",
-    "quoteId": "usd",
     "baseCurrency": "Revain",
     "quoteCurrency": "US Dollar"
   },
@@ -3330,8 +2736,6 @@
       "base": "RBIES",
       "quote": "BTC"
     },
-    "baseId": "rbies",
-    "quoteId": "btc",
     "baseCurrency": "Rubies",
     "quoteCurrency": "Bitcoin"
   },
@@ -3342,8 +2746,6 @@
       "base": "RBIES",
       "quote": "DOGE"
     },
-    "baseId": "rbies",
-    "quoteId": "doge",
     "baseCurrency": "Rubies",
     "quoteCurrency": "Dogecoin"
   },
@@ -3354,8 +2756,6 @@
       "base": "RBIES",
       "quote": "LTC"
     },
-    "baseId": "rbies",
-    "quoteId": "ltc",
     "baseCurrency": "Rubies",
     "quoteCurrency": "Litecoin"
   },
@@ -3366,8 +2766,6 @@
       "base": "RBIES",
       "quote": "USD"
     },
-    "baseId": "rbies",
-    "quoteId": "usd",
     "baseCurrency": "Rubies",
     "quoteCurrency": "US Dollar"
   },
@@ -3378,8 +2776,6 @@
       "base": "REV",
       "quote": "BTC"
     },
-    "baseId": "rev",
-    "quoteId": "btc",
     "baseCurrency": "REV",
     "quoteCurrency": "Bitcoin"
   },
@@ -3390,8 +2786,6 @@
       "base": "REV",
       "quote": "DOGE"
     },
-    "baseId": "rev",
-    "quoteId": "doge",
     "baseCurrency": "REV",
     "quoteCurrency": "Dogecoin"
   },
@@ -3402,8 +2796,6 @@
       "base": "REV",
       "quote": "LTC"
     },
-    "baseId": "rev",
-    "quoteId": "ltc",
     "baseCurrency": "REV",
     "quoteCurrency": "Litecoin"
   },
@@ -3414,8 +2806,6 @@
       "base": "REV",
       "quote": "USD"
     },
-    "baseId": "rev",
-    "quoteId": "usd",
     "baseCurrency": "REV",
     "quoteCurrency": "US Dollar"
   },
@@ -3426,8 +2816,6 @@
       "base": "RHFC",
       "quote": "BTC"
     },
-    "baseId": "rhfc",
-    "quoteId": "btc",
     "baseCurrency": "RHFC",
     "quoteCurrency": "Bitcoin"
   },
@@ -3438,8 +2826,6 @@
       "base": "RHFC",
       "quote": "DOGE"
     },
-    "baseId": "rhfc",
-    "quoteId": "doge",
     "baseCurrency": "RHFC",
     "quoteCurrency": "Dogecoin"
   },
@@ -3450,8 +2836,6 @@
       "base": "RHFC",
       "quote": "LTC"
     },
-    "baseId": "rhfc",
-    "quoteId": "ltc",
     "baseCurrency": "RHFC",
     "quoteCurrency": "Litecoin"
   },
@@ -3462,8 +2846,6 @@
       "base": "RHFC",
       "quote": "USD"
     },
-    "baseId": "rhfc",
-    "quoteId": "usd",
     "baseCurrency": "RHFC",
     "quoteCurrency": "US Dollar"
   },
@@ -3474,8 +2856,6 @@
       "base": "SDC12",
       "quote": "BTC"
     },
-    "baseId": "sdc12",
-    "quoteId": "btc",
     "baseCurrency": "SDC12",
     "quoteCurrency": "Bitcoin"
   },
@@ -3486,8 +2866,6 @@
       "base": "SDC12",
       "quote": "DOGE"
     },
-    "baseId": "sdc12",
-    "quoteId": "doge",
     "baseCurrency": "SDC12",
     "quoteCurrency": "Dogecoin"
   },
@@ -3498,8 +2876,6 @@
       "base": "SDC12",
       "quote": "LTC"
     },
-    "baseId": "sdc12",
-    "quoteId": "ltc",
     "baseCurrency": "SDC12",
     "quoteCurrency": "Litecoin"
   },
@@ -3510,8 +2886,6 @@
       "base": "SDC12",
       "quote": "USD"
     },
-    "baseId": "sdc12",
-    "quoteId": "usd",
     "baseCurrency": "SDC12",
     "quoteCurrency": "US Dollar"
   },
@@ -3522,8 +2896,6 @@
       "base": "SFI",
       "quote": "BTC"
     },
-    "baseId": "sfi",
-    "quoteId": "btc",
     "baseCurrency": "SFI",
     "quoteCurrency": "Bitcoin"
   },
@@ -3534,8 +2906,6 @@
       "base": "SFI",
       "quote": "DOGE"
     },
-    "baseId": "sfi",
-    "quoteId": "doge",
     "baseCurrency": "SFI",
     "quoteCurrency": "Dogecoin"
   },
@@ -3546,8 +2916,6 @@
       "base": "SFI",
       "quote": "LTC"
     },
-    "baseId": "sfi",
-    "quoteId": "ltc",
     "baseCurrency": "SFI",
     "quoteCurrency": "Litecoin"
   },
@@ -3558,8 +2926,6 @@
       "base": "SFI",
       "quote": "USD"
     },
-    "baseId": "sfi",
-    "quoteId": "usd",
     "baseCurrency": "SFI",
     "quoteCurrency": "US Dollar"
   },
@@ -3570,8 +2936,6 @@
       "base": "SGC",
       "quote": "BTC"
     },
-    "baseId": "sgc",
-    "quoteId": "btc",
     "baseCurrency": "SGC",
     "quoteCurrency": "Bitcoin"
   },
@@ -3582,8 +2946,6 @@
       "base": "SGC",
       "quote": "DOGE"
     },
-    "baseId": "sgc",
-    "quoteId": "doge",
     "baseCurrency": "SGC",
     "quoteCurrency": "Dogecoin"
   },
@@ -3594,8 +2956,6 @@
       "base": "SGC",
       "quote": "LTC"
     },
-    "baseId": "sgc",
-    "quoteId": "ltc",
     "baseCurrency": "SGC",
     "quoteCurrency": "Litecoin"
   },
@@ -3606,8 +2966,6 @@
       "base": "SGC",
       "quote": "USD"
     },
-    "baseId": "sgc",
-    "quoteId": "usd",
     "baseCurrency": "SGC",
     "quoteCurrency": "US Dollar"
   },
@@ -3618,8 +2976,6 @@
       "base": "SIB",
       "quote": "BTC"
     },
-    "baseId": "sib",
-    "quoteId": "btc",
     "baseCurrency": "SIBCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3630,8 +2986,6 @@
       "base": "SIB",
       "quote": "DOGE"
     },
-    "baseId": "sib",
-    "quoteId": "doge",
     "baseCurrency": "SIBCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3642,8 +2996,6 @@
       "base": "SIB",
       "quote": "LTC"
     },
-    "baseId": "sib",
-    "quoteId": "ltc",
     "baseCurrency": "SIBCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3654,8 +3006,6 @@
       "base": "SIB",
       "quote": "USD"
     },
-    "baseId": "sib",
-    "quoteId": "usd",
     "baseCurrency": "SIBCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3666,8 +3016,6 @@
       "base": "SZC",
       "quote": "BTC"
     },
-    "baseId": "szc",
-    "quoteId": "btc",
     "baseCurrency": "SZC",
     "quoteCurrency": "Bitcoin"
   },
@@ -3678,8 +3026,6 @@
       "base": "SZC",
       "quote": "DOGE"
     },
-    "baseId": "szc",
-    "quoteId": "doge",
     "baseCurrency": "SZC",
     "quoteCurrency": "Dogecoin"
   },
@@ -3690,8 +3036,6 @@
       "base": "SZC",
       "quote": "LTC"
     },
-    "baseId": "szc",
-    "quoteId": "ltc",
     "baseCurrency": "SZC",
     "quoteCurrency": "Litecoin"
   },
@@ -3702,8 +3046,6 @@
       "base": "SZC",
       "quote": "USD"
     },
-    "baseId": "szc",
-    "quoteId": "usd",
     "baseCurrency": "SZC",
     "quoteCurrency": "US Dollar"
   },
@@ -3714,8 +3056,6 @@
       "base": "TESLA",
       "quote": "BTC"
     },
-    "baseId": "tesla",
-    "quoteId": "btc",
     "baseCurrency": "TeslaCoilCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3726,8 +3066,6 @@
       "base": "TESLA",
       "quote": "DOGE"
     },
-    "baseId": "tesla",
-    "quoteId": "doge",
     "baseCurrency": "TeslaCoilCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3738,8 +3076,6 @@
       "base": "TESLA",
       "quote": "LTC"
     },
-    "baseId": "tesla",
-    "quoteId": "ltc",
     "baseCurrency": "TeslaCoilCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3750,8 +3086,6 @@
       "base": "TESLA",
       "quote": "USD"
     },
-    "baseId": "tesla",
-    "quoteId": "usd",
     "baseCurrency": "TeslaCoilCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3762,8 +3096,6 @@
       "base": "TOA",
       "quote": "BTC"
     },
-    "baseId": "toa",
-    "quoteId": "btc",
     "baseCurrency": "ToaCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3774,8 +3106,6 @@
       "base": "TOA",
       "quote": "DOGE"
     },
-    "baseId": "toa",
-    "quoteId": "doge",
     "baseCurrency": "ToaCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3786,8 +3116,6 @@
       "base": "TOA",
       "quote": "LTC"
     },
-    "baseId": "toa",
-    "quoteId": "ltc",
     "baseCurrency": "ToaCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3798,8 +3126,6 @@
       "base": "TOA",
       "quote": "USD"
     },
-    "baseId": "toa",
-    "quoteId": "usd",
     "baseCurrency": "ToaCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3810,8 +3136,6 @@
       "base": "TRC",
       "quote": "BTC"
     },
-    "baseId": "trc",
-    "quoteId": "btc",
     "baseCurrency": "Terracoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -3822,8 +3146,6 @@
       "base": "TRC",
       "quote": "DOGE"
     },
-    "baseId": "trc",
-    "quoteId": "doge",
     "baseCurrency": "Terracoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -3834,8 +3156,6 @@
       "base": "TRC",
       "quote": "LTC"
     },
-    "baseId": "trc",
-    "quoteId": "ltc",
     "baseCurrency": "Terracoin",
     "quoteCurrency": "Litecoin"
   },
@@ -3846,8 +3166,6 @@
       "base": "TRC",
       "quote": "USD"
     },
-    "baseId": "trc",
-    "quoteId": "usd",
     "baseCurrency": "Terracoin",
     "quoteCurrency": "US Dollar"
   },
@@ -3858,8 +3176,6 @@
       "base": "UNO",
       "quote": "BTC"
     },
-    "baseId": "uno",
-    "quoteId": "btc",
     "baseCurrency": "Unobtanium",
     "quoteCurrency": "Bitcoin"
   },
@@ -3870,8 +3186,6 @@
       "base": "UNO",
       "quote": "DOGE"
     },
-    "baseId": "uno",
-    "quoteId": "doge",
     "baseCurrency": "Unobtanium",
     "quoteCurrency": "Dogecoin"
   },
@@ -3882,8 +3196,6 @@
       "base": "UNO",
       "quote": "LTC"
     },
-    "baseId": "uno",
-    "quoteId": "ltc",
     "baseCurrency": "Unobtanium",
     "quoteCurrency": "Litecoin"
   },
@@ -3894,8 +3206,6 @@
       "base": "UNO",
       "quote": "USD"
     },
-    "baseId": "uno",
-    "quoteId": "usd",
     "baseCurrency": "Unobtanium",
     "quoteCurrency": "US Dollar"
   },
@@ -3906,8 +3216,6 @@
       "base": "USD",
       "quote": "BTC"
     },
-    "baseId": "usd",
-    "quoteId": "btc",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Bitcoin"
   },
@@ -3918,8 +3226,6 @@
       "base": "USD",
       "quote": "DOGE"
     },
-    "baseId": "usd",
-    "quoteId": "doge",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Dogecoin"
   },
@@ -3930,8 +3236,6 @@
       "base": "USD",
       "quote": "LTC"
     },
-    "baseId": "usd",
-    "quoteId": "ltc",
     "baseCurrency": "US Dollar",
     "quoteCurrency": "Litecoin"
   },
@@ -3942,8 +3246,6 @@
       "base": "USDT",
       "quote": "BTC"
     },
-    "baseId": "usdt",
-    "quoteId": "btc",
     "baseCurrency": "Tether",
     "quoteCurrency": "Bitcoin"
   },
@@ -3954,8 +3256,6 @@
       "base": "USDT",
       "quote": "DOGE"
     },
-    "baseId": "usdt",
-    "quoteId": "doge",
     "baseCurrency": "Tether",
     "quoteCurrency": "Dogecoin"
   },
@@ -3966,8 +3266,6 @@
       "base": "USDT",
       "quote": "LTC"
     },
-    "baseId": "usdt",
-    "quoteId": "ltc",
     "baseCurrency": "Tether",
     "quoteCurrency": "Litecoin"
   },
@@ -3978,8 +3276,6 @@
       "base": "USDT",
       "quote": "USD"
     },
-    "baseId": "usdt",
-    "quoteId": "usd",
     "baseCurrency": "Tether",
     "quoteCurrency": "US Dollar"
   },
@@ -3990,8 +3286,6 @@
       "base": "VitalCoin",
       "quote": "BTC"
     },
-    "baseId": "vit",
-    "quoteId": "btc",
     "baseCurrency": "VitalCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -4002,8 +3296,6 @@
       "base": "VitalCoin",
       "quote": "DOGE"
     },
-    "baseId": "vit",
-    "quoteId": "doge",
     "baseCurrency": "VitalCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -4014,8 +3306,6 @@
       "base": "VitalCoin",
       "quote": "LTC"
     },
-    "baseId": "vit",
-    "quoteId": "ltc",
     "baseCurrency": "VitalCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -4026,8 +3316,6 @@
       "base": "VitalCoin",
       "quote": "USD"
     },
-    "baseId": "vit",
-    "quoteId": "usd",
     "baseCurrency": "VitalCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -4038,8 +3326,6 @@
       "base": "VUC",
       "quote": "BTC"
     },
-    "baseId": "vuc",
-    "quoteId": "btc",
     "baseCurrency": "Virta Unique Coin",
     "quoteCurrency": "Bitcoin"
   },
@@ -4050,8 +3336,6 @@
       "base": "VUC",
       "quote": "DOGE"
     },
-    "baseId": "vuc",
-    "quoteId": "doge",
     "baseCurrency": "Virta Unique Coin",
     "quoteCurrency": "Dogecoin"
   },
@@ -4062,8 +3346,6 @@
       "base": "VUC",
       "quote": "LTC"
     },
-    "baseId": "vuc",
-    "quoteId": "ltc",
     "baseCurrency": "Virta Unique Coin",
     "quoteCurrency": "Litecoin"
   },
@@ -4074,8 +3356,6 @@
       "base": "VUC",
       "quote": "USD"
     },
-    "baseId": "vuc",
-    "quoteId": "usd",
     "baseCurrency": "Virta Unique Coin",
     "quoteCurrency": "US Dollar"
   },
@@ -4086,8 +3366,6 @@
       "base": "WA",
       "quote": "BTC"
     },
-    "baseId": "wa",
-    "quoteId": "btc",
     "baseCurrency": "WA Space",
     "quoteCurrency": "Bitcoin"
   },
@@ -4098,8 +3376,6 @@
       "base": "WA",
       "quote": "DOGE"
     },
-    "baseId": "wa",
-    "quoteId": "doge",
     "baseCurrency": "WA Space",
     "quoteCurrency": "Dogecoin"
   },
@@ -4110,8 +3386,6 @@
       "base": "WA",
       "quote": "LTC"
     },
-    "baseId": "wa",
-    "quoteId": "ltc",
     "baseCurrency": "WA Space",
     "quoteCurrency": "Litecoin"
   },
@@ -4122,8 +3396,6 @@
       "base": "WA",
       "quote": "USD"
     },
-    "baseId": "wa",
-    "quoteId": "usd",
     "baseCurrency": "WA Space",
     "quoteCurrency": "US Dollar"
   },
@@ -4134,8 +3406,6 @@
       "base": "WC",
       "quote": "BTC"
     },
-    "baseId": "wc",
-    "quoteId": "btc",
     "baseCurrency": "WINCOIN",
     "quoteCurrency": "Bitcoin"
   },
@@ -4146,8 +3416,6 @@
       "base": "WC",
       "quote": "DOGE"
     },
-    "baseId": "wc",
-    "quoteId": "doge",
     "baseCurrency": "WINCOIN",
     "quoteCurrency": "Dogecoin"
   },
@@ -4158,8 +3426,6 @@
       "base": "WC",
       "quote": "LTC"
     },
-    "baseId": "wc",
-    "quoteId": "ltc",
     "baseCurrency": "WINCOIN",
     "quoteCurrency": "Litecoin"
   },
@@ -4170,8 +3436,6 @@
       "base": "WC",
       "quote": "USD"
     },
-    "baseId": "wc",
-    "quoteId": "usd",
     "baseCurrency": "WINCOIN",
     "quoteCurrency": "US Dollar"
   },
@@ -4182,8 +3446,6 @@
       "base": "WOP",
       "quote": "BTC"
     },
-    "baseId": "wop",
-    "quoteId": "btc",
     "baseCurrency": "WOP",
     "quoteCurrency": "Bitcoin"
   },
@@ -4194,8 +3456,6 @@
       "base": "WOP",
       "quote": "DOGE"
     },
-    "baseId": "wop",
-    "quoteId": "doge",
     "baseCurrency": "WOP",
     "quoteCurrency": "Dogecoin"
   },
@@ -4206,8 +3466,6 @@
       "base": "WOP",
       "quote": "LTC"
     },
-    "baseId": "wop",
-    "quoteId": "ltc",
     "baseCurrency": "WOP",
     "quoteCurrency": "Litecoin"
   },
@@ -4218,8 +3476,6 @@
       "base": "WOP",
       "quote": "USD"
     },
-    "baseId": "wop",
-    "quoteId": "usd",
     "baseCurrency": "WOP",
     "quoteCurrency": "US Dollar"
   },
@@ -4230,8 +3486,6 @@
       "base": "WTHC",
       "quote": "BTC"
     },
-    "baseId": "wthc",
-    "quoteId": "btc",
     "baseCurrency": "WTHC",
     "quoteCurrency": "Bitcoin"
   },
@@ -4242,8 +3496,6 @@
       "base": "WTHC",
       "quote": "DOGE"
     },
-    "baseId": "wthc",
-    "quoteId": "doge",
     "baseCurrency": "WTHC",
     "quoteCurrency": "Dogecoin"
   },
@@ -4254,8 +3506,6 @@
       "base": "WTHC",
       "quote": "LTC"
     },
-    "baseId": "wthc",
-    "quoteId": "ltc",
     "baseCurrency": "WTHC",
     "quoteCurrency": "Litecoin"
   },
@@ -4266,8 +3516,6 @@
       "base": "WTHC",
       "quote": "USD"
     },
-    "baseId": "wthc",
-    "quoteId": "usd",
     "baseCurrency": "WTHC",
     "quoteCurrency": "US Dollar"
   },
@@ -4278,8 +3526,6 @@
       "base": "XB",
       "quote": "BTC"
     },
-    "baseId": "xb",
-    "quoteId": "btc",
     "baseCurrency": "XB",
     "quoteCurrency": "Bitcoin"
   },
@@ -4290,8 +3536,6 @@
       "base": "XB",
       "quote": "DOGE"
     },
-    "baseId": "xb",
-    "quoteId": "doge",
     "baseCurrency": "XB",
     "quoteCurrency": "Dogecoin"
   },
@@ -4302,8 +3546,6 @@
       "base": "XB",
       "quote": "LTC"
     },
-    "baseId": "xb",
-    "quoteId": "ltc",
     "baseCurrency": "XB",
     "quoteCurrency": "Litecoin"
   },
@@ -4314,8 +3556,6 @@
       "base": "XB",
       "quote": "USD"
     },
-    "baseId": "xb",
-    "quoteId": "usd",
     "baseCurrency": "XB",
     "quoteCurrency": "US Dollar"
   },
@@ -4326,8 +3566,6 @@
       "base": "XBP",
       "quote": "BTC"
     },
-    "baseId": "xbp",
-    "quoteId": "btc",
     "baseCurrency": "BlitzPredict",
     "quoteCurrency": "Bitcoin"
   },
@@ -4338,8 +3576,6 @@
       "base": "XBP",
       "quote": "DOGE"
     },
-    "baseId": "xbp",
-    "quoteId": "doge",
     "baseCurrency": "BlitzPredict",
     "quoteCurrency": "Dogecoin"
   },
@@ -4350,8 +3586,6 @@
       "base": "XBP",
       "quote": "LTC"
     },
-    "baseId": "xbp",
-    "quoteId": "ltc",
     "baseCurrency": "BlitzPredict",
     "quoteCurrency": "Litecoin"
   },
@@ -4362,8 +3596,6 @@
       "base": "XBP",
       "quote": "USD"
     },
-    "baseId": "xbp",
-    "quoteId": "usd",
     "baseCurrency": "BlitzPredict",
     "quoteCurrency": "US Dollar"
   },
@@ -4374,8 +3606,6 @@
       "base": "XBTE",
       "quote": "BTC"
     },
-    "baseId": "xbte",
-    "quoteId": "btc",
     "baseCurrency": "XBTE",
     "quoteCurrency": "Bitcoin"
   },
@@ -4386,8 +3616,6 @@
       "base": "XBTE",
       "quote": "DOGE"
     },
-    "baseId": "xbte",
-    "quoteId": "doge",
     "baseCurrency": "XBTE",
     "quoteCurrency": "Dogecoin"
   },
@@ -4398,8 +3626,6 @@
       "base": "XBTE",
       "quote": "LTC"
     },
-    "baseId": "xbte",
-    "quoteId": "ltc",
     "baseCurrency": "XBTE",
     "quoteCurrency": "Litecoin"
   },
@@ -4410,8 +3636,6 @@
       "base": "XBTE",
       "quote": "USD"
     },
-    "baseId": "xbte",
-    "quoteId": "usd",
     "baseCurrency": "XBTE",
     "quoteCurrency": "US Dollar"
   },
@@ -4422,8 +3646,6 @@
       "base": "XBY",
       "quote": "BTC"
     },
-    "baseId": "xby",
-    "quoteId": "btc",
     "baseCurrency": "XTRABYTES",
     "quoteCurrency": "Bitcoin"
   },
@@ -4434,8 +3656,6 @@
       "base": "XBY",
       "quote": "DOGE"
     },
-    "baseId": "xby",
-    "quoteId": "doge",
     "baseCurrency": "XTRABYTES",
     "quoteCurrency": "Dogecoin"
   },
@@ -4446,8 +3666,6 @@
       "base": "XBY",
       "quote": "LTC"
     },
-    "baseId": "xby",
-    "quoteId": "ltc",
     "baseCurrency": "XTRABYTES",
     "quoteCurrency": "Litecoin"
   },
@@ -4458,8 +3676,6 @@
       "base": "XBY",
       "quote": "USD"
     },
-    "baseId": "xby",
-    "quoteId": "usd",
     "baseCurrency": "XTRABYTES",
     "quoteCurrency": "US Dollar"
   },
@@ -4470,8 +3686,6 @@
       "base": "XHI",
       "quote": "BTC"
     },
-    "baseId": "xhi",
-    "quoteId": "btc",
     "baseCurrency": "HiCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -4482,8 +3696,6 @@
       "base": "XHI",
       "quote": "DOGE"
     },
-    "baseId": "xhi",
-    "quoteId": "doge",
     "baseCurrency": "HiCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -4494,8 +3706,6 @@
       "base": "XHI",
       "quote": "LTC"
     },
-    "baseId": "xhi",
-    "quoteId": "ltc",
     "baseCurrency": "HiCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -4506,8 +3716,6 @@
       "base": "XHI",
       "quote": "USD"
     },
-    "baseId": "xhi",
-    "quoteId": "usd",
     "baseCurrency": "HiCoin",
     "quoteCurrency": "US Dollar"
   },
@@ -4518,8 +3726,6 @@
       "base": "InternationalDiamond",
       "quote": "BTC"
     },
-    "baseId": "xid",
-    "quoteId": "btc",
     "baseCurrency": "InternationalDiamond",
     "quoteCurrency": "Bitcoin"
   },
@@ -4530,8 +3736,6 @@
       "base": "InternationalDiamond",
       "quote": "DOGE"
     },
-    "baseId": "xid",
-    "quoteId": "doge",
     "baseCurrency": "InternationalDiamond",
     "quoteCurrency": "Dogecoin"
   },
@@ -4542,8 +3746,6 @@
       "base": "InternationalDiamond",
       "quote": "LTC"
     },
-    "baseId": "xid",
-    "quoteId": "ltc",
     "baseCurrency": "InternationalDiamond",
     "quoteCurrency": "Litecoin"
   },
@@ -4554,8 +3756,6 @@
       "base": "InternationalDiamond",
       "quote": "USD"
     },
-    "baseId": "xid",
-    "quoteId": "usd",
     "baseCurrency": "InternationalDiamond",
     "quoteCurrency": "US Dollar"
   },
@@ -4566,8 +3766,6 @@
       "base": "XOM",
       "quote": "BTC"
     },
-    "baseId": "xom",
-    "quoteId": "btc",
     "baseCurrency": "XOM",
     "quoteCurrency": "Bitcoin"
   },
@@ -4578,8 +3776,6 @@
       "base": "XOM",
       "quote": "DOGE"
     },
-    "baseId": "xom",
-    "quoteId": "doge",
     "baseCurrency": "XOM",
     "quoteCurrency": "Dogecoin"
   },
@@ -4590,8 +3786,6 @@
       "base": "XOM",
       "quote": "LTC"
     },
-    "baseId": "xom",
-    "quoteId": "ltc",
     "baseCurrency": "XOM",
     "quoteCurrency": "Litecoin"
   },
@@ -4602,8 +3796,6 @@
       "base": "XOM",
       "quote": "USD"
     },
-    "baseId": "xom",
-    "quoteId": "usd",
     "baseCurrency": "XOM",
     "quoteCurrency": "US Dollar"
   },
@@ -4614,8 +3806,6 @@
       "base": "XOT",
       "quote": "BTC"
     },
-    "baseId": "xot",
-    "quoteId": "btc",
     "baseCurrency": "Internet of Things",
     "quoteCurrency": "Bitcoin"
   },
@@ -4626,8 +3816,6 @@
       "base": "XOT",
       "quote": "DOGE"
     },
-    "baseId": "xot",
-    "quoteId": "doge",
     "baseCurrency": "Internet of Things",
     "quoteCurrency": "Dogecoin"
   },
@@ -4638,8 +3826,6 @@
       "base": "XOT",
       "quote": "LTC"
     },
-    "baseId": "xot",
-    "quoteId": "ltc",
     "baseCurrency": "Internet of Things",
     "quoteCurrency": "Litecoin"
   },
@@ -4650,8 +3836,6 @@
       "base": "XOT",
       "quote": "USD"
     },
-    "baseId": "xot",
-    "quoteId": "usd",
     "baseCurrency": "Internet of Things",
     "quoteCurrency": "US Dollar"
   },
@@ -4662,8 +3846,6 @@
       "base": "XTO",
       "quote": "BTC"
     },
-    "baseId": "xto",
-    "quoteId": "btc",
     "baseCurrency": "Tao",
     "quoteCurrency": "Bitcoin"
   },
@@ -4674,8 +3856,6 @@
       "base": "XTO",
       "quote": "DOGE"
     },
-    "baseId": "xto",
-    "quoteId": "doge",
     "baseCurrency": "Tao",
     "quoteCurrency": "Dogecoin"
   },
@@ -4686,8 +3866,6 @@
       "base": "XTO",
       "quote": "LTC"
     },
-    "baseId": "xto",
-    "quoteId": "ltc",
     "baseCurrency": "Tao",
     "quoteCurrency": "Litecoin"
   },
@@ -4698,8 +3876,6 @@
       "base": "XTO",
       "quote": "USD"
     },
-    "baseId": "xto",
-    "quoteId": "usd",
     "baseCurrency": "Tao",
     "quoteCurrency": "US Dollar"
   },
@@ -4710,8 +3886,6 @@
       "base": "XVGCT",
       "quote": "BTC"
     },
-    "baseId": "xvgct",
-    "quoteId": "btc",
     "baseCurrency": "XVGCT",
     "quoteCurrency": "Bitcoin"
   },
@@ -4722,8 +3896,6 @@
       "base": "XVGCT",
       "quote": "DOGE"
     },
-    "baseId": "xvgct",
-    "quoteId": "doge",
     "baseCurrency": "XVGCT",
     "quoteCurrency": "Dogecoin"
   },
@@ -4734,8 +3906,6 @@
       "base": "XVGCT",
       "quote": "LTC"
     },
-    "baseId": "xvgct",
-    "quoteId": "ltc",
     "baseCurrency": "XVGCT",
     "quoteCurrency": "Litecoin"
   },
@@ -4746,8 +3916,6 @@
       "base": "XVGCT",
       "quote": "USD"
     },
-    "baseId": "xvgct",
-    "quoteId": "usd",
     "baseCurrency": "XVGCT",
     "quoteCurrency": "US Dollar"
   },
@@ -4758,8 +3926,6 @@
       "base": "ZZC",
       "quote": "BTC"
     },
-    "baseId": "zzc",
-    "quoteId": "btc",
     "baseCurrency": "ZoZoCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -4770,8 +3936,6 @@
       "base": "ZZC",
       "quote": "DOGE"
     },
-    "baseId": "zzc",
-    "quoteId": "doge",
     "baseCurrency": "ZoZoCoin",
     "quoteCurrency": "Dogecoin"
   },
@@ -4782,8 +3946,6 @@
       "base": "ZZC",
       "quote": "LTC"
     },
-    "baseId": "zzc",
-    "quoteId": "ltc",
     "baseCurrency": "ZoZoCoin",
     "quoteCurrency": "Litecoin"
   },
@@ -4794,8 +3956,6 @@
       "base": "ZZC",
       "quote": "USD"
     },
-    "baseId": "zzc",
-    "quoteId": "usd",
     "baseCurrency": "ZoZoCoin",
     "quoteCurrency": "US Dollar"
   }

@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "BCH",
-    "quoteId": "BTC",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "PAI"
     },
-    "baseId": "BCH",
-    "quoteId": "PAI",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Project Pai"
   },
@@ -30,8 +26,6 @@
       "base": "BCH",
       "quote": "USDT"
     },
-    "baseId": "BCH",
-    "quoteId": "USDT",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Tether"
   },
@@ -42,8 +36,6 @@
       "base": "BCH3NX",
       "quote": "BTC"
     },
-    "baseId": "BCH3NX",
-    "quoteId": "BTC",
     "baseCurrency": "BCH3NX",
     "quoteCurrency": "Bitcoin"
   },
@@ -54,8 +46,6 @@
       "base": "BCH3NX",
       "quote": "PAI"
     },
-    "baseId": "BCH3NX",
-    "quoteId": "PAI",
     "baseCurrency": "BCH3NX",
     "quoteCurrency": "Project Pai"
   },
@@ -66,8 +56,6 @@
       "base": "BCH3NX",
       "quote": "USDT"
     },
-    "baseId": "BCH3NX",
-    "quoteId": "USDT",
     "baseCurrency": "BCH3NX",
     "quoteCurrency": "Tether"
   },
@@ -78,8 +66,6 @@
       "base": "BCH3X",
       "quote": "BTC"
     },
-    "baseId": "BCH3X",
-    "quoteId": "BTC",
     "baseCurrency": "BCH3X",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "BCH3X",
       "quote": "PAI"
     },
-    "baseId": "BCH3X",
-    "quoteId": "PAI",
     "baseCurrency": "BCH3X",
     "quoteCurrency": "Project Pai"
   },
@@ -102,8 +86,6 @@
       "base": "BCH3X",
       "quote": "USDT"
     },
-    "baseId": "BCH3X",
-    "quoteId": "USDT",
     "baseCurrency": "BCH3X",
     "quoteCurrency": "Tether"
   },
@@ -114,8 +96,6 @@
       "base": "BTC",
       "quote": "PAI"
     },
-    "baseId": "BTC",
-    "quoteId": "PAI",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Project Pai"
   },
@@ -126,8 +106,6 @@
       "base": "BTC",
       "quote": "USDT"
     },
-    "baseId": "BTC",
-    "quoteId": "USDT",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Tether"
   },
@@ -138,8 +116,6 @@
       "base": "BTC3NX",
       "quote": "PAI"
     },
-    "baseId": "BTC3NX",
-    "quoteId": "PAI",
     "baseCurrency": "BTC3NX",
     "quoteCurrency": "Project Pai"
   },
@@ -150,8 +126,6 @@
       "base": "BTC3NX",
       "quote": "USDT"
     },
-    "baseId": "BTC3NX",
-    "quoteId": "USDT",
     "baseCurrency": "BTC3NX",
     "quoteCurrency": "Tether"
   },
@@ -162,8 +136,6 @@
       "base": "BTC3X",
       "quote": "PAI"
     },
-    "baseId": "BTC3X",
-    "quoteId": "PAI",
     "baseCurrency": "BTC3X",
     "quoteCurrency": "Project Pai"
   },
@@ -174,8 +146,6 @@
       "base": "BTC3X",
       "quote": "USDT"
     },
-    "baseId": "BTC3X",
-    "quoteId": "USDT",
     "baseCurrency": "BTC3X",
     "quoteCurrency": "Tether"
   },
@@ -186,8 +156,6 @@
       "base": "BTM",
       "quote": "BTC"
     },
-    "baseId": "BTM",
-    "quoteId": "BTC",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Bitcoin"
   },
@@ -198,8 +166,6 @@
       "base": "BTM",
       "quote": "PAI"
     },
-    "baseId": "BTM",
-    "quoteId": "PAI",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Project Pai"
   },
@@ -210,8 +176,6 @@
       "base": "BTM",
       "quote": "USDT"
     },
-    "baseId": "BTM",
-    "quoteId": "USDT",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Tether"
   },
@@ -222,8 +186,6 @@
       "base": "CMT",
       "quote": "BTC"
     },
-    "baseId": "CMT",
-    "quoteId": "BTC",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
@@ -234,8 +196,6 @@
       "base": "CMT",
       "quote": "PAI"
     },
-    "baseId": "CMT",
-    "quoteId": "PAI",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Project Pai"
   },
@@ -246,8 +206,6 @@
       "base": "CMT",
       "quote": "USDT"
     },
-    "baseId": "CMT",
-    "quoteId": "USDT",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Tether"
   },
@@ -258,8 +216,6 @@
       "base": "CRY",
       "quote": "PAI"
     },
-    "baseId": "CRY",
-    "quoteId": "PAI",
     "baseCurrency": "CRY",
     "quoteCurrency": "Project Pai"
   },
@@ -270,8 +226,6 @@
       "base": "CRY",
       "quote": "USDT"
     },
-    "baseId": "CRY",
-    "quoteId": "USDT",
     "baseCurrency": "CRY",
     "quoteCurrency": "Tether"
   },
@@ -282,8 +236,6 @@
       "base": "CTXC",
       "quote": "BTC"
     },
-    "baseId": "CTXC",
-    "quoteId": "BTC",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Bitcoin"
   },
@@ -294,8 +246,6 @@
       "base": "CTXC",
       "quote": "PAI"
     },
-    "baseId": "CTXC",
-    "quoteId": "PAI",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Project Pai"
   },
@@ -306,8 +256,6 @@
       "base": "CTXC",
       "quote": "USDT"
     },
-    "baseId": "CTXC",
-    "quoteId": "USDT",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Tether"
   },
@@ -318,8 +266,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "EOS",
-    "quoteId": "BTC",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -330,8 +276,6 @@
       "base": "EOS",
       "quote": "PAI"
     },
-    "baseId": "EOS",
-    "quoteId": "PAI",
     "baseCurrency": "EOS",
     "quoteCurrency": "Project Pai"
   },
@@ -342,8 +286,6 @@
       "base": "EOS",
       "quote": "USDT"
     },
-    "baseId": "EOS",
-    "quoteId": "USDT",
     "baseCurrency": "EOS",
     "quoteCurrency": "Tether"
   },
@@ -354,8 +296,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -366,8 +306,6 @@
       "base": "ETH",
       "quote": "PAI"
     },
-    "baseId": "ETH",
-    "quoteId": "PAI",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Project Pai"
   },
@@ -378,8 +316,6 @@
       "base": "ETH",
       "quote": "USDT"
     },
-    "baseId": "ETH",
-    "quoteId": "USDT",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Tether"
   },
@@ -390,8 +326,6 @@
       "base": "ETH3NX",
       "quote": "BTC"
     },
-    "baseId": "ETH3NX",
-    "quoteId": "BTC",
     "baseCurrency": "ETH3NX",
     "quoteCurrency": "Bitcoin"
   },
@@ -402,8 +336,6 @@
       "base": "ETH3NX",
       "quote": "PAI"
     },
-    "baseId": "ETH3NX",
-    "quoteId": "PAI",
     "baseCurrency": "ETH3NX",
     "quoteCurrency": "Project Pai"
   },
@@ -414,8 +346,6 @@
       "base": "ETH3NX",
       "quote": "USDT"
     },
-    "baseId": "ETH3NX",
-    "quoteId": "USDT",
     "baseCurrency": "ETH3NX",
     "quoteCurrency": "Tether"
   },
@@ -426,8 +356,6 @@
       "base": "ETH3X",
       "quote": "BTC"
     },
-    "baseId": "ETH3X",
-    "quoteId": "BTC",
     "baseCurrency": "ETH3X",
     "quoteCurrency": "Bitcoin"
   },
@@ -438,8 +366,6 @@
       "base": "ETH3X",
       "quote": "PAI"
     },
-    "baseId": "ETH3X",
-    "quoteId": "PAI",
     "baseCurrency": "ETH3X",
     "quoteCurrency": "Project Pai"
   },
@@ -450,8 +376,6 @@
       "base": "ETH3X",
       "quote": "USDT"
     },
-    "baseId": "ETH3X",
-    "quoteId": "USDT",
     "baseCurrency": "ETH3X",
     "quoteCurrency": "Tether"
   },
@@ -462,8 +386,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "BTC",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -474,8 +396,6 @@
       "base": "LTC",
       "quote": "PAI"
     },
-    "baseId": "LTC",
-    "quoteId": "PAI",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Project Pai"
   },
@@ -486,8 +406,6 @@
       "base": "LTC",
       "quote": "USDT"
     },
-    "baseId": "LTC",
-    "quoteId": "USDT",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Tether"
   },
@@ -498,8 +416,6 @@
       "base": "LTC3NX",
       "quote": "BTC"
     },
-    "baseId": "LTC3NX",
-    "quoteId": "BTC",
     "baseCurrency": "LTC3NX",
     "quoteCurrency": "Bitcoin"
   },
@@ -510,8 +426,6 @@
       "base": "LTC3NX",
       "quote": "PAI"
     },
-    "baseId": "LTC3NX",
-    "quoteId": "PAI",
     "baseCurrency": "LTC3NX",
     "quoteCurrency": "Project Pai"
   },
@@ -522,8 +436,6 @@
       "base": "LTC3NX",
       "quote": "USDT"
     },
-    "baseId": "LTC3NX",
-    "quoteId": "USDT",
     "baseCurrency": "LTC3NX",
     "quoteCurrency": "Tether"
   },
@@ -534,8 +446,6 @@
       "base": "LTC3X",
       "quote": "BTC"
     },
-    "baseId": "LTC3X",
-    "quoteId": "BTC",
     "baseCurrency": "LTC3X",
     "quoteCurrency": "Bitcoin"
   },
@@ -546,8 +456,6 @@
       "base": "LTC3X",
       "quote": "PAI"
     },
-    "baseId": "LTC3X",
-    "quoteId": "PAI",
     "baseCurrency": "LTC3X",
     "quoteCurrency": "Project Pai"
   },
@@ -558,8 +466,6 @@
       "base": "LTC3X",
       "quote": "USDT"
     },
-    "baseId": "LTC3X",
-    "quoteId": "USDT",
     "baseCurrency": "LTC3X",
     "quoteCurrency": "Tether"
   },
@@ -570,8 +476,6 @@
       "base": "MAID",
       "quote": "BTC"
     },
-    "baseId": "MAID",
-    "quoteId": "BTC",
     "baseCurrency": "MaidSafeCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -582,8 +486,6 @@
       "base": "MAID",
       "quote": "PAI"
     },
-    "baseId": "MAID",
-    "quoteId": "PAI",
     "baseCurrency": "MaidSafeCoin",
     "quoteCurrency": "Project Pai"
   },
@@ -594,8 +496,6 @@
       "base": "MAID",
       "quote": "USDT"
     },
-    "baseId": "MAID",
-    "quoteId": "USDT",
     "baseCurrency": "MaidSafeCoin",
     "quoteCurrency": "Tether"
   },
@@ -606,8 +506,6 @@
       "base": "OMNI",
       "quote": "BTC"
     },
-    "baseId": "OMNI",
-    "quoteId": "BTC",
     "baseCurrency": "Omni",
     "quoteCurrency": "Bitcoin"
   },
@@ -618,8 +516,6 @@
       "base": "OMNI",
       "quote": "PAI"
     },
-    "baseId": "OMNI",
-    "quoteId": "PAI",
     "baseCurrency": "Omni",
     "quoteCurrency": "Project Pai"
   },
@@ -630,8 +526,6 @@
       "base": "OMNI",
       "quote": "USDT"
     },
-    "baseId": "OMNI",
-    "quoteId": "USDT",
     "baseCurrency": "Omni",
     "quoteCurrency": "Tether"
   },
@@ -642,8 +536,6 @@
       "base": "PAI",
       "quote": "BTC"
     },
-    "baseId": "PAI",
-    "quoteId": "BTC",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "Bitcoin"
   },
@@ -654,8 +546,6 @@
       "base": "PAI",
       "quote": "USDT"
     },
-    "baseId": "PAI",
-    "quoteId": "USDT",
     "baseCurrency": "Project Pai",
     "quoteCurrency": "Tether"
   },
@@ -666,8 +556,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "TRX",
-    "quoteId": "BTC",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -678,8 +566,6 @@
       "base": "TRX",
       "quote": "PAI"
     },
-    "baseId": "TRX",
-    "quoteId": "PAI",
     "baseCurrency": "TRON",
     "quoteCurrency": "Project Pai"
   },
@@ -690,8 +576,6 @@
       "base": "TRX",
       "quote": "USDT"
     },
-    "baseId": "TRX",
-    "quoteId": "USDT",
     "baseCurrency": "TRON",
     "quoteCurrency": "Tether"
   },
@@ -702,8 +586,6 @@
       "base": "VEN",
       "quote": "BTC"
     },
-    "baseId": "VEN",
-    "quoteId": "BTC",
     "baseCurrency": "Vechain [Token]",
     "quoteCurrency": "Bitcoin"
   },
@@ -714,8 +596,6 @@
       "base": "VEN",
       "quote": "PAI"
     },
-    "baseId": "VEN",
-    "quoteId": "PAI",
     "baseCurrency": "Vechain [Token]",
     "quoteCurrency": "Project Pai"
   },
@@ -726,8 +606,6 @@
       "base": "VEN",
       "quote": "USDT"
     },
-    "baseId": "VEN",
-    "quoteId": "USDT",
     "baseCurrency": "Vechain [Token]",
     "quoteCurrency": "Tether"
   }

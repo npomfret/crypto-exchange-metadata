@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "bch",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "USDT"
     },
-    "baseId": "bch",
-    "quoteId": "usdt",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Tether"
   },
@@ -30,8 +26,6 @@
       "base": "BTC",
       "quote": "USDT"
     },
-    "baseId": "btc",
-    "quoteId": "usdt",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Tether"
   },
@@ -42,8 +36,6 @@
       "base": "CENNZ",
       "quote": "ETH"
     },
-    "baseId": "cennz",
-    "quoteId": "eth",
     "baseCurrency": "Centrality",
     "quoteCurrency": "Ethereum"
   },
@@ -54,8 +46,6 @@
       "base": "CNN",
       "quote": "ETH"
     },
-    "baseId": "cnn",
-    "quoteId": "eth",
     "baseCurrency": "Content Neutrality Network",
     "quoteCurrency": "Ethereum"
   },
@@ -66,8 +56,6 @@
       "base": "CNN",
       "quote": "USDT"
     },
-    "baseId": "cnn",
-    "quoteId": "usdt",
     "baseCurrency": "Content Neutrality Network",
     "quoteCurrency": "Tether"
   },
@@ -78,8 +66,6 @@
       "base": "COSM",
       "quote": "ETH"
     },
-    "baseId": "cosm",
-    "quoteId": "eth",
     "baseCurrency": "Cosmo Coin",
     "quoteCurrency": "Ethereum"
   },
@@ -90,8 +76,6 @@
       "base": "CTXC",
       "quote": "ETH"
     },
-    "baseId": "ctxc",
-    "quoteId": "eth",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Ethereum"
   },
@@ -102,8 +86,6 @@
       "base": "DTA",
       "quote": "ETH"
     },
-    "baseId": "dta",
-    "quoteId": "eth",
     "baseCurrency": "DATA",
     "quoteCurrency": "Ethereum"
   },
@@ -114,8 +96,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -126,8 +106,6 @@
       "base": "ETH",
       "quote": "USDT"
     },
-    "baseId": "eth",
-    "quoteId": "usdt",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Tether"
   },
@@ -138,8 +116,6 @@
       "base": "EXC",
       "quote": "ETH"
     },
-    "baseId": "exc",
-    "quoteId": "eth",
     "baseCurrency": "Excaliburcoin",
     "quoteCurrency": "Ethereum"
   },
@@ -150,8 +126,6 @@
       "base": "KNT",
       "quote": "ETH"
     },
-    "baseId": "knt",
-    "quoteId": "eth",
     "baseCurrency": "Kora Network Token",
     "quoteCurrency": "Ethereum"
   },
@@ -162,8 +136,6 @@
       "base": "LBA",
       "quote": "BTC"
     },
-    "baseId": "lba",
-    "quoteId": "btc",
     "baseCurrency": "Libra Credit",
     "quoteCurrency": "Bitcoin"
   },
@@ -174,8 +146,6 @@
       "base": "LBA",
       "quote": "ETH"
     },
-    "baseId": "lba",
-    "quoteId": "eth",
     "baseCurrency": "Libra Credit",
     "quoteCurrency": "Ethereum"
   },
@@ -186,8 +156,6 @@
       "base": "LEEK",
       "quote": "ETH"
     },
-    "baseId": "leek",
-    "quoteId": "eth",
     "baseCurrency": "LEEK",
     "quoteCurrency": "Ethereum"
   },
@@ -198,8 +166,6 @@
       "base": "MANA",
       "quote": "ETH"
     },
-    "baseId": "mana",
-    "quoteId": "eth",
     "baseCurrency": "Decentraland",
     "quoteCurrency": "Ethereum"
   },
@@ -210,8 +176,6 @@
       "base": "OLT",
       "quote": "ETH"
     },
-    "baseId": "olt",
-    "quoteId": "eth",
     "baseCurrency": "OneLedger",
     "quoteCurrency": "Ethereum"
   },
@@ -222,8 +186,6 @@
       "base": "POLY",
       "quote": "BTC"
     },
-    "baseId": "poly",
-    "quoteId": "btc",
     "baseCurrency": "Polymath",
     "quoteCurrency": "Bitcoin"
   },
@@ -234,8 +196,6 @@
       "base": "POLY",
       "quote": "USDT"
     },
-    "baseId": "poly",
-    "quoteId": "usdt",
     "baseCurrency": "Polymath",
     "quoteCurrency": "Tether"
   },
@@ -246,8 +206,6 @@
       "base": "RATING",
       "quote": "ETH"
     },
-    "baseId": "rating",
-    "quoteId": "eth",
     "baseCurrency": "DPRating",
     "quoteCurrency": "Ethereum"
   },
@@ -258,8 +216,6 @@
       "base": "REN",
       "quote": "ETH"
     },
-    "baseId": "ren",
-    "quoteId": "eth",
     "baseCurrency": "Republic Protocol",
     "quoteCurrency": "Ethereum"
   },
@@ -270,8 +226,6 @@
       "base": "TTC",
       "quote": "ETH"
     },
-    "baseId": "ttc",
-    "quoteId": "eth",
     "baseCurrency": "TittieCoin",
     "quoteCurrency": "Ethereum"
   },
@@ -282,8 +236,6 @@
       "base": "ZIL",
       "quote": "ETH"
     },
-    "baseId": "zil",
-    "quoteId": "eth",
     "baseCurrency": "Zilliqa",
     "quoteCurrency": "Ethereum"
   }

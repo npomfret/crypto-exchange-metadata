@@ -6,8 +6,6 @@
       "base": "Anti Bureaucracy Coin",
       "quote": "BRL"
     },
-    "baseId": "abc",
-    "quoteId": "brl",
     "baseCurrency": "Anti Bureaucracy Coin",
     "quoteCurrency": "Brazilian Real"
   },
@@ -18,8 +16,6 @@
       "base": "Anti Bureaucracy Coin",
       "quote": "BTC"
     },
-    "baseId": "abc",
-    "quoteId": "btc",
     "baseCurrency": "Anti Bureaucracy Coin",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "Anti Bureaucracy Coin",
       "quote": "USDT"
     },
-    "baseId": "abc",
-    "quoteId": "usdt",
     "baseCurrency": "Anti Bureaucracy Coin",
     "quoteCurrency": "Tether"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "BRL"
     },
-    "baseId": "bch",
-    "quoteId": "brl",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Brazilian Real"
   },
@@ -54,8 +46,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "bch",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -66,8 +56,6 @@
       "base": "BCH",
       "quote": "USDT"
     },
-    "baseId": "bch",
-    "quoteId": "usdt",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Tether"
   },
@@ -78,8 +66,6 @@
       "base": "BNB",
       "quote": "BCH"
     },
-    "baseId": "bnb",
-    "quoteId": "bch",
     "baseCurrency": "Binance Coin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -90,8 +76,6 @@
       "base": "BNB",
       "quote": "BRL"
     },
-    "baseId": "bnb",
-    "quoteId": "brl",
     "baseCurrency": "Binance Coin",
     "quoteCurrency": "Brazilian Real"
   },
@@ -102,8 +86,6 @@
       "base": "BNB",
       "quote": "BTC"
     },
-    "baseId": "bnb",
-    "quoteId": "btc",
     "baseCurrency": "Binance Coin",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "BNB",
       "quote": "USDT"
     },
-    "baseId": "bnb",
-    "quoteId": "usdt",
     "baseCurrency": "Binance Coin",
     "quoteCurrency": "Tether"
   },
@@ -126,8 +106,6 @@
       "base": "BRZX",
       "quote": "BCH"
     },
-    "baseId": "brzx",
-    "quoteId": "bch",
     "baseCurrency": "BRZX",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -138,8 +116,6 @@
       "base": "BRZX",
       "quote": "BTC"
     },
-    "baseId": "brzx",
-    "quoteId": "btc",
     "baseCurrency": "BRZX",
     "quoteCurrency": "Bitcoin"
   },
@@ -150,8 +126,6 @@
       "base": "BRZX",
       "quote": "USDT"
     },
-    "baseId": "brzx",
-    "quoteId": "usdt",
     "baseCurrency": "BRZX",
     "quoteCurrency": "Tether"
   },
@@ -162,8 +136,6 @@
       "base": "BTC",
       "quote": "BRL"
     },
-    "baseId": "btc",
-    "quoteId": "brl",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Brazilian Real"
   },
@@ -174,8 +146,6 @@
       "base": "BTC",
       "quote": "USDT"
     },
-    "baseId": "btc",
-    "quoteId": "usdt",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Tether"
   },
@@ -186,8 +156,6 @@
       "base": "BTG",
       "quote": "BCH"
     },
-    "baseId": "btg",
-    "quoteId": "bch",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -198,8 +166,6 @@
       "base": "BTG",
       "quote": "BRL"
     },
-    "baseId": "btg",
-    "quoteId": "brl",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "Brazilian Real"
   },
@@ -210,8 +176,6 @@
       "base": "BTG",
       "quote": "BTC"
     },
-    "baseId": "btg",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "Bitcoin"
   },
@@ -222,8 +186,6 @@
       "base": "BTG",
       "quote": "USDT"
     },
-    "baseId": "btg",
-    "quoteId": "usdt",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "Tether"
   },
@@ -234,8 +196,6 @@
       "base": "CFTY",
       "quote": "BTC"
     },
-    "baseId": "cfty",
-    "quoteId": "btc",
     "baseCurrency": "CFTY",
     "quoteCurrency": "Bitcoin"
   },
@@ -246,8 +206,6 @@
       "base": "CFTY",
       "quote": "USDT"
     },
-    "baseId": "cfty",
-    "quoteId": "usdt",
     "baseCurrency": "CFTY",
     "quoteCurrency": "Tether"
   },
@@ -258,8 +216,6 @@
       "base": "CRW",
       "quote": "BCH"
     },
-    "baseId": "crw",
-    "quoteId": "bch",
     "baseCurrency": "Crown",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -270,8 +226,6 @@
       "base": "CRW",
       "quote": "BRL"
     },
-    "baseId": "crw",
-    "quoteId": "brl",
     "baseCurrency": "Crown",
     "quoteCurrency": "Brazilian Real"
   },
@@ -282,8 +236,6 @@
       "base": "CRW",
       "quote": "BTC"
     },
-    "baseId": "crw",
-    "quoteId": "btc",
     "baseCurrency": "Crown",
     "quoteCurrency": "Bitcoin"
   },
@@ -294,8 +246,6 @@
       "base": "CRW",
       "quote": "USDT"
     },
-    "baseId": "crw",
-    "quoteId": "usdt",
     "baseCurrency": "Crown",
     "quoteCurrency": "Tether"
   },
@@ -306,8 +256,6 @@
       "base": "DASH",
       "quote": "BCH"
     },
-    "baseId": "dash",
-    "quoteId": "bch",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -318,8 +266,6 @@
       "base": "DASH",
       "quote": "BRL"
     },
-    "baseId": "dash",
-    "quoteId": "brl",
     "baseCurrency": "Dash",
     "quoteCurrency": "Brazilian Real"
   },
@@ -330,8 +276,6 @@
       "base": "DASH",
       "quote": "BTC"
     },
-    "baseId": "dash",
-    "quoteId": "btc",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin"
   },
@@ -342,8 +286,6 @@
       "base": "DASH",
       "quote": "USDT"
     },
-    "baseId": "dash",
-    "quoteId": "usdt",
     "baseCurrency": "Dash",
     "quoteCurrency": "Tether"
   },
@@ -354,8 +296,6 @@
       "base": "DCR",
       "quote": "BCH"
     },
-    "baseId": "dcr",
-    "quoteId": "bch",
     "baseCurrency": "Decred",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -366,8 +306,6 @@
       "base": "DCR",
       "quote": "BRL"
     },
-    "baseId": "dcr",
-    "quoteId": "brl",
     "baseCurrency": "Decred",
     "quoteCurrency": "Brazilian Real"
   },
@@ -378,8 +316,6 @@
       "base": "DCR",
       "quote": "BTC"
     },
-    "baseId": "dcr",
-    "quoteId": "btc",
     "baseCurrency": "Decred",
     "quoteCurrency": "Bitcoin"
   },
@@ -390,8 +326,6 @@
       "base": "DCR",
       "quote": "USDT"
     },
-    "baseId": "dcr",
-    "quoteId": "usdt",
     "baseCurrency": "Decred",
     "quoteCurrency": "Tether"
   },
@@ -402,8 +336,6 @@
       "base": "EOS",
       "quote": "BRL"
     },
-    "baseId": "eos",
-    "quoteId": "brl",
     "baseCurrency": "EOS",
     "quoteCurrency": "Brazilian Real"
   },
@@ -414,8 +346,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "eos",
-    "quoteId": "btc",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -426,8 +356,6 @@
       "base": "EOS",
       "quote": "USDT"
     },
-    "baseId": "eos",
-    "quoteId": "usdt",
     "baseCurrency": "EOS",
     "quoteCurrency": "Tether"
   },
@@ -438,8 +366,6 @@
       "base": "Epacoin",
       "quote": "BTC"
     },
-    "baseId": "epc",
-    "quoteId": "btc",
     "baseCurrency": "Epacoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -450,8 +376,6 @@
       "base": "ETC",
       "quote": "BCH"
     },
-    "baseId": "etc",
-    "quoteId": "bch",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -462,8 +386,6 @@
       "base": "ETC",
       "quote": "BRL"
     },
-    "baseId": "etc",
-    "quoteId": "brl",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Brazilian Real"
   },
@@ -474,8 +396,6 @@
       "base": "ETC",
       "quote": "BTC"
     },
-    "baseId": "etc",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin"
   },
@@ -486,8 +406,6 @@
       "base": "ETC",
       "quote": "USDT"
     },
-    "baseId": "etc",
-    "quoteId": "usdt",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Tether"
   },
@@ -498,8 +416,6 @@
       "base": "ETH",
       "quote": "BCH"
     },
-    "baseId": "eth",
-    "quoteId": "bch",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -510,8 +426,6 @@
       "base": "ETH",
       "quote": "BRL"
     },
-    "baseId": "eth",
-    "quoteId": "brl",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Brazilian Real"
   },
@@ -522,8 +436,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -534,8 +446,6 @@
       "base": "ETH",
       "quote": "USDT"
     },
-    "baseId": "eth",
-    "quoteId": "usdt",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Tether"
   },
@@ -546,8 +456,6 @@
       "base": "GNT",
       "quote": "BCH"
     },
-    "baseId": "gnt",
-    "quoteId": "bch",
     "baseCurrency": "Golem",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -558,8 +466,6 @@
       "base": "GNT",
       "quote": "BRL"
     },
-    "baseId": "gnt",
-    "quoteId": "brl",
     "baseCurrency": "Golem",
     "quoteCurrency": "Brazilian Real"
   },
@@ -570,8 +476,6 @@
       "base": "GNT",
       "quote": "BTC"
     },
-    "baseId": "gnt",
-    "quoteId": "btc",
     "baseCurrency": "Golem",
     "quoteCurrency": "Bitcoin"
   },
@@ -582,8 +486,6 @@
       "base": "GNT",
       "quote": "USDT"
     },
-    "baseId": "gnt",
-    "quoteId": "usdt",
     "baseCurrency": "Golem",
     "quoteCurrency": "Tether"
   },
@@ -594,8 +496,6 @@
       "base": "IOP",
       "quote": "BRL"
     },
-    "baseId": "iop",
-    "quoteId": "brl",
     "baseCurrency": "Internet of People",
     "quoteCurrency": "Brazilian Real"
   },
@@ -606,8 +506,6 @@
       "base": "IOP",
       "quote": "BTC"
     },
-    "baseId": "iop",
-    "quoteId": "btc",
     "baseCurrency": "Internet of People",
     "quoteCurrency": "Bitcoin"
   },
@@ -618,8 +516,6 @@
       "base": "IOP",
       "quote": "USDT"
     },
-    "baseId": "iop",
-    "quoteId": "usdt",
     "baseCurrency": "Internet of People",
     "quoteCurrency": "Tether"
   },
@@ -630,8 +526,6 @@
       "base": "LCC",
       "quote": "BRL"
     },
-    "baseId": "lcc",
-    "quoteId": "brl",
     "baseCurrency": "Litecoin Cash",
     "quoteCurrency": "Brazilian Real"
   },
@@ -642,8 +536,6 @@
       "base": "LCC",
       "quote": "BTC"
     },
-    "baseId": "lcc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -654,8 +546,6 @@
       "base": "LCC",
       "quote": "USDT"
     },
-    "baseId": "lcc",
-    "quoteId": "usdt",
     "baseCurrency": "Litecoin Cash",
     "quoteCurrency": "Tether"
   },
@@ -666,8 +556,6 @@
       "base": "LTC",
       "quote": "BCH"
     },
-    "baseId": "ltc",
-    "quoteId": "bch",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -678,8 +566,6 @@
       "base": "LTC",
       "quote": "BRL"
     },
-    "baseId": "ltc",
-    "quoteId": "brl",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Brazilian Real"
   },
@@ -690,8 +576,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "ltc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -702,8 +586,6 @@
       "base": "LTC",
       "quote": "USDT"
     },
-    "baseId": "ltc",
-    "quoteId": "usdt",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Tether"
   },
@@ -714,8 +596,6 @@
       "base": "MXT",
       "quote": "BCH"
     },
-    "baseId": "mxt",
-    "quoteId": "bch",
     "baseCurrency": "MarteXcoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -726,8 +606,6 @@
       "base": "MXT",
       "quote": "BRL"
     },
-    "baseId": "mxt",
-    "quoteId": "brl",
     "baseCurrency": "MarteXcoin",
     "quoteCurrency": "Brazilian Real"
   },
@@ -738,8 +616,6 @@
       "base": "MXT",
       "quote": "BTC"
     },
-    "baseId": "mxt",
-    "quoteId": "btc",
     "baseCurrency": "MarteXcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -750,8 +626,6 @@
       "base": "MXT",
       "quote": "USDT"
     },
-    "baseId": "mxt",
-    "quoteId": "usdt",
     "baseCurrency": "MarteXcoin",
     "quoteCurrency": "Tether"
   },
@@ -762,8 +636,6 @@
       "base": "OMG",
       "quote": "BCH"
     },
-    "baseId": "omg",
-    "quoteId": "bch",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -774,8 +646,6 @@
       "base": "OMG",
       "quote": "BRL"
     },
-    "baseId": "omg",
-    "quoteId": "brl",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Brazilian Real"
   },
@@ -786,8 +656,6 @@
       "base": "OMG",
       "quote": "BTC"
     },
-    "baseId": "omg",
-    "quoteId": "btc",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Bitcoin"
   },
@@ -798,8 +666,6 @@
       "base": "OMG",
       "quote": "USDT"
     },
-    "baseId": "omg",
-    "quoteId": "usdt",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Tether"
   },
@@ -810,8 +676,6 @@
       "base": "ONIX",
       "quote": "BRL"
     },
-    "baseId": "onix",
-    "quoteId": "brl",
     "baseCurrency": "ONIX",
     "quoteCurrency": "Brazilian Real"
   },
@@ -822,8 +686,6 @@
       "base": "ONIX",
       "quote": "BTC"
     },
-    "baseId": "onix",
-    "quoteId": "btc",
     "baseCurrency": "ONIX",
     "quoteCurrency": "Bitcoin"
   },
@@ -834,8 +696,6 @@
       "base": "ONIX",
       "quote": "USDT"
     },
-    "baseId": "onix",
-    "quoteId": "usdt",
     "baseCurrency": "ONIX",
     "quoteCurrency": "Tether"
   },
@@ -846,8 +706,6 @@
       "base": "PRSP",
       "quote": "BTC"
     },
-    "baseId": "prsp",
-    "quoteId": "btc",
     "baseCurrency": "PRSP",
     "quoteCurrency": "Bitcoin"
   },
@@ -858,8 +716,6 @@
       "base": "SMART",
       "quote": "BRL"
     },
-    "baseId": "smart",
-    "quoteId": "brl",
     "baseCurrency": "SmartCash",
     "quoteCurrency": "Brazilian Real"
   },
@@ -870,8 +726,6 @@
       "base": "SMART",
       "quote": "BTC"
     },
-    "baseId": "smart",
-    "quoteId": "btc",
     "baseCurrency": "SmartCash",
     "quoteCurrency": "Bitcoin"
   },
@@ -882,8 +736,6 @@
       "base": "SMART",
       "quote": "USDT"
     },
-    "baseId": "smart",
-    "quoteId": "usdt",
     "baseCurrency": "SmartCash",
     "quoteCurrency": "Tether"
   },
@@ -894,8 +746,6 @@
       "base": "SNGLS",
       "quote": "BRL"
     },
-    "baseId": "sngls",
-    "quoteId": "brl",
     "baseCurrency": "SingularDTV",
     "quoteCurrency": "Brazilian Real"
   },
@@ -906,8 +756,6 @@
       "base": "SNGLS",
       "quote": "BTC"
     },
-    "baseId": "sngls",
-    "quoteId": "btc",
     "baseCurrency": "SingularDTV",
     "quoteCurrency": "Bitcoin"
   },
@@ -918,8 +766,6 @@
       "base": "SNGLS",
       "quote": "USDT"
     },
-    "baseId": "sngls",
-    "quoteId": "usdt",
     "baseCurrency": "SingularDTV",
     "quoteCurrency": "Tether"
   },
@@ -930,8 +776,6 @@
       "base": "TRX",
       "quote": "BRL"
     },
-    "baseId": "trx",
-    "quoteId": "brl",
     "baseCurrency": "TRON",
     "quoteCurrency": "Brazilian Real"
   },
@@ -942,8 +786,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "trx",
-    "quoteId": "btc",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -954,8 +796,6 @@
       "base": "TRX",
       "quote": "USDT"
     },
-    "baseId": "trx",
-    "quoteId": "usdt",
     "baseCurrency": "TRON",
     "quoteCurrency": "Tether"
   },
@@ -966,8 +806,6 @@
       "base": "USDT",
       "quote": "BRL"
     },
-    "baseId": "usdt",
-    "quoteId": "brl",
     "baseCurrency": "Tether",
     "quoteCurrency": "Brazilian Real"
   },
@@ -978,8 +816,6 @@
       "base": "USDT",
       "quote": "BTC"
     },
-    "baseId": "usdt",
-    "quoteId": "btc",
     "baseCurrency": "Tether",
     "quoteCurrency": "Bitcoin"
   },
@@ -990,8 +826,6 @@
       "base": "XMR",
       "quote": "BCH"
     },
-    "baseId": "xmr",
-    "quoteId": "bch",
     "baseCurrency": "Monero",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1002,8 +836,6 @@
       "base": "XMR",
       "quote": "BRL"
     },
-    "baseId": "xmr",
-    "quoteId": "brl",
     "baseCurrency": "Monero",
     "quoteCurrency": "Brazilian Real"
   },
@@ -1014,8 +846,6 @@
       "base": "XMR",
       "quote": "BTC"
     },
-    "baseId": "xmr",
-    "quoteId": "btc",
     "baseCurrency": "Monero",
     "quoteCurrency": "Bitcoin"
   },
@@ -1026,8 +856,6 @@
       "base": "XMR",
       "quote": "USDT"
     },
-    "baseId": "xmr",
-    "quoteId": "usdt",
     "baseCurrency": "Monero",
     "quoteCurrency": "Tether"
   },
@@ -1038,8 +866,6 @@
       "base": "XRP",
       "quote": "BCH"
     },
-    "baseId": "xrp",
-    "quoteId": "bch",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1050,8 +876,6 @@
       "base": "XRP",
       "quote": "BRL"
     },
-    "baseId": "xrp",
-    "quoteId": "brl",
     "baseCurrency": "XRP",
     "quoteCurrency": "Brazilian Real"
   },
@@ -1062,8 +886,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "xrp",
-    "quoteId": "btc",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   },
@@ -1074,8 +896,6 @@
       "base": "XRP",
       "quote": "USDT"
     },
-    "baseId": "xrp",
-    "quoteId": "usdt",
     "baseCurrency": "XRP",
     "quoteCurrency": "Tether"
   },
@@ -1086,8 +906,6 @@
       "base": "ZEC",
       "quote": "BCH"
     },
-    "baseId": "zec",
-    "quoteId": "bch",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1098,8 +916,6 @@
       "base": "ZEC",
       "quote": "BRL"
     },
-    "baseId": "zec",
-    "quoteId": "brl",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Brazilian Real"
   },
@@ -1110,8 +926,6 @@
       "base": "ZEC",
       "quote": "BTC"
     },
-    "baseId": "zec",
-    "quoteId": "btc",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin"
   },
@@ -1122,8 +936,6 @@
       "base": "ZEC",
       "quote": "USDT"
     },
-    "baseId": "zec",
-    "quoteId": "usdt",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Tether"
   }

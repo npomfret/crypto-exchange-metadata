@@ -6,8 +6,6 @@
       "base": "Gold",
       "quote": "BTC"
     },
-    "baseId": "GLD",
-    "quoteId": "BTC",
     "baseCurrency": "Gold",
     "quoteCurrency": "Bitcoin"
   }

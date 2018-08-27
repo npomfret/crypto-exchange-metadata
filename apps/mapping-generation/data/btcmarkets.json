@@ -6,8 +6,6 @@
       "base": "BCH",
       "quote": "AUD"
     },
-    "baseId": "BCH",
-    "quoteId": "AUD",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Australian Dollar"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "BCH",
-    "quoteId": "BTC",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "BTC",
       "quote": "AUD"
     },
-    "baseId": "BTC",
-    "quoteId": "AUD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -42,8 +36,6 @@
       "base": "ETC",
       "quote": "AUD"
     },
-    "baseId": "ETC",
-    "quoteId": "AUD",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Australian Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "ETC",
       "quote": "BTC"
     },
-    "baseId": "ETC",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin"
   },
@@ -66,8 +56,6 @@
       "base": "ETH",
       "quote": "AUD"
     },
-    "baseId": "ETH",
-    "quoteId": "AUD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Australian Dollar"
   },
@@ -78,8 +66,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "LTC",
       "quote": "AUD"
     },
-    "baseId": "LTC",
-    "quoteId": "AUD",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -102,8 +86,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "BTC",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "OMG",
       "quote": "AUD"
     },
-    "baseId": "OMG",
-    "quoteId": "AUD",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Australian Dollar"
   },
@@ -126,8 +106,6 @@
       "base": "OMG",
       "quote": "BTC"
     },
-    "baseId": "OMG",
-    "quoteId": "BTC",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Bitcoin"
   },
@@ -138,8 +116,6 @@
       "base": "POWR",
       "quote": "AUD"
     },
-    "baseId": "POWR",
-    "quoteId": "AUD",
     "baseCurrency": "Power Ledger",
     "quoteCurrency": "Australian Dollar"
   },
@@ -150,8 +126,6 @@
       "base": "POWR",
       "quote": "BTC"
     },
-    "baseId": "POWR",
-    "quoteId": "BTC",
     "baseCurrency": "Power Ledger",
     "quoteCurrency": "Bitcoin"
   },
@@ -162,8 +136,6 @@
       "base": "XRP",
       "quote": "AUD"
     },
-    "baseId": "XRP",
-    "quoteId": "AUD",
     "baseCurrency": "XRP",
     "quoteCurrency": "Australian Dollar"
   },
@@ -174,8 +146,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "XRP",
-    "quoteId": "BTC",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   }

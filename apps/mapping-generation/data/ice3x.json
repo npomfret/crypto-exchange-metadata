@@ -6,8 +6,6 @@
       "base": "ETH",
       "quote": "ZAR"
     },
-    "baseId": "6",
-    "quoteId": "3",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "South African Rand"
   },
@@ -18,8 +16,6 @@
       "base": "ETH",
       "quote": "NGN"
     },
-    "baseId": "6",
-    "quoteId": "5",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Nigerian Naira"
   },
@@ -30,8 +26,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "6",
-    "quoteId": "1",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "7",
-    "quoteId": "1",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -54,8 +46,6 @@
       "base": "BCH",
       "quote": "ZAR"
     },
-    "baseId": "7",
-    "quoteId": "3",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "South African Rand"
   },
@@ -66,8 +56,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "2",
-    "quoteId": "1",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -78,8 +66,6 @@
       "base": "ZEC",
       "quote": "BTC"
     },
-    "baseId": "8",
-    "quoteId": "1",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "DASH",
       "quote": "BTC"
     },
-    "baseId": "9",
-    "quoteId": "1",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin"
   },
@@ -102,8 +86,6 @@
       "base": "DOGE",
       "quote": "BTC"
     },
-    "baseId": "10",
-    "quoteId": "1",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "XMR",
       "quote": "BTC"
     },
-    "baseId": "11",
-    "quoteId": "1",
     "baseCurrency": "Monero",
     "quoteCurrency": "Bitcoin"
   },
@@ -126,8 +106,6 @@
       "base": "XMR",
       "quote": "ZAR"
     },
-    "baseId": "11",
-    "quoteId": "3",
     "baseCurrency": "Monero",
     "quoteCurrency": "South African Rand"
   },
@@ -138,8 +116,6 @@
       "base": "NEO",
       "quote": "BTC"
     },
-    "baseId": "13",
-    "quoteId": "1",
     "baseCurrency": "NEO",
     "quoteCurrency": "Bitcoin"
   },
@@ -150,8 +126,6 @@
       "base": "ADA",
       "quote": "ZAR"
     },
-    "baseId": "14",
-    "quoteId": "3",
     "baseCurrency": "Cardano",
     "quoteCurrency": "South African Rand"
   },
@@ -162,8 +136,6 @@
       "base": "ADA",
       "quote": "BTC"
     },
-    "baseId": "14",
-    "quoteId": "1",
     "baseCurrency": "Cardano",
     "quoteCurrency": "Bitcoin"
   },
@@ -174,8 +146,6 @@
       "base": "BTC",
       "quote": "ZAR"
     },
-    "baseId": "1",
-    "quoteId": "3",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "South African Rand"
   },
@@ -186,8 +156,6 @@
       "base": "BTC",
       "quote": "NGN"
     },
-    "baseId": "1",
-    "quoteId": "5",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Nigerian Naira"
   },
@@ -198,8 +166,6 @@
       "base": "LTC",
       "quote": "ZAR"
     },
-    "baseId": "2",
-    "quoteId": "3",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "South African Rand"
   }

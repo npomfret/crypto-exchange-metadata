@@ -6,8 +6,6 @@
       "base": "BTC",
       "quote": "USD"
     },
-    "baseId": "BTC",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -18,8 +16,6 @@
       "base": "RKT",
       "quote": "SGD"
     },
-    "baseId": "RKT",
-    "quoteId": "SGD",
     "baseCurrency": "Rock",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -30,8 +26,6 @@
       "base": "RKT",
       "quote": "AUD"
     },
-    "baseId": "RKT",
-    "quoteId": "AUD",
     "baseCurrency": "Rock",
     "quoteCurrency": "Australian Dollar"
   },
@@ -42,8 +36,6 @@
       "base": "RKT",
       "quote": "USD"
     },
-    "baseId": "RKT",
-    "quoteId": "USD",
     "baseCurrency": "Rock",
     "quoteCurrency": "US Dollar"
   },
@@ -54,8 +46,6 @@
       "base": "RKT",
       "quote": "EUR"
     },
-    "baseId": "RKT",
-    "quoteId": "EUR",
     "baseCurrency": "Rock",
     "quoteCurrency": "Euro"
   },
@@ -66,8 +56,6 @@
       "base": "RKT",
       "quote": "JPY"
     },
-    "baseId": "RKT",
-    "quoteId": "JPY",
     "baseCurrency": "Rock",
     "quoteCurrency": "Japanese Yen"
   },
@@ -78,8 +66,6 @@
       "base": "BTC",
       "quote": "IDR"
     },
-    "baseId": "BTC",
-    "quoteId": "IDR",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -90,8 +76,6 @@
       "base": "BTC",
       "quote": "AUD"
     },
-    "baseId": "BTC",
-    "quoteId": "AUD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Australian Dollar"
   },
@@ -102,8 +86,6 @@
       "base": "BTC",
       "quote": "PHP"
     },
-    "baseId": "BTC",
-    "quoteId": "PHP",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Philippine Peso"
   },
@@ -114,8 +96,6 @@
       "base": "BTC",
       "quote": "CNY"
     },
-    "baseId": "BTC",
-    "quoteId": "CNY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Chinese Yuan"
   },
@@ -126,8 +106,6 @@
       "base": "BTC",
       "quote": "INR"
     },
-    "baseId": "BTC",
-    "quoteId": "INR",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Indian Rupee"
   },
@@ -138,8 +116,6 @@
       "base": "ETH",
       "quote": "USD"
     },
-    "baseId": "ETH",
-    "quoteId": "USD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "US Dollar"
   },
@@ -150,8 +126,6 @@
       "base": "ETH",
       "quote": "EUR"
     },
-    "baseId": "ETH",
-    "quoteId": "EUR",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Euro"
   },
@@ -162,8 +136,6 @@
       "base": "ETH",
       "quote": "JPY"
     },
-    "baseId": "ETH",
-    "quoteId": "JPY",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Japanese Yen"
   },
@@ -174,8 +146,6 @@
       "base": "BTC",
       "quote": "EUR"
     },
-    "baseId": "BTC",
-    "quoteId": "EUR",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Euro"
   },
@@ -186,8 +156,6 @@
       "base": "ETH",
       "quote": "SGD"
     },
-    "baseId": "ETH",
-    "quoteId": "SGD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -198,8 +166,6 @@
       "base": "ETH",
       "quote": "HKD"
     },
-    "baseId": "ETH",
-    "quoteId": "HKD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -210,8 +176,6 @@
       "base": "ETH",
       "quote": "IDR"
     },
-    "baseId": "ETH",
-    "quoteId": "IDR",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -222,8 +186,6 @@
       "base": "ETH",
       "quote": "AUD"
     },
-    "baseId": "ETH",
-    "quoteId": "AUD",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Australian Dollar"
   },
@@ -234,8 +196,6 @@
       "base": "ETH",
       "quote": "PHP"
     },
-    "baseId": "ETH",
-    "quoteId": "PHP",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Philippine Peso"
   },
@@ -246,8 +206,6 @@
       "base": "ETH",
       "quote": "CNY"
     },
-    "baseId": "ETH",
-    "quoteId": "CNY",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Chinese Yuan"
   },
@@ -258,8 +216,6 @@
       "base": "ETH",
       "quote": "INR"
     },
-    "baseId": "ETH",
-    "quoteId": "INR",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Indian Rupee"
   },
@@ -270,8 +226,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -282,8 +236,6 @@
       "base": "BCH",
       "quote": "USD"
     },
-    "baseId": "BCH",
-    "quoteId": "USD",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "US Dollar"
   },
@@ -294,8 +246,6 @@
       "base": "BCH",
       "quote": "SGD"
     },
-    "baseId": "BCH",
-    "quoteId": "SGD",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -306,8 +256,6 @@
       "base": "BCH",
       "quote": "JPY"
     },
-    "baseId": "BCH",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Japanese Yen"
   },
@@ -318,8 +266,6 @@
       "base": "DASH",
       "quote": "SGD"
     },
-    "baseId": "DASH",
-    "quoteId": "SGD",
     "baseCurrency": "Dash",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -330,8 +276,6 @@
       "base": "DASH",
       "quote": "USD"
     },
-    "baseId": "DASH",
-    "quoteId": "USD",
     "baseCurrency": "Dash",
     "quoteCurrency": "US Dollar"
   },
@@ -342,8 +286,6 @@
       "base": "DASH",
       "quote": "JPY"
     },
-    "baseId": "DASH",
-    "quoteId": "JPY",
     "baseCurrency": "Dash",
     "quoteCurrency": "Japanese Yen"
   },
@@ -354,8 +296,6 @@
       "base": "DASH",
       "quote": "EUR"
     },
-    "baseId": "DASH",
-    "quoteId": "EUR",
     "baseCurrency": "Dash",
     "quoteCurrency": "Euro"
   },
@@ -366,8 +306,6 @@
       "base": "QTUM",
       "quote": "SGD"
     },
-    "baseId": "QTUM",
-    "quoteId": "SGD",
     "baseCurrency": "Qtum",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -378,8 +316,6 @@
       "base": "QTUM",
       "quote": "USD"
     },
-    "baseId": "QTUM",
-    "quoteId": "USD",
     "baseCurrency": "Qtum",
     "quoteCurrency": "US Dollar"
   },
@@ -390,8 +326,6 @@
       "base": "QTUM",
       "quote": "JPY"
     },
-    "baseId": "QTUM",
-    "quoteId": "JPY",
     "baseCurrency": "Qtum",
     "quoteCurrency": "Japanese Yen"
   },
@@ -402,8 +336,6 @@
       "base": "QTUM",
       "quote": "EUR"
     },
-    "baseId": "QTUM",
-    "quoteId": "EUR",
     "baseCurrency": "Qtum",
     "quoteCurrency": "Euro"
   },
@@ -414,8 +346,6 @@
       "base": "BTC",
       "quote": "JPY"
     },
-    "baseId": "BTC",
-    "quoteId": "JPY",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -426,8 +356,6 @@
       "base": "QASH",
       "quote": "JPY"
     },
-    "baseId": "QASH",
-    "quoteId": "JPY",
     "baseCurrency": "QASH",
     "quoteCurrency": "Japanese Yen"
   },
@@ -438,8 +366,6 @@
       "base": "QASH",
       "quote": "ETH"
     },
-    "baseId": "QASH",
-    "quoteId": "ETH",
     "baseCurrency": "QASH",
     "quoteCurrency": "Ethereum"
   },
@@ -450,8 +376,6 @@
       "base": "QASH",
       "quote": "BTC"
     },
-    "baseId": "QASH",
-    "quoteId": "BTC",
     "baseCurrency": "QASH",
     "quoteCurrency": "Bitcoin"
   },
@@ -462,8 +386,6 @@
       "base": "NEO",
       "quote": "USD"
     },
-    "baseId": "NEO",
-    "quoteId": "USD",
     "baseCurrency": "NEO",
     "quoteCurrency": "US Dollar"
   },
@@ -474,8 +396,6 @@
       "base": "NEO",
       "quote": "JPY"
     },
-    "baseId": "NEO",
-    "quoteId": "JPY",
     "baseCurrency": "NEO",
     "quoteCurrency": "Japanese Yen"
   },
@@ -486,8 +406,6 @@
       "base": "NEO",
       "quote": "SGD"
     },
-    "baseId": "NEO",
-    "quoteId": "SGD",
     "baseCurrency": "NEO",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -498,8 +416,6 @@
       "base": "NEO",
       "quote": "EUR"
     },
-    "baseId": "NEO",
-    "quoteId": "EUR",
     "baseCurrency": "NEO",
     "quoteCurrency": "Euro"
   },
@@ -510,8 +426,6 @@
       "base": "QASH",
       "quote": "USD"
     },
-    "baseId": "QASH",
-    "quoteId": "USD",
     "baseCurrency": "QASH",
     "quoteCurrency": "US Dollar"
   },
@@ -522,8 +436,6 @@
       "base": "QASH",
       "quote": "EUR"
     },
-    "baseId": "QASH",
-    "quoteId": "EUR",
     "baseCurrency": "QASH",
     "quoteCurrency": "Euro"
   },
@@ -534,8 +446,6 @@
       "base": "QASH",
       "quote": "SGD"
     },
-    "baseId": "QASH",
-    "quoteId": "SGD",
     "baseCurrency": "QASH",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -546,8 +456,6 @@
       "base": "QASH",
       "quote": "AUD"
     },
-    "baseId": "QASH",
-    "quoteId": "AUD",
     "baseCurrency": "QASH",
     "quoteCurrency": "Australian Dollar"
   },
@@ -558,8 +466,6 @@
       "base": "QASH",
       "quote": "IDR"
     },
-    "baseId": "QASH",
-    "quoteId": "IDR",
     "baseCurrency": "QASH",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -570,8 +476,6 @@
       "base": "QASH",
       "quote": "HKD"
     },
-    "baseId": "QASH",
-    "quoteId": "HKD",
     "baseCurrency": "QASH",
     "quoteCurrency": "Hong Kong Dollar"
   },
@@ -582,8 +486,6 @@
       "base": "QASH",
       "quote": "PHP"
     },
-    "baseId": "QASH",
-    "quoteId": "PHP",
     "baseCurrency": "QASH",
     "quoteCurrency": "Philippine Peso"
   },
@@ -594,8 +496,6 @@
       "base": "QASH",
       "quote": "CNY"
     },
-    "baseId": "QASH",
-    "quoteId": "CNY",
     "baseCurrency": "QASH",
     "quoteCurrency": "Chinese Yuan"
   },
@@ -606,8 +506,6 @@
       "base": "QASH",
       "quote": "INR"
     },
-    "baseId": "QASH",
-    "quoteId": "INR",
     "baseCurrency": "QASH",
     "quoteCurrency": "Indian Rupee"
   },
@@ -618,8 +516,6 @@
       "base": "BTC",
       "quote": "SGD"
     },
-    "baseId": "BTC",
-    "quoteId": "SGD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -630,8 +526,6 @@
       "base": "UBTC",
       "quote": "USD"
     },
-    "baseId": "UBTC",
-    "quoteId": "USD",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "US Dollar"
   },
@@ -642,8 +536,6 @@
       "base": "UBTC",
       "quote": "JPY"
     },
-    "baseId": "UBTC",
-    "quoteId": "JPY",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "Japanese Yen"
   },
@@ -654,8 +546,6 @@
       "base": "UBTC",
       "quote": "SGD"
     },
-    "baseId": "UBTC",
-    "quoteId": "SGD",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -666,8 +556,6 @@
       "base": "UBTC",
       "quote": "BTC"
     },
-    "baseId": "UBTC",
-    "quoteId": "BTC",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -678,8 +566,6 @@
       "base": "UBTC",
       "quote": "ETH"
     },
-    "baseId": "UBTC",
-    "quoteId": "ETH",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "Ethereum"
   },
@@ -690,8 +576,6 @@
       "base": "UBTC",
       "quote": "QASH"
     },
-    "baseId": "UBTC",
-    "quoteId": "QASH",
     "baseCurrency": "United Bitcoin",
     "quoteCurrency": "QASH"
   },
@@ -702,8 +586,6 @@
       "base": "XRP",
       "quote": "JPY"
     },
-    "baseId": "XRP",
-    "quoteId": "JPY",
     "baseCurrency": "XRP",
     "quoteCurrency": "Japanese Yen"
   },
@@ -714,8 +596,6 @@
       "base": "XRP",
       "quote": "USD"
     },
-    "baseId": "XRP",
-    "quoteId": "USD",
     "baseCurrency": "XRP",
     "quoteCurrency": "US Dollar"
   },
@@ -726,8 +606,6 @@
       "base": "XRP",
       "quote": "EUR"
     },
-    "baseId": "XRP",
-    "quoteId": "EUR",
     "baseCurrency": "XRP",
     "quoteCurrency": "Euro"
   },
@@ -738,8 +616,6 @@
       "base": "XRP",
       "quote": "SGD"
     },
-    "baseId": "XRP",
-    "quoteId": "SGD",
     "baseCurrency": "XRP",
     "quoteCurrency": "Singapore Dollar"
   },
@@ -750,8 +626,6 @@
       "base": "XRP",
       "quote": "IDR"
     },
-    "baseId": "XRP",
-    "quoteId": "IDR",
     "baseCurrency": "XRP",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -762,8 +636,6 @@
       "base": "XRP",
       "quote": "QASH"
     },
-    "baseId": "XRP",
-    "quoteId": "QASH",
     "baseCurrency": "XRP",
     "quoteCurrency": "QASH"
   },
@@ -774,8 +646,6 @@
       "base": "BTC",
       "quote": "HKD"
     },
-    "baseId": "BTC",
-    "quoteId": "HKD",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Hong Kong Dollar"
   }

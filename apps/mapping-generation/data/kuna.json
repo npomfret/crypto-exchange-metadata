@@ -6,8 +6,6 @@
       "base": "ARN",
       "quote": "BTC"
     },
-    "baseId": "arn",
-    "quoteId": "btc",
     "baseCurrency": "Aeron",
     "quoteCurrency": "Bitcoin"
   },
@@ -18,8 +16,6 @@
       "base": "BCH",
       "quote": "BTC"
     },
-    "baseId": "bch",
-    "quoteId": "btc",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "BCH",
       "quote": "UAH"
     },
-    "baseId": "bch",
-    "quoteId": "uah",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -42,8 +36,6 @@
       "base": "BTC",
       "quote": "UAH"
     },
-    "baseId": "btc",
-    "quoteId": "uah",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -54,8 +46,6 @@
       "base": "DASH",
       "quote": "UAH"
     },
-    "baseId": "dash",
-    "quoteId": "uah",
     "baseCurrency": "Dash",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -66,8 +56,6 @@
       "base": "EOS",
       "quote": "UAH"
     },
-    "baseId": "eos",
-    "quoteId": "uah",
     "baseCurrency": "EOS",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -78,8 +66,6 @@
       "base": "ERC20",
       "quote": "BTC"
     },
-    "baseId": "erc20",
-    "quoteId": "btc",
     "baseCurrency": "ERC20",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "ETH",
       "quote": "UAH"
     },
-    "baseId": "eth",
-    "quoteId": "uah",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -102,8 +86,6 @@
       "base": "EVR",
       "quote": "BTC"
     },
-    "baseId": "evr",
-    "quoteId": "btc",
     "baseCurrency": "Everus",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "FOOD",
       "quote": "BTC"
     },
-    "baseId": "food",
-    "quoteId": "btc",
     "baseCurrency": "FoodCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -126,8 +106,6 @@
       "base": "GBG",
       "quote": "UAH"
     },
-    "baseId": "gbg",
-    "quoteId": "uah",
     "baseCurrency": "Golos Gold",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -138,8 +116,6 @@
       "base": "GOL",
       "quote": "GBG"
     },
-    "baseId": "gol",
-    "quoteId": "gbg",
     "baseCurrency": "GOL",
     "quoteCurrency": "Golos Gold"
   },
@@ -150,8 +126,6 @@
       "base": "HKN",
       "quote": "BTC"
     },
-    "baseId": "hkn",
-    "quoteId": "btc",
     "baseCurrency": "Hacken",
     "quoteCurrency": "Bitcoin"
   },
@@ -162,8 +136,6 @@
       "base": "KRB",
       "quote": "UAH"
     },
-    "baseId": "krb",
-    "quoteId": "uah",
     "baseCurrency": "Karbo",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -174,8 +146,6 @@
       "base": "KUN",
       "quote": "BTC"
     },
-    "baseId": "kun",
-    "quoteId": "btc",
     "baseCurrency": "KUN",
     "quoteCurrency": "Bitcoin"
   },
@@ -186,8 +156,6 @@
       "base": "LTC",
       "quote": "UAH"
     },
-    "baseId": "ltc",
-    "quoteId": "uah",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -198,8 +166,6 @@
       "base": "R",
       "quote": "BTC"
     },
-    "baseId": "r",
-    "quoteId": "btc",
     "baseCurrency": "Revain",
     "quoteCurrency": "Bitcoin"
   },
@@ -210,8 +176,6 @@
       "base": "REMETH",
       "quote": ""
     },
-    "baseId": "remeth",
-    "quoteId": "",
     "baseCurrency": "REMETH",
     "quoteCurrency": ""
   },
@@ -222,8 +186,6 @@
       "base": "REM",
       "quote": "UAH"
     },
-    "baseId": "rem",
-    "quoteId": "uah",
     "baseCurrency": "Remme",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -234,8 +196,6 @@
       "base": "RMC",
       "quote": "BTC"
     },
-    "baseId": "rmc",
-    "quoteId": "btc",
     "baseCurrency": "Russian Miner Coin",
     "quoteCurrency": "Bitcoin"
   },
@@ -246,8 +206,6 @@
       "base": "TUSD",
       "quote": "UAH"
     },
-    "baseId": "tusd",
-    "quoteId": "uah",
     "baseCurrency": "TrueUSD",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -258,8 +216,6 @@
       "base": "VENUS",
       "quote": "BTC"
     },
-    "baseId": "venus",
-    "quoteId": "btc",
     "baseCurrency": "VENUS",
     "quoteCurrency": "Bitcoin"
   },
@@ -270,8 +226,6 @@
       "base": "WAVES",
       "quote": "UAH"
     },
-    "baseId": "waves",
-    "quoteId": "uah",
     "baseCurrency": "Waves",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -282,8 +236,6 @@
       "base": "XEM",
       "quote": "UAH"
     },
-    "baseId": "xem",
-    "quoteId": "uah",
     "baseCurrency": "NEM",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -294,8 +246,6 @@
       "base": "XLM",
       "quote": "UAH"
     },
-    "baseId": "xlm",
-    "quoteId": "uah",
     "baseCurrency": "Stellar",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -306,8 +256,6 @@
       "base": "XRP",
       "quote": "UAH"
     },
-    "baseId": "xrp",
-    "quoteId": "uah",
     "baseCurrency": "XRP",
     "quoteCurrency": "Ukrainian Hryvnia"
   },
@@ -318,8 +266,6 @@
       "base": "ZEC",
       "quote": "UAH"
     },
-    "baseId": "zec",
-    "quoteId": "uah",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Ukrainian Hryvnia"
   }

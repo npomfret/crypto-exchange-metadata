@@ -6,8 +6,6 @@
       "base": "BBN",
       "quote": "BCH"
     },
-    "baseId": "BBN",
-    "quoteId": "BCH",
     "baseCurrency": "Banyan Network",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -18,8 +16,6 @@
       "base": "BBN",
       "quote": "BTC"
     },
-    "baseId": "BBN",
-    "quoteId": "BTC",
     "baseCurrency": "Banyan Network",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "BBN",
       "quote": "ETH"
     },
-    "baseId": "BBN",
-    "quoteId": "ETH",
     "baseCurrency": "Banyan Network",
     "quoteCurrency": "Ethereum"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "USDT"
     },
-    "baseId": "BCH",
-    "quoteId": "USDT",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Tether"
   },
@@ -54,8 +46,6 @@
       "base": "BTC",
       "quote": "BCH"
     },
-    "baseId": "BTC",
-    "quoteId": "BCH",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -66,8 +56,6 @@
       "base": "BTC",
       "quote": "USDT"
     },
-    "baseId": "BTC",
-    "quoteId": "USDT",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Tether"
   },
@@ -78,8 +66,6 @@
       "base": "BTM",
       "quote": "BCH"
     },
-    "baseId": "BTM",
-    "quoteId": "BCH",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -90,8 +76,6 @@
       "base": "BTM",
       "quote": "BTC"
     },
-    "baseId": "BTM",
-    "quoteId": "BTC",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Bitcoin"
   },
@@ -102,8 +86,6 @@
       "base": "BTM",
       "quote": "ETH"
     },
-    "baseId": "BTM",
-    "quoteId": "ETH",
     "baseCurrency": "Bitmark",
     "quoteCurrency": "Ethereum"
   },
@@ -114,8 +96,6 @@
       "base": "BTV",
       "quote": "BCH"
     },
-    "baseId": "BTV",
-    "quoteId": "BCH",
     "baseCurrency": "BTV",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -126,8 +106,6 @@
       "base": "CARD",
       "quote": "BCH"
     },
-    "baseId": "CARD",
-    "quoteId": "BCH",
     "baseCurrency": "Cardstack",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -138,8 +116,6 @@
       "base": "CARD",
       "quote": "BTC"
     },
-    "baseId": "CARD",
-    "quoteId": "BTC",
     "baseCurrency": "Cardstack",
     "quoteCurrency": "Bitcoin"
   },
@@ -150,8 +126,6 @@
       "base": "CARD",
       "quote": "ETH"
     },
-    "baseId": "CARD",
-    "quoteId": "ETH",
     "baseCurrency": "Cardstack",
     "quoteCurrency": "Ethereum"
   },
@@ -162,8 +136,6 @@
       "base": "CDY",
       "quote": "BCH"
     },
-    "baseId": "CDY",
-    "quoteId": "BCH",
     "baseCurrency": "CDY",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -174,8 +146,6 @@
       "base": "CET",
       "quote": "BCH"
     },
-    "baseId": "CET",
-    "quoteId": "BCH",
     "baseCurrency": "CoinEx Token",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -186,8 +156,6 @@
       "base": "CET",
       "quote": "BTC"
     },
-    "baseId": "CET",
-    "quoteId": "BTC",
     "baseCurrency": "CoinEx Token",
     "quoteCurrency": "Bitcoin"
   },
@@ -198,8 +166,6 @@
       "base": "CET",
       "quote": "ETH"
     },
-    "baseId": "CET",
-    "quoteId": "ETH",
     "baseCurrency": "CoinEx Token",
     "quoteCurrency": "Ethereum"
   },
@@ -210,8 +176,6 @@
       "base": "CET",
       "quote": "USDT"
     },
-    "baseId": "CET",
-    "quoteId": "USDT",
     "baseCurrency": "CoinEx Token",
     "quoteCurrency": "Tether"
   },
@@ -222,8 +186,6 @@
       "base": "CMT",
       "quote": "BCH"
     },
-    "baseId": "CMT",
-    "quoteId": "BCH",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -234,8 +196,6 @@
       "base": "CMT",
       "quote": "BTC"
     },
-    "baseId": "CMT",
-    "quoteId": "BTC",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Bitcoin"
   },
@@ -246,8 +206,6 @@
       "base": "CMT",
       "quote": "ETH"
     },
-    "baseId": "CMT",
-    "quoteId": "ETH",
     "baseCurrency": "CyberMiles",
     "quoteCurrency": "Ethereum"
   },
@@ -258,8 +216,6 @@
       "base": "CNN",
       "quote": "BCH"
     },
-    "baseId": "CNN",
-    "quoteId": "BCH",
     "baseCurrency": "Content Neutrality Network",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -270,8 +226,6 @@
       "base": "CNN",
       "quote": "BTC"
     },
-    "baseId": "CNN",
-    "quoteId": "BTC",
     "baseCurrency": "Content Neutrality Network",
     "quoteCurrency": "Bitcoin"
   },
@@ -282,8 +236,6 @@
       "base": "CNN",
       "quote": "ETH"
     },
-    "baseId": "CNN",
-    "quoteId": "ETH",
     "baseCurrency": "Content Neutrality Network",
     "quoteCurrency": "Ethereum"
   },
@@ -294,8 +246,6 @@
       "base": "CODY",
       "quote": "BCH"
     },
-    "baseId": "CODY",
-    "quoteId": "BCH",
     "baseCurrency": "CODY",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -306,8 +256,6 @@
       "base": "CODY",
       "quote": "ETH"
     },
-    "baseId": "CODY",
-    "quoteId": "ETH",
     "baseCurrency": "CODY",
     "quoteCurrency": "Ethereum"
   },
@@ -318,8 +266,6 @@
       "base": "CTXC",
       "quote": "BCH"
     },
-    "baseId": "CTXC",
-    "quoteId": "BCH",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -330,8 +276,6 @@
       "base": "CTXC",
       "quote": "BTC"
     },
-    "baseId": "CTXC",
-    "quoteId": "BTC",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Bitcoin"
   },
@@ -342,8 +286,6 @@
       "base": "CTXC",
       "quote": "ETH"
     },
-    "baseId": "CTXC",
-    "quoteId": "ETH",
     "baseCurrency": "Cortex",
     "quoteCurrency": "Ethereum"
   },
@@ -354,8 +296,6 @@
       "base": "DACC",
       "quote": "BCH"
     },
-    "baseId": "DACC",
-    "quoteId": "BCH",
     "baseCurrency": "DACC",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -366,8 +306,6 @@
       "base": "DACC",
       "quote": "BTC"
     },
-    "baseId": "DACC",
-    "quoteId": "BTC",
     "baseCurrency": "DACC",
     "quoteCurrency": "Bitcoin"
   },
@@ -378,8 +316,6 @@
       "base": "DACC",
       "quote": "ETH"
     },
-    "baseId": "DACC",
-    "quoteId": "ETH",
     "baseCurrency": "DACC",
     "quoteCurrency": "Ethereum"
   },
@@ -390,8 +326,6 @@
       "base": "DASH",
       "quote": "BCH"
     },
-    "baseId": "DASH",
-    "quoteId": "BCH",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -402,8 +336,6 @@
       "base": "DASH",
       "quote": "BTC"
     },
-    "baseId": "DASH",
-    "quoteId": "BTC",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin"
   },
@@ -414,8 +346,6 @@
       "base": "DASH",
       "quote": "USDT"
     },
-    "baseId": "DASH",
-    "quoteId": "USDT",
     "baseCurrency": "Dash",
     "quoteCurrency": "Tether"
   },
@@ -426,8 +356,6 @@
       "base": "DCR",
       "quote": "BCH"
     },
-    "baseId": "DCR",
-    "quoteId": "BCH",
     "baseCurrency": "Decred",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -438,8 +366,6 @@
       "base": "DCR",
       "quote": "BTC"
     },
-    "baseId": "DCR",
-    "quoteId": "BTC",
     "baseCurrency": "Decred",
     "quoteCurrency": "Bitcoin"
   },
@@ -450,8 +376,6 @@
       "base": "DOGE",
       "quote": "BCH"
     },
-    "baseId": "DOGE",
-    "quoteId": "BCH",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -462,8 +386,6 @@
       "base": "DOGE",
       "quote": "BTC"
     },
-    "baseId": "DOGE",
-    "quoteId": "BTC",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -474,8 +396,6 @@
       "base": "EGT",
       "quote": "BCH"
     },
-    "baseId": "EGT",
-    "quoteId": "BCH",
     "baseCurrency": "Egretia",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -486,8 +406,6 @@
       "base": "EGT",
       "quote": "BTC"
     },
-    "baseId": "EGT",
-    "quoteId": "BTC",
     "baseCurrency": "Egretia",
     "quoteCurrency": "Bitcoin"
   },
@@ -498,8 +416,6 @@
       "base": "EGT",
       "quote": "ETH"
     },
-    "baseId": "EGT",
-    "quoteId": "ETH",
     "baseCurrency": "Egretia",
     "quoteCurrency": "Ethereum"
   },
@@ -510,8 +426,6 @@
       "base": "EOS",
       "quote": "BCH"
     },
-    "baseId": "EOS",
-    "quoteId": "BCH",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -522,8 +436,6 @@
       "base": "EOS",
       "quote": "BTC"
     },
-    "baseId": "EOS",
-    "quoteId": "BTC",
     "baseCurrency": "EOS",
     "quoteCurrency": "Bitcoin"
   },
@@ -534,8 +446,6 @@
       "base": "EOSDAC",
       "quote": "BCH"
     },
-    "baseId": "EOSDAC",
-    "quoteId": "BCH",
     "baseCurrency": "eosDAC",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -546,8 +456,6 @@
       "base": "EOSDAC",
       "quote": "BTC"
     },
-    "baseId": "EOSDAC",
-    "quoteId": "BTC",
     "baseCurrency": "eosDAC",
     "quoteCurrency": "Bitcoin"
   },
@@ -558,8 +466,6 @@
       "base": "EOS",
       "quote": "ETH"
     },
-    "baseId": "EOS",
-    "quoteId": "ETH",
     "baseCurrency": "EOS",
     "quoteCurrency": "Ethereum"
   },
@@ -570,8 +476,6 @@
       "base": "EOS",
       "quote": "USDT"
     },
-    "baseId": "EOS",
-    "quoteId": "USDT",
     "baseCurrency": "EOS",
     "quoteCurrency": "Tether"
   },
@@ -582,8 +486,6 @@
       "base": "ETC",
       "quote": "BCH"
     },
-    "baseId": "ETC",
-    "quoteId": "BCH",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -594,8 +496,6 @@
       "base": "ETC",
       "quote": "BTC"
     },
-    "baseId": "ETC",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Bitcoin"
   },
@@ -606,8 +506,6 @@
       "base": "ETC",
       "quote": "USDT"
     },
-    "baseId": "ETC",
-    "quoteId": "USDT",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Tether"
   },
@@ -618,8 +516,6 @@
       "base": "ETH",
       "quote": "BCH"
     },
-    "baseId": "ETH",
-    "quoteId": "BCH",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -630,8 +526,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -642,8 +536,6 @@
       "base": "ETH",
       "quote": "USDT"
     },
-    "baseId": "ETH",
-    "quoteId": "USDT",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Tether"
   },
@@ -654,8 +546,6 @@
       "base": "GNT",
       "quote": "BCH"
     },
-    "baseId": "GNT",
-    "quoteId": "BCH",
     "baseCurrency": "Golem",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -666,8 +556,6 @@
       "base": "GNT",
       "quote": "BTC"
     },
-    "baseId": "GNT",
-    "quoteId": "BTC",
     "baseCurrency": "Golem",
     "quoteCurrency": "Bitcoin"
   },
@@ -678,8 +566,6 @@
       "base": "GNT",
       "quote": "ETH"
     },
-    "baseId": "GNT",
-    "quoteId": "ETH",
     "baseCurrency": "Golem",
     "quoteCurrency": "Ethereum"
   },
@@ -690,8 +576,6 @@
       "base": "HOT",
       "quote": "BCH"
     },
-    "baseId": "HOT",
-    "quoteId": "BCH",
     "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -702,8 +586,6 @@
       "base": "HOT",
       "quote": "BTC"
     },
-    "baseId": "HOT",
-    "quoteId": "BTC",
     "baseCurrency": "Holo",
     "quoteCurrency": "Bitcoin"
   },
@@ -714,8 +596,6 @@
       "base": "HOT",
       "quote": "ETH"
     },
-    "baseId": "HOT",
-    "quoteId": "ETH",
     "baseCurrency": "Holo",
     "quoteCurrency": "Ethereum"
   },
@@ -726,8 +606,6 @@
       "base": "HSR",
       "quote": "BCH"
     },
-    "baseId": "HSR",
-    "quoteId": "BCH",
     "baseCurrency": "Hshare",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -738,8 +616,6 @@
       "base": "HSR",
       "quote": "BTC"
     },
-    "baseId": "HSR",
-    "quoteId": "BTC",
     "baseCurrency": "Hshare",
     "quoteCurrency": "Bitcoin"
   },
@@ -750,8 +626,6 @@
       "base": "HYDRO",
       "quote": "BCH"
     },
-    "baseId": "HYDRO",
-    "quoteId": "BCH",
     "baseCurrency": "Hydro",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -762,8 +636,6 @@
       "base": "HYDRO",
       "quote": "BTC"
     },
-    "baseId": "HYDRO",
-    "quoteId": "BTC",
     "baseCurrency": "Hydro",
     "quoteCurrency": "Bitcoin"
   },
@@ -774,8 +646,6 @@
       "base": "HYDRO",
       "quote": "ETH"
     },
-    "baseId": "HYDRO",
-    "quoteId": "ETH",
     "baseCurrency": "Hydro",
     "quoteCurrency": "Ethereum"
   },
@@ -786,8 +656,6 @@
       "base": "ICX",
       "quote": "BCH"
     },
-    "baseId": "ICX",
-    "quoteId": "BCH",
     "baseCurrency": "ICON",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -798,8 +666,6 @@
       "base": "ICX",
       "quote": "BTC"
     },
-    "baseId": "ICX",
-    "quoteId": "BTC",
     "baseCurrency": "ICON",
     "quoteCurrency": "Bitcoin"
   },
@@ -810,8 +676,6 @@
       "base": "ICX",
       "quote": "ETH"
     },
-    "baseId": "ICX",
-    "quoteId": "ETH",
     "baseCurrency": "ICON",
     "quoteCurrency": "Ethereum"
   },
@@ -822,8 +686,6 @@
       "base": "KAN",
       "quote": "BCH"
     },
-    "baseId": "KAN",
-    "quoteId": "BCH",
     "baseCurrency": "BitKan",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -834,8 +696,6 @@
       "base": "KAN",
       "quote": "BTC"
     },
-    "baseId": "KAN",
-    "quoteId": "BTC",
     "baseCurrency": "BitKan",
     "quoteCurrency": "Bitcoin"
   },
@@ -846,8 +706,6 @@
       "base": "KAN",
       "quote": "ETH"
     },
-    "baseId": "KAN",
-    "quoteId": "ETH",
     "baseCurrency": "BitKan",
     "quoteCurrency": "Ethereum"
   },
@@ -858,8 +716,6 @@
       "base": "LFT",
       "quote": "BCH"
     },
-    "baseId": "LFT",
-    "quoteId": "BCH",
     "baseCurrency": "Linfinity",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -870,8 +726,6 @@
       "base": "LFT",
       "quote": "BTC"
     },
-    "baseId": "LFT",
-    "quoteId": "BTC",
     "baseCurrency": "Linfinity",
     "quoteCurrency": "Bitcoin"
   },
@@ -882,8 +736,6 @@
       "base": "LFT",
       "quote": "ETH"
     },
-    "baseId": "LFT",
-    "quoteId": "ETH",
     "baseCurrency": "Linfinity",
     "quoteCurrency": "Ethereum"
   },
@@ -894,8 +746,6 @@
       "base": "LFT",
       "quote": "USDT"
     },
-    "baseId": "LFT",
-    "quoteId": "USDT",
     "baseCurrency": "Linfinity",
     "quoteCurrency": "Tether"
   },
@@ -906,8 +756,6 @@
       "base": "LOOM",
       "quote": "BCH"
     },
-    "baseId": "LOOM",
-    "quoteId": "BCH",
     "baseCurrency": "Loom Network",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -918,8 +766,6 @@
       "base": "LOOM",
       "quote": "BTC"
     },
-    "baseId": "LOOM",
-    "quoteId": "BTC",
     "baseCurrency": "Loom Network",
     "quoteCurrency": "Bitcoin"
   },
@@ -930,8 +776,6 @@
       "base": "LOOM",
       "quote": "ETH"
     },
-    "baseId": "LOOM",
-    "quoteId": "ETH",
     "baseCurrency": "Loom Network",
     "quoteCurrency": "Ethereum"
   },
@@ -942,8 +786,6 @@
       "base": "LTC",
       "quote": "BCH"
     },
-    "baseId": "LTC",
-    "quoteId": "BCH",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -954,8 +796,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "BTC",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -966,8 +806,6 @@
       "base": "LTC",
       "quote": "USDT"
     },
-    "baseId": "LTC",
-    "quoteId": "USDT",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Tether"
   },
@@ -978,8 +816,6 @@
       "base": "MGD",
       "quote": "BCH"
     },
-    "baseId": "MGD",
-    "quoteId": "BCH",
     "baseCurrency": "MassGrid",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -990,8 +826,6 @@
       "base": "MGD",
       "quote": "BTC"
     },
-    "baseId": "MGD",
-    "quoteId": "BTC",
     "baseCurrency": "MassGrid",
     "quoteCurrency": "Bitcoin"
   },
@@ -1002,8 +836,6 @@
       "base": "MT",
       "quote": "BCH"
     },
-    "baseId": "MT",
-    "quoteId": "BCH",
     "baseCurrency": "MyToken",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1014,8 +846,6 @@
       "base": "MT",
       "quote": "BTC"
     },
-    "baseId": "MT",
-    "quoteId": "BTC",
     "baseCurrency": "MyToken",
     "quoteCurrency": "Bitcoin"
   },
@@ -1026,8 +856,6 @@
       "base": "MT",
       "quote": "ETH"
     },
-    "baseId": "MT",
-    "quoteId": "ETH",
     "baseCurrency": "MyToken",
     "quoteCurrency": "Ethereum"
   },
@@ -1038,8 +866,6 @@
       "base": "NANO",
       "quote": "BCH"
     },
-    "baseId": "NANO",
-    "quoteId": "BCH",
     "baseCurrency": "Nano",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1050,8 +876,6 @@
       "base": "NANO",
       "quote": "BTC"
     },
-    "baseId": "NANO",
-    "quoteId": "BTC",
     "baseCurrency": "Nano",
     "quoteCurrency": "Bitcoin"
   },
@@ -1062,8 +886,6 @@
       "base": "NASH",
       "quote": "BCH"
     },
-    "baseId": "NASH",
-    "quoteId": "BCH",
     "baseCurrency": "NASH",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1074,8 +896,6 @@
       "base": "NASH",
       "quote": "BTC"
     },
-    "baseId": "NASH",
-    "quoteId": "BTC",
     "baseCurrency": "NASH",
     "quoteCurrency": "Bitcoin"
   },
@@ -1086,8 +906,6 @@
       "base": "NASH",
       "quote": "ETH"
     },
-    "baseId": "NASH",
-    "quoteId": "ETH",
     "baseCurrency": "NASH",
     "quoteCurrency": "Ethereum"
   },
@@ -1098,8 +916,6 @@
       "base": "NEO",
       "quote": "BCH"
     },
-    "baseId": "NEO",
-    "quoteId": "BCH",
     "baseCurrency": "NEO",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1110,8 +926,6 @@
       "base": "NEO",
       "quote": "BTC"
     },
-    "baseId": "NEO",
-    "quoteId": "BTC",
     "baseCurrency": "NEO",
     "quoteCurrency": "Bitcoin"
   },
@@ -1122,8 +936,6 @@
       "base": "NOBS",
       "quote": "BCH"
     },
-    "baseId": "NOBS",
-    "quoteId": "BCH",
     "baseCurrency": "No BS Crypto",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1134,8 +946,6 @@
       "base": "NOBS",
       "quote": "BTC"
     },
-    "baseId": "NOBS",
-    "quoteId": "BTC",
     "baseCurrency": "No BS Crypto",
     "quoteCurrency": "Bitcoin"
   },
@@ -1146,8 +956,6 @@
       "base": "NOBS",
       "quote": "ETH"
     },
-    "baseId": "NOBS",
-    "quoteId": "ETH",
     "baseCurrency": "No BS Crypto",
     "quoteCurrency": "Ethereum"
   },
@@ -1158,8 +966,6 @@
       "base": "OLT",
       "quote": "BCH"
     },
-    "baseId": "OLT",
-    "quoteId": "BCH",
     "baseCurrency": "OneLedger",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1170,8 +976,6 @@
       "base": "OLT",
       "quote": "BTC"
     },
-    "baseId": "OLT",
-    "quoteId": "BTC",
     "baseCurrency": "OneLedger",
     "quoteCurrency": "Bitcoin"
   },
@@ -1182,8 +986,6 @@
       "base": "OLT",
       "quote": "ETH"
     },
-    "baseId": "OLT",
-    "quoteId": "ETH",
     "baseCurrency": "OneLedger",
     "quoteCurrency": "Ethereum"
   },
@@ -1194,8 +996,6 @@
       "base": "OLT",
       "quote": "USDT"
     },
-    "baseId": "OLT",
-    "quoteId": "USDT",
     "baseCurrency": "OneLedger",
     "quoteCurrency": "Tether"
   },
@@ -1206,8 +1006,6 @@
       "base": "OMG",
       "quote": "BCH"
     },
-    "baseId": "OMG",
-    "quoteId": "BCH",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1218,8 +1016,6 @@
       "base": "OMG",
       "quote": "BTC"
     },
-    "baseId": "OMG",
-    "quoteId": "BTC",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Bitcoin"
   },
@@ -1230,8 +1026,6 @@
       "base": "OMG",
       "quote": "ETH"
     },
-    "baseId": "OMG",
-    "quoteId": "ETH",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Ethereum"
   },
@@ -1242,8 +1036,6 @@
       "base": "QTUM",
       "quote": "BCH"
     },
-    "baseId": "QTUM",
-    "quoteId": "BCH",
     "baseCurrency": "Qtum",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1254,8 +1046,6 @@
       "base": "QTUM",
       "quote": "BTC"
     },
-    "baseId": "QTUM",
-    "quoteId": "BTC",
     "baseCurrency": "Qtum",
     "quoteCurrency": "Bitcoin"
   },
@@ -1266,8 +1056,6 @@
       "base": "RHOC",
       "quote": "BCH"
     },
-    "baseId": "RHOC",
-    "quoteId": "BCH",
     "baseCurrency": "RChain",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1278,8 +1066,6 @@
       "base": "RHOC",
       "quote": "BTC"
     },
-    "baseId": "RHOC",
-    "quoteId": "BTC",
     "baseCurrency": "RChain",
     "quoteCurrency": "Bitcoin"
   },
@@ -1290,8 +1076,6 @@
       "base": "SC",
       "quote": "BCH"
     },
-    "baseId": "SC",
-    "quoteId": "BCH",
     "baseCurrency": "Siacoin",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1302,8 +1086,6 @@
       "base": "SC",
       "quote": "BTC"
     },
-    "baseId": "SC",
-    "quoteId": "BTC",
     "baseCurrency": "Siacoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -1314,8 +1096,6 @@
       "base": "SC",
       "quote": "USDT"
     },
-    "baseId": "SC",
-    "quoteId": "USDT",
     "baseCurrency": "Siacoin",
     "quoteCurrency": "Tether"
   },
@@ -1326,8 +1106,6 @@
       "base": "SEELE",
       "quote": "BCH"
     },
-    "baseId": "SEELE",
-    "quoteId": "BCH",
     "baseCurrency": "Seele",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1338,8 +1116,6 @@
       "base": "SEELE",
       "quote": "BTC"
     },
-    "baseId": "SEELE",
-    "quoteId": "BTC",
     "baseCurrency": "Seele",
     "quoteCurrency": "Bitcoin"
   },
@@ -1350,8 +1126,6 @@
       "base": "SEELE",
       "quote": "ETH"
     },
-    "baseId": "SEELE",
-    "quoteId": "ETH",
     "baseCurrency": "Seele",
     "quoteCurrency": "Ethereum"
   },
@@ -1362,8 +1136,6 @@
       "base": "SEELE",
       "quote": "USDT"
     },
-    "baseId": "SEELE",
-    "quoteId": "USDT",
     "baseCurrency": "Seele",
     "quoteCurrency": "Tether"
   },
@@ -1374,8 +1146,6 @@
       "base": "SEER",
       "quote": "BCH"
     },
-    "baseId": "SEER",
-    "quoteId": "BCH",
     "baseCurrency": "SEER",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1386,8 +1156,6 @@
       "base": "SEER",
       "quote": "BTC"
     },
-    "baseId": "SEER",
-    "quoteId": "BTC",
     "baseCurrency": "SEER",
     "quoteCurrency": "Bitcoin"
   },
@@ -1398,8 +1166,6 @@
       "base": "SEER",
       "quote": "ETH"
     },
-    "baseId": "SEER",
-    "quoteId": "ETH",
     "baseCurrency": "SEER",
     "quoteCurrency": "Ethereum"
   },
@@ -1410,8 +1176,6 @@
       "base": "SOP",
       "quote": "BCH"
     },
-    "baseId": "SOP",
-    "quoteId": "BCH",
     "baseCurrency": "SoPay",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1422,8 +1186,6 @@
       "base": "SOP",
       "quote": "BTC"
     },
-    "baseId": "SOP",
-    "quoteId": "BTC",
     "baseCurrency": "SoPay",
     "quoteCurrency": "Bitcoin"
   },
@@ -1434,8 +1196,6 @@
       "base": "SOP",
       "quote": "ETH"
     },
-    "baseId": "SOP",
-    "quoteId": "ETH",
     "baseCurrency": "SoPay",
     "quoteCurrency": "Ethereum"
   },
@@ -1446,8 +1206,6 @@
       "base": "TCT",
       "quote": "BCH"
     },
-    "baseId": "TCT",
-    "quoteId": "BCH",
     "baseCurrency": "TokenClub",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1458,8 +1216,6 @@
       "base": "TCT",
       "quote": "BTC"
     },
-    "baseId": "TCT",
-    "quoteId": "BTC",
     "baseCurrency": "TokenClub",
     "quoteCurrency": "Bitcoin"
   },
@@ -1470,8 +1226,6 @@
       "base": "TCT",
       "quote": "ETH"
     },
-    "baseId": "TCT",
-    "quoteId": "ETH",
     "baseCurrency": "TokenClub",
     "quoteCurrency": "Ethereum"
   },
@@ -1482,8 +1236,6 @@
       "base": "THPC",
       "quote": "BCH"
     },
-    "baseId": "THPC",
-    "quoteId": "BCH",
     "baseCurrency": "THPC",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1494,8 +1246,6 @@
       "base": "THPC",
       "quote": "BTC"
     },
-    "baseId": "THPC",
-    "quoteId": "BTC",
     "baseCurrency": "THPC",
     "quoteCurrency": "Bitcoin"
   },
@@ -1506,8 +1256,6 @@
       "base": "THPC",
       "quote": "ETH"
     },
-    "baseId": "THPC",
-    "quoteId": "ETH",
     "baseCurrency": "THPC",
     "quoteCurrency": "Ethereum"
   },
@@ -1518,8 +1266,6 @@
       "base": "TRX",
       "quote": "BCH"
     },
-    "baseId": "TRX",
-    "quoteId": "BCH",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1530,8 +1276,6 @@
       "base": "TRX",
       "quote": "BTC"
     },
-    "baseId": "TRX",
-    "quoteId": "BTC",
     "baseCurrency": "TRON",
     "quoteCurrency": "Bitcoin"
   },
@@ -1542,8 +1286,6 @@
       "base": "TRX",
       "quote": "ETH"
     },
-    "baseId": "TRX",
-    "quoteId": "ETH",
     "baseCurrency": "TRON",
     "quoteCurrency": "Ethereum"
   },
@@ -1554,8 +1296,6 @@
       "base": "USCA",
       "quote": "BTC"
     },
-    "baseId": "USCA",
-    "quoteId": "BTC",
     "baseCurrency": "USCA",
     "quoteCurrency": "Bitcoin"
   },
@@ -1566,8 +1306,6 @@
       "base": "USCB",
       "quote": "BTC"
     },
-    "baseId": "USCB",
-    "quoteId": "BTC",
     "baseCurrency": "USCB",
     "quoteCurrency": "Bitcoin"
   },
@@ -1578,8 +1316,6 @@
       "base": "USHA",
       "quote": "BCH"
     },
-    "baseId": "USHA",
-    "quoteId": "BCH",
     "baseCurrency": "USHA",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1590,8 +1326,6 @@
       "base": "USHB",
       "quote": "BCH"
     },
-    "baseId": "USHB",
-    "quoteId": "BCH",
     "baseCurrency": "USHB",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1602,8 +1336,6 @@
       "base": "VEN",
       "quote": "BCH"
     },
-    "baseId": "VEN",
-    "quoteId": "BCH",
     "baseCurrency": "Vechain [Token]",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1614,8 +1346,6 @@
       "base": "VEN",
       "quote": "BTC"
     },
-    "baseId": "VEN",
-    "quoteId": "BTC",
     "baseCurrency": "Vechain [Token]",
     "quoteCurrency": "Bitcoin"
   },
@@ -1626,8 +1356,6 @@
       "base": "VET",
       "quote": "BCH"
     },
-    "baseId": "VET",
-    "quoteId": "BCH",
     "baseCurrency": "VeChain",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1638,8 +1366,6 @@
       "base": "VET",
       "quote": "BTC"
     },
-    "baseId": "VET",
-    "quoteId": "BTC",
     "baseCurrency": "VeChain",
     "quoteCurrency": "Bitcoin"
   },
@@ -1650,8 +1376,6 @@
       "base": "VET",
       "quote": "ETH"
     },
-    "baseId": "VET",
-    "quoteId": "ETH",
     "baseCurrency": "VeChain",
     "quoteCurrency": "Ethereum"
   },
@@ -1662,8 +1386,6 @@
       "base": "VITE",
       "quote": "BCH"
     },
-    "baseId": "VITE",
-    "quoteId": "BCH",
     "baseCurrency": "VITE",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1674,8 +1396,6 @@
       "base": "VITE",
       "quote": "BTC"
     },
-    "baseId": "VITE",
-    "quoteId": "BTC",
     "baseCurrency": "VITE",
     "quoteCurrency": "Bitcoin"
   },
@@ -1686,8 +1406,6 @@
       "base": "VITE",
       "quote": "ETH"
     },
-    "baseId": "VITE",
-    "quoteId": "ETH",
     "baseCurrency": "VITE",
     "quoteCurrency": "Ethereum"
   },
@@ -1698,8 +1416,6 @@
       "base": "WHC",
       "quote": "BCH"
     },
-    "baseId": "WHC",
-    "quoteId": "BCH",
     "baseCurrency": "WHC",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1710,8 +1426,6 @@
       "base": "WINGS",
       "quote": "BCH"
     },
-    "baseId": "WINGS",
-    "quoteId": "BCH",
     "baseCurrency": "Wings",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1722,8 +1436,6 @@
       "base": "WINGS",
       "quote": "BTC"
     },
-    "baseId": "WINGS",
-    "quoteId": "BTC",
     "baseCurrency": "Wings",
     "quoteCurrency": "Bitcoin"
   },
@@ -1734,10 +1446,28 @@
       "base": "WINGS",
       "quote": "ETH"
     },
-    "baseId": "WINGS",
-    "quoteId": "ETH",
     "baseCurrency": "Wings",
     "quoteCurrency": "Ethereum"
+  },
+  {
+    "id": "WWBBCH",
+    "ccxt": {
+      "symbol": "WWB/BCH",
+      "base": "WWB",
+      "quote": "BCH"
+    },
+    "baseCurrency": "Wowbit",
+    "quoteCurrency": "Bitcoin Cash"
+  },
+  {
+    "id": "WWBBTC",
+    "ccxt": {
+      "symbol": "WWB/BTC",
+      "base": "WWB",
+      "quote": "BTC"
+    },
+    "baseCurrency": "Wowbit",
+    "quoteCurrency": "Bitcoin"
   },
   {
     "id": "XMCBCH",
@@ -1746,8 +1476,6 @@
       "base": "XMC",
       "quote": "BCH"
     },
-    "baseId": "XMC",
-    "quoteId": "BCH",
     "baseCurrency": "Monero Classic",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1758,8 +1486,6 @@
       "base": "XMC",
       "quote": "BTC"
     },
-    "baseId": "XMC",
-    "quoteId": "BTC",
     "baseCurrency": "Monero Classic",
     "quoteCurrency": "Bitcoin"
   },
@@ -1770,8 +1496,6 @@
       "base": "XMR",
       "quote": "BCH"
     },
-    "baseId": "XMR",
-    "quoteId": "BCH",
     "baseCurrency": "Monero",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1782,8 +1506,6 @@
       "base": "XMR",
       "quote": "BTC"
     },
-    "baseId": "XMR",
-    "quoteId": "BTC",
     "baseCurrency": "Monero",
     "quoteCurrency": "Bitcoin"
   },
@@ -1794,8 +1516,6 @@
       "base": "XMR",
       "quote": "USDT"
     },
-    "baseId": "XMR",
-    "quoteId": "USDT",
     "baseCurrency": "Monero",
     "quoteCurrency": "Tether"
   },
@@ -1806,8 +1526,6 @@
       "base": "XMV",
       "quote": "BCH"
     },
-    "baseId": "XMV",
-    "quoteId": "BCH",
     "baseCurrency": "XMV",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1818,8 +1536,6 @@
       "base": "XMV",
       "quote": "BTC"
     },
-    "baseId": "XMV",
-    "quoteId": "BTC",
     "baseCurrency": "XMV",
     "quoteCurrency": "Bitcoin"
   },
@@ -1830,8 +1546,6 @@
       "base": "XRP",
       "quote": "BCH"
     },
-    "baseId": "XRP",
-    "quoteId": "BCH",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1842,8 +1556,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "XRP",
-    "quoteId": "BTC",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   },
@@ -1854,8 +1566,6 @@
       "base": "XRP",
       "quote": "USDT"
     },
-    "baseId": "XRP",
-    "quoteId": "USDT",
     "baseCurrency": "XRP",
     "quoteCurrency": "Tether"
   },
@@ -1866,8 +1576,6 @@
       "base": "ZEC",
       "quote": "BCH"
     },
-    "baseId": "ZEC",
-    "quoteId": "BCH",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1878,8 +1586,6 @@
       "base": "ZEC",
       "quote": "BTC"
     },
-    "baseId": "ZEC",
-    "quoteId": "BTC",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin"
   },
@@ -1890,8 +1596,6 @@
       "base": "ZEC",
       "quote": "USDT"
     },
-    "baseId": "ZEC",
-    "quoteId": "USDT",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Tether"
   },
@@ -1902,8 +1606,6 @@
       "base": "ZIL",
       "quote": "BCH"
     },
-    "baseId": "ZIL",
-    "quoteId": "BCH",
     "baseCurrency": "Zilliqa",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1914,8 +1616,6 @@
       "base": "ZIL",
       "quote": "BTC"
     },
-    "baseId": "ZIL",
-    "quoteId": "BTC",
     "baseCurrency": "Zilliqa",
     "quoteCurrency": "Bitcoin"
   },
@@ -1926,8 +1626,6 @@
       "base": "ZIL",
       "quote": "ETH"
     },
-    "baseId": "ZIL",
-    "quoteId": "ETH",
     "baseCurrency": "Zilliqa",
     "quoteCurrency": "Ethereum"
   },
@@ -1938,8 +1636,6 @@
       "base": "ZRX",
       "quote": "BCH"
     },
-    "baseId": "ZRX",
-    "quoteId": "BCH",
     "baseCurrency": "0x",
     "quoteCurrency": "Bitcoin Cash"
   },
@@ -1950,8 +1646,6 @@
       "base": "ZRX",
       "quote": "BTC"
     },
-    "baseId": "ZRX",
-    "quoteId": "BTC",
     "baseCurrency": "0x",
     "quoteCurrency": "Bitcoin"
   },
@@ -1962,8 +1656,6 @@
       "base": "ZRX",
       "quote": "ETH"
     },
-    "baseId": "ZRX",
-    "quoteId": "ETH",
     "baseCurrency": "0x",
     "quoteCurrency": "Ethereum"
   }

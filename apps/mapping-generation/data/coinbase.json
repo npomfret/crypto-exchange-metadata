@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bch-usd",
+    "ccxt": {
+      "symbol": "BCH/USD",
+      "base": "BCH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin Cash",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "btc-usd",
+    "ccxt": {
+      "symbol": "BTC/USD",
+      "base": "BTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Bitcoin",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "eth-usd",
+    "ccxt": {
+      "symbol": "ETH/USD",
+      "base": "ETH",
+      "quote": "USD"
+    },
+    "baseCurrency": "Ethereum",
+    "quoteCurrency": "US Dollar"
+  },
+  {
+    "id": "ltc-usd",
+    "ccxt": {
+      "symbol": "LTC/USD",
+      "base": "LTC",
+      "quote": "USD"
+    },
+    "baseCurrency": "Litecoin",
+    "quoteCurrency": "US Dollar"
+  }
+]

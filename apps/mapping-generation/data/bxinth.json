@@ -6,8 +6,6 @@
       "base": "BTC",
       "quote": "THB"
     },
-    "baseId": "BTC",
-    "quoteId": "THB",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Thai Baht"
   },
@@ -18,8 +16,6 @@
       "base": "CPT",
       "quote": "BTC"
     },
-    "baseId": "CPT",
-    "quoteId": "BTC",
     "baseCurrency": "Cryptaur",
     "quoteCurrency": "Bitcoin"
   },
@@ -30,8 +26,6 @@
       "base": "HYP",
       "quote": "BTC"
     },
-    "baseId": "HYP",
-    "quoteId": "BTC",
     "baseCurrency": "HyperStake",
     "quoteCurrency": "Bitcoin"
   },
@@ -42,8 +36,6 @@
       "base": "PND",
       "quote": "BTC"
     },
-    "baseId": "PND",
-    "quoteId": "BTC",
     "baseCurrency": "Pandacoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -54,8 +46,6 @@
       "base": "XCN",
       "quote": "BTC"
     },
-    "baseId": "XCN",
-    "quoteId": "BTC",
     "baseCurrency": "Cryptonite",
     "quoteCurrency": "Bitcoin"
   },
@@ -66,8 +56,6 @@
       "base": "XPY",
       "quote": "BTC"
     },
-    "baseId": "XPY",
-    "quoteId": "BTC",
     "baseCurrency": "PayCoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -78,8 +66,6 @@
       "base": "LEO",
       "quote": "BTC"
     },
-    "baseId": "LEO",
-    "quoteId": "BTC",
     "baseCurrency": "LEOcoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "LTC",
-    "quoteId": "BTC",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -102,8 +86,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "ETH",
-    "quoteId": "BTC",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "ETH",
       "quote": "THB"
     },
-    "baseId": "ETH",
-    "quoteId": "THB",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Thai Baht"
   },
@@ -126,8 +106,6 @@
       "base": "DASH",
       "quote": "THB"
     },
-    "baseId": "DAS",
-    "quoteId": "THB",
     "baseCurrency": "Dash",
     "quoteCurrency": "Thai Baht"
   },
@@ -138,8 +116,6 @@
       "base": "REP",
       "quote": "THB"
     },
-    "baseId": "REP",
-    "quoteId": "THB",
     "baseCurrency": "Augur",
     "quoteCurrency": "Thai Baht"
   },
@@ -150,8 +126,6 @@
       "base": "GNO",
       "quote": "THB"
     },
-    "baseId": "GNO",
-    "quoteId": "THB",
     "baseCurrency": "Gnosis",
     "quoteCurrency": "Thai Baht"
   },
@@ -162,8 +136,6 @@
       "base": "XRP",
       "quote": "THB"
     },
-    "baseId": "XRP",
-    "quoteId": "THB",
     "baseCurrency": "XRP",
     "quoteCurrency": "Thai Baht"
   },
@@ -174,8 +146,6 @@
       "base": "OMG",
       "quote": "THB"
     },
-    "baseId": "OMG",
-    "quoteId": "THB",
     "baseCurrency": "OmiseGO",
     "quoteCurrency": "Thai Baht"
   },
@@ -186,8 +156,6 @@
       "base": "BCH",
       "quote": "THB"
     },
-    "baseId": "BCH",
-    "quoteId": "THB",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Thai Baht"
   },
@@ -198,8 +166,6 @@
       "base": "EVX",
       "quote": "THB"
     },
-    "baseId": "EVX",
-    "quoteId": "THB",
     "baseCurrency": "Everex",
     "quoteCurrency": "Thai Baht"
   },
@@ -210,8 +176,6 @@
       "base": "XZC",
       "quote": "THB"
     },
-    "baseId": "XZC",
-    "quoteId": "THB",
     "baseCurrency": "ZCoin",
     "quoteCurrency": "Thai Baht"
   },
@@ -222,8 +186,6 @@
       "base": "NMC",
       "quote": "BTC"
     },
-    "baseId": "NMC",
-    "quoteId": "BTC",
     "baseCurrency": "Namecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -234,8 +196,6 @@
       "base": "LTC",
       "quote": "THB"
     },
-    "baseId": "LTC",
-    "quoteId": "THB",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Thai Baht"
   },
@@ -246,8 +206,6 @@
       "base": "POW",
       "quote": "THB"
     },
-    "baseId": "POW",
-    "quoteId": "THB",
     "baseCurrency": "POW",
     "quoteCurrency": "Thai Baht"
   },
@@ -258,8 +216,6 @@
       "base": "ZMN",
       "quote": "THB"
     },
-    "baseId": "ZMN",
-    "quoteId": "THB",
     "baseCurrency": "ZMINE",
     "quoteCurrency": "Thai Baht"
   },
@@ -270,8 +226,6 @@
       "base": "DOGE",
       "quote": "BTC"
     },
-    "baseId": "DOG",
-    "quoteId": "BTC",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -282,8 +236,6 @@
       "base": "PPC",
       "quote": "BTC"
     },
-    "baseId": "PPC",
-    "quoteId": "BTC",
     "baseCurrency": "Peercoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -294,8 +246,6 @@
       "base": "FTC",
       "quote": "BTC"
     },
-    "baseId": "FTC",
-    "quoteId": "BTC",
     "baseCurrency": "Feathercoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -306,8 +256,6 @@
       "base": "XPM",
       "quote": "BTC"
     },
-    "baseId": "XPM",
-    "quoteId": "BTC",
     "baseCurrency": "Primecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -318,8 +266,6 @@
       "base": "ZEC",
       "quote": "BTC"
     },
-    "baseId": "ZEC",
-    "quoteId": "BTC",
     "baseCurrency": "Zcash",
     "quoteCurrency": "Bitcoin"
   },
@@ -330,8 +276,6 @@
       "base": "ZET",
       "quote": "BTC"
     },
-    "baseId": "ZET",
-    "quoteId": "BTC",
     "baseCurrency": "Zetacoin",
     "quoteCurrency": "Bitcoin"
   }

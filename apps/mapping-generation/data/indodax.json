@@ -6,8 +6,6 @@
       "base": "ACT",
       "quote": "IDR"
     },
-    "baseId": "act",
-    "quoteId": "idr",
     "baseCurrency": "Achain",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -18,8 +16,6 @@
       "base": "ADA",
       "quote": "IDR"
     },
-    "baseId": "ada",
-    "quoteId": "idr",
     "baseCurrency": "Cardano",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -30,8 +26,6 @@
       "base": "BCD",
       "quote": "IDR"
     },
-    "baseId": "bcd",
-    "quoteId": "idr",
     "baseCurrency": "Bitcoin Diamond",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -42,8 +36,6 @@
       "base": "BCH",
       "quote": "IDR"
     },
-    "baseId": "bch",
-    "quoteId": "idr",
     "baseCurrency": "Bitcoin Cash",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -54,8 +46,6 @@
       "base": "BTC",
       "quote": "IDR"
     },
-    "baseId": "btc",
-    "quoteId": "idr",
     "baseCurrency": "Bitcoin",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -66,8 +56,6 @@
       "base": "BTG",
       "quote": "IDR"
     },
-    "baseId": "btg",
-    "quoteId": "idr",
     "baseCurrency": "Bitcoin Gold",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -78,8 +66,6 @@
       "base": "BTS",
       "quote": "BTC"
     },
-    "baseId": "bts",
-    "quoteId": "btc",
     "baseCurrency": "BitShares",
     "quoteCurrency": "Bitcoin"
   },
@@ -90,8 +76,6 @@
       "base": "BTS",
       "quote": "IDR"
     },
-    "baseId": "bts",
-    "quoteId": "idr",
     "baseCurrency": "BitShares",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -102,8 +86,6 @@
       "base": "DOGE",
       "quote": "BTC"
     },
-    "baseId": "doge",
-    "quoteId": "btc",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -114,8 +96,6 @@
       "base": "DOGE",
       "quote": "IDR"
     },
-    "baseId": "doge",
-    "quoteId": "idr",
     "baseCurrency": "Dogecoin",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -126,8 +106,6 @@
       "base": "DASH",
       "quote": "BTC"
     },
-    "baseId": "drk",
-    "quoteId": "btc",
     "baseCurrency": "Dash",
     "quoteCurrency": "Bitcoin"
   },
@@ -138,8 +116,6 @@
       "base": "DASH",
       "quote": "IDR"
     },
-    "baseId": "drk",
-    "quoteId": "idr",
     "baseCurrency": "Dash",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -150,8 +126,6 @@
       "base": "ETC",
       "quote": "IDR"
     },
-    "baseId": "etc",
-    "quoteId": "idr",
     "baseCurrency": "Ethereum Classic",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -162,8 +136,6 @@
       "base": "ETH",
       "quote": "BTC"
     },
-    "baseId": "eth",
-    "quoteId": "btc",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Bitcoin"
   },
@@ -174,8 +146,6 @@
       "base": "ETH",
       "quote": "IDR"
     },
-    "baseId": "eth",
-    "quoteId": "idr",
     "baseCurrency": "Ethereum",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -186,8 +156,6 @@
       "base": "GSC",
       "quote": "IDR"
     },
-    "baseId": "gsc",
-    "quoteId": "idr",
     "baseCurrency": "Global Social Chain",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -198,8 +166,6 @@
       "base": "IGNIS",
       "quote": "IDR"
     },
-    "baseId": "ignis",
-    "quoteId": "idr",
     "baseCurrency": "Ignis",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -210,8 +176,6 @@
       "base": "LTC",
       "quote": "BTC"
     },
-    "baseId": "ltc",
-    "quoteId": "btc",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Bitcoin"
   },
@@ -222,8 +186,6 @@
       "base": "LTC",
       "quote": "IDR"
     },
-    "baseId": "ltc",
-    "quoteId": "idr",
     "baseCurrency": "Litecoin",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -234,8 +196,6 @@
       "base": "XEM",
       "quote": "BTC"
     },
-    "baseId": "nem",
-    "quoteId": "btc",
     "baseCurrency": "NEM",
     "quoteCurrency": "Bitcoin"
   },
@@ -246,8 +206,6 @@
       "base": "XEM",
       "quote": "IDR"
     },
-    "baseId": "nem",
-    "quoteId": "idr",
     "baseCurrency": "NEM",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -258,8 +216,6 @@
       "base": "NPXS",
       "quote": "IDR"
     },
-    "baseId": "npxs",
-    "quoteId": "idr",
     "baseCurrency": "Pundi X",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -270,8 +226,6 @@
       "base": "NXT",
       "quote": "BTC"
     },
-    "baseId": "nxt",
-    "quoteId": "btc",
     "baseCurrency": "Nxt",
     "quoteCurrency": "Bitcoin"
   },
@@ -282,8 +236,6 @@
       "base": "NXT",
       "quote": "IDR"
     },
-    "baseId": "nxt",
-    "quoteId": "idr",
     "baseCurrency": "Nxt",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -294,8 +246,6 @@
       "base": "STQ",
       "quote": "IDR"
     },
-    "baseId": "stq",
-    "quoteId": "idr",
     "baseCurrency": "Storiqa",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -306,8 +256,6 @@
       "base": "XLM",
       "quote": "BTC"
     },
-    "baseId": "str",
-    "quoteId": "btc",
     "baseCurrency": "Stellar",
     "quoteCurrency": "Bitcoin"
   },
@@ -318,8 +266,6 @@
       "base": "XLM",
       "quote": "IDR"
     },
-    "baseId": "str",
-    "quoteId": "idr",
     "baseCurrency": "Stellar",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -330,8 +276,6 @@
       "base": "TEN",
       "quote": "BTC"
     },
-    "baseId": "ten",
-    "quoteId": "btc",
     "baseCurrency": "Tokenomy",
     "quoteCurrency": "Bitcoin"
   },
@@ -342,8 +286,6 @@
       "base": "TEN",
       "quote": "IDR"
     },
-    "baseId": "ten",
-    "quoteId": "idr",
     "baseCurrency": "Tokenomy",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -354,8 +296,6 @@
       "base": "TRX",
       "quote": "IDR"
     },
-    "baseId": "trx",
-    "quoteId": "idr",
     "baseCurrency": "TRON",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -366,8 +306,6 @@
       "base": "WAVES",
       "quote": "IDR"
     },
-    "baseId": "waves",
-    "quoteId": "idr",
     "baseCurrency": "Waves",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -378,8 +316,6 @@
       "base": "XRP",
       "quote": "BTC"
     },
-    "baseId": "xrp",
-    "quoteId": "btc",
     "baseCurrency": "XRP",
     "quoteCurrency": "Bitcoin"
   },
@@ -390,8 +326,6 @@
       "base": "XRP",
       "quote": "IDR"
     },
-    "baseId": "xrp",
-    "quoteId": "idr",
     "baseCurrency": "XRP",
     "quoteCurrency": "Indonesian Rupiah"
   },
@@ -402,8 +336,6 @@
       "base": "XZC",
       "quote": "IDR"
     },
-    "baseId": "xzc",
-    "quoteId": "idr",
     "baseCurrency": "ZCoin",
     "quoteCurrency": "Indonesian Rupiah"
   }
