@@ -39,6 +39,11 @@ public class ParsersTest {
     }
 
     @Test
+    public void bitflyer() throws Exception {
+        go(BitflyerParser.create());
+    }
+
+    @Test
     public void exmo() throws Exception {
         go(ExmoParser.create());
     }
