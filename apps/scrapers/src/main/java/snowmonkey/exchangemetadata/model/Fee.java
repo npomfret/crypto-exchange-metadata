@@ -52,8 +52,6 @@ public class Fee {
                 if (rate.isPresent())
                     throw new IllegalStateException("cannot handle a fee with multiple rates");
 
-                BigDecimal asDecimal = BitsAndBobs.percentToBigDecimal(part).multiply(new BigDecimal(100));
-                part = asDecimal.stripTrailingZeros().toPlainString() + "%";
                 rate = Optional.of(new Rate(part));
             } else if (part.matches("^-?\\d+(\\.\\d+)?$")) {
                 if (fixed.isPresent())
