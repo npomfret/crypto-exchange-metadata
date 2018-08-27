@@ -1,0 +1,1354 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+<meta charset="UTF-8" />
+<script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t
+    }({
+        instrumentationKey: "eb2f8517-eed0-4511-9c2e-b02e54729dde"
+    });
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+</script>
+
+    
+    <script type="text/javascript">
+    
+    (function () {
+        if (location.hash.toLowerCase() === "#individualaccount") {
+            location.href = "/account-class" + location.search;
+        }
+    }());
+    </script>
+    
+    <title>Fees and Taxes | bitFlyer</title>
+    
+    <meta name="keywords" content="bitFlyer,アカウント作成手数料,手数料,取引手数料,bitWire,決済,決済手数料,消費税,キャピタル・ゲイン,売却益" />
+    
+    <meta name="description" content="View bitFlyer&#39;s fees for trading and withdrawals. This guide also shows the transaction limits for each account class." />
+    
+
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://bitflyer.com/commission" />
+        <meta property="og:locale" content="en_US" />
+        
+        <meta property="og:locale:alternate" content="ja_JP" />
+        
+    
+        <meta property="og:title" content="bitFlyer | Bitcoin Marketplace" />
+    
+
+    
+    <meta property="og:description" content="View bitFlyer&#39;s fees for trading and withdrawals. This guide also shows the transaction limits for each account class." />
+
+
+    
+        <meta property="og:image" content="https://bitflyer.blob.core.windows.net/pub/common/theme/images/bitFlyer_logo_ogp.png" />
+    
+
+        <meta name="twitter:card" content="photo" />
+        <meta name="twitter:site" content="@bitflyer" />
+        <meta name="twitter:url" content="https://bitflyer.com/commission" />
+    
+    
+        <meta name="twitter:title" content="bitFlyer | Bitcoin Marketplace" />
+    
+
+    
+        <meta name="twitter:image" content="https://bitflyer.blob.core.windows.net/pub/common/theme/images/bitFlyer_logo_ogp.png" />
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="black" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        
+        <link rel="alternate" href="https://bitflyer.com/commission" hreflang="x-default" />
+              
+        <link rel="alternate" href="https://bitflyer.com/ja-jp/commission" hreflang="ja" />
+        <link rel="alternate" href="https://bitflyer.com/ja-jp/commission" hreflang="ja-jp" />
+                    
+        <link rel="alternate" href="https://bitflyer.com/en-jp/commission" hreflang="en" />
+        <link rel="alternate" href="https://bitflyer.com/en-jp/commission" hreflang="en-jp" />
+                    
+        <link rel="alternate" href="https://bitflyer.com/zh-jp/commission" hreflang="zh-cmn-hans" />
+        <link rel="alternate" href="https://bitflyer.com/zh-jp/commission" hreflang="zh-cmn-hans-jp" />
+                    
+        <link rel="alternate" href="https://bitflyer.com/fr-jp/commission" hreflang="fr" />
+        <link rel="alternate" href="https://bitflyer.com/fr-jp/commission" hreflang="fr-jp" />
+                    
+        <link rel="alternate" href="https://bitflyer.com/ko-jp/commission" hreflang="ko" />
+        <link rel="alternate" href="https://bitflyer.com/ko-jp/commission" hreflang="ko-jp" />
+                    
+        <link rel="canonical" href="https://bitflyer.com/en-jp/commission">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/css/bootstrap.min.css" integrity="sha256-HL2iGZi2Xgin6TYRTKvX93g9D1kN1u/dWMf6qLbnuao=" crossorigin="anonymous" /><link rel="stylesheet" href="/static/sp/css/font-awesome.min.css" /><link rel="stylesheet" href="/common/theme/css/base.css" /><link rel="stylesheet" href="/common/theme/css/accountclass.css?20180222" /><link href="/common/theme/css/landing?v=E0-mHDUuqp7M2O7A0gAuWbont6O6fCD5nByDgiRb0PE1" rel="stylesheet"/>
+
+    <!-- carousel -->
+    <link rel="stylesheet" href="/common/theme/scripts/plugins/carousel/owl-carousel/owl.carousel.css" />
+      
+    <style type="text/css">
+    #PC_Nav {
+        display: block;
+    }
+    #SP_Nav {
+        display: none;
+    }
+    .header-nav {
+        width: 100%;
+        background:rgba(255,255,255,.95);
+        border-bottom: 1px solid #e5e5e5;
+        padding: 10px 0;
+    }
+    .header-nav.pos-fixed {
+        position: fixed;
+        top: 0;
+        z-index: 2;
+        box-shadow: rgba(0,0,0,.2) 0 2px 3px;
+    }
+        .nav-pills > li a {
+            background: none;
+            border-bottom: none;
+            color: inherit;
+        }
+        body#sub .nav-pills > li > a:hover,
+        body#sub .nav-pills > li > a:active {
+            text-decoration: none;
+            background-color: #eee;
+        }
+        body#sub .nav-pills .dropdown-menu > li > a:focus,
+        body#sub .nav-pills .dropdown-menu > li > a:hover {
+            text-decoration: none;
+            background-color: #f5f5f5;
+        }
+        
+    @media screen and (max-width: 1023px){
+        .header-nav {
+            padding: 10px;
+        }
+        .banner {
+            padding: 0 10px;
+        }
+        .banner h3 {
+            font-size: 16px;
+        }
+        .banner h4 {
+            font-size: 14px;
+        }
+        .banner table th,
+        .banner table td {
+            font-size: 12px;
+        }
+        .banner .table-pricing colgroup:first-of-type {
+            width: 33%;
+        }
+        .banner ul,
+        .banner ol {
+            padding-left: 20px;
+        }
+    }
+    @media screen and (max-width: 479px) {
+        #PC_Nav {
+            display: none;
+        }
+        #SP_Nav {
+            display: block;
+        }
+    }
+    .table-striped tbody tr:nth-child(even) td, .table-striped tbody tr:nth-child(even) th {
+        background-color: #f8f8f8;
+    }
+    .table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th {
+        background-color: #ffffff;
+    }
+
+    </style>
+
+</head>
+<body id="sub" class="responsive">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <form method="post" action="./commission" id="ctl02">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="b2pB/lA6rVQ3sZtvHwc9KUDZfJi8Yj634prfJuC30Ymu9mPExXtSo1DFA5qTZODqys5FpBTUwlPt0V5tq/lZNe3R9Fk8B89sfiaqG7hKnSiHMCAK" />
+
+
+<script src="/bundles/MsAjaxJs?v=joJlHviwIanWI4aXHbUmoV5K0nk6gqQvSLFkbPMdLCI1" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83F9738F" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+
+    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" integrity="sha256-VAvG3sHdS5LqTT+5A/aeq/bZGa/Uj04xKxY8KM/w9EE=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js" integrity="sha256-VNIbBnZ4TQyYO71Ak4mHcK3vqTLYm3LIr9iBg6GRcqc=" crossorigin="anonymous"></script>
+        
+    <script src="/bundles/js/messages-en-js?v=Fl5S8HB4PrT046wj0LaFnc0KhAD33f8i6ycmLtjBpfg1"></script>
+<script src="/bundles/js/app?v=8BfeeT-GhKVgnJr1uDS1Jbs3--rjlaQSyZGrmclwudg1"></script>
+
+    
+
+    <!-- Start Content -->
+    
+    
+    <div class="first-container fluid clearfix " id="sub">
+        
+            <div class="navbar main hidden-print">
+                
+                <div class="container-960 clearfix">
+                    
+                    <div class="logo-header-container pull-left">
+                        <a href="/en-jp" class="logo-header">
+                            <img src="/common/theme/images/logo_account_h.png" alt="ビットコインの購入/取引所/販売所　bitFlyer（ビットフライヤー）" />
+                            <span class="logo-header-image">Connect to the World</span>
+                        </a>
+                        
+                    </div>
+                    
+
+                    <ul id="topnav" class="topnav pull-right">
+                    
+                        <li>
+                            <a href="/en-jp/login"><strong style="font-size: large">Log In</strong></a>
+                        </li>
+                        <li>
+                        
+                            <a href="/en-jp/account-create"><strong style="font-size: large">Create an Account</strong></a>                         
+                        
+                        </li>
+                     
+                        <li class="lang dropdown">
+                            <a class="dropdown-toggle" data-hover="dropdown">
+                                <img src="/common/theme/images/lang/en.png" alt="en">
+                            </a>
+                            <ul class="dropdown-menu">
+                                
+                                <li>
+                                    <a href="/Lang/ja-JP" title="Japanese">
+                                        <img src="//bitflyer.blob.core.windows.net/pub/common/theme/images/lang/ja.png" alt="Japanese">
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/Lang/zh-CN" title="Chinese">
+                                        <img src="//bitflyer.blob.core.windows.net/pub/common/theme/images/lang/cn.png" alt="Chinese">
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/Lang/fr/" title="français">
+                                        <img src="//bitflyer.blob.core.windows.net/pub/common/theme/images/lang/fr.png" alt="français">
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="/Lang/ko/" title="한국어">
+                                        <img src="//bitflyer.blob.core.windows.net/pub/common/theme/images/lang/ko.png" alt="한국어">
+                                    </a>
+                                </li>
+                                
+                            </ul>
+
+                        </li>
+                        
+                    </ul>
+                    
+                    <nav class="gnav-container">
+                        <ul class="gnav">
+                            
+                            <li><a href="/" class="nav">Home</a></li>
+                            
+                            <li><a href="/en-jp/commission" class="nav">Fees</a></li>
+                            <li><a href="/en-jp/faq" class="nav">Support</a></li>
+                            
+                            <li><a href="/en-jp/bitcoindigitalcurrency" class="nav">What is Bitcoin?</a></li>
+                            
+                            <li><a href="/glossary/index" class="nav">Glossary</a></li>
+                            <li><a href="/en-jp/security" class="nav">Security</a></li>
+                            
+                        </ul>
+                    </nav>
+                    
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="wrapper mosaic-line clearfix">
+            <div class="container-960 innerTB">
+                
+                <h1 class="pull-left">
+                    
+     Fees and Taxes
+    
+                </h1>
+                
+            </div>
+        </div>
+        
+    
+    <nav id="headerNav" class="header-nav">
+        <div class="container-960">
+            <div id="PC_Nav">
+                <ul class="nav nav-pills">
+                    <li role="presentation">
+                        <a href="#Fees">Fees</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#DepositCancellation">JPY Withdrawal Fee</a>
+                    </li>
+                    
+                    
+                    <li role="presentation" class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#fx-swappoint" role="button" aria-expanded="false">Lightning FX/Futures<span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li role="presentation">
+                                <a href="#fx-swappoint">Swap points</a>
+                            </li>
+                            <li role="presentation">
+                                <a href="#fx-collateral">Margins</a>
+                            </li>
+                            <li role="presentation">
+                                <a href="#fx-losscut-rate">Sell Out / Margin Call</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li role="presentation">
+                        <a href="#Taxes">Taxes</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div id="SP_Nav"></div>
+        </div>
+
+    </nav>
+    
+
+        <div class="separator bottom clear"></div>
+
+        
+        
+
+
+        <div class="banner fluid">
+            
+            <div class="container-960 innerLR">
+                
+    
+
+<section class="container">
+    <h3 id="Fees">Fees</h3>
+    <div>Opening an account with bitFlyer is FREE!</div>
+    <div class="separator"></div>
+
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget innerT">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <!-- Table row -->
+        <tbody>
+            <tr>
+                <th>Account Creation Fee</th>
+                <td colspan="3">FREE</td>
+            </tr>
+
+            <tr>
+                <th>Account Maintenance Fee</th>
+                <td colspan="3">FREE</td>
+            </tr>
+
+
+            <tr>
+                <th rowspan="4">Bitcoin Trading Fee</th>
+                <td>Bitcoin Easy Exchange</td>
+                
+                <td rowspan="2">0.01% - 0.15% <a href="#bitcoin-fees">See Details</a></td>
+                
+            </tr>
+            <tr>
+                <td>Lightning Spot (BTC/JPY)</td>
+            </tr>
+            <tr>
+                <td>Bitcoin Market</td>
+                <td rowspan="2" style="font-size: 24px;">FREE<p class="mute">(We will notify 2 weeks prior to any changes.）</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Lightning FX/Futures</td>
+            </tr>
+            <tr>
+                <th rowspan="3">Altcoin Trading Fee</th>
+                <td>Lightning Spot (ETH/BTC)</td>
+                <td rowspan="2">0.20%</td>
+            </tr>
+            <tr>
+                <td>Lightning Spot (BCH/BTC)</td>
+            </tr>
+            <tr>
+                <td>Altcoin Market</td>
+                <td style="font-size: 24px;">FREE<p class="mute">(We will notify 2 weeks prior to any changes.）</p>
+                </td>
+            </tr>
+            <tr>
+                <th>Bitcoin Transaction Fee<br />
+                    (Excluding bitWire)</th>
+                <td colspan="3">0.0004 BTC
+                </td>
+            </tr>
+            <tr>
+                <th rowspan="6">Altcoin Transaction Fee</th>
+                <td>Ether (Ethereum)</td>
+                <td>0.005 ETH</td>
+            </tr>
+            <tr>
+                <td>Ether (Ethereum Classic)</td>
+                <td>0.005 ETC</td>
+            </tr>
+            <tr>
+                <td>Litecoin</td>
+                <td>0.001 LTC</td>
+            </tr>
+            <tr>
+                <td>Bitcoin Cash</td>
+                <td>0.0002 BCH</td>
+            </tr>
+            <tr>
+                <td>Monacoin</td>
+                <td>FREE</td>
+            </tr>
+            <tr>
+                <td>Lisk</td>
+                <td>0.1 LSK</td>
+            </tr>
+            <tr>
+                <th>Unit of Transaction (BTC)</th>
+                <td colspan="3">0.00000001 BTC (=1 satoshi)<br>
+                The minimum order size is 0.001 BTC for the Bitcoin Exchange and Lightning Spot (BTC/JPY), 0.01 BTC for Lightning FX, and 0.00000001 BTC for the Bitcoin Market.</td>
+            </tr>
+            <tr>
+                <th>bitWire Fee</th>
+                <td colspan="3">FREE</td>
+            </tr>
+            <tr id="bitcoin-fees">
+                <th>Quick Deposit Fee<br />
+                    * Excludes Quick Deposits through SBI Sumishin Net Bank
+                </th>
+                <td colspan="3">324 JPY per deposit</td>
+            </tr>
+            <tr id="bitcoin-fees">
+                <th>Quick Deposit fees for SBI Sumishin Net Bank</th>
+                <td colspan="3">FREE</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+
+    <div class="separator bottom"></div>
+
+    <h3>Bitcoin Trading Fee <sup>1</sup></h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <thead>
+            <tr>
+                <th class="center">Past 30 day volume <sup>2</sup></th>
+                <th class="center">Bitcoin Easy Exchange</th>
+                <th class="center">Lightning Spot</th>
+                <th class="center">Bitcoin Market</th>
+                <th class="center">Lightning FX/Futures</th>
+            </tr>
+        </thead>
+        
+        <tbody>
+            
+            <tr>
+                <td>Less than 100,000 JPY</td>
+                <td class="center" colspan="2">0.15%</td>
+                <td class="center" style="font-size:24px;" colspan="2" rowspan="12">FREE<p class="mute"> (We will notify 2 weeks prior to any changes.）</td>
+            </tr>
+            
+            <tr>
+                <td>100,000 - Less than 200,000 JPY</td>
+                <td class="center" colspan="2">0.14%</td>
+            </tr>
+            
+            <tr>
+                <td>200,000 - Less than 500,000 JPY</td>
+                <td class="center" colspan="2">0.13%</td>
+            </tr>
+            
+            <tr>
+                <td>500,000 - Less than 1 million JPY</td>
+                <td class="center" colspan="2">0.12%</td>
+            </tr>
+            
+            <tr>
+                <td>1 million - Less than 2 million JPY</td>
+                <td class="center" colspan="2">0.11%</td>
+            </tr>
+            <tr>
+                <td>2 million - Less than 5 million JPY</td>
+                <td class="center" colspan="2">0.10%</td>
+            </tr>
+            <tr>
+                <td>5 million - Less than 10 million JPY</td>
+                <td class="center" colspan="2">0.09%</td>
+            </tr>
+            <tr>
+                <td>10 million - Less than 20 million JPY</td>
+                <td class="center" colspan="2">0.07%</td>
+            </tr>
+            <tr>
+                <td>20 million - Less than 50 million JPY</td>
+                <td class="center" colspan="2">0.05%</td>
+            </tr>
+            <tr>
+                <td>50 million - Less than 100 million JPY</td>
+                <td class="center" colspan="2">0.03%</td>
+            </tr>
+            
+            <tr>
+                <td>100 million - Less than 500 million JPY</td>
+                <td class="center" colspan="2">0.02%</td>
+            </tr>
+            
+            <tr>
+                <td>At least 500 million JPY <sup>3</sup></td>
+                <td class="center" colspan="2">0.01%</td>
+            </tr>
+            
+        </tbody>
+
+        
+    </table>
+    <p><sup>1</sup> Your Bitcoin trading fee rate is calculated daily between 0:00 and 00:10 AM.</p>
+    <p><sup>2</sup> Measured total trade volume includes trades from Bitcoin Market, Bitcoin Easy Exchange, Lightning Spot and Lightning FX/Futures markets.</p>
+    <p><sup>3</sup> Fees may be negotiated based on volume and trade frequency.</p>
+
+    <div class="separator"></div>
+
+    <h3 id="DepositCancellation">Japanese Yen Withdrawal Fee</h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead>
+            <tr>
+                <th class="center heading"></th>
+                <th class="center">
+                    <span class="plan innerB">Up to JPY 30,000</span>
+                </th>
+                <th class="center">
+                    <span class="plan innerB">JPY 30,000 and Above</span>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>SMBC Account Holders</th>
+                <td class="center">216 JPY (Incl. tax)</td>
+                <td class="center">432 JPY (Incl. tax)</td>
+            </tr>
+            <tr>
+                <th>Non SMBC Account Holders</th>
+                <td class="center">540 JPY (Incl. tax)</td>
+                <td class="center">756 JPY (Incl. tax)</td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="separator"></div>
+
+    <h3 id="RealtimeFund">Real-time Transfer Fee</h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead>
+            <tr>
+                <th class="center heading"></th>
+                <th class="center">
+                    <span class="plan innerB">Up to JPY 30,000</span>
+                </th>
+                <th class="center">
+                    <span class="plan innerB">JPY 30,000 and Above</span>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Withdrawal</th>
+                <td class="center">216 JPY (Incl. tax)</td>
+                <td class="center">432 JPY (Incl. tax)</td>
+            </tr>
+            <tr>
+                <th>Deposit</th>
+                <td class="center" colspan="2">324 JPY (Incl. tax)</td>
+                
+            </tr>
+        </tbody>
+    </table>
+    <div class="separator"></div>
+
+    <h3 id="fx-swappoint">Lightning FX/Futures Swap points</h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead>
+            <tr>
+                <th class="center">Position</th>
+                <th class="center">Swap point</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Buy position</th>
+                <td>0.04% payment (per day)</td>
+            </tr>
+            <tr>
+                <th>Sell position</th>
+                <td>0.04% payment (per day)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="separator"></div>
+
+    <h3 id="fx-collateral">Lightning FX/Futures Margins</h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <thead>
+            <tr>
+                <th class="center">Margin rate</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="center">6.67% (15x Leverage) - 100% (1x Leverage)</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>For margin calculation, please see <a href="https://lightning.bitflyer.com/about-fx?lang=en#Rule" target="_blank">About Lightning FX</a> and <a href="https://lightning.bitflyer.com/about-futures?lang=en#Rule" target="_blank">About Lightning Futures</a>. For additional details, please see <a href="https://lightning.bitflyer.com/docs/fx?lang=en" target="_blank">Lightning FX User Guide</a> and <a href="https://lightning.bitflyer.com/docs/futures?lang=en" target="_blank">Lightning Futures User Guide</a>.</p>
+
+    <div class="separator"></div>
+
+    <h3>Lightning FX SFD (Swap For Difference)</h3>
+    <p>When the price disparity between Lightning FX and Lightning Spot (BTC/JPY) reaches at least 5%, a Lightning FX SFD occurs at the time of execution and is applied when the position is settled. However, it will not be granted to settlement orders.</p>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead>
+            <tr>
+                <th class="center">Type of Execution</th>
+                <th class="center">New Order</th>
+                <th class="center">Settlement Order</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>The execution increasing price disparity</th>
+                <td class="center">Pays SFD</td>
+                <td class="center">Pays SFD</td>
+            </tr>
+            <tr>
+                <th>The execution reducing price disparity</th>
+                <td class="center">Is granted SFD</td>
+                <td class="center">No SFD</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="separator"></div>
+
+    <p>Price Disparity is calculated as follows.<br />
+    Price Disparity (%) = [Last Lightning FX trade price ÷ Last Lightning Spot (BTC/JPY) trade price - 1] x 100</p>
+    <div class="separator"></div>
+    <p>SFD is calculated as follows.<br />
+    SFD (JPY) = execution amount x Lightning FX trade price x SFD rate</p>
+    <div class="separator"></div>
+    <p>The SFD rate is determined as follows.</p>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead class="center">
+            <tr>
+                <th>Price Disparity</th><th>SFD Rate</th>
+            </tr>
+        </thead>
+        <tbody class="left">
+            <tr>
+                <td>At least 5% but less than 10%</td><td>0.25% of the settlement</td>
+            </tr>
+            <tr>
+                <td>At least 10% but less than 15%</td><td>0.50% of the settlement</td>
+            </tr>
+            <tr>
+                <td>At least 15% but less than 20%</td><td>1.00% of the settlement</td>
+            </tr>
+            <tr>
+                <td>At least 20%</td><td>2.00% of the settlement</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="separator"></div>
+    <h3 id="fx-losscut-rate">Lightning FX/Futures Sell Out / Margin Call</h3>
+    <table class="table table-white table-bordered table-pricing table-striped table-vertical-center widget">
+        <colgroup></colgroup>
+        <colgroup></colgroup>
+        <thead>
+            <tr>
+                <th class="center">Status</th>
+                <th class="center">Explanation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Margin Call</th>
+                <td>This refers to a state where the maintenance margin rate falls below 80%.
+                    If the status becomes "Margin Call," the following "Margin Call rules" will apply.
+                </td>
+            </tr>
+            <tr>
+                <th>Sell Out</th>
+                <td>This refers to a state where the maintenance margin rate falls below 50%.
+                    If the status becomes "Sell Out," the following "Sell Out Rules" will apply.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4 id="fx-margin-call-rule">Margin Call Rules</h4>
+    <p>
+        If the maintenance margin rate falls below the level prescribed by bitFlyer, Margin Call Rules apply.
+        However, if the market has changed abruptly, the Sell Out Rules is applied instead, and a loss in excess of the margin amount may occur.
+        In this case, the customer will need to add funds promptly to resolve the lack of funds.
+        Margin Call Rules are as follows:
+    </p>
+    <ol>
+        <li>All outstanding new orders will be revoked (cancelled).</li>
+        <li>Please deposit additional margin funds until 17:00 of the third bank business day, so that the maintenance margin rate is at a level greater than that set by bitFlyer.
+            If the maintenance margin rate is still below the level prescribed by bitFlyer at 17:00 on the third bank business day after it fell below the prescribed level, the following Sell Out Rules will apply.
+        </li>
+    </ol>
+    <h4 id="fx-losscut-rule">Sell Out Rules</h4>
+    <p>
+        If the market changes suddenly, even if Sell Out Rules are applied, there may be a loss in excess of the amount of margin.
+        In this case, the customer will need to add funds promptly to resolve the lack of funds.
+    </p>
+    <ul>
+        <li>If you cannot deposit more than the shortage amount, bitFlyer may conduct transfer payments from any of your bitFlyer accounts to the Lightning FX/Futures account at its discretion.
+            In this case, if necessary to resolve the lack of funds, we may at our discretion cancel the withdrawal transfer instructions from your bitFlyer account or bitcoin transfer instructions,
+            cancel orders, dispose of virtual currency or other assets which are entrusted to us there is that customers, or dispose of customer reimbursements or monies deposited with bitFlyer to pay the debts to our company.
+        </li>
+    </ul>
+    <p>The Sell Out Rules are as follows:</p>
+    <ol>
+        <li>All outstanding new orders will be revoked (cancelled).</li>
+        <li>If as a result of (1), the maintenance margin rate is still below the level prescribed by bitFlyer, we will close all of your positions on Lightning FX/Futures (Sell Out order) to make a settlement.</li>
+    </ol>
+    <ul>
+        <li>Sell Out orders involve market orders on all positions for settlement purposes.</li>
+        <li>If Sell Out Rules are applied, trade may not be resumed until settlement orders on all positions are finalized.</li>
+        <li>If funds are still insufficient, bitcoin transfers to external bitcoin addresses, deposit cancellations, and bitWire will be stopped.</li>
+    </ul>
+
+    <div class="separator"></div>
+
+    <div>Please note that available services on the website as well as weekly Bitcoin and deposit limits will differ based on your <a href="/account-class">Account Class</a>.</div>
+
+    <br />
+
+    <h3 id="Taxes">Information on domestic tax treatment for virtual currencies</h3>
+    <p>
+        For more information on tax treatments for Japanese domestic virtual currency transactions, please consult your local tax office or qualified tax advisor for further information.
+        </p>
+    <p>
+        The Japanese tax authorities' current stance on virtual currency is summarized below. However, this may change at any time. bitFlyer is not responsible for any tax declarations, tax burdens, or damages incurred by customers or third parties.
+    </p>
+    <ul>
+        <li>Capital gains resulting from trading activity in virtual currencies are subject to income tax.
+        </li>
+        <li>Purchasing goods and services in virtual currency is subject to consumption tax. The displayed prices of goods and services on our website include consumption tax.
+        </li>
+    </ul>
+
+</section>
+
+
+    
+
+    <script>
+    /* ページ内リンクにスクロール */
+    $(function () {
+        var $w = $(window),
+            $headerNav = $('#headerNav'),
+            $anchor = $headerNav.find('a'),
+            $spacer = $('<div />'),
+            headerNavTop = $headerNav.offset().top,
+            headerNavHeight = $headerNav.outerHeight(),
+            iOSTabBarHeight = 49;
+
+        var $PC_Nav = $('#PC_Nav'),
+            $SP_Nav = $('#SP_Nav'),
+            $_select = $('<select />').addClass('form-control');
+        
+        function scrollExe(hash) {
+
+            var targetTop = 0;
+
+            if (hash.length === 0) {
+                return false;
+            }
+
+            targetTop = $(hash).offset().top - $headerNav.outerHeight() * 1.2;
+
+            if (navigator.userAgent.indexOf('iPhone') > -1){
+                targetTop -= iOSTabBarHeight;
+            }
+
+            $('body, html').animate({
+                "scrollTop": (targetTop)
+            }, 'fast');
+        }
+
+        //bootstrap の dropdown とのバッティングを回避するために、ターゲットを data() 化する
+        $anchor.each(function (_, v) {
+            $(v).data('href', $(v).attr('href'));
+        });
+        $headerNav.find('.dropdown').children('a').attr('href', '#');
+
+        $headerNav.before($spacer);
+
+        $w.scroll(function () {
+
+            if ($w.scrollTop() >= headerNavTop) {
+                $headerNav.addClass('pos-fixed'),
+                $spacer.height(headerNavHeight);
+            } else {
+                //$headerNav.removeClass('pos-fixed');
+                $headerNav.removeClass('pos-fixed'),
+                $spacer.height(0);
+            }
+
+        });
+
+        $w.load(function () {
+
+            var target = window.location.hash;
+
+            scrollExe(target);
+
+            return false;
+
+        });
+
+        $anchor.click(function () {
+
+            var $this = $(this),
+                href = $this.data('href'),
+                targetTop = 0;
+
+            if (!$this.parent().hasClass('dropdown') || $this.parent().hasClass('open')) {
+                scrollExe(href);
+                location.href = href;
+            }
+
+        });
+
+        //SP用プルダウン
+
+        function getChildNav($lis) {
+            var parentText = "",
+                pt = "";
+            $lis.each(function (_,li) {
+                var $li = $(li),
+                    $_potion;
+                if ($li.parent().parent().hasClass('dropdown') === false) {
+                    parentText = pt = "";
+                }
+                if ($li.hasClass('dropdown') && $li.find('li').length > 0) {
+                    parentText = $li.children('a').text();
+                } else {
+                    pt = (parentText !== "") ? parentText + " - " : "";
+                    $_option = $('<option />').val($li.children('a').attr('href'));
+                    $_option.text(pt + $li.children('a').text());
+                    $_select.append($_option);
+                }
+            });
+        }
+        getChildNav( $PC_Nav.find('li'))
+        $SP_Nav.append($_select);
+        $_select.change(function () {
+            scrollExe( $(this).val());
+        });
+
+    });
+
+</script>
+
+
+                </div>
+            </div>
+            
+            <div class="separator bottom clear"></div>
+            
+            <div id="page-top"><a href="#wrap">TOP</a></div>
+            
+            <div class="separator bottom clear"></div>
+            
+
+            <script src="/Scripts/landingWithHeader.js"></script>
+            <script>
+                $(function () {
+                    var showFlag = false;
+                    var topBtn = $('#page-top');
+                    topBtn.css({ "bottom": "-100px", "zIndex": 100 });
+                    var showFlag = false;
+                    var $topnav = $('#topnav'),
+                        $topnavOrig = $('#topnavOrig');
+
+                    //ログイン＋新規アカウントをヘッダーに表示
+                    //$topnav.prepend($topnavOrig.children('li'));
+
+                    //スクロールが100に達したらボタン表示
+                    $(window).scroll(function () {
+                        if ($(this).scrollTop() > 100) {
+                            if (showFlag == false) {
+                                showFlag = true;
+                                topBtn.stop().animate({ 'bottom': '20px' }, 200);
+                            }
+                        } else {
+                            if (showFlag) {
+                                showFlag = false;
+                                topBtn.stop().animate({ 'bottom': '-100px' }, 200);
+                            }
+                        }
+                    });
+                    //スクロールしてトップ
+                    topBtn.click(function () {
+                        $('body,html').animate({
+                            scrollTop: 0
+                        }, 500);
+                        return false;
+                    });
+
+                    //モバイルサイズで"pc_only"のタグを消去
+                    if ($(window).innerWidth() < 992) {
+                        $('.pc_only').remove();
+                    }
+
+                    (function (w, BF) {
+
+                        BF.url = {
+                            "getParams": function () {
+
+                                var r = new Object();
+                                var params = w.location.search.substr(1).split('&');
+
+                                for (var i = params.length - 1; i >= 0; i--) {
+                                    var split = params[i].split('=');
+                                    r[split[0]] = split[1];
+                                };
+
+                                return r;
+                            },
+                            "getHash": function () {
+
+                                return w.location.hash.substr(1);
+
+                            }
+                        }
+
+                        var $w = $(w),
+                            $articles = $('.articles'),
+                            $articleMain = $('.article-main'),
+                            $navMain = $articles.find('.nav-main'),
+                            $navPagination = $articles.find('.nav-pagination'),
+                            $navs = $articles.find('.nav-main, .nav-pagination'),
+                            $btnCollapse = $articles.find('.btn-collapse');
+                        var DEFAULT_NAV_TOP = $navMain.css('top');
+                        var page = BF.url.getParams()['page'] || BF.url.getHash() || "ForwardPreface";
+
+                        //.articles クラスが無い画面では以下処理しない
+                        if ($articles.length === 0) {
+                            return false;
+                        }
+                        //ソーシャルボタン表示
+                        (function () {
+
+                            var PROTOCOL = "https://",
+                                DOMAIN = "bitflyer.jp",
+                                PATHNAME = location.pathname,
+                                LANG = $('html').attr('lang'),
+                                title = $('title').text();
+                            var $body = $('body'),
+                                $headerMain = $('.header-main:not(.withoutSocialButtons), .social-toolbar'),
+                                $socialBtnsContainer = $('.socialBtnsContainer'),
+                                $btnFacebook = $('<div />', {
+                                    "data-href": PROTOCOL + DOMAIN + PATHNAME,
+                                    "data-layout": "button_count",
+                                    "data-action": "like",
+                                    "data-show-faces": "false",
+                                    "data-share": "true",
+                                    "data-lang": LANG
+                                }).addClass('fb-like'),
+                                $btnTwitter = $('<a />', {
+                                    "href": "https://twitter.com/share",
+                                    "data-via": "bitFlyer",
+                                    "data-lang": LANG
+                                }).addClass('twitter-share-button').text('ツイート'),
+                                $btnHatena = (LANG === "ja") ? $('<a />', {
+                                    "href": "http://b.hatena.ne.jp/entry/" + PROTOCOL + DOMAIN + PATHNAME,
+                                    "data-hatena-bookmark-title": title,
+                                    "data-hatena-bookmark-layout": "simple-balloon",
+                                    "title": "このエントリーをはてなブックマークに追加"
+                                }).addClass('hatena-bookmark-button')
+                                    .append($('<img />', {
+                                        "src": "https://b.st-hatena.com/images/entry-button/button-only@2x.png",
+                                        "alt": "このエントリーをはてなブックマークに追加"
+                                    }).css('border', 'none').width(20).height(20)
+                                    ) : null,
+                                $socialButtons = $('<div />').addClass('socialButtons').append($btnFacebook, $btnTwitter, $btnHatena);
+
+                            $headerMain.after($socialButtons),
+                                $socialBtnsContainer.append($socialButtons);
+
+
+                        })();
+
+                        if ($navMain.length === 0 && $navPagination.length === 0) {
+                            return false;
+                        }
+
+                        //サイドバーナビゲーションをスクロール固定にする
+                        function setNavPosition() {
+                            if ($articleMain.length === 0) {
+                                return false;
+                            }
+                            if ($w.scrollTop() > $articleMain.offset().top && $w.scrollTop() + $navMain.outerHeight() < $articleMain.offset().top + $articleMain.outerHeight()) {
+                                $navMain.css('top', ($w.scrollTop() - $articleMain.offset().top));
+                            } else if ($w.scrollTop() === $articleMain.offset().top) {
+                                $navMain.css('top', 0);
+                            } else {
+                                return false;
+                            }
+                        }
+
+                        $w.load(setNavPosition)
+                            .scroll(setNavPosition);
+
+                        //ナビゲーションのカレントページ色を変える
+                        $navs.find('[href="?page=' + page + '"]').addClass('active').attr('disabled', 'disabled'),
+                            $navs.find('[href="#' + page + '"]').addClass('active').attr('disabled', 'disabled'),
+                            $navs.find('a').click(function () { //画面内をhref="#"でスクロール遷移する場合
+                                var $this = $(this),
+                                    re = /^\#\w+/;
+                                if (re.test($this.attr('href'))) {
+                                    $navs.find('a').removeClass('active').removeAttr('disabled'),
+                                        $this.addClass('active').attr('disabled', 'disabled');
+                                }
+                            });
+                        //IEでリンク遷移イベントを予期せず無効にしてしまうので一旦コメントアウト
+                        /*$navs.find('a[disabled="disabled"]').click(function (ev) {
+                            ev.preventDefault();
+                        } );*/
+
+                    })(window, window.BF || (window.BF = {}));
+
+                });
+            </script>
+            <div id="fb-root"></div>
+            <script>
+                (function (d, s, id) {
+
+                    var LANG_COUNTRY = (function (lang) {
+
+                        var language = {
+                            "ja": "ja_JP",
+                            "en": "en_US"
+                        }
+                        return language[lang];
+
+                    })($('html').attr('lang'));
+                    var js, fjs = d.getElementsByTagName(s)[0];
+
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/" + LANG_COUNTRY + "/sdk.js#xfbml=1&appId=734280663304410&version=v2.0";
+                    fjs.parentNode.insertBefore(js, fjs);
+
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+            <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    
+    <div class="mosaic-line mosaic-line-2">
+    </div>
+    
+    <footer class="main-footer innerTB container " id="footerarea">
+        
+            
+
+<div class="innerT container col-lg-10 col-lg-offset-1"> 
+
+
+
+    <div class="brand-container pull-left container">
+        <div class="logo-container pull-left">
+            <a href="/" class="logo-footer">
+                
+                    <img src="/common/theme/images/logo_h.png" alt="ビットコインの購入/取引所/販売所　bitFlyer（ビットフライヤー）">
+                
+            </a>
+            <p>Connect to the World</p>
+            <p class="muted"><small></small></p>
+        </div>
+        <div class="jba-container pull-left">
+            <a href="http://jba-web.jp/" target="_blank" title="Japan Blockchain Association (JBA)">
+                
+                <img src="//bitflyer.blob.core.windows.net/pub/img/logo_jba_p.png" alt="Japan Blockchain Association (JBA)" width="60" />
+                
+            </a>
+        </div>
+        <div class="digicert-container pull-left">
+            
+    <!-- Begin DigiCert site seal HTML and JavaScript -->
+    <div id="DigiCertClickID_2wQ58bQ8" data-language="en" style="display:inline-block;">
+        <a href="https://www.digicert.com/ssl-certificate.htm">SSL Certificates</a>
+    </div>
+    <script type="text/javascript">
+        var __dcid = __dcid || []; __dcid.push(["DigiCertClickID_2wQ58bQ8", "13", "s", "black", "2wQ58bQ8"]); (function () { var cid = document.createElement("script"); cid.async = true; cid.src = "//seal.digicert.com/seals/cascade/seal.min.js"; var s = document.getElementsByTagName("script"); var ls = s[(s.length - 1)]; ls.parentNode.insertBefore(cid, ls.nextSibling); }());
+    </script>
+    <!-- End DigiCert site seal HTML and JavaScript -->
+
+        </div>
+        
+    </div>
+
+    <div class="footer-nav-wrapper pull-left row">
+
+        <nav class="footer-nav col-md-footer clearfix">
+            <span class="overview_title"><strong>Service</strong></span>
+            <div class="footer-nav-container">
+                <ul class="footer clearfix">
+                    <li><a href="/en-jp/ex/price"><span>Bitcoin Market</span></a></li>
+                    
+                    <li class="footer__altcoin-cap pc_only"><span>AltCoin Market</span></li>
+                    <li class="footer__altcoin"><a href="/en-jp/ex/ethprice"><span>Ethereum Market</span></a></li>
+                    <li class="footer__altcoin"><a href="/en-jp/ex/etcprice"><span>Ethereum Classic Market</span></a></li>
+                    <li class="footer__altcoin"><a href="/en-jp/ex/ltcprice"><span>Litecoin Market</span></a></li>
+                    <li class="footer__altcoin"><a href="/en-jp/ex/bchprice"><span>Bitcoin Cash Market</span></a></li>
+                    <li class="footer__altcoin"><a href="/en-jp/ex/monaprice"><span>Monacoin Market</span></a></li>
+                    <li class="footer__altcoin footer__altcoin--end"><a href="/en-jp/ex/lskprice"><span>Lisk Market</span></a></li>
+                    <li class=""><a href="/en-jp/ex/simpleex"><span>Easy Exchange</span></a></li>
+                    
+                    <li><a href="https://lightning.bitflyer.com/?lang=en" target="_blank"><span>Pro Exchange</span></a></li>
+                    <li><a href="/en/miyabi-blockchain"><span>What is blockchain?</span></a></li>
+                            
+                    <li class="pc_only"><a href="https://chainflyer.bitflyer.com/lang/en-us/" target="_blank"><span>Blockchain Explorer </span></a></li>
+                    <li><a href="/en-jp/blockchain-lab"><span>Blockchain LAB</span></a></li>
+                    <li><a href="http://fundflyer.bitflyer.com/en/" target="_blank"><span>Crowdfunding</span></a></li>
+                    
+                    <li><a href="/en-jp/API"><span>API</span></a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="footer-nav col-md-footer clearfix">
+            <span class="overview_title"><strong>Information</strong></span>
+            <div class="footer-nav-container">
+                <ul class="footer clearfix">
+                    <li><a href="/en-jp/bitcoindigitalcurrency"><span>What is Bitcoin?</span></a></li>
+                    <li><a href="/en-jp/ethereum"><span>What is Ethereum?</span></a></li>
+                    <li><a href="/en-jp/miyabi-blockchain"><span>What is blockchain?</span></a></li>
+
+
+
+                    <li><a href="/en-jp/virtual-currency"><span>What is virtual currency?</span></a></li>
+                    <li><a href="/en-jp/glossary"><span>Glossary</span></a></li>
+                
+                    
+                    <li><a href="/en-jp/bitcoin-chart"><span>​Bitcoin Price Chart</span></a></li>
+                    
+
+                    <li><a href="/en-jp/digital-currency-tax/capital-gain"><span>The Relationship of Capital Gains from Virtual Currencies, Income Tax, and Corporate Tax</span></a></li>
+                    <li><a href="/en-jp/virtual-currency-act" ><span>The Virtual Currency Act explained</span></a></li>
+
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="footer-nav col-md-footer clearfix">
+            <span class="overview_title"><strong>Community</strong></span>
+            <div class="footer-nav-container">
+                <ul class="footer">
+                    
+                    <li><a href="https://www.facebook.com/bitflyer" rel="nofollow" target="_blank"><span><img src="/common/theme/images/Facebook%20alt%201.png" alt="bitFlyer on Facebook" class="sns">Facebook</span></a></li>
+                    <li><a href="https://twitter.com/bitFlyer" rel="nofollow" target="_blank"><span><img src="/common/theme/images/Twitter%20alt%202.png" alt="bitFlyer on Twitter" class="sns">Twitter</span></a></li>
+                    <li><a href="/en-jp/inthenews"><span>In the News</span></a></li>
+                    <li><a href="/en-jp/model"><span>bitFlyer Spokesmodel Profile</span></a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="footer-nav col-md-footer clearfix">
+            <span class="overview_title"><strong>Support</strong></span>
+            <div class="footer-nav-container">
+                <ul class="footer">
+                    <li><a href="/en-jp/faq"><span>FAQ/Contact</span></a></li>
+                    <li><a href="/en-jp/commission"><span>Fees and Taxes</span></a></li>
+                    <li><a href="/en-jp/prices" ><span>Closing Prices and SQ</span></a></li>
+                    <li><a href="/en-jp/account-class"><span>Account Class</span></a></li>
+                    
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="footer-nav col-md-footer clearfix">
+            <span class="overview_title"><strong>About Us</strong></span>
+            <div class="footer-nav-container">
+                <ul class="footer">
+                    <li><a href="/en-jp/company"><span>Company Summary</span></a></li>
+                    <li><a href="/en-jp/directorprofiles"><span>Director Profiles</span></a></li>
+                    <li><a href="/en-jp/usepolicy"><span>Terms of Use</span></a></li>
+                
+                    <li><a href="/en-jp/privacy"><span>Privacy Policy</span></a></li>
+                    <li><a href="/en-jp/risk"><span>Risks of Using Virtual Currency</span></a></li>
+                
+                    <li><a href="/en-jp/explanation-virtual-currency-regulation"><span>Written Explanation Required by Virtual Currency Exchange Regulations</span></a></li>
+                    <li><a href="/en-jp/security"><span>Security</span></a></li>
+                    <li><a href="/recruit"><span>Careers</span></a></li>
+                </ul>
+                
+            </div>
+        </nav>
+    </div>
+
+
+</div>
+
+
+    <nav class="language-switcher">
+        <ul class="list list-inline">
+            <li>
+                <a href="/lang/ja-jp">日本語</a>
+            </li>
+            <li>
+                <a href="/lang/en-us">English</a>
+            </li>
+            <li>
+                <a href="/lang/zh-cn">中文（简体）</a>
+            </li>
+            <li>
+                <a href="/lang/fr">français</a>
+            </li>
+            <li>
+                <a href="/lang/ko">한국어</a>
+            </li>
+        </ul>
+    </nav>
+
+        
+    </footer>
+    <div id="js-modal-placeholder"></div>
+    </form>
+
+    
+    <div class="bottom-bar ">
+        &copy; Copyright 2018 bitFlyer, Inc. All Rights Reserved
+    </div>
+    
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-49818407-2', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'displayfeatures');
+    ga('set', 'dimension1', '');
+    ga('send', 'pageview');
+    
+</script>
+
+    
+
+<!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '485376988290041');
+        fbq('track', "PageView");
+        fbq('track', 'ViewContent');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=485376988290041&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    <!-- Google Remarketing -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 938860231;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/938860231/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <!-- End Google Remarketing -->
+    <!-- yahoo -->
+    <script type="text/javascript" language="javascript">
+        /* <![CDATA[ */
+        var yahoo_retargeting_id = '1F356HJ636';
+        var yahoo_retargeting_label = '';
+        /* ]]> */
+    </script>
+    <script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+    <!-- End yahoo -->
+    <script type="text/javascript">
+        (function (w, d, s) {
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s);
+            j.async = true; j.src = '//dmp.im-apps.net/js/11369/0001/itm.js';
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script');
+    </script>
+
+    <script src="/common/theme/scripts/plugins/bootstrap-hover-dorpdown/twitter-bootstrap-hover-dropdown.min.js"></script>
+    <script src="/scripts/scheck.js"></script>
+</body>
+</html>
