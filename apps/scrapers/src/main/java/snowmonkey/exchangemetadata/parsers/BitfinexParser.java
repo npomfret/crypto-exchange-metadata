@@ -69,7 +69,7 @@ public class BitfinexParser implements Parser {
                     ccy = smallFeeText.split(" ")[1];
 
 
-                if(currencyName.equals("Bank wire")) {
+                if (currencyName.equals("Bank wire")) {
                     Fee fiatFee = Fee.parse(feeText.split(" ")[0]);//todo: check this is correct
                     depositFees.addFee("USD", fiatFee);
                     depositFees.addFee("GBP", fiatFee);
@@ -93,7 +93,8 @@ public class BitfinexParser implements Parser {
                 String ccy;
                 if (feeText.equals("FREE")) {
                     fee = Fee.ZERO_FIXED;
-                    ccy = symbolMapping.currencyNameToNativeSymbol(currencyName);
+
+                    ccy = currencyName;//todo: fix this (use the api)
                 } else {
                     fee = Fee.parse(feeText);
                     ccy = feeText.split(" ")[1];
@@ -101,21 +102,20 @@ public class BitfinexParser implements Parser {
 
                 //todo: replace all this and get fees from private api: https://api.bitfinex.com/v:version/account_fees
 
-                if(currencyName.equals("TetherUSD (Omni)"))
+                if (currencyName.equals("TetherUSD (Omni)"))
                     ccy = "TUSD";
-                if(currencyName.equals("TetherUSE (Ethereum ERC20)"))
+                if (currencyName.equals("TetherUSE (Ethereum ERC20)"))
                     ccy = "TUSE";
-                if(currencyName.equals("TetherEUE (Ethereum ERC20)"))
+                if (currencyName.equals("TetherEUE (Ethereum ERC20)"))
                     ccy = "TEUE";
 
-                if(currencyName.equals("Bank wire") || currencyName.startsWith("Express bank wire")) {
+                if (currencyName.equals("Bank wire") || currencyName.startsWith("Express bank wire")) {
                     Fee fiatFee = Fee.parse(feeText.split(" ")[0]);//todo: check this is correct
-                    String symbol = symbolMapping.currencyNameToNativeSymbol(currencyName);
 
-                    withdrawalFees.addFee("USD", symbol, fiatFee);
-                    withdrawalFees.addFee("GBP", symbol, fiatFee);
-                    withdrawalFees.addFee("JPY", symbol, fiatFee);
-                    withdrawalFees.addFee("EUR", symbol, fiatFee);
+                    withdrawalFees.addFee("USD", fiatFee);
+                    withdrawalFees.addFee("GBP", fiatFee);
+                    withdrawalFees.addFee("JPY", fiatFee);
+                    withdrawalFees.addFee("EUR", fiatFee);
                 } else {
                     withdrawalFees.addFee(ccy, fee);
                 }

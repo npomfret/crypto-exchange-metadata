@@ -40,7 +40,7 @@
   <link rel="stylesheet" media="screen" href="/assets/base-766835e906526f0a59a3de42ab9d54bf0fd0cd721a0575c40a9a54356185f969.css" />
   <script src="/assets/application-ba2c9daab162c6b9a2d3761e83cb5927e1ad57a5e8155ec1bbea691215d9199c.js"></script>
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="glfWAdH5F45V0XcGl0pLpBLquDLuCX94IUkWttt6qbtm5s1nzTrm0EgbdKG9Hoabz3lk5XB898/FsQwQAKtFlQ==" />
+<meta name="csrf-token" content="QTH4WP6+NZiknIUk1YPeqWMY189qyDP+Y1r/3tjMzsr/opGBz1LJaM0FB0DAtYrMmTQxWESeB065gR6W1uhmsg==" />
   <meta name="api_url" content="api.bitfinex.com">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   
@@ -1124,7 +1124,7 @@
             FREE
           </td>
             <td class="bfx-green-text col-info">
-              2.2882 RDN
+              1.5052 RDN
             </td>
           <td>&nbsp;</td>
         </tr>
@@ -1284,7 +1284,7 @@
             FREE
           </td>
             <td class="bfx-green-text col-info">
-              0.0011275 MKR
+              0.0016771 MKR
             </td>
           <td>&nbsp;</td>
         </tr>
@@ -1304,7 +1304,7 @@
             FREE
           </td>
             <td class="bfx-green-text col-info">
-              1.4415 KNC
+              0.78957 KNC
             </td>
           <td>&nbsp;</td>
         </tr>
@@ -1614,7 +1614,7 @@
             FREE
           </td>
             <td class="bfx-green-text col-info">
-              10.801 XRA
+              13.514 XRA
             </td>
           <td>&nbsp;</td>
         </tr>
@@ -1644,7 +1644,7 @@
             FREE
           </td>
             <td class="bfx-green-text col-info">
-              5.1924 NIO
+              12.858 NIO
             </td>
           <td>&nbsp;</td>
         </tr>
@@ -2002,7 +2002,7 @@
         <tr>
           <td class="col-info"><span class="translation_missing" title="translation missing: en.Raiden">Raiden</span></td>
           <td class="bfx-green-text col-info">
-              2.2882 RDN
+              1.5052 RDN
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2114,7 +2114,7 @@
         <tr>
           <td class="col-info"><span class="translation_missing" title="translation missing: en.Maker">Maker</span></td>
           <td class="bfx-green-text col-info">
-              0.0011275 MKR
+              0.0016771 MKR
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2128,7 +2128,7 @@
         <tr>
           <td class="col-info"><span class="translation_missing" title="translation missing: en.Kyber">Kyber</span></td>
           <td class="bfx-green-text col-info">
-              1.4415 KNC
+              0.78957 KNC
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2345,7 +2345,7 @@
         <tr>
           <td class="col-info"><span class="translation_missing" title="translation missing: en.Xriba">Xriba</span></td>
           <td class="bfx-green-text col-info">
-              10.801 XRA
+              13.514 XRA
           </td>
           <td>&nbsp;</td>
         </tr>
@@ -2366,7 +2366,7 @@
         <tr>
           <td class="col-info"><span class="translation_missing" title="translation missing: en.Autonio">Autonio</span></td>
           <td class="bfx-green-text col-info">
-              5.1924 NIO
+              12.858 NIO
           </td>
           <td>&nbsp;</td>
         </tr>
