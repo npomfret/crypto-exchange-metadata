@@ -64,14 +64,14 @@ async function go() {
         const output = [];
 
         Object.values(markets).forEach((market) => {
-            const {id, symbol, base, quote, baseId, quoteId} = market;
+            let {id, symbol, base, quote} = market;
 
             const baseCurrency = currenciesBySymbol[base] ? currenciesBySymbol[base].name : base;
             const quoteCurrency = currenciesBySymbol[quote] ? currenciesBySymbol[quote].name : quote;
 
             const ccxt = {symbol, base, quote};
 
-            output.push({id, ccxt, baseId, quoteId, baseCurrency, quoteCurrency})
+            output.push({id, ccxt, baseCurrency, quoteCurrency})
         });
 
         output.sort((a, b) => a.id.localeCompare(b.id));
